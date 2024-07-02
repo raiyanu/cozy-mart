@@ -1,0 +1,145 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  position: relative;
+}
+
+.header h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #333;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  position: absolute;
+  right: 2rem;
+  top: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  transition: all 400ms ease;
+}
+
+.navigation ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-direction: column;
+}
+
+.navigation ul li {
+  list-style: none;
+  width: 100%;
+  min-width: 50px;
+  margin: auto;
+  padding: 0.5rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.navigation ul li a {
+  font-weight: 300;
+  text-decoration: none;
+  color: black;
+  text-anchor: middle;
+  border-left: 2px solid transparent;
+  padding-left: 5px;
+}
+
+.navigation ul li:hover a,
+.navigation ul li a.active {
+  font-weight: 500;
+  border-left: 2px solid black;
+}
+
+.burger {
+  padding: 5px 7px;
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.6);
+  font-weight: 900;
+  user-select: none;
+}
+
+@media (max-width: 768px) {
+  .navigation {
+    visibility: hidden;
+    transform: translateY(-20px);
+    opacity: 0;
+    width: 220px;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 0.5rem;
+  }
+
+  .navigation ul {
+    align-items: flex-start;
+    gap: 5px;
+    width: 100%;
+  }
+}
+
+.open {
+  visibility: visible;
+  transform: translateY(0);
+  height: auto;
+  opacity: 1;
+}
+
+@media (min-width: 768px) {
+  .burger {
+    display: none !important;
+  }
+
+  .navigation {
+    display: flex;
+    visibility: visible;
+    transform: translateY(0);
+    opacity: 1;
+    position: relative;
+    border: none;
+    flex-direction: row;
+    gap: 25px;
+  }
+
+  .navigation ul {
+    flex-direction: row;
+    justify-content: start;
+    gap: 15px;
+  }
+
+  .navigation ul li {
+    margin: 0;
+    width: auto;
+    padding: 0;
+  }
+
+  .navigation ul li a {
+    text-align: start;
+    padding-left: 0;
+    border-left: none;
+    border-bottom: 2px solid transparent;
+  }
+
+  .navigation ul li a.active,
+  .navigation ul li:hover a {
+    border-bottom: 2px solid black;
+  }
+  .navigation ul li:hover a,
+  .navigation ul li a.active {
+    border-left: none;
+  }
+}
+
+.actionButton {
+  cursor: pointer;
+  justify-content: space-evenly !important;
+  align-items: center;
+  text-align: center;
+}

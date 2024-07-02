@@ -1,0 +1,16 @@
+.minimal {
+  background-color: transparent;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+}
+.minimal:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.flare {
+  background-color: black;
+  border: none;
+  color: whitesmoke;
+}
+.flare:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: rgb(226, 226, 226);
+}
