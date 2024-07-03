@@ -17,7 +17,7 @@ function Button(props) {
   }
 
   return (
-    <button className={theme} style={ButtonStyle}>
+    <button className={`${theme} ${styles.dropShadow}`} style={ButtonStyle}>
       {props.text}
     </button>
   );

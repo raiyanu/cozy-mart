@@ -84,7 +84,6 @@
 
 body {
   max-width: 1200px;
-  border: 2px solid rgba(0, 0, 0, 0.233);
   min-height: 100vh;
   margin-inline: auto;
   padding-block: 1rem;
