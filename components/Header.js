@@ -1,6 +1,7 @@
 "use client";
 import header from "./Header.module.css";
 import Button from "../components/Button";
+import Link from "next/link";
 import { useState } from "react";
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -8,19 +9,15 @@ export default function Header() {
     <header className={header.header}>
       <h1>CozyMart</h1>
       <nav className={`${header.navigation} ${menuOpen ? header.open : ""}`}>
-        <ul>
-          <li>
-            <a href="/" className={header.active}>
-              Home
-            </a>
-          </li>
-          <li>
-            <a href="/about">About</a>
-          </li>
-          <li>
-            <a href="/contact">Contact</a>
-          </li>
-        </ul>
+        <Link href="/" className={`${header.navLink} ${header.active} `}>
+          Home
+        </Link>
+        <Link href="/about" className={header.navLink}>
+          About
+        </Link>
+        <Link href="/contact" className={header.navLink}>
+          Contact
+        </Link>
         <div
           style={{
             display: "flex",
@@ -30,7 +27,7 @@ export default function Header() {
           }}
           className={header.actionButton}
         >
-          <span class="material-symbols-rounded">notifications</span>
+          <span className="material-symbols-rounded">notifications</span>
           <span className="material-symbols-rounded">shopping_cart</span>
         </div>
         <div style={{ display: "flex", marginInline: "auto" }}>
