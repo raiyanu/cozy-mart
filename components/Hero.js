@@ -4,6 +4,10 @@ import Button from "./Button";
 import Image from "next/image";
 import HeroStyle from "./Hero.module.css";
 import { motion } from "framer-motion";
+import faccebook from "./assets/facebook.svg";
+import google from "./assets/google.svg";
+import amazon from "./assets/amazon-pay.svg";
+import hero from "./assets/hero.png";
 function Hero() {
   return (
     <>
@@ -33,7 +37,7 @@ function Hero() {
               <div className={HeroStyle.brandImgContainer}>
                 <motion.div>
                   <Image
-                    src="/amazon-pay.svg"
+                    src={amazon}
                     alt="brand1"
                     width={100}
                     height={100}
@@ -41,14 +45,14 @@ function Hero() {
                   />
                 </motion.div>
                 <Image
-                  src="/facebook.svg"
+                  src={faccebook}
                   alt="brand1"
                   width={100}
                   className={HeroStyle.brandImg}
                   height={100}
                 />
                 <Image
-                  src="/google.svg"
+                  src={google}
                   className={HeroStyle.brandImg}
                   alt="brand1"
                   width={100}
@@ -112,7 +116,7 @@ function Hero() {
         >
           <div className={HeroStyle.heroImgContainer}>
             <Image
-              src="/hero.png"
+              src={hero}
               alt="hero"
               width={500}
               height={500}
