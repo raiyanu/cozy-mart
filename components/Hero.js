@@ -5,7 +5,7 @@ import HeroStyle from "./Hero.module.css";
 function Hero() {
   return (
     <>
-      <section>
+      <section className={HeroStyle.hero}>
         <div className={HeroStyle.heroTextContent}>
           <span>Recieve The BEST</span>
           <h1>The Most Relied Online Shopping site</h1>
@@ -14,7 +14,10 @@ function Hero() {
             most reliable online shopping site in the world. We have the best
             products and services. We are the best in the world.
           </p>
-          <div style={{ display: "flex", marginInline: "auto" }}>
+          <div
+            className={HeroStyle.heroActionButton}
+            style={{ display: "flex", gap: "20px" }}
+          >
             <Button text={"Sign Up"} theme="minimal" />
             <Button text={"Login"} theme="flare" />
           </div>
@@ -26,20 +29,17 @@ function Hero() {
                 alt="brand1"
                 width={100}
                 height={100}
-                aspectRatio={1}
                 className={HeroStyle.brandImg}
               />
               <Image
                 src="/facebook.svg"
                 alt="brand1"
                 width={100}
-                aspectRatio={1}
                 className={HeroStyle.brandImg}
                 height={100}
               />
               <Image
                 src="/google.svg"
-                aspectRatio={1}
                 className={HeroStyle.brandImg}
                 alt="brand1"
                 width={100}
@@ -48,7 +48,7 @@ function Hero() {
             </div>
           </div>
         </div>
-        <div>
+        <div className={HeroStyle.heroImgContainer}>
           <Image
             src="/hero.jpg"
             alt="hero"
