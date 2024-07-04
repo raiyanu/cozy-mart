@@ -2,15 +2,17 @@
   background-color: #d6d6d6;
   padding: 20px;
   border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  /* Add any additional styles you need for the card */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid white;
+  backdrop-filter: blur(8px);
+  background-color: rgba(255, 255, 255, 0.8);
   max-width: 100%;
   aspect-ratio: 1/1;
   display: inline-flex;
   align-items: flex-start;
   justify-content: flex-start;
   min-height: fit-content;
+  position: relative;
 }
 @media screen and (min-width: 768px) {
   .card {
@@ -22,13 +24,54 @@
   font-size: 18px;
   font-weight: bold;
   margin-bottom: 10px;
-  /* Add any additional styles you need for the card title */
 }
 
 .card_content {
   font-size: 14px;
-  /* Add any additional styles you need for the card content */
+  position: absolute;
+  z-index: 3;
+  top: 10px;
+  left: 10px;
 }
 .list_item {
   list-style-type: none;
+}
+.image {
+  width: 70%;
+  height: 70%;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background-color: red;
+  z-index: 2;
+}
+.image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.card_content a {
+  text-decoration: underline;
+  color: black;
+  text-decoration-color: transparent;
+  display: inline-block;
+  margin-top: 40px;
+  padding: 5px;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.card_content div {
+  font-size: x-small;
+}
+.card_content h2 {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.card_content a::after {
+  content: "🔗";
+  margin-left: 5px;
+}
+.card_content a:hover {
+  background-color: #d6d6d6;
 }

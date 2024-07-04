@@ -3,7 +3,7 @@ import Button from "./Button";
 import { NavLink } from "react-router-dom";
 import { useState } from "react";
 
-export default function Header() {
+export default function Header( {handleLoginOpen}) {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
@@ -51,12 +51,15 @@ export default function Header() {
         </div>
         <div style={{ display: "flex", marginInline: "auto" }}>
           <Button text={"Sign Up"} theme="minimal" />
-          <Button text={"Login"} theme="flare" />
+          <Button text={"Login"} theme="flare" onClick={
+            ()=>handleLoginOpen()
+          } />
         </div>
       </nav>
       <span
         className={`material-symbols-rounded ${header.burger}`}
         onClick={() => setMenuOpen(!menuOpen)}
+        style={{color: "rgba(251, 246, 226,1)"}}
       >
         menu
       </span>

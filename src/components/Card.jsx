@@ -7,6 +7,8 @@ function Card(props) {
       style={{
         height: props.custom.row === 2 ? "400px" : "200px",
         width: props.custom.column === 2 ? "400px" : "200px",
+        backgroundColor: props.custom.style.backgroundColor,
+        border: props.custom.style.backgroundColor === "white" ? "1px solid rgb(182, 182, 182)" : "",
       }}
     >
       <div className={styles.card_content}>
@@ -23,9 +25,10 @@ function Card(props) {
           {props.custom.forwardLink.label}
         </a>
       </div>
-      <div>
+      <div className={styles.image}>
         <img
-          src={`./assets/${props.custom.image.imgSrc}`}
+          // src={import(`./assets/${props.custom.image.imgSrc}`)}
+          src={props.custom.image.imgSrc}
           alt={props.custom.image.alt}
           width={props.custom.row === 2 ? 300 : 200}
           height={props.custom.column === 2 ? 300 : 200}

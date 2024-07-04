@@ -5,17 +5,24 @@ import About from "./pages/About";
 import Header from "./components/Header";
 import { Routes, Route } from "react-router-dom";
 import Cards from "./components/Cards";
-
+import PopUp from "./components/PopUp";
+import { useState } from "react";
 function App() {
+  const [isLoginOpen, setIsLoginOpen] = useState(false);
+
+  const handLoginToggle = () => { 
+    setIsLoginOpen(!isLoginOpen);
+  }
   return (
     <>
-      <Header />
+      <Header handleLoginOpen={handLoginToggle} />
       <Routes>
         <Route path="/">
           <Route
             index
             element={
               <>
+               <PopUp isOpen={isLoginOpen} onClose={handLoginToggle} />
                 <Hero />
                 <Cards />
               </>

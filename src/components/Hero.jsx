@@ -7,6 +7,7 @@ import faccebook from "./assets/facebook.svg";
 import google from "./assets/google.svg";
 import amazon from "./assets/amazon-pay.svg";
 import hero from "./assets/hero.png";
+import Animator from "./Animator";
 function Hero() {
   return (
     <>
@@ -27,14 +28,18 @@ function Hero() {
               className={HeroStyle.heroActionButton}
               style={{ display: "flex" }}
             >
-              <Button text={"Sign Up"} theme="minimal" />
-              <Button text={"Login"} theme="flare" />
+              <Animator type="scale">
+                <Button text={"Sign Up"} theme="minimal" />
+              </Animator>
+              <Animator type="scale">
+                <Button text={"Login"} theme="flare" />
+              </Animator>
             </div>
             <div className={HeroStyle.brandContainer}>
               <span>Trusted By</span>
 
               <div className={HeroStyle.brandImgContainer}>
-                <motion.div>
+                <Animator type="marginLeft">
                   <img
                     src={amazon}
                     alt="brand1"
@@ -42,21 +47,25 @@ function Hero() {
                     height={100}
                     className={HeroStyle.brandImg}
                   />
-                </motion.div>
-                <img
-                  src={faccebook}
-                  alt="brand1"
-                  width={100}
-                  className={HeroStyle.brandImg}
-                  height={100}
-                />
-                <img
-                  src={google}
-                  className={HeroStyle.brandImg}
-                  alt="brand1"
-                  width={100}
-                  height={100}
-                />
+                </Animator>
+                <Animator type="marginLeft">
+                  <img
+                    src={faccebook}
+                    alt="brand1"
+                    width={100}
+                    className={HeroStyle.brandImg}
+                    height={100}
+                  />
+                </Animator>
+                <Animator type="marginLeft">
+                  <img
+                    src={google}
+                    className={HeroStyle.brandImg}
+                    alt="brand1"
+                    width={100}
+                    height={100}
+                  />
+                </Animator>
               </div>
             </div>
             <div>

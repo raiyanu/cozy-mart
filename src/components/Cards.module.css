@@ -1,0 +1,11 @@
+.cardContainer {
+  display: grid;
+  grid-template-columns: minmax(300px, 1fr) minmax(300px, 1fr);
+  gap: 10px;
+  padding: 1rem;
+  margin: 0 auto;
+  justify-content: center;
+  align-content: center;
+  place-items: center;
+  max-width: 800px;
+}
