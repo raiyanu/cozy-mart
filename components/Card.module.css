@@ -1,0 +1,33 @@
+.card {
+  background-color: #d6d6d6;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  /* Add any additional styles you need for the card */
+  border: 1px solid white;
+  max-width: 100%;
+  aspect-ratio: 1/1;
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+@media screen and (min-width: 768px) {
+  .card {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+}
+.card_title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  /* Add any additional styles you need for the card title */
+}
+
+.card_content {
+  font-size: 14px;
+  /* Add any additional styles you need for the card content */
+}
+.list_item {
+  list-style-type: none;
+}
