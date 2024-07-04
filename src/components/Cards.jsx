@@ -1,15 +1,8 @@
-"use client";
-import styles from "./page.module.css";
-import Header from "../components/Header";
-import Hero from "../components/Hero";
-import Card from "../components/Card";
-import { color } from "framer-motion";
-import Image from "next/image";
-export default function Home() {
+import React from "react";
+import Card from "./Card";
+function Cards() {
   return (
-    <>
-      <Header />
-      <Hero />
+    <div>
       <Card
         custom={{
           row: 2,
@@ -62,6 +55,8 @@ export default function Home() {
           },
         }}
       />
-    </>
+    </div>
   );
 }
+
+export default Cards;

@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import Button from "./Button";
-import Image from "next/image";
 import HeroStyle from "./Hero.module.css";
 import { motion } from "framer-motion";
 import faccebook from "./assets/facebook.svg";
@@ -36,7 +35,7 @@ function Hero() {
 
               <div className={HeroStyle.brandImgContainer}>
                 <motion.div>
-                  <Image
+                  <img
                     src={amazon}
                     alt="brand1"
                     width={100}
@@ -44,14 +43,14 @@ function Hero() {
                     className={HeroStyle.brandImg}
                   />
                 </motion.div>
-                <Image
+                <img
                   src={faccebook}
                   alt="brand1"
                   width={100}
                   className={HeroStyle.brandImg}
                   height={100}
                 />
-                <Image
+                <img
                   src={google}
                   className={HeroStyle.brandImg}
                   alt="brand1"
@@ -115,7 +114,7 @@ function Hero() {
           }}
         >
           <div className={HeroStyle.heroImgContainer}>
-            <Image
+            <img
               src={hero}
               alt="hero"
               width={500}

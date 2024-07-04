@@ -1,10 +1,7 @@
-"use client";
 import header from "./Header.module.css";
-import Button from "../components/Button";
-import Link from "next/link";
-import { usePathname } from "next/navigation";
+import Button from "./Button";
+import { NavLink } from "react-router-dom";
 import { useState } from "react";
-import { motion } from "framer-motion";
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -13,9 +10,33 @@ export default function Header() {
     <header className={header.header}>
       <h1>CozyMart</h1>
       <nav className={`${header.navigation} ${menuOpen ? header.open : ""}`}>
-        <NavLink href="/">Home</NavLink>
-        <NavLink href="/about">About</NavLink>
-        <NavLink href="/contact">Contact</NavLink>
+        <NavLink
+          to="/"
+          className={({ isActive }) =>
+            `${header.navLink} ${isActive ? header.active : ""}`
+          }
+          onClick={() => setMenuOpen(false)}
+        >
+          Home
+        </NavLink>
+        <NavLink
+          to="/about"
+          className={({ isActive }) =>
+            `${header.navLink} ${isActive ? header.active : ""}`
+          }
+          onClick={() => setMenuOpen(false)}
+
+        >
+          About
+        </NavLink>
+        <NavLink
+          to="/contact"
+          className={({ isActive }) =>
+            `${header.navLink} ${isActive ? header.active : ""}`
+          }
+        >
+          Contact
+        </NavLink>
         <div
           style={{
             display: "flex",
@@ -43,16 +64,16 @@ export default function Header() {
   );
 }
 
-const NavLink = ({ href, children }) => {
-  const pathname = usePathname();
-  const isActive = pathname === href;
+// const NavLink = ({ href, children }) => {
+//   const pathname = usePathname();
+//   const isActive = pathname === href;
 
-  return (
-    <Link
-      href={href}
-      className={`${header.navLink} ${isActive ? header.active : ""}`}
-    >
-      {children}
-    </Link>
-  );
-};
+//   return (
+//     <Link
+//       href={href}
+//       className={`${header.navLink} ${isActive ? header.active : ""}`}
+//     >
+//       {children}
+//     </Link>
+//   );
+// };

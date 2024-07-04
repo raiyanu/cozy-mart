@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "./Card.module.css";
-import Image from "next/image";
 function Card(props) {
   return (
     <div
@@ -25,7 +24,7 @@ function Card(props) {
         </a>
       </div>
       <div>
-        <Image
+        <img
           src={`./assets/${props.custom.image.imgSrc}`}
           alt={props.custom.image.alt}
           width={props.custom.row === 2 ? 300 : 200}

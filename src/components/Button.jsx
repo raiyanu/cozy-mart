@@ -1,5 +1,4 @@
-import React from "react";
-import styles from "./Button.module.css"; // Assuming you use CSS Modules
+import styles from "./Button.module.css"; 
 
 function Button(props) {
   let theme = "";
