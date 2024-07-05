@@ -7,10 +7,11 @@ import { Routes, Route } from "react-router-dom";
 import Cards from "./components/Cards";
 import PopUp from "./components/PopUp";
 import { useState } from "react";
+import Contact from "./pages/Contact";
 function App() {
-  const [isLoginOpen, setIsLoginOpen] = useState(false);
+  const [isLoginOpen, setIsLoginOpen] = useState(true);
 
-  const handLoginToggle = () => { 
+  const handLoginToggle = () => {
     setIsLoginOpen(!isLoginOpen);
   }
   return (
@@ -29,6 +30,7 @@ function App() {
             }
           />
           <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contact />} />
           {/* <Route path="dashboard" element={<Dashboard />} /> */}
           <Route
             path="*"

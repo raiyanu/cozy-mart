@@ -6,6 +6,14 @@
   --border-color: 219, 219, 219;
   --text-color: 51, 51, 51;
 }
+/* :root {
+  --primary-color: rgb(19, 24, 66);
+  --secondary-color: rgb(230, 131, 105);
+  --tertiary-color: rgb(236, 206, 174);
+  --background-primary: rgb(251, 246, 226);
+  --border-color: rgb(219, 219, 219);
+  --text-color: rgb(51, 51, 51);
+} */
 
 .header {
   display: flex;
@@ -39,7 +47,7 @@
 .navLink {
   font-weight: 300;
   text-decoration: none;
-  color: black;
+  color: rgba(var(--secondary-color), 1);
   text-anchor: middle;
   border-left: 2px solid transparent;
   padding-left: 5px;
@@ -74,6 +82,11 @@
     padding: 16px;
     background-color: rgba(var(--background-primary), 1);
   }
+  .navLink.active,
+  .navLink:hover {
+    color: rgba(var(--primary-color), 1);
+    border-left: 2px solid rgba(var(--primary-color), 1);
+  }
 }
 
 .open {
@@ -104,14 +117,14 @@
     padding-left: 0;
     border-left: none;
     border-bottom: 2px solid transparent;
-    color: black;
+    color: rgba(var(--border-color), 1);
   }
 
   .navLink.active,
   .navLink:hover {
     border-left: none;
     border-bottom: 2px solid rgba(var(--secondary-color), 1);
-    color: rgba(var(--primary-color), 1);
+    color: rgba(var(--border-color), 1);
   }
 }
 

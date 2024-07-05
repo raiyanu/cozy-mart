@@ -68,15 +68,17 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   flex-direction: row;
-  gap: 30px 40px;
+  gap: 20px 30px;
   align-items: flex-start;
   justify-content: flex-start;
   flex-wrap: wrap;
   max-width: 300px;
+  margin-inline: auto;
 }
 .brandInfo > div {
   display: flex;
   flex-direction: column;
+  padding: 20px;
 }
 .brandInfo > div > span {
   font-family: Georgia, "Times New Roman", Times, serif;

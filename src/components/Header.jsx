@@ -34,6 +34,7 @@ export default function Header( {handleLoginOpen}) {
           className={({ isActive }) =>
             `${header.navLink} ${isActive ? header.active : ""}`
           }
+          onClick={() => setMenuOpen(false)}
         >
           Contact
         </NavLink>

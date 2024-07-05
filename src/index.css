@@ -99,7 +99,6 @@ button {
   background-color: rgba(0, 0, 0, 0.1);
   color: black;
   font-weight: 500;
-  margin-inline: 0.5rem;
 }
 button:hover {
   background-color: rgba(0, 0, 0, 0.2);

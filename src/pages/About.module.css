@@ -1,0 +1,177 @@
+:root {
+  --primary-color: 19, 24, 66;
+  --secondary-color: 230, 131, 105;
+  --tertiary-color: 236, 206, 174;
+  --background-primary: 251, 246, 226;
+  --border-color: 219, 219, 219;
+  --text-color: 51, 51, 51;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px 40px;
+}
+
+.mainTitle {
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.section {
+  margin-bottom: 48px;
+}
+
+.sectionTitle {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.subsectionTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+.paragraph {
+  margin-bottom: 16px;
+  line-height: 1.6;
+}
+
+.list,
+.orderedList {
+  padding-left: 24px;
+  margin-bottom: 16px;
+}
+
+.list {
+  list-style-type: disc;
+}
+
+.orderedList {
+  list-style-type: decimal;
+}
+
+.contactList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contactList li {
+  margin-bottom: 8px;
+}
+
+.link {
+  color: rgba(var(--primary-color), 1);
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+/* AboutPage.module.css */
+
+/* Font family definition */
+.container {
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  line-height: 1.5;
+  color: #333;
+}
+
+/* Existing styles... */
+
+.mainTitle {
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: rgba(var(--primary-color), 1);
+}
+
+.sectionTitle {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: rgba(var(--primary-color), 1);
+}
+
+.subsectionTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: rgba(var(--primary-color), 1);
+}
+
+.paragraph {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.list,
+.orderedList {
+  font-size: 1rem;
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.list li,
+.orderedList li {
+  margin-bottom: 0.5rem;
+}
+
+.contactList {
+  font-size: 1rem;
+  list-style-type: none;
+  padding: 0;
+}
+
+.contactList li {
+  margin-bottom: 0.5rem;
+}
+
+.link {
+  color: #3498db;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+/* Additional styles for better readability */
+strong {
+  font-weight: 600;
+}
+
+/* Responsive font sizes */
+@media (max-width: 768px) {
+  .mainTitle {
+    font-size: 2rem;
+  }
+
+  .sectionTitle {
+    font-size: 1.75rem;
+  }
+
+  .subsectionTitle {
+    font-size: 1.25rem;
+  }
+
+  .paragraph,
+  .list,
+  .orderedList,
+  .contactList {
+    font-size: 0.9375rem;
+  }
+  .container {
+    padding: 1rem;
+  }
+}
