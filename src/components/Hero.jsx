@@ -126,8 +126,8 @@ function Hero() {
             <img
               src={hero}
               alt="hero"
-              width={500}
-              height={500}
+              width="auto"
+              height="auto"
               className={HeroStyle.heroImg}
             />
           </div>
