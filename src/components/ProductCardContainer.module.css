@@ -1,0 +1,4 @@
+.ProductCardContainer {
+  grid-area: ProductCardContainer;
+  border: 1px solid #000;
+}

@@ -8,30 +8,36 @@ import Cards from "./components/Cards";
 import PopUp from "./components/PopUp";
 import { useState } from "react";
 import Contact from "./pages/Contact";
+import SearchPage from "./pages/SearchPage";
+
 function App() {
   const [isLoginOpen, setIsLoginOpen] = useState(true);
 
   const handLoginToggle = () => {
     setIsLoginOpen(!isLoginOpen);
-  }
+  };
+
   return (
     <>
       <Header handleLoginOpen={handLoginToggle} />
       <Routes>
+
         <Route path="/">
           <Route
             index
             element={
               <>
-               <PopUp isOpen={isLoginOpen} onClose={handLoginToggle} />
+                {/* Move the Header component outside the Route */}
+
+                <PopUp isOpen={isLoginOpen} onClose={handLoginToggle} />
                 <Hero />
-                <Cards />
+                {/* <Cards /> */}
               </>
             }
           />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
-          {/* <Route path="dashboard" element={<Dashboard />} /> */}
+          {/* <Route path="/search" element={<SearchPage/>} /> */}
           <Route
             path="*"
             element={
@@ -41,6 +47,7 @@ function App() {
             }
           />
         </Route>
+        <Route path="/search" element={<SearchPage />} />
       </Routes>
     </>
   );
