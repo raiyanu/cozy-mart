@@ -6,29 +6,29 @@ import Header from "./components/Header";
 import { Routes, Route } from "react-router-dom";
 import Cards from "./components/Cards";
 import PopUp from "./components/PopUp";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Contact from "./pages/Contact";
 import SearchPage from "./pages/SearchPage";
 
 function App() {
   const [isLoginOpen, setIsLoginOpen] = useState(true);
-
   const handLoginToggle = () => {
     setIsLoginOpen(!isLoginOpen);
   };
-
+  useEffect(() => {
+    fetch("/products.json")
+      .then((res) => res.json())
+      .then((data) => console.log(data));
+  }, []);
   return (
     <>
       <Header handleLoginOpen={handLoginToggle} />
       <Routes>
-
         <Route path="/">
           <Route
             index
             element={
               <>
-                {/* Move the Header component outside the Route */}
-
                 <PopUp isOpen={isLoginOpen} onClose={handLoginToggle} />
                 <Hero />
                 {/* <Cards /> */}
@@ -37,7 +37,6 @@ function App() {
           />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
-          {/* <Route path="/search" element={<SearchPage/>} /> */}
           <Route
             path="*"
             element={

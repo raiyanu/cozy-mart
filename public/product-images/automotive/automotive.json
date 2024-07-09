@@ -1,0 +1,4181 @@
+{
+  "car_accessories": {
+    "1": {
+      "id": 1,
+      "name": "Car Accessories Example Product",
+      "description": "This is a sample product description for car accessories.",
+      "price": 29.99,
+      "category": "Car Accessories",
+      "stock": 50,
+      "tags": ["car", "accessories", "sample"],
+      "image": "productimage/car_accessories/car+accessories_1.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 150,
+        "soldThisMonth": 15
+      },
+      "reviews": [
+        {
+          "user": "CustomerA",
+          "comment": "Great quality, fits perfectly!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerB",
+          "comment": "Good product but delivery was slow.",
+          "rating": 3,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "Car Seat Covers",
+      "description": "Protect your car seats with these stylish seat covers.",
+      "price": 39.99,
+      "category": "Car Accessories",
+      "stock": 30,
+      "tags": ["car", "accessories", "seat covers"],
+      "image": "productimage/car_accessories/car+accessories_2.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "CustomerC",
+          "comment": "Highly recommend these seat covers!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerD",
+          "comment": "Good quality but a bit expensive.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "Car Phone Mount",
+      "description": "Securely mount your phone in your car for easy navigation.",
+      "price": 19.99,
+      "category": "Car Accessories",
+      "stock": 20,
+      "tags": ["car", "accessories", "phone mount"],
+      "image": "productimage/car_accessories/car+accessories_3.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 15
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "CustomerE",
+          "comment": "Works great, very sturdy!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerF",
+          "comment": "Decent product for the price.",
+          "rating": 3,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "Car Air Freshener",
+      "description": "Keep your car smelling fresh with these long-lasting air fresheners.",
+      "price": 9.99,
+      "category": "Car Accessories",
+      "stock": 40,
+      "tags": ["car", "accessories", "air freshener"],
+      "image": "productimage/car_accessories/car+accessories_4.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 125,
+        "soldThisMonth": 12
+      },
+      "reviews": [
+        {
+          "user": "CustomerG",
+          "comment": "Love the scent, lasts a long time!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerH",
+          "comment": "Smells good but doesn't last as long as expected.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Car Sun Shade",
+      "description": "Protect your car's interior from the sun with these sun shades.",
+      "price": 14.99,
+      "category": "Car Accessories",
+      "stock": 35,
+      "tags": ["car", "accessories", "sun shade"],
+      "image": "productimage/car_accessories/car+accessories_5.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerI",
+          "comment": "Great sun shade, easy to install!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerJ",
+          "comment": "Does the job but could be better quality.",
+          "rating": 3,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "Car Floor Mats",
+      "description": "Keep your car's floor clean with these durable floor mats.",
+      "price": 24.99,
+      "category": "Car Accessories",
+      "stock": 25,
+      "tags": ["car", "accessories", "floor mats"],
+      "image": "productimage/car_accessories/car+accessories_6.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 22
+      },
+      "sales": {
+        "totalSold": 110,
+        "soldThisMonth": 11
+      },
+      "reviews": [
+        {
+          "user": "CustomerK",
+          "comment": "Excellent quality, fits perfectly!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerL",
+          "comment": "Good mats but a bit pricey.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "Car Trash Can",
+      "description": "Keep your car clean with this convenient trash can.",
+      "price": 12.99,
+      "category": "Car Accessories",
+      "stock": 15,
+      "tags": ["car", "accessories", "trash can"],
+      "image": "productimage/car_accessories/car+accessories_7.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 12
+      },
+      "sales": {
+        "totalSold": 60,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "CustomerM",
+          "comment": "Very useful, keeps my car tidy!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerN",
+          "comment": "Decent trash can, could be bigger.",
+          "rating": 3,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "Car Wash Kit",
+      "description": "Everything you need to wash your car at home.",
+      "price": 49.99,
+      "category": "Car Accessories",
+      "stock": 10,
+      "tags": ["car", "accessories", "car wash"],
+      "image": "productimage/car_accessories/car+accessories_8.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 140,
+        "soldThisMonth": 14
+      },
+      "reviews": [
+        {
+          "user": "CustomerO",
+          "comment": "Great kit, makes washing my car easy!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerP",
+          "comment": "Expensive but worth it for the quality.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "Car Emergency Kit",
+      "description": "Be prepared for emergencies with this comprehensive car kit.",
+      "price": 59.99,
+      "category": "Car Accessories",
+      "stock": 5,
+      "tags": ["car", "accessories", "emergency kit"],
+      "image": "productimage/car_accessories/car+accessories_9.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 17
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "CustomerQ",
+          "comment": "Essential kit for any car owner!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerR",
+          "comment": "Good kit but a bit overpriced.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "Car Seat Organizer",
+      "description": "Keep your car organized with this convenient seat organizer.",
+      "price": 29.99,
+      "category": "Car Accessories",
+      "stock": 8,
+      "tags": ["car", "accessories", "seat organizer"],
+      "image": "productimage/car_accessories/car+accessories_10.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 16
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerS",
+          "comment": "Love this organizer, keeps everything in place!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerT",
+          "comment": "Decent organizer but could be more sturdy.",
+          "rating": 3,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "Car Jump Starter",
+      "description": "Never get stranded with a dead battery again.",
+      "price": 79.99,
+      "category": "Car Accessories",
+      "stock": 3,
+      "tags": ["car", "accessories", "jump starter"],
+      "image": "productimage/car_accessories/car+accessories_11.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 23
+      },
+      "sales": {
+        "totalSold": 115,
+        "soldThisMonth": 12
+      },
+      "reviews": [
+        {
+          "user": "CustomerU",
+          "comment": "Saved me multiple times, highly recommend!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerV",
+          "comment": "Expensive but worth it for the peace of mind.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "Car Seat Cushion",
+      "description": "Make your car seats more comfortable with these cushions.",
+      "price": 34.99,
+      "category": "Car Accessories",
+      "stock": 12,
+      "tags": ["car", "accessories", "seat cushion"],
+      "image": "productimage/car_accessories/car+accessories_12.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 19
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 9
+      },
+      "reviews": [
+        {
+          "user": "CustomerW",
+          "comment": "Great cushions, very comfortable!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerX",
+          "comment": "Decent cushions but a bit pricey.",
+          "rating": 3,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "Car Steering Wheel Cover",
+      "description": "Protect your steering wheel and add a touch of style.",
+      "price": 14.99,
+      "category": "Car Accessories",
+      "stock": 18,
+      "tags": ["car", "accessories", "steering wheel cover"],
+      "image": "productimage/car_accessories/car+accessories_13.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 21
+      },
+      "sales": {
+        "totalSold": 105,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "CustomerY",
+          "comment": "Love the design, fits perfectly!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerZ",
+          "comment": "Good cover but could be more durable.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "Car Window Shade",
+      "description": "Keep your car cool and protect your passengers from the sun.",
+      "price": 19.99,
+      "category": "Car Accessories",
+      "stock": 22,
+      "tags": ["car", "accessories", "window shade"],
+      "image": "productimage/car_accessories/car+accessories_14.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 17
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerAA",
+          "comment": "Great shades, easy to install!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerBB",
+          "comment": "Does the job but could be better quality.",
+          "rating": 3,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "Car Trunk Organizer",
+      "description": "Keep your trunk neat and organized with this storage solution.",
+      "price": 24.99,
+      "category": "Car Accessories",
+      "stock": 20,
+      "tags": ["car", "accessories", "trunk organizer"],
+      "image": "productimage/car_accessories/car+accessories_15.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 16
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerCC",
+          "comment": "Love this organizer, fits perfectly in my trunk!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerDD",
+          "comment": "Decent organizer but could be more sturdy.",
+          "rating": 3,
+          "date": "2024-07-05"
+        }
+      ]
+    }
+  },
+  "car_care_products": {
+    "1": {
+      "id": 1,
+      "name": "Car Wax",
+      "description": "Give your car a shiny finish with this high-quality wax.",
+      "price": 15.99,
+      "category": "Car Care Products",
+      "stock": 40,
+      "tags": ["car", "care", "wax"],
+      "image": "productimage/car_care_products/car+care+products_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 34
+      },
+      "sales": {
+        "totalSold": 120,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "CustomerA",
+          "comment": "Great wax, easy to apply!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerB",
+          "comment": "Good but a bit expensive.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "Tire Cleaner",
+      "description": "Keep your tires looking new with this powerful cleaner.",
+      "price": 12.99,
+      "category": "Car Care Products",
+      "stock": 30,
+      "tags": ["car", "care", "tire cleaner"],
+      "image": "productimage/car_care_products/car+care+products_2.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 9
+      },
+      "reviews": [
+        {
+          "user": "CustomerC",
+          "comment": "Cleans tires very well!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerD",
+          "comment": "Works well but smells strong.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "Glass Cleaner",
+      "description": "Ensure crystal clear visibility with this glass cleaner.",
+      "price": 8.99,
+      "category": "Car Care Products",
+      "stock": 50,
+      "tags": ["car", "care", "glass cleaner"],
+      "image": "productimage/car_care_products/car+care+products_3.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 40
+      },
+      "sales": {
+        "totalSold": 150,
+        "soldThisMonth": 12
+      },
+      "reviews": [
+        {
+          "user": "CustomerE",
+          "comment": "Best glass cleaner I've used!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerF",
+          "comment": "Good cleaner but a bit pricey.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "Leather Cleaner",
+      "description": "Maintain your car's leather interior with this cleaner.",
+      "price": 18.99,
+      "category": "Car Care Products",
+      "stock": 25,
+      "tags": ["car", "care", "leather cleaner"],
+      "image": "productimage/car_care_products/car+care+products_4.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerG",
+          "comment": "Excellent cleaner for leather seats!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerH",
+          "comment": "Good but leaves a residue.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Interior Cleaner",
+      "description": "Keep your car's interior spotless with this cleaner.",
+      "price": 14.99,
+      "category": "Car Care Products",
+      "stock": 35,
+      "tags": ["car", "care", "interior cleaner"],
+      "image": "productimage/car_care_products/car+care+products_5.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 110,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "CustomerI",
+          "comment": "Great for cleaning the dashboard!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerJ",
+          "comment": "Works well but strong scent.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "Polish",
+      "description": "Give your car a brilliant shine with this polish.",
+      "price": 19.99,
+      "category": "Car Care Products",
+      "stock": 20,
+      "tags": ["car", "care", "polish"],
+      "image": "productimage/car_care_products/car+care+products_6.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerK",
+          "comment": "Excellent polish, very effective!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerL",
+          "comment": "Good polish but pricey.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "Engine Cleaner",
+      "description": "Keep your engine clean and running smoothly.",
+      "price": 22.99,
+      "category": "Car Care Products",
+      "stock": 15,
+      "tags": ["car", "care", "engine cleaner"],
+      "image": "productimage/car_care_products/car+care+products_7.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "CustomerM",
+          "comment": "Great cleaner for the engine!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerN",
+          "comment": "Works well but expensive.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "Wheel Cleaner",
+      "description": "Ensure your wheels look new with this cleaner.",
+      "price": 13.99,
+      "category": "Car Care Products",
+      "stock": 45,
+      "tags": ["car", "care", "wheel cleaner"],
+      "image": "productimage/car_care_products/car+care+products_8.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 38
+      },
+      "sales": {
+        "totalSold": 135,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "CustomerO",
+          "comment": "Great for cleaning wheels!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerP",
+          "comment": "Good cleaner but strong smell.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "Bug Remover",
+      "description": "Easily remove bugs from your car's surface.",
+      "price": 9.99,
+      "category": "Car Care Products",
+      "stock": 50,
+      "tags": ["car", "care", "bug remover"],
+      "image": "productimage/car_care_products/car+care+products_9.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 120,
+        "soldThisMonth": 9
+      },
+      "reviews": [
+        {
+          "user": "CustomerQ",
+          "comment": "Works well on bugs!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerR",
+          "comment": "Effective but smells strong.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "Detailing Kit",
+      "description": "Complete kit for all your car detailing needs.",
+      "price": 49.99,
+      "category": "Car Care Products",
+      "stock": 10,
+      "tags": ["car", "care", "detailing kit"],
+      "image": "productimage/car_care_products/car+care+products_10.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 45
+      },
+      "sales": {
+        "totalSold": 60,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "CustomerS",
+          "comment": "Everything you need for detailing!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerT",
+          "comment": "Great kit but a bit pricey.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    }
+  },
+  "car_cleaning_supplies": {
+    "1": {
+      "id": 1,
+      "name": "Car Wax",
+      "description": "Give your car a shiny finish with this high-quality wax.",
+      "price": 15.99,
+      "category": "Car Care Products",
+      "stock": 40,
+      "tags": ["car", "care", "wax"],
+      "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 34
+      },
+      "sales": {
+        "totalSold": 120,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "CustomerA",
+          "comment": "Great wax, easy to apply!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerB",
+          "comment": "Good but a bit expensive.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "Car Shampoo",
+      "description": "Keep your car clean and shiny with this effective car shampoo.",
+      "price": 9.99,
+      "category": "Car Cleaning Supplies",
+      "stock": 25,
+      "tags": ["car", "cleaning", "shampoo"],
+      "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_2.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "CustomerC",
+          "comment": "Great shampoo, leaves no residue!",
+          "rating": 5,
+          "date": "2024-07-04"
+        },
+        {
+          "user": "CustomerD",
+          "comment": "Cleans well but has a strong scent.",
+          "rating": 4,
+          "date": "2024-07-03"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "Car Polish",
+      "description": "Restore the shine of your car with this high-quality car polish.",
+      "price": 12.99,
+      "category": "Car Care Products",
+      "stock": 30,
+      "tags": ["car", "care", "polish"],
+      "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_3.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerE",
+          "comment": "Excellent polish, easy to apply!",
+          "rating": 5,
+          "date": "2024-07-02"
+        },
+        {
+          "user": "CustomerF",
+          "comment": "Good results but takes time to buff.",
+          "rating": 4,
+          "date": "2024-07-01"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "Car Interior Cleaner",
+      "description": "Keep the interior of your car clean and fresh with this effective cleaner.",
+      "price": 11.99,
+      "category": "Car Cleaning Supplies",
+      "stock": 20,
+      "tags": ["car", "cleaning", "interior"],
+      "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_4.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "CustomerG",
+          "comment": "Great cleaner, removes stains easily!",
+          "rating": 5,
+          "date": "2024-07-01"
+        },
+        {
+          "user": "CustomerH",
+          "comment": "Cleans well but has a strong scent.",
+          "rating": 4,
+          "date": "2024-06-30"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Car Wheel Cleaner",
+      "description": "Easily clean your car wheels with this powerful wheel cleaner.",
+      "price": 14.99,
+      "category": "Car Cleaning Supplies",
+      "stock": 35,
+      "tags": ["car", "cleaning", "wheels"],
+      "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_5.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 110,
+        "soldThisMonth": 9
+      },
+      "reviews": [
+        {
+          "user": "CustomerI",
+          "comment": "Excellent cleaner, removes brake dust easily!",
+          "rating": 5,
+          "date": "2024-06-30"
+        },
+        {
+          "user": "CustomerJ",
+          "comment": "Good results but requires scrubbing.",
+          "rating": 4,
+          "date": "2024-06-29"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "Car Tire Shine",
+      "description": "Give your car tires a glossy finish with this tire shine spray.",
+      "price": 8.99,
+      "category": "Car Care Products",
+      "stock": 15,
+      "tags": ["car", "care", "tire", "shine"],
+      "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_6.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "CustomerK",
+          "comment": "Great tire shine, long-lasting!",
+          "rating": 5,
+          "date": "2024-06-28"
+        },
+        {
+          "user": "CustomerL",
+          "comment": "Good product but requires frequent reapplication.",
+          "rating": 4,
+          "date": "2024-06-27"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "Car Glass Cleaner",
+      "description": "Clean and shine your car windows with this effective glass cleaner.",
+      "price": 7.99,
+      "category": "Car Cleaning Supplies",
+      "stock": 30,
+      "tags": ["car", "cleaning", "glass"],
+      "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_7.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "CustomerO",
+          "comment": "Great glass cleaner, streak-free!",
+          "rating": 5,
+          "date": "2024-06-26"
+        },
+        {
+          "user": "CustomerP",
+          "comment": "Cleans well but leaves a slight residue.",
+          "rating": 4,
+          "date": "2024-06-25"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "Car Leather Cleaner",
+      "description": "Clean and condition your car's leather seats with this effective cleaner.",
+      "price": 10.99,
+      "category": "Car Cleaning Supplies",
+      "stock": 20,
+      "tags": ["car", "cleaning", "leather"],
+      "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_8.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 22
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "CustomerQ",
+          "comment": "Great leather cleaner, restores shine!",
+          "rating": 5,
+          "date": "2024-06-24"
+        },
+        {
+          "user": "CustomerR",
+          "comment": "Cleans well but requires frequent reapplication.",
+          "rating": 4,
+          "date": "2024-06-23"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "Car Upholstery Cleaner",
+      "description": "Clean and refresh your car's upholstery with this effective cleaner.",
+      "price": 9.99,
+      "category": "Car Cleaning Supplies",
+      "stock": 25,
+      "tags": ["car", "cleaning", "upholstery"],
+      "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_9.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 65,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "CustomerS",
+          "comment": "Great upholstery cleaner, removes stains easily!",
+          "rating": 5,
+          "date": "2024-06-22"
+        },
+        {
+          "user": "CustomerT",
+          "comment": "Cleans well but has a strong scent.",
+          "rating": 4,
+          "date": "2024-06-21"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "Car Dashboard Cleaner",
+      "description": "Clean and protect your car's dashboard with this effective cleaner.",
+      "price": 7.99,
+      "category": "Car Cleaning Supplies",
+      "stock": 35,
+      "tags": ["car", "cleaning", "dashboard"],
+      "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_10.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerU",
+          "comment": "Excellent dashboard cleaner, leaves a nice shine!",
+          "rating": 5,
+          "date": "2024-06-20"
+        },
+        {
+          "user": "CustomerV",
+          "comment": "Cleans well but requires frequent reapplication.",
+          "rating": 4,
+          "date": "2024-06-19"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "Car Air Freshener",
+      "description": "Keep your car smelling fresh with this long-lasting air freshener.",
+      "price": 5.99,
+      "category": "Car Accessories",
+      "stock": 40,
+      "tags": ["car", "accessories", "air freshener"],
+      "image": "productimage/car_accessories/car+accessories_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 130,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "CustomerW",
+          "comment": "This air freshener smells amazing!",
+          "rating": 5,
+          "date": "2024-06-18"
+        },
+        {
+          "user": "CustomerX",
+          "comment": "Good scent but doesn't last very long.",
+          "rating": 4,
+          "date": "2024-06-17"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "Car Seat Covers",
+      "description": "Protect and enhance the look of your car seats with these stylish seat covers.",
+      "price": 29.99,
+      "category": "Car Accessories",
+      "stock": 15,
+      "tags": ["car", "accessories", "seat covers"],
+      "image": "productimage/car_accessories/car+accessories_2.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "CustomerY",
+          "comment": "These seat covers fit perfectly and look great!",
+          "rating": 5,
+          "date": "2024-06-16"
+        },
+        {
+          "user": "CustomerZ",
+          "comment": "Good quality but a bit expensive.",
+          "rating": 4,
+          "date": "2024-06-15"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "Car Phone Mount",
+      "description": "Securely mount your phone in your car for easy navigation and hands-free calling.",
+      "price": 14.99,
+      "category": "Car Accessories",
+      "stock": 30,
+      "tags": ["car", "accessories", "phone mount"],
+      "image": "productimage/car_accessories/car+accessories_3.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerAA",
+          "comment": "This phone mount is sturdy and holds my phone securely!",
+          "rating": 5,
+          "date": "2024-06-14"
+        },
+        {
+          "user": "CustomerBB",
+          "comment": "Good product but a bit difficult to adjust.",
+          "rating": 4,
+          "date": "2024-06-13"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "Car Floor Mats",
+      "description": "Protect your car's floor from dirt and spills with these durable floor mats.",
+      "price": 19.99,
+      "category": "Car Accessories",
+      "stock": 20,
+      "tags": ["car", "accessories", "floor mats"],
+      "image": "productimage/car_accessories/car+accessories_4.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "CustomerCC",
+          "comment": "These floor mats are great, they fit perfectly in my car!",
+          "rating": 5,
+          "date": "2024-06-12"
+        },
+        {
+          "user": "CustomerDD",
+          "comment": "Good quality but a bit expensive.",
+          "rating": 4,
+          "date": "2024-06-11"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "Microfiber Towels",
+      "description": "Soft and absorbent towels for drying and cleaning your car.",
+      "price": 12.99,
+      "category": "Car Cleaning Supplies",
+      "stock": 50,
+      "tags": ["car", "cleaning", "towels"],
+      "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_15.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 42
+      },
+      "sales": {
+        "totalSold": 150,
+        "soldThisMonth": 15
+      },
+      "reviews": [
+        {
+          "user": "CustomerM",
+          "comment": "These towels are amazing!",
+          "rating": 5,
+          "date": "2024-06-30"
+        },
+        {
+          "user": "CustomerN",
+          "comment": "Good quality but a bit expensive.",
+          "rating": 4,
+          "date": "2024-06-29"
+        }
+      ]
+    }
+  },
+  "car_electronics": {
+    "1": {
+      "id": 1,
+      "name": "Car Wax",
+      "description": "Give your car a shiny finish with this high-quality wax.",
+      "price": 15.99,
+      "category": "Car Electronics",
+      "stock": 40,
+      "tags": ["car", "care", "wax"],
+      "image": "productimage/car_electronics/car+electronics_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 34
+      },
+      "sales": {
+        "totalSold": 120,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "CustomerA",
+          "comment": "Great wax, easy to apply!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerB",
+          "comment": "Good but a bit expensive.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "Car Charger",
+      "description": "Charge your devices on the go with this car charger.",
+      "price": 9.99,
+      "category": "Car Electronics",
+      "stock": 25,
+      "tags": ["car", "charger", "electronics"],
+      "image": "productimage/car_electronics/car+electronics_2.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "CustomerC",
+          "comment": "Works great, fast charging!",
+          "rating": 5,
+          "date": "2024-07-04"
+        },
+        {
+          "user": "CustomerD",
+          "comment": "Decent charger for the price.",
+          "rating": 3,
+          "date": "2024-07-03"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "Car GPS",
+      "description": "Never get lost again with this advanced car GPS system.",
+      "price": 99.99,
+      "category": "Car Electronics",
+      "stock": 15,
+      "tags": ["car", "gps", "navigation"],
+      "image": "productimage/car_electronics/car+electronics_3.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 50
+      },
+      "sales": {
+        "totalSold": 200,
+        "soldThisMonth": 15
+      },
+      "reviews": [
+        {
+          "user": "CustomerE",
+          "comment": "Accurate and reliable GPS.",
+          "rating": 5,
+          "date": "2024-07-02"
+        },
+        {
+          "user": "CustomerF",
+          "comment": "Great value for the price.",
+          "rating": 4,
+          "date": "2024-07-01"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "Car Dash Cam",
+      "description": "Capture every moment on the road with this high-definition dash cam.",
+      "price": 49.99,
+      "category": "Car Electronics",
+      "stock": 30,
+      "tags": ["car", "dash cam", "electronics"],
+      "image": "productimage/car_electronics/car+electronics_4.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerG",
+          "comment": "Clear video quality, easy to install.",
+          "rating": 5,
+          "date": "2024-06-30"
+        },
+        {
+          "user": "CustomerH",
+          "comment": "Good dash cam for the price.",
+          "rating": 4,
+          "date": "2024-06-29"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Car Bluetooth Adapter",
+      "description": "Stream music wirelessly in your car with this Bluetooth adapter.",
+      "price": 19.99,
+      "category": "Car Electronics",
+      "stock": 20,
+      "tags": ["car", "bluetooth", "adapter"],
+      "image": "productimage/car_electronics/car+electronics_5.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 15
+      },
+      "sales": {
+        "totalSold": 60,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "CustomerI",
+          "comment": "Easy to use, good sound quality.",
+          "rating": 4,
+          "date": "2024-06-28"
+        },
+        {
+          "user": "CustomerJ",
+          "comment": "Decent Bluetooth adapter.",
+          "rating": 3,
+          "date": "2024-06-27"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "Car Seat Covers",
+      "description": "Protect your car seats with these stylish and durable seat covers.",
+      "price": 29.99,
+      "category": "Car Electronics",
+      "stock": 35,
+      "tags": ["car", "seat covers", "accessories"],
+      "image": "productimage/car_electronics/car+electronics_6.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 40
+      },
+      "sales": {
+        "totalSold": 150,
+        "soldThisMonth": 12
+      },
+      "reviews": [
+        {
+          "user": "CustomerK",
+          "comment": "Great seat covers, easy to install.",
+          "rating": 5,
+          "date": "2024-06-26"
+        },
+        {
+          "user": "CustomerL",
+          "comment": "Good quality and comfortable.",
+          "rating": 4,
+          "date": "2024-06-25"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "Car Air Freshener",
+      "description": "Keep your car smelling fresh with this long-lasting air freshener.",
+      "price": 4.99,
+      "category": "Car Electronics",
+      "stock": 50,
+      "tags": ["car", "air freshener", "accessories"],
+      "image": "productimage/car_electronics/car+electronics_7.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 10
+      },
+      "sales": {
+        "totalSold": 40,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "CustomerM",
+          "comment": "Nice scent, lasts a long time.",
+          "rating": 4,
+          "date": "2024-06-24"
+        },
+        {
+          "user": "CustomerN",
+          "comment": "Decent air freshener for the price.",
+          "rating": 3,
+          "date": "2024-06-23"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "Car Phone Holder",
+      "description": "Keep your phone secure and accessible while driving with this phone holder.",
+      "price": 12.99,
+      "category": "Car Electronics",
+      "stock": 15,
+      "tags": ["car", "phone holder", "accessories"],
+      "image": "productimage/car_electronics/car+electronics_8.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "CustomerO",
+          "comment": "Sturdy and holds the phone well.",
+          "rating": 5,
+          "date": "2024-06-22"
+        },
+        {
+          "user": "CustomerP",
+          "comment": "Decent phone holder, could be more adjustable.",
+          "rating": 3,
+          "date": "2024-06-21"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "Car Vacuum Cleaner",
+      "description": "Keep your car clean with this powerful and portable vacuum cleaner.",
+      "price": 39.99,
+      "category": "Car Electronics",
+      "stock": 10,
+      "tags": ["car", "vacuum cleaner", "cleaning"],
+      "image": "productimage/car_electronics/car+electronics_9.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "CustomerQ",
+          "comment": "Great suction power, easy to use.",
+          "rating": 5,
+          "date": "2024-06-20"
+        },
+        {
+          "user": "CustomerR",
+          "comment": "Good vacuum cleaner for the car.",
+          "rating": 4,
+          "date": "2024-06-19"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "Car Jump Starter",
+      "description": "Never get stranded with a dead battery again with this portable jump starter.",
+      "price": 79.99,
+      "category": "Car Electronics",
+      "stock": 5,
+      "tags": ["car", "jump starter", "emergency"],
+      "image": "productimage/car_electronics/car+electronics_10.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 45
+      },
+      "sales": {
+        "totalSold": 180,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "CustomerS",
+          "comment": "Saved me multiple times, highly recommended!",
+          "rating": 5,
+          "date": "2024-06-18"
+        },
+        {
+          "user": "CustomerT",
+          "comment": "Expensive but worth it.",
+          "rating": 4,
+          "date": "2024-06-17"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "Car Tire Pressure Gauge",
+      "description": "Ensure your tires are properly inflated with this accurate tire pressure gauge.",
+      "price": 9.99,
+      "category": "Car Electronics",
+      "stock": 20,
+      "tags": ["car", "tire pressure gauge", "maintenance"],
+      "image": "productimage/car_electronics/car+electronics_11.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 15
+      },
+      "sales": {
+        "totalSold": 60,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "CustomerU",
+          "comment": "Accurate readings, easy to use.",
+          "rating": 5,
+          "date": "2024-06-16"
+        },
+        {
+          "user": "CustomerV",
+          "comment": "Good tire pressure gauge for the price.",
+          "rating": 4,
+          "date": "2024-06-15"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "Car Sun Shade",
+      "description": "Protect your car from the sun's heat with this foldable sun shade.",
+      "price": 7.99,
+      "category": "Car Electronics",
+      "stock": 25,
+      "tags": ["car", "sun shade", "accessories"],
+      "image": "productimage/car_electronics/car+electronics_12.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 10
+      },
+      "sales": {
+        "totalSold": 40,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "CustomerW",
+          "comment": "Blocks the sun effectively.",
+          "rating": 4,
+          "date": "2024-06-14"
+        },
+        {
+          "user": "CustomerX",
+          "comment": "Decent sun shade, could be larger.",
+          "rating": 3,
+          "date": "2024-06-13"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "Car Steering Wheel Cover",
+      "description": "Enhance your driving experience with this comfortable and stylish steering wheel cover.",
+      "price": 14.99,
+      "category": "Car Electronics",
+      "stock": 30,
+      "tags": ["car", "steering wheel cover", "accessories"],
+      "image": "productimage/car_electronics/car+electronics_13.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerY",
+          "comment": "Great grip and looks good.",
+          "rating": 5,
+          "date": "2024-06-12"
+        },
+        {
+          "user": "CustomerZ",
+          "comment": "Good steering wheel cover for the price.",
+          "rating": 4,
+          "date": "2024-06-11"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "Car Headrest Mount",
+      "description": "Enjoy hands-free entertainment in your car with this adjustable headrest mount.",
+      "price": 19.99,
+      "category": "Car Electronics",
+      "stock": 15,
+      "tags": ["car", "headrest mount", "accessories"],
+      "image": "productimage/car_electronics/car+electronics_14.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "CustomerAA",
+          "comment": "Sturdy and holds the tablet well.",
+          "rating": 5,
+          "date": "2024-06-10"
+        },
+        {
+          "user": "CustomerBB",
+          "comment": "Decent headrest mount, could be more adjustable.",
+          "rating": 3,
+          "date": "2024-06-09"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "Car Key Finder",
+      "description": "Never lose your car keys again with this handy key finder.",
+      "price": 9.99,
+      "category": "Car Electronics",
+      "stock": 10,
+      "tags": ["car", "key finder", "accessories"],
+      "image": "productimage/car_electronics/car+electronics_15.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "CustomerCC",
+          "comment": "Helps me find my keys quickly.",
+          "rating": 5,
+          "date": "2024-06-08"
+        },
+        {
+          "user": "CustomerDD",
+          "comment": "Good key finder for the price.",
+          "rating": 4,
+          "date": "2024-06-07"
+        }
+      ]
+    }
+  },
+  "car_interior_accessories": {
+    "1": {
+      "id": 1,
+      "name": "Car Seat Covers",
+      "description": "Protect and enhance the look of your car seats with these stylish seat covers.",
+      "price": 29.99,
+      "category": "Car Interior Accessories",
+      "stock": 15,
+      "tags": ["car", "interior", "seat covers"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_1.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "CustomerY",
+          "comment": "These seat covers fit perfectly and look great!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerZ",
+          "comment": "Good quality but a bit expensive.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "Car Dashboard Cleaner",
+      "description": "Clean and protect your car's dashboard with this effective cleaner.",
+      "price": 7.99,
+      "category": "Car Interior Accessories",
+      "stock": 35,
+      "tags": ["car", "interior", "dashboard cleaner"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_2.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerU",
+          "comment": "Excellent dashboard cleaner, leaves a nice shine!",
+          "rating": 5,
+          "date": "2024-07-04"
+        },
+        {
+          "user": "CustomerV",
+          "comment": "Cleans well but requires frequent reapplication.",
+          "rating": 4,
+          "date": "2024-07-03"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "Car Phone Mount",
+      "description": "Securely mount your phone in your car for easy navigation and hands-free calling.",
+      "price": 14.99,
+      "category": "Car Interior Accessories",
+      "stock": 30,
+      "tags": ["car", "interior", "phone mount"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_3.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerAA",
+          "comment": "This phone mount is sturdy and holds my phone securely!",
+          "rating": 5,
+          "date": "2024-07-02"
+        },
+        {
+          "user": "CustomerBB",
+          "comment": "Good product but a bit difficult to adjust.",
+          "rating": 4,
+          "date": "2024-07-01"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "Car Steering Wheel Cover",
+      "description": "Enhance grip and comfort with this stylish steering wheel cover.",
+      "price": 12.99,
+      "category": "Car Interior Accessories",
+      "stock": 25,
+      "tags": ["car", "interior", "steering wheel cover"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_4.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 22
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "CustomerC",
+          "comment": "Great cover, very comfortable!",
+          "rating": 5,
+          "date": "2024-06-30"
+        },
+        {
+          "user": "CustomerD",
+          "comment": "Fits well but the color fades quickly.",
+          "rating": 4,
+          "date": "2024-06-29"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Car Floor Mats",
+      "description": "Protect your car's floor from dirt and spills with these durable floor mats.",
+      "price": 19.99,
+      "category": "Car Interior Accessories",
+      "stock": 20,
+      "tags": ["car", "interior", "floor mats"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_5.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "CustomerCC",
+          "comment": "These floor mats are great, they fit perfectly in my car!",
+          "rating": 5,
+          "date": "2024-06-28"
+        },
+        {
+          "user": "CustomerDD",
+          "comment": "Good quality but a bit expensive.",
+          "rating": 4,
+          "date": "2024-06-27"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "Car Air Freshener",
+      "description": "Keep your car smelling fresh with this long-lasting air freshener.",
+      "price": 5.99,
+      "category": "Car Interior Accessories",
+      "stock": 40,
+      "tags": ["car", "interior", "air freshener"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_6.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 130,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "CustomerW",
+          "comment": "This air freshener smells amazing!",
+          "rating": 5,
+          "date": "2024-06-26"
+        },
+        {
+          "user": "CustomerX",
+          "comment": "Good scent but doesn't last very long.",
+          "rating": 4,
+          "date": "2024-06-25"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "Car Sunshade",
+      "description": "Keep your car cool and protect it from UV rays with this easy-to-use sunshade.",
+      "price": 9.99,
+      "category": "Car Interior Accessories",
+      "stock": 25,
+      "tags": ["car", "interior", "sunshade"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_7.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "CustomerA",
+          "comment": "Great sunshade, very effective!",
+          "rating": 5,
+          "date": "2024-06-24"
+        },
+        {
+          "user": "CustomerB",
+          "comment": "Easy to use but a bit flimsy.",
+          "rating": 4,
+          "date": "2024-06-23"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "Car Organizer",
+      "description": "Keep your car tidy with this practical and spacious car organizer.",
+      "price": 15.99,
+      "category": "Car Interior Accessories",
+      "stock": 30,
+      "tags": ["car", "interior", "organizer"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_8.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "CustomerE",
+          "comment": "Very useful organizer, fits all my stuff!",
+          "rating": 5,
+          "date": "2024-06-22"
+        },
+        {
+          "user": "CustomerF",
+          "comment": "Good product but the material is a bit thin.",
+          "rating": 4,
+          "date": "2024-06-21"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "Car Back Seat Organizer",
+      "description": "Maximize space and keep your car organized with this back seat organizer.",
+      "price": 17.99,
+      "category": "Car Interior Accessories",
+      "stock": 20,
+      "tags": ["car", "interior", "back seat organizer"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_9.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "CustomerG",
+          "comment": "Great organizer for keeping things tidy in the car!",
+          "rating": 5,
+          "date": "2024-06-20"
+        },
+        {
+          "user": "CustomerH",
+          "comment": "Useful product, but installation can be tricky.",
+          "rating": 4,
+          "date": "2024-06-19"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "Car Seat Gap Filler",
+      "description": "Fill the gap between your car seat and center console to prevent items from falling through.",
+      "price": 9.99,
+      "category": "Car Interior Accessories",
+      "stock": 25,
+      "tags": ["car", "interior", "gap filler"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_10.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 65,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "CustomerI",
+          "comment": "Works well to keep things from slipping into the gap!",
+          "rating": 5,
+          "date": "2024-06-18"
+        },
+        {
+          "user": "CustomerJ",
+          "comment": "Good idea but could be sturdier.",
+          "rating": 3,
+          "date": "2024-06-17"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "Car Trash Can",
+      "description": "Keep your car clean with this compact and leak-proof trash can.",
+      "price": 12.99,
+      "category": "Car Interior Accessories",
+      "stock": 15,
+      "tags": ["car", "interior", "trash can"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_11.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 22
+      },
+      "sales": {
+        "totalSold": 60,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "CustomerK",
+          "comment": "Very handy trash can for keeping my car tidy!",
+          "rating": 5,
+          "date": "2024-06-16"
+        },
+        {
+          "user": "CustomerL",
+          "comment": "Leak-proof, but could be slightly larger.",
+          "rating": 4,
+          "date": "2024-06-15"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "Car USB Charger",
+      "description": "Charge multiple devices simultaneously with this convenient car USB charger.",
+      "price": 14.99,
+      "category": "Car Interior Accessories",
+      "stock": 30,
+      "tags": ["car", "interior", "USB charger"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_12.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "CustomerM",
+          "comment": "Works perfectly, charges my devices quickly!",
+          "rating": 5,
+          "date": "2024-06-14"
+        },
+        {
+          "user": "CustomerN",
+          "comment": "Convenient charger, but could have more ports.",
+          "rating": 4,
+          "date": "2024-06-13"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "Car Seat Organizer",
+      "description": "Organize and store your essentials conveniently with this versatile car seat organizer.",
+      "price": 19.99,
+      "category": "Car Interior Accessories",
+      "stock": 25,
+      "tags": ["car", "interior", "seat organizer"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_13.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "CustomerO",
+          "comment": "Great organizer, holds everything I need!",
+          "rating": 5,
+          "date": "2024-06-12"
+        },
+        {
+          "user": "CustomerP",
+          "comment": "Useful product, but the material could be more durable.",
+          "rating": 4,
+          "date": "2024-06-11"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "Car Window Shade",
+      "description": "Protect passengers from sun glare and heat with these easy-to-install car window shades.",
+      "price": 11.99,
+      "category": "Car Interior Accessories",
+      "stock": 20,
+      "tags": ["car", "interior", "window shade"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_14.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "CustomerQ",
+          "comment": "Easy to use and effective in blocking sunlight!",
+          "rating": 5,
+          "date": "2024-06-10"
+        },
+        {
+          "user": "CustomerR",
+          "comment": "Works well, but could be a bit larger for better coverage.",
+          "rating": 4,
+          "date": "2024-06-09"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "Car Seat Gap Organizer",
+      "description": "Fill and organize the gap between car seats with this innovative storage organizer.",
+      "price": 16.99,
+      "category": "Car Interior Accessories",
+      "stock": 15,
+      "tags": ["car", "interior", "gap organizer"],
+      "image": "productimage/car_interior_accessories/car+interior+accessories_15.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 24
+      },
+      "sales": {
+        "totalSold": 65,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "CustomerS",
+          "comment": "Great organizer for keeping items secure between seats!",
+          "rating": 5,
+          "date": "2024-06-08"
+        },
+        {
+          "user": "CustomerT",
+          "comment": "Useful product, but installation can be a bit tricky.",
+          "rating": 4,
+          "date": "2024-06-07"
+        }
+      ]
+    }
+  },
+  "car_safety_equipment": {
+    "1": {
+      "id": 16,
+      "name": "Car Emergency Kit",
+      "description": "Be prepared for emergencies with this comprehensive car emergency kit.",
+      "price": 39.99,
+      "category": "Car Safety Equipment",
+      "stock": 20,
+      "tags": ["car", "safety", "emergency kit"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerU",
+          "comment": "Very comprehensive emergency kit, has everything you need!",
+          "rating": 5,
+          "date": "2024-07-06"
+        },
+        {
+          "user": "CustomerV",
+          "comment": "Good quality items, but could use more variety in tools.",
+          "rating": 4,
+          "date": "2024-07-05"
+        }
+      ]
+    },
+    "2": {
+      "id": 17,
+      "name": "Car Safety Hammer",
+      "description": "Break car windows and cut seat belts in emergencies with this essential safety hammer.",
+      "price": 12.99,
+      "category": "Car Safety Equipment",
+      "stock": 30,
+      "tags": ["car", "safety", "safety hammer"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_2.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "CustomerW",
+          "comment": "Sturdy hammer, works well in emergencies.",
+          "rating": 5,
+          "date": "2024-07-04"
+        },
+        {
+          "user": "CustomerX",
+          "comment": "Essential tool to have, but handle could be more ergonomic.",
+          "rating": 4,
+          "date": "2024-07-03"
+        }
+      ]
+    },
+    "3": {
+      "id": 18,
+      "name": "Car Fire Extinguisher",
+      "description": "Put out small fires quickly with this compact and easy-to-use car fire extinguisher.",
+      "price": 29.99,
+      "category": "Car Safety Equipment",
+      "stock": 25,
+      "tags": ["car", "safety", "fire extinguisher"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_3.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerY",
+          "comment": "Effective extinguisher, easy to store in the car.",
+          "rating": 5,
+          "date": "2024-07-02"
+        },
+        {
+          "user": "CustomerZ",
+          "comment": "Good product, but instructions could be clearer.",
+          "rating": 4,
+          "date": "2024-07-01"
+        }
+      ]
+    },
+    "4": {
+      "id": 19,
+      "name": "Car Safety Reflective Vest",
+      "description": "Increase visibility during emergencies with this high-visibility reflective vest.",
+      "price": 14.99,
+      "category": "Car Safety Equipment",
+      "stock": 35,
+      "tags": ["car", "safety", "reflective vest"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_4.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CustomerAA",
+          "comment": "Very visible and comfortable to wear.",
+          "rating": 5,
+          "date": "2024-06-30"
+        },
+        {
+          "user": "CustomerBB",
+          "comment": "Good quality vest, but sizing runs slightly small.",
+          "rating": 4,
+          "date": "2024-06-29"
+        }
+      ]
+    },
+    "5": {
+      "id": 20,
+      "name": "Car Safety Triangle",
+      "description": "Warn other drivers of your vehicle's presence during roadside emergencies with this reflective safety triangle.",
+      "price": 9.99,
+      "category": "Car Safety Equipment",
+      "stock": 30,
+      "tags": ["car", "safety", "safety triangle"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_5.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "CustomerCC",
+          "comment": "Easy to set up and very visible at night.",
+          "rating": 5,
+          "date": "2024-06-28"
+        },
+        {
+          "user": "CustomerDD",
+          "comment": "Good triangle, but could have a sturdier base.",
+          "rating": 4,
+          "date": "2024-06-27"
+        }
+      ]
+    },
+    "6": {
+      "id": 21,
+      "name": "Car First Aid Kit",
+      "description": "Handle minor injuries and emergencies on the road with this compact first aid kit designed for cars.",
+      "price": 19.99,
+      "category": "Car Safety Equipment",
+      "stock": 25,
+      "tags": ["car", "safety", "first aid kit"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_6.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "CustomerEE",
+          "comment": "Comprehensive first aid kit, has all the essentials.",
+          "rating": 5,
+          "date": "2024-06-26"
+        },
+        {
+          "user": "CustomerFF",
+          "comment": "Good kit, but could include more variety in bandages.",
+          "rating": 4,
+          "date": "2024-06-25"
+        }
+      ]
+    },
+    "7": {
+      "id": 22,
+      "name": "Car Safety Seat Belt Cutter",
+      "description": "Quickly cut through seat belts in emergencies with this compact and sharp seat belt cutter.",
+      "price": 7.99,
+      "category": "Car Safety Equipment",
+      "stock": 20,
+      "tags": ["car", "safety", "seat belt cutter"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_7.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "CustomerGG",
+          "comment": "Very sharp and effective cutter.",
+          "rating": 5,
+          "date": "2024-06-24"
+        },
+        {
+          "user": "CustomerHH",
+          "comment": "Useful tool, but handle could be more ergonomic.",
+          "rating": 4,
+          "date": "2024-06-23"
+        }
+      ]
+    },
+    "8": {
+      "id": 23,
+      "name": "Car Safety Gloves",
+      "description": "Protect hands during emergency situations with these cut-resistant safety gloves.",
+      "price": 11.99,
+      "category": "Car Safety Equipment",
+      "stock": 15,
+      "tags": ["car", "safety", "safety gloves"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_8.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 24
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "CustomerII",
+          "comment": "Comfortable and protective gloves.",
+          "rating": 5,
+          "date": "2024-06-22"
+        },
+        {
+          "user": "CustomerJJ",
+          "comment": "Good quality, but sizing runs slightly small.",
+          "rating": 4,
+          "date": "2024-06-21"
+        }
+      ]
+    },
+    "9": {
+      "id": 24,
+      "name": "Car Safety Whistle",
+      "description": "Signal for help during emergencies with this loud and durable safety whistle.",
+      "price": 4.99,
+      "category": "Car Safety Equipment",
+      "stock": 25,
+      "tags": ["car", "safety", "safety whistle"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_9.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 22
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "CustomerKK",
+          "comment": "Very loud and effective whistle.",
+          "rating": 5,
+          "date": "2024-06-20"
+        },
+        {
+          "user": "CustomerLL",
+          "comment": "Good emergency tool, but could be attached to a lanyard.",
+          "rating": 4,
+          "date": "2024-06-19"
+        }
+      ]
+    },
+    "10": {
+      "id": 25,
+      "name": "Car Safety LED Flare",
+      "description": "Illuminate and alert others during roadside emergencies with this bright LED flare.",
+      "price": 19.99,
+      "category": "Car Safety Equipment",
+      "stock": 20,
+      "tags": ["car", "safety", "LED flare"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_10.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 65,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "CustomerMM",
+          "comment": "Bright and visible flare, great for emergencies.",
+          "rating": 5,
+          "date": "2024-06-18"
+        },
+        {
+          "user": "CustomerNN",
+          "comment": "Good product, but could have more flashing modes.",
+          "rating": 4,
+          "date": "2024-06-17"
+        }
+      ]
+    },
+    "11": {
+      "id": 26,
+      "name": "Car Safety Escape Tool",
+      "description": "Easily break car windows and cut seat belts in emergencies with this multifunctional escape tool.",
+      "price": 16.99,
+      "category": "Car Safety Equipment",
+      "stock": 15,
+      "tags": ["car", "safety", "escape tool"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_11.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 60,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "CustomerOO",
+          "comment": "Very useful tool, compact and easy to use.",
+          "rating": 5,
+          "date": "2024-06-16"
+        },
+        {
+          "user": "CustomerPP",
+          "comment": "Essential for emergencies, but handle could be more ergonomic.",
+          "rating": 4,
+          "date": "2024-06-15"
+        }
+      ]
+    },
+    "12": {
+      "id": 27,
+      "name": "Car Safety Warning Light",
+      "description": "Warn other drivers with this magnetic-mounted safety light for roadside emergencies.",
+      "price": 14.99,
+      "category": "Car Safety Equipment",
+      "stock": 20,
+      "tags": ["car", "safety", "warning light"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_12.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 55,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "CustomerQQ",
+          "comment": "Very bright and visible warning light.",
+          "rating": 5,
+          "date": "2024-06-14"
+        },
+        {
+          "user": "CustomerRR",
+          "comment": "Good light, but could have more mounting options.",
+          "rating": 4,
+          "date": "2024-06-13"
+        }
+      ]
+    },
+    "13": {
+      "id": 28,
+      "name": "Car Safety Seat Belt Adjuster",
+      "description": "Ensure a comfortable fit for seat belts with this adjustable safety seat belt adjuster.",
+      "price": 8.99,
+      "category": "Car Safety Equipment",
+      "stock": 25,
+      "tags": ["car", "safety", "seat belt adjuster"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_13.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 22
+      },
+      "sales": {
+        "totalSold": 50,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "CustomerSS",
+          "comment": "Helps in adjusting seat belts for better comfort.",
+          "rating": 5,
+          "date": "2024-06-12"
+        },
+        {
+          "user": "CustomerTT",
+          "comment": "Useful, but could be easier to install.",
+          "rating": 4,
+          "date": "2024-06-11"
+        }
+      ]
+    },
+    "14": {
+      "id": 29,
+      "name": "Car Safety Seat Belt Extender",
+      "description": "Extend the length of seat belts for a more comfortable fit with this car safety seat belt extender.",
+      "price": 11.99,
+      "category": "Car Safety Equipment",
+      "stock": 20,
+      "tags": ["car", "safety", "seat belt extender"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_14.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 24
+      },
+      "sales": {
+        "totalSold": 45,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "CustomerUU",
+          "comment": "Extends seat belts effectively, good quality.",
+          "rating": 5,
+          "date": "2024-06-10"
+        },
+        {
+          "user": "CustomerVV",
+          "comment": "Useful extender, but could have more length options.",
+          "rating": 4,
+          "date": "2024-06-09"
+        }
+      ]
+    },
+    "15": {
+      "id": 30,
+      "name": "Car Safety Headrest Hook",
+      "description": "Keep bags and belongings secure during travel with this convenient car safety headrest hook.",
+      "price": 6.99,
+      "category": "Car Safety Equipment",
+      "stock": 15,
+      "tags": ["car", "safety", "headrest hook"],
+      "image": "productimage/car_safety_equipment/car+safety+equipment_15.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 40,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "CustomerWW",
+          "comment": "Very handy hooks, keep my bags in place.",
+          "rating": 5,
+          "date": "2024-06-08"
+        },
+        {
+          "user": "CustomerXX",
+          "comment": "Good hooks, but could be sturdier for heavier bags.",
+          "rating": 4,
+          "date": "2024-06-07"
+        }
+      ]
+    }
+  },
+  "motorcycle_gear": {
+    "1": {
+      "id": 31,
+      "name": "Motorcycle Helmet",
+      "description": "Stay safe on the road with this DOT-certified motorcycle helmet.",
+      "price": 99.99,
+      "category": "Motorcycle Gear",
+      "stock": 20,
+      "tags": ["motorcycle", "gear", "helmet"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "RiderA",
+          "comment": "Excellent helmet, comfortable and stylish!",
+          "rating": 5,
+          "date": "2024-06-06"
+        },
+        {
+          "user": "RiderB",
+          "comment": "Good protection, fits well.",
+          "rating": 4,
+          "date": "2024-06-05"
+        }
+      ]
+    },
+    "2": {
+      "id": 32,
+      "name": "Motorcycle Jacket",
+      "description": "Protective and stylish jacket designed for motorcycle riders.",
+      "price": 149.99,
+      "category": "Motorcycle Gear",
+      "stock": 15,
+      "tags": ["motorcycle", "gear", "jacket"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_2.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "RiderC",
+          "comment": "Great jacket, provides good protection and looks cool.",
+          "rating": 5,
+          "date": "2024-06-04"
+        },
+        {
+          "user": "RiderD",
+          "comment": "Nice fit, but could use more ventilation.",
+          "rating": 4,
+          "date": "2024-06-03"
+        }
+      ]
+    },
+    "3": {
+      "id": 33,
+      "name": "Motorcycle Gloves",
+      "description": "Comfortable and durable gloves for better grip and protection while riding.",
+      "price": 29.99,
+      "category": "Motorcycle Gear",
+      "stock": 25,
+      "tags": ["motorcycle", "gear", "gloves"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_3.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "RiderE",
+          "comment": "Excellent gloves, very comfortable and protective.",
+          "rating": 5,
+          "date": "2024-06-02"
+        },
+        {
+          "user": "RiderF",
+          "comment": "Good quality, but a bit tight initially.",
+          "rating": 4,
+          "date": "2024-06-01"
+        }
+      ]
+    },
+    "4": {
+      "id": 34,
+      "name": "Motorcycle Boots",
+      "description": "Sturdy and protective boots designed for motorcycle riding.",
+      "price": 129.99,
+      "category": "Motorcycle Gear",
+      "stock": 20,
+      "tags": ["motorcycle", "gear", "boots"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_4.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "RiderG",
+          "comment": "Great boots, very protective and comfortable for long rides.",
+          "rating": 5,
+          "date": "2024-05-31"
+        },
+        {
+          "user": "RiderH",
+          "comment": "Good grip, but a bit heavy.",
+          "rating": 4,
+          "date": "2024-05-30"
+        }
+      ]
+    },
+    "5": {
+      "id": 35,
+      "name": "Motorcycle Rain Suit",
+      "description": "Stay dry and comfortable with this waterproof rain suit for motorcycle riders.",
+      "price": 59.99,
+      "category": "Motorcycle Gear",
+      "stock": 15,
+      "tags": ["motorcycle", "gear", "rain suit"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_5.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "RiderI",
+          "comment": "Keeps me dry in heavy rain, very effective.",
+          "rating": 5,
+          "date": "2024-05-29"
+        },
+        {
+          "user": "RiderJ",
+          "comment": "Good rain suit, but a bit bulky.",
+          "rating": 4,
+          "date": "2024-05-28"
+        }
+      ]
+    },
+    "6": {
+      "id": 36,
+      "name": "Motorcycle Backpack",
+      "description": "Convenient and durable backpack designed for motorcycle riders.",
+      "price": 39.99,
+      "category": "Motorcycle Gear",
+      "stock": 30,
+      "tags": ["motorcycle", "gear", "backpack"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_6.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "RiderK",
+          "comment": "Very practical backpack, holds all my essentials.",
+          "rating": 5,
+          "date": "2024-05-27"
+        },
+        {
+          "user": "RiderL",
+          "comment": "Good size, but could use more compartments.",
+          "rating": 4,
+          "date": "2024-05-26"
+        }
+      ]
+    },
+    "7": {
+      "id": 37,
+      "name": "Motorcycle Cover",
+      "description": "Protect your motorcycle from the elements with this durable and waterproof motorcycle cover.",
+      "price": 49.99,
+      "category": "Motorcycle Gear",
+      "stock": 25,
+      "tags": ["motorcycle", "gear", "cover"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_7.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "RiderM",
+          "comment": "Keeps my bike dry and protected from dust.",
+          "rating": 5,
+          "date": "2024-05-25"
+        },
+        {
+          "user": "RiderN",
+          "comment": "Good cover, but a bit tricky to put on.",
+          "rating": 4,
+          "date": "2024-05-24"
+        }
+      ]
+    },
+    "8": {
+      "id": 38,
+      "name": "Motorcycle Tool Kit",
+      "description": "Compact and essential toolkit for basic motorcycle maintenance and repairs.",
+      "price": 29.99,
+      "category": "Motorcycle Gear",
+      "stock": 20,
+      "tags": ["motorcycle", "gear", "tool kit"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_8.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 65,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "RiderO",
+          "comment": "Very handy toolkit for quick fixes on the road.",
+          "rating": 5,
+          "date": "2024-05-23"
+        },
+        {
+          "user": "RiderP",
+          "comment": "Good quality tools, but could use more variety.",
+          "rating": 4,
+          "date": "2024-05-22"
+        }
+      ]
+    },
+
+    "9": {
+      "id": 39,
+      "name": "Motorcycle Phone Mount",
+      "description": "Securely mount your phone on your motorcycle for easy navigation and hands-free calling.",
+      "price": 19.99,
+      "category": "Motorcycle Gear",
+      "stock": 25,
+      "tags": ["motorcycle", "gear", "phone mount"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_9.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "RiderQ",
+          "comment": "Sturdy mount, holds my phone securely even on bumpy roads.",
+          "rating": 5,
+          "date": "2024-05-21"
+        },
+        {
+          "user": "RiderR",
+          "comment": "Good product, but could use more adjustment options.",
+          "rating": 4,
+          "date": "2024-05-20"
+        }
+      ]
+    },
+    "10": {
+      "id": 40,
+      "name": "Motorcycle LED Lights",
+      "description": "Enhance visibility and style with these bright LED lights for motorcycles.",
+      "price": 49.99,
+      "category": "Motorcycle Gear",
+      "stock": 20,
+      "tags": ["motorcycle", "gear", "LED lights"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_10.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "RiderS",
+          "comment": "Awesome lights, really bright and easy to install.",
+          "rating": 5,
+          "date": "2024-05-19"
+        },
+        {
+          "user": "RiderT",
+          "comment": "Good visibility, but a bit pricey.",
+          "rating": 4,
+          "date": "2024-05-18"
+        }
+      ]
+    },
+    "11": {
+      "id": 41,
+      "name": "Motorcycle Exhaust System",
+      "description": "Upgrade your motorcycle's performance with this high-quality exhaust system.",
+      "price": 299.99,
+      "category": "Motorcycle Gear",
+      "stock": 15,
+      "tags": ["motorcycle", "gear", "exhaust system"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_11.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "RiderU",
+          "comment": "Significant improvement in sound and performance!",
+          "rating": 5,
+          "date": "2024-05-17"
+        },
+        {
+          "user": "RiderV",
+          "comment": "Expensive, but worth the upgrade.",
+          "rating": 4,
+          "date": "2024-05-16"
+        }
+      ]
+    },
+    "12": {
+      "id": 42,
+      "name": "Motorcycle Windshield",
+      "description": "Reduce wind buffeting and enhance comfort with this motorcycle windshield.",
+      "price": 79.99,
+      "category": "Motorcycle Gear",
+      "stock": 18,
+      "tags": ["motorcycle", "gear", "windshield"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_12.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "RiderW",
+          "comment": "Great windshield, reduces fatigue on long rides.",
+          "rating": 5,
+          "date": "2024-05-15"
+        },
+        {
+          "user": "RiderX",
+          "comment": "Good fit, but could be a bit taller.",
+          "rating": 4,
+          "date": "2024-05-14"
+        }
+      ]
+    },
+    "13": {
+      "id": 43,
+      "name": "Motorcycle Tank Bag",
+      "description": "Convenient storage solution for essentials on your motorcycle trips.",
+      "price": 59.99,
+      "category": "Motorcycle Gear",
+      "stock": 22,
+      "tags": ["motorcycle", "gear", "tank bag"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_13.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "RiderY",
+          "comment": "Very practical bag, holds all my essentials securely.",
+          "rating": 5,
+          "date": "2024-05-13"
+        },
+        {
+          "user": "RiderZ",
+          "comment": "Good quality, but could use more compartments.",
+          "rating": 4,
+          "date": "2024-05-12"
+        }
+      ]
+    },
+    "14": {
+      "id": 44,
+      "name": "Motorcycle Chain Lubricant",
+      "description": "Keep your motorcycle chain in top condition with this high-performance lubricant.",
+      "price": 14.99,
+      "category": "Motorcycle Gear",
+      "stock": 25,
+      "tags": ["motorcycle", "gear", "chain lubricant"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_14.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "RiderAA",
+          "comment": "Excellent lubricant, keeps my chain running smoothly.",
+          "rating": 5,
+          "date": "2024-05-11"
+        },
+        {
+          "user": "RiderBB",
+          "comment": "Good product, but a bit messy to apply.",
+          "rating": 4,
+          "date": "2024-05-10"
+        }
+      ]
+    },
+    "15": {
+      "id": 45,
+      "name": "Motorcycle Rearview Mirror",
+      "description": "Enhance visibility and safety with this adjustable motorcycle rearview mirror.",
+      "price": 29.99,
+      "category": "Motorcycle Gear",
+      "stock": 28,
+      "tags": ["motorcycle", "gear", "rearview mirror"],
+      "image": "productimage/motorcycle_gear/motorcycle+gear_15.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "RiderCC",
+          "comment": "Clear visibility, easy to adjust.",
+          "rating": 5,
+          "date": "2024-05-09"
+        },
+        {
+          "user": "RiderDD",
+          "comment": "Good mirror, but could be a bit larger.",
+          "rating": 4,
+          "date": "2024-05-08"
+        }
+      ]
+    }
+  },
+  "tires": {
+    "1": {
+      "id": 46,
+      "name": "High-Performance Car Tires",
+      "description": "Enhance your car's handling and performance with these high-quality tires.",
+      "price": 199.99,
+      "category": "Automotive Tires",
+      "stock": 15,
+      "tags": ["automotive", "tires", "high-performance"],
+      "image": "productimage/automotive/tires/tires_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "DriverA",
+          "comment": "Excellent tires, improved my car's handling noticeably.",
+          "rating": 5,
+          "date": "2024-04-01"
+        },
+        {
+          "user": "DriverB",
+          "comment": "Good grip, even in wet conditions.",
+          "rating": 4,
+          "date": "2024-03-31"
+        }
+      ]
+    },
+    "2": {
+      "id": 47,
+      "name": "All-Season Car Tires",
+      "description": "Versatile tires suitable for all weather conditions, providing comfort and reliability.",
+      "price": 159.99,
+      "category": "Automotive Tires",
+      "stock": 20,
+      "tags": ["automotive", "tires", "all-season"],
+      "image": "productimage/automotive/tires/tires_2.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "DriverC",
+          "comment": "Great all-around tires, good traction in rain and snow.",
+          "rating": 5,
+          "date": "2024-03-30"
+        },
+        {
+          "user": "DriverD",
+          "comment": "Comfortable ride, but wear out faster than expected.",
+          "rating": 4,
+          "date": "2024-03-29"
+        }
+      ]
+    },
+    "3": {
+      "id": 48,
+      "name": "Winter Car Tires",
+      "description": "Optimized for winter conditions, providing superior grip on snow and ice.",
+      "price": 189.99,
+      "category": "Automotive Tires",
+      "stock": 18,
+      "tags": ["automotive", "tires", "winter"],
+      "image": "productimage/automotive/tires/tires_3.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "DriverE",
+          "comment": "Excellent winter tires, great handling on icy roads.",
+          "rating": 5,
+          "date": "2024-03-28"
+        },
+        {
+          "user": "DriverF",
+          "comment": "Good traction, but a bit noisy on dry roads.",
+          "rating": 4,
+          "date": "2024-03-27"
+        }
+      ]
+    },
+    "4": {
+      "id": 49,
+      "name": "Performance Car Tires",
+      "description": "Designed for sports cars, offering enhanced cornering and responsiveness.",
+      "price": 219.99,
+      "category": "Automotive Tires",
+      "stock": 16,
+      "tags": ["automotive", "tires", "performance"],
+      "image": "productimage/automotive/tires/tires_4.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 105,
+        "soldThisMonth": 9
+      },
+      "reviews": [
+        {
+          "user": "DriverG",
+          "comment": "Outstanding performance tires, perfect for spirited driving.",
+          "rating": 5,
+          "date": "2024-03-26"
+        },
+        {
+          "user": "DriverH",
+          "comment": "Expensive but worth every penny.",
+          "rating": 5,
+          "date": "2024-03-25"
+        }
+      ]
+    },
+    "5": {
+      "id": 50,
+      "name": "Off-Road Car Tires",
+      "description": "Durable tires designed for off-road adventures, providing excellent traction on rough terrain.",
+      "price": 179.99,
+      "category": "Automotive Tires",
+      "stock": 22,
+      "tags": ["automotive", "tires", "off-road"],
+      "image": "productimage/automotive/tires/tires_5.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "DriverI",
+          "comment": "Solid off-road tires, haven't let me down yet.",
+          "rating": 5,
+          "date": "2024-03-24"
+        },
+        {
+          "user": "DriverJ",
+          "comment": "Good grip, but a bit noisy on pavement.",
+          "rating": 4,
+          "date": "2024-03-23"
+        }
+      ]
+    },
+    "6": {
+      "id": 51,
+      "name": "Eco-Friendly Car Tires",
+      "description": "Environmentally friendly tires, offering low rolling resistance and improved fuel efficiency.",
+      "price": 169.99,
+      "category": "Automotive Tires",
+      "stock": 25,
+      "tags": ["automotive", "tires", "eco-friendly"],
+      "image": "productimage/automotive/tires/tires_6.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "DriverK",
+          "comment": "Noticeable improvement in fuel economy with these tires.",
+          "rating": 5,
+          "date": "2024-03-22"
+        },
+        {
+          "user": "DriverL",
+          "comment": "Good for the environment, but slightly less grip.",
+          "rating": 4,
+          "date": "2024-03-21"
+        }
+      ]
+    },
+    "7": {
+      "id": 52,
+      "name": "Touring Car Tires",
+      "description": "Comfortable and quiet tires, ideal for long-distance driving.",
+      "price": 179.99,
+      "category": "Automotive Tires",
+      "stock": 20,
+      "tags": ["automotive", "tires", "touring"],
+      "image": "productimage/automotive/tires/tires_7.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "DriverM",
+          "comment": "Smooth ride, great for highway driving.",
+          "rating": 5,
+          "date": "2024-03-20"
+        },
+        {
+          "user": "DriverN",
+          "comment": "Comfortable, but could be more responsive.",
+          "rating": 4,
+          "date": "2024-03-19"
+        }
+      ]
+    },
+    "8": {
+      "id": 53,
+      "name": "SUV Car Tires",
+      "description": "Designed for SUVs, providing stability and traction both on and off-road.",
+      "price": 189.99,
+      "category": "Automotive Tires",
+      "stock": 18,
+      "tags": ["automotive", "tires", "SUV"],
+      "image": "productimage/automotive/tires/tires_8.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "DriverO",
+          "comment": "Great traction on various terrains, perfect for my SUV.",
+          "rating": 5,
+          "date": "2024-03-18"
+        },
+        {
+          "user": "DriverP",
+          "comment": "Good durability, but a bit noisy on highways.",
+          "rating": 4,
+          "date": "2024-03-17"
+        }
+      ]
+    },
+    "9": {
+      "id": 54,
+      "name": "Run-Flat Car Tires",
+      "description": "Tires designed to keep performing even after a puncture, allowing safe driving to a repair shop.",
+      "price": 209.99,
+      "category": "Automotive Tires",
+      "stock": 16,
+      "tags": ["automotive", "tires", "run-flat"],
+      "image": "productimage/automotive/tires/tires_9.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "DriverQ",
+          "comment": "Saved me from being stranded, worth every penny.",
+          "rating": 5,
+          "date": "2024-03-16"
+        },
+        {
+          "user": "DriverR",
+          "comment": "Great concept, but a bit harsher ride.",
+          "rating": 4,
+          "date": "2024-03-15"
+        }
+      ]
+    },
+    "10": {
+      "id": 55,
+      "name": "Budget Car Tires",
+      "description": "Affordable tires without compromising on safety and performance.",
+      "price": 139.99,
+      "category": "Automotive Tires",
+      "stock": 20,
+      "tags": ["automotive", "tires", "budget"],
+      "image": "productimage/automotive/tires/tires_10.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "DriverS",
+          "comment": "Great value for money, good grip.",
+          "rating": 5,
+          "date": "2024-03-14"
+        },
+        {
+          "user": "DriverT",
+          "comment": "Decent tires for the price, but wear out faster.",
+          "rating": 4,
+          "date": "2024-03-13"
+        }
+      ]
+    },
+    "11": {
+      "id": 56,
+      "name": "Summer Car Tires",
+      "description": "Optimized for hot weather conditions, offering excellent performance and handling.",
+      "price": 169.99,
+      "category": "Automotive Tires",
+      "stock": 18,
+      "tags": ["automotive", "tires", "summer"],
+      "image": "productimage/automotive/tires/tires_11.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "DriverU",
+          "comment": "Excellent grip on dry roads, very responsive.",
+          "rating": 5,
+          "date": "2024-03-12"
+        },
+        {
+          "user": "DriverV",
+          "comment": "Good performance, but wear out quicker than expected.",
+          "rating": 4,
+          "date": "2024-03-11"
+        }
+      ]
+    },
+    "12": {
+      "id": 57,
+      "name": "Truck Car Tires",
+      "description": "Heavy-duty tires designed for trucks, providing durability and strength for tough conditions.",
+      "price": 229.99,
+      "category": "Automotive Tires",
+      "stock": 15,
+      "tags": ["automotive", "tires", "truck"],
+      "image": "productimage/automotive/tires/tires_12.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "DriverW",
+          "comment": "Impressive durability and performance on my truck.",
+          "rating": 5,
+          "date": "2024-03-10"
+        },
+        {
+          "user": "DriverX",
+          "comment": "Expensive, but worth it for the reliability.",
+          "rating": 5,
+          "date": "2024-03-09"
+        }
+      ]
+    },
+    "13": {
+      "id": 58,
+      "name": "Vintage Car Tires",
+      "description": "Classic style tires designed for vintage cars, combining looks with modern performance.",
+      "price": 199.99,
+      "category": "Automotive Tires",
+      "stock": 20,
+      "tags": ["automotive", "tires", "vintage"],
+      "image": "productimage/automotive/tires/tires_13.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "DriverY",
+          "comment": "Perfect match for my vintage car, looks fantastic.",
+          "rating": 5,
+          "date": "2024-03-08"
+        },
+        {
+          "user": "DriverZ",
+          "comment": "Good performance, but a bit pricey for vintage tires.",
+          "rating": 4,
+          "date": "2024-03-07"
+        }
+      ]
+    },
+    "14": {
+      "id": 59,
+      "name": "Electric Car Tires",
+      "description": "Specialized tires optimized for electric vehicles, offering low rolling resistance and extended range.",
+      "price": 189.99,
+      "category": "Automotive Tires",
+      "stock": 18,
+      "tags": ["automotive", "tires", "electric"],
+      "image": "productimage/automotive/tires/tires_14.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "DriverAA",
+          "comment": "Great tires for my electric car, noticeable efficiency gains.",
+          "rating": 5,
+          "date": "2024-03-06"
+        },
+        {
+          "user": "DriverBB",
+          "comment": "Excellent performance, but a bit expensive.",
+          "rating": 4,
+          "date": "2024-03-05"
+        }
+      ]
+    },
+    "15": {
+      "id": 60,
+      "name": "Compact Car Tires",
+      "description": "Compact and efficient tires suitable for smaller cars, offering good handling and mileage.",
+      "price": 159.99,
+      "category": "Automotive Tires",
+      "stock": 16,
+      "tags": ["automotive", "tires", "compact"],
+      "image": "productimage/automotive/tires/tires_15.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "DriverCC",
+          "comment": "Perfect fit for my compact car, great value.",
+          "rating": 5,
+          "date": "2024-03-04"
+        },
+        {
+          "user": "DriverDD",
+          "comment": "Good performance, but could be quieter.",
+          "rating": 4,
+          "date": "2024-03-03"
+        }
+      ]
+    }
+  },
+  "tools": {
+    "1": {
+      "id": 61,
+      "name": "Tool Set",
+      "description": "Comprehensive tool set for various mechanical and DIY tasks.",
+      "price": 199.99,
+      "category": "Tools",
+      "stock": 25,
+      "tags": ["tools", "DIY", "mechanical"],
+      "image": "productimage/tools/tools_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "MechanicX",
+          "comment": "Excellent tool set, very durable and useful.",
+          "rating": 5,
+          "date": "2024-03-02"
+        },
+        {
+          "user": "DIYEnthusiastY",
+          "comment": "Great value for the price, good variety of tools.",
+          "rating": 4,
+          "date": "2024-03-01"
+        }
+      ]
+    },
+    "2": {
+      "id": 62,
+      "name": "Power Drill",
+      "description": "High-performance cordless drill for drilling and screwdriving tasks.",
+      "price": 129.99,
+      "category": "Tools",
+      "stock": 30,
+      "tags": ["tools", "drill", "cordless"],
+      "image": "productimage/tools/tools_2.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "HandymanA",
+          "comment": "Powerful drill, great for home projects.",
+          "rating": 5,
+          "date": "2024-03-14"
+        },
+        {
+          "user": "DIYEnthusiastB",
+          "comment": "Good battery life, sturdy build.",
+          "rating": 4,
+          "date": "2024-03-13"
+        }
+      ]
+    },
+    "3": {
+      "id": 63,
+      "name": "Toolbox Organizer",
+      "description": "Compact organizer for storing and carrying tools.",
+      "price": 39.99,
+      "category": "Tools",
+      "stock": 35,
+      "tags": ["tools", "organizer", "storage"],
+      "image": "productimage/tools/tools_3.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "HandymanC",
+          "comment": "Very handy organizer, keeps everything in place.",
+          "rating": 5,
+          "date": "2024-03-12"
+        },
+        {
+          "user": "DIYEnthusiastD",
+          "comment": "Could be a bit more spacious, but good quality.",
+          "rating": 4,
+          "date": "2024-03-11"
+        }
+      ]
+    },
+    "4": {
+      "id": 64,
+      "name": "Hammer Set",
+      "description": "Set of durable hammers for various construction and demolition tasks.",
+      "price": 49.99,
+      "category": "Tools",
+      "stock": 20,
+      "tags": ["tools", "hammer", "construction"],
+      "image": "productimage/tools/tools_4.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "ContractorX",
+          "comment": "Excellent hammer set, very sturdy.",
+          "rating": 5,
+          "date": "2024-03-10"
+        },
+        {
+          "user": "DIYEnthusiastY",
+          "comment": "Good variety of hammers, handles well.",
+          "rating": 4,
+          "date": "2024-03-09"
+        }
+      ]
+    },
+    "5": {
+      "id": 65,
+      "name": "Screwdriver Kit",
+      "description": "Comprehensive set of screwdrivers for precision and general use.",
+      "price": 24.99,
+      "category": "Tools",
+      "stock": 25,
+      "tags": ["tools", "screwdriver", "kit"],
+      "image": "productimage/tools/tools_5.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "HandymanE",
+          "comment": "Great set of screwdrivers, comfortable grip.",
+          "rating": 5,
+          "date": "2024-03-08"
+        },
+        {
+          "user": "DIYEnthusiastF",
+          "comment": "High-quality screwdrivers, versatile.",
+          "rating": 4,
+          "date": "2024-03-07"
+        }
+      ]
+    },
+    "6": {
+      "id": 66,
+      "name": "Pliers Set",
+      "description": "Set of ergonomic pliers for gripping, bending, and cutting tasks.",
+      "price": 34.99,
+      "category": "Tools",
+      "stock": 30,
+      "tags": ["tools", "pliers", "set"],
+      "image": "productimage/tools/tools_6.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "HandymanG",
+          "comment": "Solid pliers set, very handy in the workshop.",
+          "rating": 5,
+          "date": "2024-03-06"
+        },
+        {
+          "user": "DIYEnthusiastH",
+          "comment": "Good grip, durable build.",
+          "rating": 4,
+          "date": "2024-03-05"
+        }
+      ]
+    },
+    "7": {
+      "id": 67,
+      "name": "Measuring Tape",
+      "description": "Durable and accurate measuring tape for precise measurements.",
+      "price": 12.99,
+      "category": "Tools",
+      "stock": 28,
+      "tags": ["tools", "measuring tape", "measurement"],
+      "image": "productimage/tools/tools_7.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "ContractorA",
+          "comment": "Very accurate tape measure, essential for my work.",
+          "rating": 5,
+          "date": "2024-03-04"
+        },
+        {
+          "user": "DIYEnthusiastB",
+          "comment": "Good value for money, sturdy construction.",
+          "rating": 4,
+          "date": "2024-03-03"
+        }
+      ]
+    },
+    "8": {
+      "id": 68,
+      "name": "Utility Knife",
+      "description": "Versatile utility knife for cutting various materials with precision.",
+      "price": 15.99,
+      "category": "Tools",
+      "stock": 26,
+      "tags": ["tools", "utility knife", "cutting"],
+      "image": "productimage/tools/tools_8.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 27
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "HandymanC",
+          "comment": "Sharp and reliable knife, useful in many situations.",
+          "rating": 5,
+          "date": "2024-03-02"
+        },
+        {
+          "user": "DIYEnthusiastD",
+          "comment": "Good grip, easy blade replacement.",
+          "rating": 4,
+          "date": "2024-03-01"
+        }
+      ]
+    },
+    "9": {
+      "id": 69,
+      "name": "Cordless Screwdriver",
+      "description": "Compact and powerful cordless screwdriver for quick and easy screwdriving tasks.",
+      "price": 29.99,
+      "category": "Tools",
+      "stock": 24,
+      "tags": ["tools", "screwdriver", "cordless"],
+      "image": "productimage/tools/tools_9.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "HandymanE",
+          "comment": "Handy tool, good battery life.",
+          "rating": 5,
+          "date": "2024-02-29"
+        },
+        {
+          "user": "DIYEnthusiastF",
+          "comment": "Efficient and compact, great for small projects.",
+          "rating": 4,
+          "date": "2024-02-28"
+        }
+      ]
+    },
+    "10": {
+      "id": 70,
+      "name": "Tool Belt",
+      "description": "Durable tool belt for easy access to tools during work.",
+      "price": 19.99,
+      "category": "Tools",
+      "stock": 22,
+      "tags": ["tools", "tool belt", "construction"],
+      "image": "productimage/tools/tools_10.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "ContractorX",
+          "comment": "Very practical tool belt, holds everything securely.",
+          "rating": 5,
+          "date": "2024-02-27"
+        },
+        {
+          "user": "DIYEnthusiastY",
+          "comment": "Comfortable to wear, good quality materials.",
+          "rating": 4,
+          "date": "2024-02-26"
+        }
+      ]
+    },
+    "11": {
+      "id": 71,
+      "name": "Angle Grinder",
+      "description": "Powerful angle grinder for cutting and grinding metal, tile, and concrete.",
+      "price": 79.99,
+      "category": "Tools",
+      "stock": 18,
+      "tags": ["tools", "angle grinder", "cutting"],
+      "image": "productimage/tools/tools_11.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "ContractorA",
+          "comment": "Excellent grinder, powerful and precise.",
+          "rating": 5,
+          "date": "2024-02-25"
+        },
+        {
+          "user": "DIYEnthusiastB",
+          "comment": "Versatile tool, good for home improvement projects.",
+          "rating": 4,
+          "date": "2024-02-24"
+        }
+      ]
+    },
+    "12": {
+      "id": 72,
+      "name": "Electric Drill",
+      "description": "Versatile electric drill for drilling holes and driving screws.",
+      "price": 59.99,
+      "category": "Tools",
+      "stock": 20,
+      "tags": ["tools", "electric drill", "drilling"],
+      "image": "productimage/tools/tools_12.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "HandymanC",
+          "comment": "Reliable electric drill, good power.",
+          "rating": 5,
+          "date": "2024-02-23"
+        },
+        {
+          "user": "DIYEnthusiastD",
+          "comment": "Easy to use, good for both beginners and pros.",
+          "rating": 4,
+          "date": "2024-02-22"
+        }
+      ]
+    },
+    "13": {
+      "id": 73,
+      "name": "Adjustable Wrench Set",
+      "description": "Set of adjustable wrenches for tightening and loosening bolts and nuts.",
+      "price": 29.99,
+      "category": "Tools",
+      "stock": 22,
+      "tags": ["tools", "adjustable wrench", "wrench set"],
+      "image": "productimage/tools/tools_13.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "ContractorX",
+          "comment": "Solid wrench set, good range of sizes.",
+          "rating": 5,
+          "date": "2024-02-21"
+        },
+        {
+          "user": "DIYEnthusiastY",
+          "comment": "Handles well, sturdy build.",
+          "rating": 4,
+          "date": "2024-02-20"
+        }
+      ]
+    },
+    "14": {
+      "id": 74,
+      "name": "Multi-Tool",
+      "description": "Versatile multi-tool for various tasks including cutting, sawing, and sanding.",
+      "price": 49.99,
+      "category": "Tools",
+      "stock": 18,
+      "tags": ["tools", "multi-tool", "versatile"],
+      "image": "productimage/tools/tools_14.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "HandymanE",
+          "comment": "Very handy tool, good variety of attachments.",
+          "rating": 5,
+          "date": "2024-02-19"
+        },
+        {
+          "user": "DIYEnthusiastF",
+          "comment": "Well-built, performs tasks effectively.",
+          "rating": 4,
+          "date": "2024-02-18"
+        }
+      ]
+    },
+    "15": {
+      "id": 75,
+      "name": "Workshop Vacuum Cleaner",
+      "description": "Powerful vacuum cleaner for cleaning workshop floors and work areas.",
+      "price": 149.99,
+      "category": "Tools",
+      "stock": 16,
+      "tags": ["tools", "vacuum cleaner", "workshop"],
+      "image": "productimage/tools/tools_15.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "ContractorA",
+          "comment": "Excellent vacuum cleaner, powerful suction.",
+          "rating": 5,
+          "date": "2024-02-17"
+        },
+        {
+          "user": "DIYEnthusiastB",
+          "comment": "Great for cleaning up after DIY projects.",
+          "rating": 4,
+          "date": "2024-02-16"
+        }
+      ]
+    }
+  }
+}

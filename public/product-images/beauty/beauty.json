@@ -1,0 +1,4891 @@
+{
+  "bath_product": {
+    "1": {
+      "id": 76,
+      "name": "Luxury Bath Towel Set",
+      "description": "Soft and absorbent towel set for a luxurious bathing experience.",
+      "price": 49.99,
+      "category": "Bath Products",
+      "stock": 25,
+      "tags": ["bath products", "towel set", "luxury"],
+      "image": "productimage/bath_products/bath+products_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "LuxuryLover",
+          "comment": "Extremely soft and plush, feels amazing.",
+          "rating": 5,
+          "date": "2024-02-15"
+        },
+        {
+          "user": "SpaGoer",
+          "comment": "Great quality towels, perfect for my spa days.",
+          "rating": 4,
+          "date": "2024-02-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 77,
+      "name": "Bathrobe",
+      "description": "Comfortable and cozy bathrobe for lounging after a bath or shower.",
+      "price": 39.99,
+      "category": "Bath Products",
+      "stock": 30,
+      "tags": ["bath products", "bathrobe", "comfort"],
+      "image": "productimage/bath_products/bath+products_2.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CozyCustomer",
+          "comment": "Lovely bathrobe, very soft and warm.",
+          "rating": 5,
+          "date": "2024-02-13"
+        },
+        {
+          "user": "RelaxationFan",
+          "comment": "Perfect for lounging, good quality fabric.",
+          "rating": 4,
+          "date": "2024-02-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 78,
+      "name": "Shower Gel",
+      "description": "Refreshing shower gel with a revitalizing scent.",
+      "price": 12.99,
+      "category": "Bath Products",
+      "stock": 35,
+      "tags": ["bath products", "shower gel", "refreshing"],
+      "image": "productimage/bath_products/bath+products_3.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "ScentLover",
+          "comment": "Great fragrance, lathers well.",
+          "rating": 5,
+          "date": "2024-02-11"
+        },
+        {
+          "user": "CleanFeeling",
+          "comment": "Leaves skin feeling fresh and clean.",
+          "rating": 4,
+          "date": "2024-02-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 79,
+      "name": "Bath Bomb Set",
+      "description": "Set of luxurious bath bombs for a relaxing bath experience.",
+      "price": 24.99,
+      "category": "Bath Products",
+      "stock": 20,
+      "tags": ["bath products", "bath bombs", "luxury"],
+      "image": "productimage/bath_products/bath+products_4.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "BathEnthusiast",
+          "comment": "Beautiful colors and scents, very relaxing.",
+          "rating": 5,
+          "date": "2024-02-09"
+        },
+        {
+          "user": "SpaLover",
+          "comment": "Lovely addition to my bath routine.",
+          "rating": 4,
+          "date": "2024-02-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 80,
+      "name": "Body Lotion",
+      "description": "Moisturizing body lotion with a soothing effect on the skin.",
+      "price": 19.99,
+      "category": "Bath Products",
+      "stock": 25,
+      "tags": ["bath products", "body lotion", "moisturizing"],
+      "image": "productimage/bath_products/bath+products_5.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "SkinCareFan",
+          "comment": "Keeps my skin soft and hydrated all day.",
+          "rating": 5,
+          "date": "2024-02-07"
+        },
+        {
+          "user": "RelaxationSeeker",
+          "comment": "Nice fragrance, absorbs well into the skin.",
+          "rating": 4,
+          "date": "2024-02-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 81,
+      "name": "Bath Mat",
+      "description": "Absorbent and non-slip bath mat for safety and comfort.",
+      "price": 14.99,
+      "category": "Bath Products",
+      "stock": 30,
+      "tags": ["bath products", "bath mat", "comfort"],
+      "image": "productimage/bath_products/bath+products_6.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "ComfortFirst",
+          "comment": "Soft and stays in place, good quality.",
+          "rating": 5,
+          "date": "2024-02-05"
+        },
+        {
+          "user": "HomeSpa",
+          "comment": "Nice addition to my bathroom, absorbs water well.",
+          "rating": 4,
+          "date": "2024-02-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 82,
+      "name": "Shower Caddy",
+      "description": "Convenient shower caddy for organizing bath essentials.",
+      "price": 19.99,
+      "category": "Bath Products",
+      "stock": 28,
+      "tags": ["bath products", "shower caddy", "organization"],
+      "image": "productimage/bath_products/bath+products_7.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "OrganizationFan",
+          "comment": "Very handy for keeping everything organized in the shower.",
+          "rating": 5,
+          "date": "2024-02-03"
+        },
+        {
+          "user": "BathEnthusiast",
+          "comment": "Sturdy and practical, fits all my shower essentials.",
+          "rating": 4,
+          "date": "2024-02-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 83,
+      "name": "Bath Sponge",
+      "description": "Soft and gentle bath sponge for cleansing and exfoliating the skin.",
+      "price": 9.99,
+      "category": "Bath Products",
+      "stock": 26,
+      "tags": ["bath products", "bath sponge", "exfoliating"],
+      "image": "productimage/bath_products/bath+products_8.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 27
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "SkinCareFan",
+          "comment": "Gentle on the skin, helps with exfoliation.",
+          "rating": 5,
+          "date": "2024-02-01"
+        },
+        {
+          "user": "CleanFeeling",
+          "comment": "Nice texture, good for daily use.",
+          "rating": 4,
+          "date": "2024-01-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 84,
+      "name": "Bath Salts",
+      "description": "Relaxing bath salts with natural minerals for a soothing bath experience.",
+      "price": 16.99,
+      "category": "Bath Products",
+      "stock": 24,
+      "tags": ["bath products", "bath salts", "relaxing"],
+      "image": "productimage/bath_products/bath+products_9.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "RelaxationSeeker",
+          "comment": "Very relaxing, melts away stress.",
+          "rating": 5,
+          "date": "2024-01-30"
+        },
+        {
+          "user": "SpaDay",
+          "comment": "Lovely fragrance, dissolves well in the bath.",
+          "rating": 4,
+          "date": "2024-01-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 85,
+      "name": "Bath Tray",
+      "description": "Stylish bath tray for holding books, wine, and bath accessories.",
+      "price": 29.99,
+      "category": "Bath Products",
+      "stock": 22,
+      "tags": ["bath products", "bath tray", "luxury"],
+      "image": "productimage/bath_products/bath+products_10.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "RelaxationFan",
+          "comment": "Great addition to my bath time relaxation.",
+          "rating": 5,
+          "date": "2024-01-28"
+        },
+        {
+          "user": "BathEnthusiast",
+          "comment": "Sturdy and looks elegant in my bathroom.",
+          "rating": 4,
+          "date": "2024-01-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 86,
+      "name": "Bath Brush",
+      "description": "Gentle bath brush for exfoliating and massaging the skin.",
+      "price": 12.99,
+      "category": "Bath Products",
+      "stock": 18,
+      "tags": ["bath products", "bath brush", "exfoliating"],
+      "image": "productimage/bath_products/bath+products_11.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "SkinCareFan",
+          "comment": "Nice bristles, feels great on the skin.",
+          "rating": 5,
+          "date": "2024-01-26"
+        },
+        {
+          "user": "CleanFeeling",
+          "comment": "Helps with circulation, good for dry brushing.",
+          "rating": 4,
+          "date": "2024-01-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 87,
+      "name": "Bubble Bath",
+      "description": "Fun bubble bath for a relaxing and enjoyable bath time.",
+      "price": 14.99,
+      "category": "Bath Products",
+      "stock": 20,
+      "tags": ["bath products", "bubble bath", "relaxing"],
+      "image": "productimage/bath_products/bath+products_12.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "BathEnthusiast",
+          "comment": "Lots of bubbles, nice fragrance.",
+          "rating": 5,
+          "date": "2024-01-24"
+        },
+        {
+          "user": "RelaxationSeeker",
+          "comment": "Great for a relaxing bath after a long day.",
+          "rating": 4,
+          "date": "2024-01-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 88,
+      "name": "Shower Cap",
+      "description": "Waterproof shower cap to keep hair dry while showering or bathing.",
+      "price": 9.99,
+      "category": "Bath Products",
+      "stock": 16,
+      "tags": ["bath products", "shower cap", "waterproof"],
+      "image": "productimage/bath_products/bath+products_13.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "ShowerCapUser",
+          "comment": "Keeps my hair dry and stays in place.",
+          "rating": 5,
+          "date": "2024-01-22"
+        },
+        {
+          "user": "ShowerLover",
+          "comment": "Good fit and comfortable to wear.",
+          "rating": 4,
+          "date": "2024-01-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 89,
+      "name": "Bath Pillow",
+      "description": "Soft and supportive bath pillow for a comfortable bathing experience.",
+      "price": 19.99,
+      "category": "Bath Products",
+      "stock": 18,
+      "tags": ["bath products", "bath pillow", "comfort"],
+      "image": "productimage/bath_products/bath+products_14.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "RelaxationFan",
+          "comment": "Very comfortable, supports my neck and back.",
+          "rating": 5,
+          "date": "2024-01-20"
+        },
+        {
+          "user": "BathEnthusiast",
+          "comment": "Great addition to my bath routine.",
+          "rating": 4,
+          "date": "2024-01-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 90,
+      "name": "Bathrobe for Kids",
+      "description": "Soft and cute bathrobe for kids to stay warm and cozy after bath time.",
+      "price": 29.99,
+      "category": "Bath Products",
+      "stock": 16,
+      "tags": ["bath products", "kids bathrobe", "cozy"],
+      "image": "productimage/bath_products/bath+products_15.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "ParentReviewer",
+          "comment": "Adorable bathrobe, soft fabric.",
+          "rating": 5,
+          "date": "2024-01-18"
+        },
+        {
+          "user": "CozyKids",
+          "comment": "Keeps my child warm after bath time.",
+          "rating": 4,
+          "date": "2024-01-17"
+        }
+      ]
+    }
+  },
+  "beauty_tools": {
+    "1": {
+      "id": 91,
+      "name": "Makeup Brush Set",
+      "description": "High-quality makeup brush set for professional makeup application.",
+      "price": 29.99,
+      "category": "Beauty Tools",
+      "stock": 25,
+      "tags": ["beauty tools", "makeup brushes", "professional"],
+      "image": "productimage/beauty_tools/beauty+tools_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "MakeupArtist",
+          "comment": "Great variety and quality brushes.",
+          "rating": 5,
+          "date": "2024-01-16"
+        },
+        {
+          "user": "BeautyFan",
+          "comment": "Soft bristles, blends makeup flawlessly.",
+          "rating": 4,
+          "date": "2024-01-15"
+        }
+      ]
+    },
+    "2": {
+      "id": 92,
+      "name": "Facial Cleansing Brush",
+      "description": "Electric facial cleansing brush for deep cleansing and exfoliation.",
+      "price": 39.99,
+      "category": "Beauty Tools",
+      "stock": 30,
+      "tags": ["beauty tools", "cleansing brush", "facial care"],
+      "image": "productimage/beauty_tools/beauty+tools_2.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "SkinCareAddict",
+          "comment": "Leaves my skin feeling clean and smooth.",
+          "rating": 5,
+          "date": "2024-01-14"
+        },
+        {
+          "user": "BeautyEnthusiast",
+          "comment": "Gentle yet effective, great for daily use.",
+          "rating": 4,
+          "date": "2024-01-13"
+        }
+      ]
+    },
+    "3": {
+      "id": 93,
+      "name": "Eyelash Curler",
+      "description": "Precision eyelash curler for enhancing lash curl and definition.",
+      "price": 12.99,
+      "category": "Beauty Tools",
+      "stock": 35,
+      "tags": ["beauty tools", "eyelash curler", "lash curl"],
+      "image": "productimage/beauty_tools/beauty+tools_3.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "LashLover",
+          "comment": "Creates a beautiful curl, easy to use.",
+          "rating": 5,
+          "date": "2024-01-12"
+        },
+        {
+          "user": "MakeupFanatic",
+          "comment": "Sturdy design, curls lashes effectively.",
+          "rating": 4,
+          "date": "2024-01-11"
+        }
+      ]
+    },
+    "4": {
+      "id": 94,
+      "name": "Hair Straightener",
+      "description": "Ceramic hair straightener for sleek and smooth hair styling.",
+      "price": 49.99,
+      "category": "Beauty Tools",
+      "stock": 20,
+      "tags": ["beauty tools", "hair straightener", "hair styling"],
+      "image": "productimage/beauty_tools/beauty+tools_4.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "HairCarePro",
+          "comment": "Heats up quickly, leaves hair silky.",
+          "rating": 5,
+          "date": "2024-01-10"
+        },
+        {
+          "user": "StyleEnthusiast",
+          "comment": "Smooth glide, doesn't damage hair.",
+          "rating": 4,
+          "date": "2024-01-09"
+        }
+      ]
+    },
+    "5": {
+      "id": 95,
+      "name": "Nail Polish Set",
+      "description": "Set of vibrant nail polish colors for trendy nail art and styling.",
+      "price": 19.99,
+      "category": "Beauty Tools",
+      "stock": 25,
+      "tags": ["beauty tools", "nail polish", "nail art"],
+      "image": "productimage/beauty_tools/beauty+tools_5.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "NailArtFanatic",
+          "comment": "Beautiful colors, long-lasting.",
+          "rating": 5,
+          "date": "2024-01-08"
+        },
+        {
+          "user": "BeautyLover",
+          "comment": "Smooth application, great variety.",
+          "rating": 4,
+          "date": "2024-01-07"
+        }
+      ]
+    },
+    "6": {
+      "id": 96,
+      "name": "Makeup Mirror",
+      "description": "LED makeup mirror with adjustable brightness for perfect makeup application.",
+      "price": 34.99,
+      "category": "Beauty Tools",
+      "stock": 30,
+      "tags": ["beauty tools", "makeup mirror", "LED"],
+      "image": "productimage/beauty_tools/beauty+tools_6.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "MakeupAddict",
+          "comment": "Great lighting, helps with detailed makeup.",
+          "rating": 5,
+          "date": "2024-01-06"
+        },
+        {
+          "user": "BeautyEnthusiast",
+          "comment": "Clear reflection, love the adjustable settings.",
+          "rating": 4,
+          "date": "2024-01-05"
+        }
+      ]
+    },
+    "7": {
+      "id": 97,
+      "name": "Makeup Organizer",
+      "description": "Spacious makeup organizer with compartments for easy storage and access.",
+      "price": 19.99,
+      "category": "Beauty Tools",
+      "stock": 28,
+      "tags": ["beauty tools", "makeup organizer", "storage"],
+      "image": "productimage/beauty_tools/beauty+tools_7.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "OrganizationFan",
+          "comment": "Keeps my makeup neatly organized.",
+          "rating": 5,
+          "date": "2024-01-04"
+        },
+        {
+          "user": "MakeupLover",
+          "comment": "Good size, fits all my makeup essentials.",
+          "rating": 4,
+          "date": "2024-01-03"
+        }
+      ]
+    },
+    "8": {
+      "id": 98,
+      "name": "Facial Hair Remover",
+      "description": "Gentle facial hair remover for precise and painless hair removal.",
+      "price": 14.99,
+      "category": "Beauty Tools",
+      "stock": 26,
+      "tags": ["beauty tools", "hair remover", "facial care"],
+      "image": "productimage/beauty_tools/beauty+tools_8.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 27
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "SkinCareFan",
+          "comment": "Very effective and easy to use.",
+          "rating": 5,
+          "date": "2024-01-02"
+        },
+        {
+          "user": "SmoothSkin",
+          "comment": "Gentle on the skin, no irritation.",
+          "rating": 4,
+          "date": "2024-01-01"
+        }
+      ]
+    },
+    "9": {
+      "id": 99,
+      "name": "Eyebrow Tweezers",
+      "description": "Precision eyebrow tweezers for shaping and grooming eyebrows.",
+      "price": 9.99,
+      "category": "Beauty Tools",
+      "stock": 24,
+      "tags": ["beauty tools", "eyebrow tweezers", "grooming"],
+      "image": "productimage/beauty_tools/beauty+tools_9.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "BrowLover",
+          "comment": "Very precise, great for shaping eyebrows.",
+          "rating": 5,
+          "date": "2023-12-31"
+        },
+        {
+          "user": "BeautyEnthusiast",
+          "comment": "Good grip, removes hair easily.",
+          "rating": 4,
+          "date": "2023-12-30"
+        }
+      ]
+    },
+    "10": {
+      "id": 100,
+      "name": "Manicure Set",
+      "description": "Complete manicure set for nail care and grooming.",
+      "price": 17.99,
+      "category": "Beauty Tools",
+      "stock": 22,
+      "tags": ["beauty tools", "manicure set", "nail care"],
+      "image": "productimage/beauty_tools/beauty+tools_10.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "NailCareFan",
+          "comment": "Quality tools, great for at-home manicures.",
+          "rating": 5,
+          "date": "2023-12-29"
+        },
+        {
+          "user": "BeautyLover",
+          "comment": "Compact and handy, love the case.",
+          "rating": 4,
+          "date": "2023-12-28"
+        }
+      ]
+    },
+    "11": {
+      "id": 101,
+      "name": "Compact Mirror",
+      "description": "Stylish and portable compact mirror for on-the-go touch-ups.",
+      "price": 12.99,
+      "category": "Beauty Tools",
+      "stock": 18,
+      "tags": ["beauty tools", "compact mirror", "portable"],
+      "image": "productimage/beauty_tools/beauty+tools_11.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "OnTheGoBeauty",
+          "comment": "Perfect size for my purse, clear reflection.",
+          "rating": 5,
+          "date": "2023-12-27"
+        },
+        {
+          "user": "BeautyEnthusiast",
+          "comment": "Great for quick touch-ups throughout the day.",
+          "rating": 4,
+          "date": "2023-12-26"
+        }
+      ]
+    },
+    "12": {
+      "id": 102,
+      "name": "Cuticle Pusher",
+      "description": "Stainless steel cuticle pusher for nail care and maintenance.",
+      "price": 8.99,
+      "category": "Beauty Tools",
+      "stock": 20,
+      "tags": ["beauty tools", "cuticle pusher", "nail care"],
+      "image": "productimage/beauty_tools/beauty+tools_12.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "NailCarePro",
+          "comment": "Effective for pushing back cuticles, sturdy.",
+          "rating": 5,
+          "date": "2023-12-25"
+        },
+        {
+          "user": "BeautyLover",
+          "comment": "Helps maintain neat nails, good quality.",
+          "rating": 4,
+          "date": "2023-12-24"
+        }
+      ]
+    },
+    "13": {
+      "id": 103,
+      "name": "Eyelash Extensions Kit",
+      "description": "Complete kit for applying eyelash extensions professionally at home.",
+      "price": 29.99,
+      "category": "Beauty Tools",
+      "stock": 24,
+      "tags": ["beauty tools", "eyelash extensions", "lash kit"],
+      "image": "productimage/beauty_tools/beauty+tools_13.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "LashEnthusiast",
+          "comment": "Easy to use, great results.",
+          "rating": 5,
+          "date": "2023-12-23"
+        },
+        {
+          "user": "BeautyAddict",
+          "comment": "Good variety of tools, clear instructions.",
+          "rating": 4,
+          "date": "2023-12-22"
+        }
+      ]
+    },
+    "14": {
+      "id": 104,
+      "name": "Facial Roller",
+      "description": "Jade facial roller for massaging and relaxing facial muscles.",
+      "price": 19.99,
+      "category": "Beauty Tools",
+      "stock": 22,
+      "tags": ["beauty tools", "facial roller", "facial massage"],
+      "image": "productimage/beauty_tools/beauty+tools_14.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "SkinCareFanatic",
+          "comment": "Feels great on the skin, helps with puffiness.",
+          "rating": 5,
+          "date": "2023-12-21"
+        },
+        {
+          "user": "BeautyLover",
+          "comment": "Cooling effect, relaxing to use.",
+          "rating": 4,
+          "date": "2023-12-20"
+        }
+      ]
+    },
+    "15": {
+      "id": 105,
+      "name": "Lipstick Organizer",
+      "description": "Clear acrylic organizer for organizing and displaying lipstick collection.",
+      "price": 14.99,
+      "category": "Beauty Tools",
+      "stock": 20,
+      "tags": ["beauty tools", "lipstick organizer", "makeup storage"],
+      "image": "productimage/beauty_tools/beauty+tools_15.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "MakeupCollector",
+          "comment": "Clear and sturdy, perfect for displaying lipsticks.",
+          "rating": 5,
+          "date": "2023-12-19"
+        },
+        {
+          "user": "BeautyEnthusiast",
+          "comment": "Fits various lipstick sizes, keeps them organized.",
+          "rating": 4,
+          "date": "2023-12-18"
+        }
+      ]
+    }
+  },
+  "fragrances": {
+    "1": {
+      "id": 106,
+      "name": "Eau de Parfum",
+      "description": "Elegant and floral eau de parfum for women.",
+      "price": 59.99,
+      "category": "Fragrances",
+      "stock": 30,
+      "tags": ["fragrances", "eau de parfum", "floral"],
+      "image": "productimage/fragrances/fragrances_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "FragranceLover",
+          "comment": "Lovely scent, long-lasting.",
+          "rating": 5,
+          "date": "2023-12-17"
+        },
+        {
+          "user": "PerfumeFanatic",
+          "comment": "Perfect for everyday wear, subtle and elegant.",
+          "rating": 4,
+          "date": "2023-12-16"
+        }
+      ]
+    },
+    "2": {
+      "id": 107,
+      "name": "Cologne",
+      "description": "Refreshing cologne for men with citrus and woody notes.",
+      "price": 49.99,
+      "category": "Fragrances",
+      "stock": 28,
+      "tags": ["fragrances", "cologne", "citrus", "woody"],
+      "image": "productimage/fragrances/fragrances_2.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CologneEnthusiast",
+          "comment": "Fresh and invigorating scent, perfect for any occasion.",
+          "rating": 5,
+          "date": "2023-12-15"
+        },
+        {
+          "user": "FragranceFan",
+          "comment": "Lasts throughout the day, great value.",
+          "rating": 4,
+          "date": "2023-12-14"
+        }
+      ]
+    },
+    "3": {
+      "id": 108,
+      "name": "Perfume Gift Set",
+      "description": "Luxurious perfume gift set with a variety of scents for women.",
+      "price": 79.99,
+      "category": "Fragrances",
+      "stock": 25,
+      "tags": ["fragrances", "perfume gift set", "luxury"],
+      "image": "productimage/fragrances/fragrances_3.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 38
+      },
+      "sales": {
+        "totalSold": 110,
+        "soldThisMonth": 12
+      },
+      "reviews": [
+        {
+          "user": "LuxuryLover",
+          "comment": "Beautifully packaged, scents are divine.",
+          "rating": 5,
+          "date": "2023-12-13"
+        },
+        {
+          "user": "PerfumeConnoisseur",
+          "comment": "High-quality scents, perfect as a gift.",
+          "rating": 5,
+          "date": "2023-12-12"
+        }
+      ]
+    },
+    "4": {
+      "id": 109,
+      "name": "Aftershave Balm",
+      "description": "Soothing aftershave balm for men's post-shave skincare.",
+      "price": 29.99,
+      "category": "Fragrances",
+      "stock": 20,
+      "tags": ["fragrances", "aftershave balm", "men's skincare"],
+      "image": "productimage/fragrances/fragrances_4.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "ShavingEnthusiast",
+          "comment": "Calms skin after shaving, pleasant scent.",
+          "rating": 5,
+          "date": "2023-12-11"
+        },
+        {
+          "user": "FragranceFan",
+          "comment": "Moisturizes well, not greasy.",
+          "rating": 4,
+          "date": "2023-12-10"
+        }
+      ]
+    },
+    "5": {
+      "id": 110,
+      "name": "Body Mist",
+      "description": "Light and refreshing body mist with floral and fruity notes.",
+      "price": 19.99,
+      "category": "Fragrances",
+      "stock": 24,
+      "tags": ["fragrances", "body mist", "floral", "fruity"],
+      "image": "productimage/fragrances/fragrances_5.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "FruityScent",
+          "comment": "Fresh and uplifting scent, perfect for everyday use.",
+          "rating": 5,
+          "date": "2023-12-09"
+        },
+        {
+          "user": "FloralFan",
+          "comment": "Lovely fragrance, lasts long.",
+          "rating": 4,
+          "date": "2023-12-08"
+        }
+      ]
+    },
+    "6": {
+      "id": 111,
+      "name": "Unisex Perfume",
+      "description": "Versatile unisex perfume with a blend of spicy and woody notes.",
+      "price": 69.99,
+      "category": "Fragrances",
+      "stock": 22,
+      "tags": ["fragrances", "unisex perfume", "spicy", "woody"],
+      "image": "productimage/fragrances/fragrances_6.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "UnisexPerfumeFan",
+          "comment": "Unique scent, suitable for any gender.",
+          "rating": 5,
+          "date": "2023-12-07"
+        },
+        {
+          "user": "FragranceEnthusiast",
+          "comment": "Long-lasting and intriguing fragrance.",
+          "rating": 4,
+          "date": "2023-12-06"
+        }
+      ]
+    },
+    "7": {
+      "id": 112,
+      "name": "Perfume Oil",
+      "description": "Luxurious perfume oil with a rich and intense aroma.",
+      "price": 89.99,
+      "category": "Fragrances",
+      "stock": 18,
+      "tags": ["fragrances", "perfume oil", "luxury"],
+      "image": "productimage/fragrances/fragrances_7.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "LuxuryPerfume",
+          "comment": "Intense and long-lasting fragrance, worth the price.",
+          "rating": 5,
+          "date": "2023-12-05"
+        },
+        {
+          "user": "FragranceConnoisseur",
+          "comment": "Rich scent, perfect for special occasions.",
+          "rating": 4,
+          "date": "2023-12-04"
+        }
+      ]
+    },
+    "8": {
+      "id": 113,
+      "name": "Perfume Lotion",
+      "description": "Silky perfume lotion for layering fragrance and moisturizing skin.",
+      "price": 34.99,
+      "category": "Fragrances",
+      "stock": 15,
+      "tags": ["fragrances", "perfume lotion", "moisturizing"],
+      "image": "productimage/fragrances/fragrances_8.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "FragranceLover",
+          "comment": "Lovely fragrance, keeps skin hydrated.",
+          "rating": 5,
+          "date": "2023-12-03"
+        },
+        {
+          "user": "SkinCareFanatic",
+          "comment": "Lightweight and absorbs quickly.",
+          "rating": 4,
+          "date": "2023-12-02"
+        }
+      ]
+    },
+    "9": {
+      "id": 114,
+      "name": "Solid Perfume",
+      "description": "Compact solid perfume with a sweet and subtle scent.",
+      "price": 24.99,
+      "category": "Fragrances",
+      "stock": 20,
+      "tags": ["fragrances", "solid perfume", "sweet"],
+      "image": "productimage/fragrances/fragrances_9.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "PerfumeCollector",
+          "comment": "Convenient and smells delightful.",
+          "rating": 5,
+          "date": "2023-12-01"
+        },
+        {
+          "user": "FragranceEnthusiast",
+          "comment": "Subtle fragrance, perfect for travel.",
+          "rating": 4,
+          "date": "2023-11-30"
+        }
+      ]
+    },
+    "10": {
+      "id": 115,
+      "name": "Perfume Atomizer",
+      "description": "Refillable perfume atomizer for carrying your favorite fragrance.",
+      "price": 14.99,
+      "category": "Fragrances",
+      "stock": 18,
+      "tags": ["fragrances", "perfume atomizer", "travel"],
+      "image": "productimage/fragrances/fragrances_10.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "OnTheGoPerfume",
+          "comment": "Easy to refill and use, compact size.",
+          "rating": 5,
+          "date": "2023-11-29"
+        },
+        {
+          "user": "FragranceLover",
+          "comment": "Perfect for carrying my favorite perfume.",
+          "rating": 4,
+          "date": "2023-11-28"
+        }
+      ]
+    },
+    "11": {
+      "id": 116,
+      "name": "Eau de Toilette",
+      "description": "Light and refreshing eau de toilette for everyday wear.",
+      "price": 39.99,
+      "category": "Fragrances",
+      "stock": 22,
+      "tags": ["fragrances", "eau de toilette", "fresh"],
+      "image": "productimage/fragrances/fragrances_11.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "ToiletteFan",
+          "comment": "Fresh and invigorating, perfect for daily use.",
+          "rating": 5,
+          "date": "2023-11-27"
+        },
+        {
+          "user": "FragranceEnthusiast",
+          "comment": "Lasts long and smells great.",
+          "rating": 4,
+          "date": "2023-11-26"
+        }
+      ]
+    },
+    "12": {
+      "id": 117,
+      "name": "Scented Candle",
+      "description": "Luxurious scented candle with a blend of floral and woody notes.",
+      "price": 19.99,
+      "category": "Fragrances",
+      "stock": 20,
+      "tags": ["fragrances", "scented candle", "home fragrance"],
+      "image": "productimage/fragrances/fragrances_12.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "HomeFragrance",
+          "comment": "Lovely scent, fills the room beautifully.",
+          "rating": 5,
+          "date": "2023-11-25"
+        },
+        {
+          "user": "CandleLover",
+          "comment": "Great quality candle, soothing aroma.",
+          "rating": 4,
+          "date": "2023-11-24"
+        }
+      ]
+    },
+    "13": {
+      "id": 118,
+      "name": "Room Spray",
+      "description": "Refreshing room spray with a citrus and herbal fragrance.",
+      "price": 16.99,
+      "category": "Fragrances",
+      "stock": 18,
+      "tags": ["fragrances", "room spray", "citrus", "herbal"],
+      "image": "productimage/fragrances/fragrances_13.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "HomeFragrance",
+          "comment": "Freshens the air instantly, pleasant scent.",
+          "rating": 5,
+          "date": "2023-11-23"
+        },
+        {
+          "user": "FragranceFan",
+          "comment": "Light and not overpowering, great for any room.",
+          "rating": 4,
+          "date": "2023-11-22"
+        }
+      ]
+    },
+    "14": {
+      "id": 119,
+      "name": "Perfume Rollerball",
+      "description": "Convenient perfume rollerball for quick application on the go.",
+      "price": 12.99,
+      "category": "Fragrances",
+      "stock": 15,
+      "tags": ["fragrances", "perfume rollerball", "portable"],
+      "image": "productimage/fragrances/fragrances_14.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 24
+      },
+      "sales": {
+        "totalSold": 65,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "OnTheGoPerfume",
+          "comment": "Easy to carry, lovely fragrance.",
+          "rating": 5,
+          "date": "2023-11-21"
+        },
+        {
+          "user": "FragranceLover",
+          "comment": "Perfect size for my purse, great for travel.",
+          "rating": 4,
+          "date": "2023-11-20"
+        }
+      ]
+    },
+    "15": {
+      "id": 120,
+      "name": "Fragrance Diffuser",
+      "description": "Elegant fragrance diffuser with a blend of floral and woody scents.",
+      "price": 24.99,
+      "category": "Fragrances",
+      "stock": 12,
+      "tags": ["fragrances", "fragrance diffuser", "home fragrance"],
+      "image": "productimage/fragrances/fragrances_15.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 22
+      },
+      "sales": {
+        "totalSold": 60,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "HomeFragrance",
+          "comment": "Adds a subtle fragrance to the room, looks elegant.",
+          "rating": 5,
+          "date": "2023-11-19"
+        },
+        {
+          "user": "FragranceFan",
+          "comment": "Nice design, soothing aroma.",
+          "rating": 4,
+          "date": "2023-11-18"
+        }
+      ]
+    }
+  },
+  "hair_care": {
+    "1": {
+      "id": 121,
+      "name": "Moisturizing Shampoo",
+      "description": "Hydrating shampoo for smooth and nourished hair.",
+      "price": 12.99,
+      "category": "Hair Care",
+      "stock": 30,
+      "tags": ["hair care", "shampoo", "moisturizing"],
+      "image": "productimage/beauty/hair_care/hair_care_1.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 50,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "HairCareFanatic",
+          "comment": "Keeps my hair soft and shiny, love it!",
+          "rating": 5,
+          "date": "2023-11-17"
+        },
+        {
+          "user": "SmoothHairLover",
+          "comment": "Great for dry hair, noticeable improvement.",
+          "rating": 4,
+          "date": "2023-11-16"
+        }
+      ]
+    },
+    "2": {
+      "id": 122,
+      "name": "Repairing Conditioner",
+      "description": "Restorative conditioner for damaged hair.",
+      "price": 14.99,
+      "category": "Hair Care",
+      "stock": 25,
+      "tags": ["hair care", "conditioner", "repairing"],
+      "image": "productimage/beauty/hair_care/hair_care_2.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 45,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "HairRepairEnthusiast",
+          "comment": "Helped repair my damaged ends, great product.",
+          "rating": 5,
+          "date": "2023-11-15"
+        },
+        {
+          "user": "ConditionerLover",
+          "comment": "Leaves my hair silky smooth, smells amazing.",
+          "rating": 4,
+          "date": "2023-11-14"
+        }
+      ]
+    },
+    "3": {
+      "id": 123,
+      "name": "Curl Defining Gel",
+      "description": "Gel for defining and holding curls without stiffness.",
+      "price": 9.99,
+      "category": "Hair Care",
+      "stock": 20,
+      "tags": ["hair care", "curl defining", "gel"],
+      "image": "productimage/beauty/hair_care/hair_care_3.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 15
+      },
+      "sales": {
+        "totalSold": 40,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "CurlDefiner",
+          "comment": "Defines curls nicely without crunchiness.",
+          "rating": 4,
+          "date": "2023-11-13"
+        },
+        {
+          "user": "CurlyHairFan",
+          "comment": "Great for enhancing natural curls, good hold.",
+          "rating": 4,
+          "date": "2023-11-12"
+        }
+      ]
+    },
+    "4": {
+      "id": 124,
+      "name": "Argan Oil Hair Serum",
+      "description": "Nourishing hair serum for adding shine and reducing frizz.",
+      "price": 19.99,
+      "category": "Hair Care",
+      "stock": 18,
+      "tags": ["hair care", "hair serum", "argan oil"],
+      "image": "productimage/beauty/hair_care/hair_care_4.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 17
+      },
+      "sales": {
+        "totalSold": 35,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "ShinyHairLover",
+          "comment": "Adds a beautiful shine to my hair, love it!",
+          "rating": 4,
+          "date": "2023-11-11"
+        },
+        {
+          "user": "FrizzControl",
+          "comment": "Helped tame my frizz, smells nice too.",
+          "rating": 4,
+          "date": "2023-11-10"
+        }
+      ]
+    },
+    "5": {
+      "id": 125,
+      "name": "Heat Protectant Spray",
+      "description": "Protective spray for shielding hair from heat damage.",
+      "price": 16.99,
+      "category": "Hair Care",
+      "stock": 15,
+      "tags": ["hair care", "heat protectant", "spray"],
+      "image": "productimage/beauty/hair_care/hair_care_5.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 16
+      },
+      "sales": {
+        "totalSold": 30,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "HeatStyler",
+          "comment": "Protects my hair from heat tools, lightweight.",
+          "rating": 4,
+          "date": "2023-11-09"
+        },
+        {
+          "user": "HairCareFanatic",
+          "comment": "Essential for styling without damage, recommend.",
+          "rating": 4,
+          "date": "2023-11-08"
+        }
+      ]
+    },
+    "6": {
+      "id": 126,
+      "name": "Coconut Oil Hair Mask",
+      "description": "Deep conditioning mask with coconut oil for soft, nourished hair.",
+      "price": 17.99,
+      "category": "Hair Care",
+      "stock": 25,
+      "tags": ["hair care", "hair mask", "coconut oil"],
+      "image": "productimage/beauty/hair_care/hair_care_6.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 19
+      },
+      "sales": {
+        "totalSold": 38,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "CoconutOilLover",
+          "comment": "Makes my hair incredibly soft and smells amazing.",
+          "rating": 5,
+          "date": "2023-11-07"
+        },
+        {
+          "user": "HairMaskEnthusiast",
+          "comment": "Great for restoring moisture to dry hair.",
+          "rating": 4,
+          "date": "2023-11-06"
+        }
+      ]
+    },
+    "7": {
+      "id": 127,
+      "name": "Volumizing Mousse",
+      "description": "Mousse for adding volume and lift to fine hair.",
+      "price": 11.99,
+      "category": "Hair Care",
+      "stock": 22,
+      "tags": ["hair care", "volumizing", "mousse"],
+      "image": "productimage/beauty/hair_care/hair_care_7.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 36,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "VolumeAddict",
+          "comment": "Gives my hair great volume without weighing it down.",
+          "rating": 4,
+          "date": "2023-11-05"
+        },
+        {
+          "user": "FineHairSolutions",
+          "comment": "Perfect for adding volume to my fine hair.",
+          "rating": 4,
+          "date": "2023-11-04"
+        }
+      ]
+    },
+    "8": {
+      "id": 128,
+      "name": "Anti-Frizz Serum",
+      "description": "Serum for controlling frizz and smoothing hair.",
+      "price": 15.99,
+      "category": "Hair Care",
+      "stock": 20,
+      "tags": ["hair care", "anti-frizz", "serum"],
+      "image": "productimage/beauty/hair_care/hair_care_8.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 16
+      },
+      "sales": {
+        "totalSold": 32,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "FrizzControl",
+          "comment": "Effective at taming my frizzy hair, smells nice too.",
+          "rating": 4,
+          "date": "2023-11-03"
+        },
+        {
+          "user": "SmoothHairLover",
+          "comment": "Leaves my hair silky smooth, love it!",
+          "rating": 4,
+          "date": "2023-11-02"
+        }
+      ]
+    },
+    "9": {
+      "id": 129,
+      "name": "Dry Shampoo",
+      "description": "Revitalizing dry shampoo for quick hair refresh.",
+      "price": 9.99,
+      "category": "Hair Care",
+      "stock": 28,
+      "tags": ["hair care", "dry shampoo", "refreshing"],
+      "image": "productimage/beauty/hair_care/hair_care_9.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 15
+      },
+      "sales": {
+        "totalSold": 30,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "QuickFix",
+          "comment": "Perfect for refreshing my hair between washes.",
+          "rating": 4,
+          "date": "2023-11-01"
+        },
+        {
+          "user": "HairCareFanatic",
+          "comment": "Convenient and effective, a must-have for busy days.",
+          "rating": 4,
+          "date": "2023-10-31"
+        }
+      ]
+    },
+    "10": {
+      "id": 130,
+      "name": "Strengthening Hair Mask",
+      "description": "Mask for strengthening hair and preventing breakage.",
+      "price": 18.99,
+      "category": "Hair Care",
+      "stock": 24,
+      "tags": ["hair care", "hair mask", "strengthening"],
+      "image": "productimage/beauty/hair_care/hair_care_10.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 17
+      },
+      "sales": {
+        "totalSold": 34,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "StrengthSeeker",
+          "comment": "Helped strengthen my hair, noticeable improvement.",
+          "rating": 4,
+          "date": "2023-10-30"
+        },
+        {
+          "user": "HairMaskEnthusiast",
+          "comment": "Great for restoring strength to weak hair.",
+          "rating": 4,
+          "date": "2023-10-29"
+        }
+      ]
+    },
+    "11": {
+      "id": 131,
+      "name": "Leave-In Conditioner",
+      "description": "Conditioner for hydrating and detangling hair.",
+      "price": 13.99,
+      "category": "Hair Care",
+      "stock": 26,
+      "tags": ["hair care", "conditioner", "leave-in"],
+      "image": "productimage/beauty/hair_care/hair_care_11.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 16
+      },
+      "sales": {
+        "totalSold": 32,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "DetanglePro",
+          "comment": "Makes detangling easy, leaves hair soft.",
+          "rating": 4,
+          "date": "2023-10-28"
+        },
+        {
+          "user": "ConditionerLover",
+          "comment": "Hydrates my hair without weighing it down.",
+          "rating": 4,
+          "date": "2023-10-27"
+        }
+      ]
+    },
+    "12": {
+      "id": 132,
+      "name": "Shine Enhancing Spray",
+      "description": "Spray for adding shine and luminosity to hair.",
+      "price": 14.99,
+      "category": "Hair Care",
+      "stock": 23,
+      "tags": ["hair care", "shine enhancing", "spray"],
+      "image": "productimage/beauty/hair_care/hair_care_12.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 15
+      },
+      "sales": {
+        "totalSold": 28,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "ShineSeeker",
+          "comment": "Adds a beautiful shine to my hair, love the results.",
+          "rating": 4,
+          "date": "2023-10-26"
+        },
+        {
+          "user": "HairCareFanatic",
+          "comment": "Great for enhancing shine without greasiness.",
+          "rating": 4,
+          "date": "2023-10-25"
+        }
+      ]
+    },
+    "13": {
+      "id": 133,
+      "name": "Texturizing Spray",
+      "description": "Spray for adding texture and definition to hair.",
+      "price": 11.99,
+      "category": "Hair Care",
+      "stock": 21,
+      "tags": ["hair care", "texturizing", "spray"],
+      "image": "productimage/beauty/hair_care/hair_care_13.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 14
+      },
+      "sales": {
+        "totalSold": 26,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "TextureAddict",
+          "comment": "Gives my hair great texture and volume, love it!",
+          "rating": 4,
+          "date": "2023-10-24"
+        },
+        {
+          "user": "HairStyler",
+          "comment": "Perfect for adding definition to my hairstyles.",
+          "rating": 4,
+          "date": "2023-10-23"
+        }
+      ]
+    },
+    "14": {
+      "id": 134,
+      "name": "Color Protecting Shampoo",
+      "description": "Shampoo for maintaining vibrant color and protecting hair.",
+      "price": 12.99,
+      "category": "Hair Care",
+      "stock": 27,
+      "tags": ["hair care", "shampoo", "color protecting"],
+      "image": "productimage/beauty/hair_care/hair_care_14.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 17
+      },
+      "sales": {
+        "totalSold": 30,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "ColorCarePro",
+          "comment": "Helps maintain my hair color, gentle on my hair.",
+          "rating": 4,
+          "date": "2023-10-22"
+        },
+        {
+          "user": "ShinyHairLover",
+          "comment": "Leaves my hair shiny and keeps my color vibrant.",
+          "rating": 4,
+          "date": "2023-10-21"
+        }
+      ]
+    },
+    "15": {
+      "id": 135,
+      "name": "Dry Conditioner Spray",
+      "description": "Conditioning spray for softening and detangling dry hair.",
+      "price": 10.99,
+      "category": "Hair Care",
+      "stock": 29,
+      "tags": ["hair care", "conditioner", "dry conditioner"],
+      "image": "productimage/beauty/hair_care/hair_care_15.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 16
+      },
+      "sales": {
+        "totalSold": 28,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "DetanglePro",
+          "comment": "Works well for detangling dry hair, lightweight.",
+          "rating": 4,
+          "date": "2023-10-20"
+        },
+        {
+          "user": "HairCareFanatic",
+          "comment": "Convenient and effective, great for on-the-go.",
+          "rating": 4,
+          "date": "2023-10-19"
+        }
+      ]
+    }
+  },
+  "makeup": {
+    "1": {
+      "id": 121,
+      "name": "Foundation",
+      "description": "Liquid foundation for a smooth and natural finish.",
+      "price": 24.99,
+      "category": "Makeup",
+      "stock": 25,
+      "tags": ["makeup", "foundation", "liquid"],
+      "image": "productimage/beauty/makeup/makeup_1.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 40,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "SmoothFinish",
+          "comment": "Blends easily, lightweight and natural look.",
+          "rating": 4,
+          "date": "2023-10-18"
+        },
+        {
+          "user": "MakeupLover",
+          "comment": "Great coverage, lasts throughout the day.",
+          "rating": 5,
+          "date": "2023-10-17"
+        }
+      ]
+    },
+    "2": {
+      "id": 122,
+      "name": "Eyeshadow Palette",
+      "description": "Palette with a mix of matte and shimmer eyeshadows.",
+      "price": 19.99,
+      "category": "Makeup",
+      "stock": 28,
+      "tags": ["makeup", "eyeshadow", "palette"],
+      "image": "productimage/beauty/makeup/makeup_2.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 35,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "EyeshadowFanatic",
+          "comment": "Beautiful shades, blends well.",
+          "rating": 4,
+          "date": "2023-10-16"
+        },
+        {
+          "user": "MakeupAddict",
+          "comment": "Versatile palette, perfect for day and night looks.",
+          "rating": 4,
+          "date": "2023-10-15"
+        }
+      ]
+    },
+    "3": {
+      "id": 123,
+      "name": "Mascara",
+      "description": "Lengthening mascara for dramatic lashes.",
+      "price": 14.99,
+      "category": "Makeup",
+      "stock": 26,
+      "tags": ["makeup", "mascara", "lengthening"],
+      "image": "productimage/beauty/makeup/makeup_3.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 17
+      },
+      "sales": {
+        "totalSold": 32,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "LashGuru",
+          "comment": "Adds length without clumping, love it!",
+          "rating": 4,
+          "date": "2023-10-14"
+        },
+        {
+          "user": "MascaraLover",
+          "comment": "Defines lashes beautifully, stays put.",
+          "rating": 4,
+          "date": "2023-10-13"
+        }
+      ]
+    },
+    "4": {
+      "id": 124,
+      "name": "Lipstick",
+      "description": "Creamy lipstick in vibrant shades.",
+      "price": 12.99,
+      "category": "Makeup",
+      "stock": 27,
+      "tags": ["makeup", "lipstick", "creamy"],
+      "image": "productimage/beauty/makeup/makeup_4.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 19
+      },
+      "sales": {
+        "totalSold": 36,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "LipstickAddict",
+          "comment": "Smooth application, lovely colors.",
+          "rating": 4,
+          "date": "2023-10-12"
+        },
+        {
+          "user": "ColorfulLips",
+          "comment": "Vibrant shades, long-lasting formula.",
+          "rating": 4,
+          "date": "2023-10-11"
+        }
+      ]
+    },
+    "5": {
+      "id": 125,
+      "name": "Blush",
+      "description": "Powder blush for a natural flush of color.",
+      "price": 15.99,
+      "category": "Makeup",
+      "stock": 24,
+      "tags": ["makeup", "blush", "powder"],
+      "image": "productimage/beauty/makeup/makeup_5.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 16
+      },
+      "sales": {
+        "totalSold": 30,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "RosyCheeks",
+          "comment": "Gives a nice natural color, blends well.",
+          "rating": 4,
+          "date": "2023-10-10"
+        },
+        {
+          "user": "BlushFan",
+          "comment": "Smooth texture, lasts all day.",
+          "rating": 4,
+          "date": "2023-10-09"
+        }
+      ]
+    },
+    "6": {
+      "id": 126,
+      "name": "Highlighter",
+      "description": "Creamy highlighter for a radiant glow.",
+      "price": 17.99,
+      "category": "Makeup",
+      "stock": 23,
+      "tags": ["makeup", "highlighter", "creamy"],
+      "image": "productimage/beauty/makeup/makeup_6.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 34,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "GlowGetter",
+          "comment": "Beautiful glow, blends seamlessly.",
+          "rating": 4,
+          "date": "2023-10-08"
+        },
+        {
+          "user": "HighlighterAddict",
+          "comment": "Love the dewy finish, stays luminous.",
+          "rating": 4,
+          "date": "2023-10-07"
+        }
+      ]
+    },
+    "7": {
+      "id": 127,
+      "name": "Eyeliner",
+      "description": "Liquid eyeliner for precise and bold lines.",
+      "price": 13.99,
+      "category": "Makeup",
+      "stock": 25,
+      "tags": ["makeup", "eyeliner", "liquid"],
+      "image": "productimage/beauty/makeup/makeup_7.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 17
+      },
+      "sales": {
+        "totalSold": 32,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "PreciseLines",
+          "comment": "Easy to apply, stays put all day.",
+          "rating": 4,
+          "date": "2023-10-06"
+        },
+        {
+          "user": "EyelinerFanatic",
+          "comment": "Bold and intense color, love the precision.",
+          "rating": 4,
+          "date": "2023-10-05"
+        }
+      ]
+    },
+    "8": {
+      "id": 128,
+      "name": "Setting Spray",
+      "description": "Setting spray for long-lasting makeup.",
+      "price": 16.99,
+      "category": "Makeup",
+      "stock": 24,
+      "tags": ["makeup", "setting spray", "long-lasting"],
+      "image": "productimage/beauty/makeup/makeup_8.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 19
+      },
+      "sales": {
+        "totalSold": 36,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "MakeupSetter",
+          "comment": "Keeps makeup in place all day, lightweight.",
+          "rating": 4,
+          "date": "2023-10-04"
+        },
+        {
+          "user": "LongLastingMakeup",
+          "comment": "Works well in humid weather, love it!",
+          "rating": 4,
+          "date": "2023-10-03"
+        }
+      ]
+    },
+    "9": {
+      "id": 121,
+      "name": "Matte Lipstick",
+      "description": "Long-lasting matte lipstick in vibrant shades.",
+      "price": 14.99,
+      "category": "Makeup",
+      "stock": 25,
+      "tags": ["makeup", "matte lipstick", "long-lasting"],
+      "image": "productimage/beauty/makeup/makeup_9.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "LipstickLover",
+          "comment": "Great color payoff, stays put all day.",
+          "rating": 5,
+          "date": "2023-11-17"
+        },
+        {
+          "user": "MakeupFanatic",
+          "comment": "Smooth application, doesn't dry out lips.",
+          "rating": 4,
+          "date": "2023-11-16"
+        }
+      ]
+    },
+    "10": {
+      "id": 122,
+      "name": "Eyeshadow Palette",
+      "description": "Versatile eyeshadow palette with a range of matte and shimmer shades.",
+      "price": 29.99,
+      "category": "Makeup",
+      "stock": 20,
+      "tags": ["makeup", "eyeshadow palette", "matte", "shimmer"],
+      "image": "productimage/beauty/makeup/makeup_10.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "EyeMakeupFan",
+          "comment": "Beautiful colors, blends well.",
+          "rating": 5,
+          "date": "2023-11-15"
+        },
+        {
+          "user": "MakeupEnthusiast",
+          "comment": "Great for creating both day and night looks.",
+          "rating": 4,
+          "date": "2023-11-14"
+        }
+      ]
+    },
+    "11": {
+      "id": 123,
+      "name": "Highlighter",
+      "description": "Glowing highlighter for adding luminosity to the skin.",
+      "price": 19.99,
+      "category": "Makeup",
+      "stock": 18,
+      "tags": ["makeup", "highlighter", "luminous"],
+      "image": "productimage/beauty/makeup/makeup_11.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "GlowingSkin",
+          "comment": "Gives a beautiful sheen, easy to blend.",
+          "rating": 5,
+          "date": "2023-11-13"
+        },
+        {
+          "user": "MakeupAddict",
+          "comment": "Buildable and gives a natural glow.",
+          "rating": 4,
+          "date": "2023-11-12"
+        }
+      ]
+    },
+    "12": {
+      "id": 124,
+      "name": "Mascara",
+      "description": "Lengthening and volumizing mascara for bold lashes.",
+      "price": 17.99,
+      "category": "Makeup",
+      "stock": 22,
+      "tags": ["makeup", "mascara", "lengthening", "volumizing"],
+      "image": "productimage/beauty/makeup/makeup_12.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "LashObsessed",
+          "comment": "Adds great length and volume, doesn't clump.",
+          "rating": 5,
+          "date": "2023-11-11"
+        },
+        {
+          "user": "MakeupLover",
+          "comment": "Defines lashes beautifully, long-lasting.",
+          "rating": 4,
+          "date": "2023-11-10"
+        }
+      ]
+    },
+    "13": {
+      "id": 125,
+      "name": "Liquid Foundation",
+      "description": "Smooth and buildable liquid foundation for flawless coverage.",
+      "price": 27.99,
+      "category": "Makeup",
+      "stock": 20,
+      "tags": ["makeup", "liquid foundation", "flawless coverage"],
+      "image": "productimage/beauty/makeup/makeup_13.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "FlawlessFinish",
+          "comment": "Blends like a dream, feels lightweight.",
+          "rating": 5,
+          "date": "2023-11-09"
+        },
+        {
+          "user": "MakeupFanatic",
+          "comment": "Buildable coverage, doesn't look cakey.",
+          "rating": 4,
+          "date": "2023-11-08"
+        }
+      ]
+    },
+    "14": {
+      "id": 126,
+      "name": "Blush",
+      "description": "Natural-looking blush for a healthy flush of color.",
+      "price": 16.99,
+      "category": "Makeup",
+      "stock": 18,
+      "tags": ["makeup", "blush", "natural"],
+      "image": "productimage/beauty/makeup/makeup_14.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "RosyCheeks",
+          "comment": "Lovely shade, blends beautifully.",
+          "rating": 5,
+          "date": "2023-11-07"
+        },
+        {
+          "user": "MakeupAddict",
+          "comment": "Pigmented and lasts all day.",
+          "rating": 4,
+          "date": "2023-11-06"
+        }
+      ]
+    },
+    "15": {
+      "id": 127,
+      "name": "Makeup Setting Spray",
+      "description": "Long-lasting makeup setting spray for a fresh look.",
+      "price": 21.99,
+      "category": "Makeup",
+      "stock": 15,
+      "tags": ["makeup", "setting spray", "long-lasting"],
+      "image": "productimage/beauty/makeup/makeup_15.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 24
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "FreshFace",
+          "comment": "Keeps makeup in place all day, refreshing.",
+          "rating": 5,
+          "date": "2023-11-05"
+        },
+        {
+          "user": "MakeupLover",
+          "comment": "Helps makeup stay flawless, doesn't feel heavy.",
+          "rating": 4,
+          "date": "2023-11-04"
+        }
+      ]
+    }
+  },
+  "nail_care": {
+    "1": {
+      "id": 101,
+      "name": "Nail Polish",
+      "description": "Classic red nail polish for a bold look.",
+      "price": 12.99,
+      "category": "Nail Care",
+      "stock": 25,
+      "tags": ["beauty", "nail polish", "bold"],
+      "image": "productimage/beauty/nail_care/nail+care_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "NailPolishAddict",
+          "comment": "Gorgeous shade, long-lasting.",
+          "rating": 5,
+          "date": "2023-12-15"
+        },
+        {
+          "user": "BeautyFanatic",
+          "comment": "Smooth application, vibrant color.",
+          "rating": 4,
+          "date": "2023-12-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 102,
+      "name": "Nail Strengthener",
+      "description": "Strengthens and protects nails from breakage.",
+      "price": 15.99,
+      "category": "Nail Care",
+      "stock": 20,
+      "tags": ["beauty", "nail care", "nail strengthener"],
+      "image": "productimage/beauty/nail_care/nail+care_2.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "NailCareExpert",
+          "comment": "Noticeable improvement in nail strength.",
+          "rating": 5,
+          "date": "2023-12-13"
+        },
+        {
+          "user": "BeautyLover",
+          "comment": "Helped my nails grow stronger.",
+          "rating": 4,
+          "date": "2023-12-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 103,
+      "name": "Nail Polish Remover",
+      "description": "Gentle nail polish remover with moisturizing properties.",
+      "price": 8.99,
+      "category": "Nail Care",
+      "stock": 30,
+      "tags": ["beauty", "nail care", "nail polish remover"],
+      "image": "productimage/beauty/nail_care/nail+care_3.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "NailCareFan",
+          "comment": "Effective and doesn't dry out nails.",
+          "rating": 5,
+          "date": "2023-12-11"
+        },
+        {
+          "user": "BeautyEnthusiast",
+          "comment": "Gentle on nails, removes polish well.",
+          "rating": 4,
+          "date": "2023-12-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 104,
+      "name": "Nail File Set",
+      "description": "Set of professional nail files for shaping and smoothing nails.",
+      "price": 11.99,
+      "category": "Nail Care",
+      "stock": 25,
+      "tags": ["beauty", "nail care", "nail file"],
+      "image": "productimage/beauty/nail_care/nail+care_4.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "NailArtExpert",
+          "comment": "Excellent quality files, great for shaping.",
+          "rating": 5,
+          "date": "2023-12-09"
+        },
+        {
+          "user": "BeautyLover",
+          "comment": "Smooth finish, easy to use.",
+          "rating": 4,
+          "date": "2023-12-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 105,
+      "name": "Nail Treatment Kit",
+      "description": "Comprehensive kit for nail care and treatment.",
+      "price": 19.99,
+      "category": "Nail Care",
+      "stock": 22,
+      "tags": ["beauty", "nail care", "nail treatment"],
+      "image": "productimage/beauty/nail_care/nail+care_5.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "NailCareEnthusiast",
+          "comment": "Effective treatments, noticeable improvement.",
+          "rating": 5,
+          "date": "2023-12-07"
+        },
+        {
+          "user": "BeautyFan",
+          "comment": "Helped strengthen my nails, good value.",
+          "rating": 4,
+          "date": "2023-12-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 106,
+      "name": "Nail Buffer",
+      "description": "Buffer block for smoothing and shining nails.",
+      "price": 9.99,
+      "category": "Nail Care",
+      "stock": 20,
+      "tags": ["beauty", "nail care", "nail buffer"],
+      "image": "productimage/beauty/nail_care/nail+care_6.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 24
+      },
+      "sales": {
+        "totalSold": 65,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "NailCareFanatic",
+          "comment": "Leaves nails smooth and shiny.",
+          "rating": 5,
+          "date": "2023-12-05"
+        },
+        {
+          "user": "BeautyLover",
+          "comment": "Good quality, easy to use.",
+          "rating": 4,
+          "date": "2023-12-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 107,
+      "name": "Nail Art Brushes",
+      "description": "Set of fine brushes for detailed nail art designs.",
+      "price": 14.99,
+      "category": "Nail Care",
+      "stock": 18,
+      "tags": ["beauty", "nail care", "nail art"],
+      "image": "productimage/beauty/nail_care/nail+care_7.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 65,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "NailArtExpert",
+          "comment": "Precise brushes, great for intricate designs.",
+          "rating": 5,
+          "date": "2023-12-03"
+        },
+        {
+          "user": "BeautyFan",
+          "comment": "Good variety of brush sizes, quality is good.",
+          "rating": 4,
+          "date": "2023-12-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 108,
+      "name": "Nail Decals",
+      "description": "Assorted nail decals for easy and stylish nail art.",
+      "price": 7.99,
+      "category": "Nail Care",
+      "stock": 15,
+      "tags": ["beauty", "nail care", "nail decals"],
+      "image": "productimage/beauty/nail_care/nail+care_8.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 24
+      },
+      "sales": {
+        "totalSold": 60,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "NailArtEnthusiast",
+          "comment": "Easy to apply, adds a nice touch to nails.",
+          "rating": 5,
+          "date": "2023-12-01"
+        },
+        {
+          "user": "BeautyLover",
+          "comment": "Good variety of designs, stays on well.",
+          "rating": 4,
+          "date": "2023-11-30"
+        }
+      ]
+    },
+    "9": {
+      "id": 109,
+      "name": "Nail Polish Set",
+      "description": "Set of vibrant nail polishes in assorted colors.",
+      "price": 24.99,
+      "category": "Nail Care",
+      "stock": 20,
+      "tags": ["beauty", "nail polish", "nail care"],
+      "image": "productimage/beauty/nail_care/nail+care_9.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "NailPolishFanatic",
+          "comment": "Love the variety of colors!",
+          "rating": 5,
+          "date": "2023-11-29"
+        },
+        {
+          "user": "BeautyLover",
+          "comment": "Great quality, easy to apply.",
+          "rating": 4,
+          "date": "2023-11-28"
+        }
+      ]
+    },
+    "10": {
+      "id": 110,
+      "name": "Cuticle Oil",
+      "description": "Moisturizing cuticle oil for nail care and health.",
+      "price": 14.99,
+      "category": "Nail Care",
+      "stock": 18,
+      "tags": ["beauty", "cuticle oil", "nail care", "moisturizing"],
+      "image": "productimage/beauty/nail_care/nail+care_10.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "NailCareEnthusiast",
+          "comment": "Keeps cuticles soft and hydrated.",
+          "rating": 5,
+          "date": "2023-11-27"
+        },
+        {
+          "user": "BeautyFan",
+          "comment": "Effective and smells nice.",
+          "rating": 4,
+          "date": "2023-11-26"
+        }
+      ]
+    },
+    "11": {
+      "id": 111,
+      "name": "Nail Art Stickers",
+      "description": "Decorative nail art stickers for creative designs.",
+      "price": 9.99,
+      "category": "Nail Care",
+      "stock": 22,
+      "tags": ["beauty", "nail care", "nail art"],
+      "image": "productimage/beauty/nail_care/nail+care_11.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 27
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "NailArtLover",
+          "comment": "Fun designs, easy to use.",
+          "rating": 5,
+          "date": "2023-11-25"
+        },
+        {
+          "user": "BeautyEnthusiast",
+          "comment": "Adds flair to nails, good quality.",
+          "rating": 4,
+          "date": "2023-11-24"
+        }
+      ]
+    },
+    "12": {
+      "id": 112,
+      "name": "Nail Care Kit",
+      "description": "Comprehensive kit for nail care and maintenance.",
+      "price": 17.99,
+      "category": "Nail Care",
+      "stock": 19,
+      "tags": ["beauty", "nail care", "nail kit"],
+      "image": "productimage/beauty/nail_care/nail+care_12.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 65,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "NailCareExpert",
+          "comment": "All essentials in one kit, great value.",
+          "rating": 5,
+          "date": "2023-11-23"
+        },
+        {
+          "user": "BeautyFanatic",
+          "comment": "Helped improve my nail health.",
+          "rating": 4,
+          "date": "2023-11-22"
+        }
+      ]
+    },
+    "13": {
+      "id": 113,
+      "name": "Nail Polish Dryer",
+      "description": "Quick-dry nail polish dryer for fast results.",
+      "price": 13.99,
+      "category": "Nail Care",
+      "stock": 17,
+      "tags": ["beauty", "nail care", "nail polish dryer"],
+      "image": "productimage/beauty/nail_care/nail+care_13.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 23
+      },
+      "sales": {
+        "totalSold": 60,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "NailPolishFan",
+          "comment": "Works quickly, saves time.",
+          "rating": 5,
+          "date": "2023-11-21"
+        },
+        {
+          "user": "BeautyLover",
+          "comment": "Handy tool for quick drying.",
+          "rating": 4,
+          "date": "2023-11-20"
+        }
+      ]
+    },
+    "14": {
+      "id": 114,
+      "name": "Nail Strengthener Pen",
+      "description": "Portable nail strengthener pen for on-the-go care.",
+      "price": 10.99,
+      "category": "Nail Care",
+      "stock": 16,
+      "tags": ["beauty", "nail care", "nail strengthener"],
+      "image": "productimage/beauty/nail_care/nail+care_14.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 22
+      },
+      "sales": {
+        "totalSold": 55,
+        "soldThisMonth": 1
+      },
+      "reviews": [
+        {
+          "user": "NailCareEnthusiast",
+          "comment": "Convenient and effective.",
+          "rating": 5,
+          "date": "2023-11-19"
+        },
+        {
+          "user": "BeautyFan",
+          "comment": "Helps strengthen nails, easy to use.",
+          "rating": 4,
+          "date": "2023-11-18"
+        }
+      ]
+    },
+    "15": {
+      "id": 115,
+      "name": "Nail Cuticle Cream",
+      "description": "Rich cuticle cream for nourishing nail care.",
+      "price": 12.99,
+      "category": "Nail Care",
+      "stock": 15,
+      "tags": ["beauty", "nail care", "cuticle cream"],
+      "image": "productimage/beauty/nail_care/nail+care_15.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 50,
+        "soldThisMonth": 1
+      },
+      "reviews": [
+        {
+          "user": "NailCareLover",
+          "comment": "Keeps cuticles moisturized and healthy.",
+          "rating": 5,
+          "date": "2023-11-17"
+        },
+        {
+          "user": "BeautyEnthusiast",
+          "comment": "Softens cuticles, pleasant fragrance.",
+          "rating": 4,
+          "date": "2023-11-16"
+        }
+      ]
+    }
+  },
+  "personal_care": {
+    "1": {
+      "id": 101,
+      "name": "Moisturizing Shampoo",
+      "description": "Hydrating shampoo for soft and shiny hair, suitable for all hair types.",
+      "price": 12.99,
+      "category": "Beauty / Hair Care",
+      "stock": 25,
+      "tags": ["beauty", "hair care", "shampoo", "moisturizing"],
+      "image": "productimage/beauty/hair_care/hair+care_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "ShinyHairFan",
+          "comment": "Keeps my hair soft and manageable.",
+          "rating": 5,
+          "date": "2023-12-10"
+        },
+        {
+          "user": "BeautyAddict",
+          "comment": "Great for daily use, pleasant fragrance.",
+          "rating": 4,
+          "date": "2023-12-09"
+        }
+      ]
+    },
+    "2": {
+      "id": 102,
+      "name": "Matte Lipstick",
+      "description": "Long-lasting matte lipstick in a bold red shade.",
+      "price": 9.99,
+      "category": "Beauty / Makeup",
+      "stock": 20,
+      "tags": ["beauty", "makeup", "lipstick", "matte"],
+      "image": "productimage/beauty/makeup/makeup_1.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "BoldLips",
+          "comment": "Lovely color, stays put for hours.",
+          "rating": 5,
+          "date": "2023-12-08"
+        },
+        {
+          "user": "MakeupLover",
+          "comment": "Smooth application, vibrant pigment.",
+          "rating": 4,
+          "date": "2023-12-07"
+        }
+      ]
+    },
+    "3": {
+      "id": 103,
+      "name": "Nail Polish Set",
+      "description": "Set of 5 vibrant nail polishes in assorted colors.",
+      "price": 14.99,
+      "category": "Beauty / Nail Care",
+      "stock": 30,
+      "tags": ["beauty", "nail care", "nail polish", "vibrant"],
+      "image": "productimage/beauty/nail_care/nail+care_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "NailArtFanatic",
+          "comment": "Beautiful colors, great quality polish.",
+          "rating": 5,
+          "date": "2023-12-06"
+        },
+        {
+          "user": "NailPolishLover",
+          "comment": "Smooth application, long-lasting.",
+          "rating": 4,
+          "date": "2023-12-05"
+        }
+      ]
+    },
+    "4": {
+      "id": 104,
+      "name": "Face Mask",
+      "description": "Hydrating face mask enriched with vitamin C for radiant skin.",
+      "price": 19.99,
+      "category": "Beauty / Skincare",
+      "stock": 25,
+      "tags": ["beauty", "skincare", "face mask", "hydrating", "vitamin C"],
+      "image": "productimage/beauty/skincare/skincare_1.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "GlowingSkin",
+          "comment": "Leaves my skin feeling refreshed and glowing.",
+          "rating": 5,
+          "date": "2023-12-04"
+        },
+        {
+          "user": "SkincareAddict",
+          "comment": "Effective hydrating mask, nice scent.",
+          "rating": 4,
+          "date": "2023-12-03"
+        }
+      ]
+    },
+    "5": {
+      "id": 105,
+      "name": "Body Lotion",
+      "description": "Moisturizing body lotion with shea butter for smooth and soft skin.",
+      "price": 15.99,
+      "category": "Beauty / Body Care",
+      "stock": 20,
+      "tags": [
+        "beauty",
+        "body care",
+        "body lotion",
+        "moisturizing",
+        "shea butter"
+      ],
+      "image": "productimage/beauty/body_care/body+care_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "SmoothSkin",
+          "comment": "Keeps my skin hydrated all day long.",
+          "rating": 5,
+          "date": "2023-12-02"
+        },
+        {
+          "user": "BodyCareFan",
+          "comment": "Absorbs quickly, pleasant fragrance.",
+          "rating": 4,
+          "date": "2023-12-01"
+        }
+      ]
+    },
+    "6": {
+      "id": 106,
+      "name": "Makeup Brushes Set",
+      "description": "Set of 10 professional makeup brushes for flawless application.",
+      "price": 29.99,
+      "category": "Beauty / Makeup Tools",
+      "stock": 22,
+      "tags": ["beauty", "makeup tools", "makeup brushes", "professional"],
+      "image": "productimage/beauty/makeup_tools/makeup_tools_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "MakeupArtist",
+          "comment": "High-quality brushes, blends makeup flawlessly.",
+          "rating": 5,
+          "date": "2023-11-30"
+        },
+        {
+          "user": "BeautyEnthusiast",
+          "comment": "Great variety, soft bristles.",
+          "rating": 4,
+          "date": "2023-11-29"
+        }
+      ]
+    },
+    "7": {
+      "id": 107,
+      "name": "Facial Scrub",
+      "description": "Gentle exfoliating facial scrub for smoother skin texture.",
+      "price": 12.99,
+      "category": "Beauty / Skincare",
+      "stock": 28,
+      "tags": ["beauty", "skincare", "facial scrub", "exfoliating"],
+      "image": "productimage/beauty/skincare/skincare_2.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "SmoothSkin",
+          "comment": "Leaves my skin feeling refreshed and smooth.",
+          "rating": 5,
+          "date": "2023-11-28"
+        },
+        {
+          "user": "SkincareFanatic",
+          "comment": "Gentle on sensitive skin, effective exfoliation.",
+          "rating": 4,
+          "date": "2023-11-27"
+        }
+      ]
+    },
+    "8": {
+      "id": 108,
+      "name": "Eyeshadow Palette",
+      "description": "Versatile eyeshadow palette with 12 shades for day and night looks.",
+      "price": 24.99,
+      "category": "Beauty / Makeup",
+      "stock": 25,
+      "tags": ["beauty", "makeup", "eyeshadow", "palette"],
+      "image": "productimage/beauty/makeup/makeup_2.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "EyeMakeupFan",
+          "comment": "Great color payoff, blends easily.",
+          "rating": 5,
+          "date": "2023-11-26"
+        },
+        {
+          "user": "MakeupLover",
+          "comment": "Beautiful shades, long-lasting.",
+          "rating": 4,
+          "date": "2023-11-25"
+        }
+      ]
+    },
+    "9": {
+      "id": 109,
+      "name": "Anti-Aging Serum",
+      "description": "Revitalizing anti-aging serum with hyaluronic acid and vitamin E.",
+      "price": 34.99,
+      "category": "Beauty / Skincare",
+      "stock": 20,
+      "tags": [
+        "beauty",
+        "skincare",
+        "anti-aging",
+        "serum",
+        "hyaluronic acid",
+        "vitamin E"
+      ],
+      "image": "productimage/beauty/skincare/skincare_3.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 40
+      },
+      "sales": {
+        "totalSold": 110,
+        "soldThisMonth": 12
+      },
+      "reviews": [
+        {
+          "user": "YouthfulGlow",
+          "comment": "Noticeable improvement in skin texture and tone.",
+          "rating": 5,
+          "date": "2023-11-24"
+        },
+        {
+          "user": "SkincareEnthusiast",
+          "comment": "Hydrates deeply, reduces fine lines.",
+          "rating": 4,
+          "date": "2023-11-23"
+        }
+      ]
+    },
+    "10": {
+      "id": 110,
+      "name": "Curl Defining Cream",
+      "description": "Defines and enhances natural curls, leaving hair frizz-free and shiny.",
+      "price": 16.99,
+      "category": "Beauty / Hair Care",
+      "stock": 18,
+      "tags": ["beauty", "hair care", "curl defining", "cream"],
+      "image": "productimage/beauty/hair_care/hair+care_2.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "CurlyHairLove",
+          "comment": "Works wonders on my curls, no frizz!",
+          "rating": 5,
+          "date": "2023-11-22"
+        },
+        {
+          "user": "HairCareFan",
+          "comment": "Defines curls beautifully, lovely scent.",
+          "rating": 4,
+          "date": "2023-11-21"
+        }
+      ]
+    },
+    "11": {
+      "id": 111,
+      "name": "Hand Cream",
+      "description": "Moisturizing hand cream with shea butter, ideal for dry hands.",
+      "price": 10.99,
+      "category": "Beauty / Body Care",
+      "stock": 22,
+      "tags": [
+        "beauty",
+        "body care",
+        "hand cream",
+        "moisturizing",
+        "shea butter"
+      ],
+      "image": "productimage/beauty/body_care/body+care_2.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "SoftHands",
+          "comment": "Keeps my hands soft and hydrated.",
+          "rating": 5,
+          "date": "2023-11-20"
+        },
+        {
+          "user": "HandCareFan",
+          "comment": "Absorbs quickly, no greasy residue.",
+          "rating": 4,
+          "date": "2023-11-19"
+        }
+      ]
+    },
+    "12": {
+      "id": 112,
+      "name": "Lip Balm Set",
+      "description": "Set of 3 hydrating lip balms with natural oils for smooth lips.",
+      "price": 8.99,
+      "category": "Beauty / Lip Care",
+      "stock": 25,
+      "tags": ["beauty", "lip care", "lip balm", "hydrating", "natural oils"],
+      "image": "productimage/beauty/lip_care/lip_care_1.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "SoftLips",
+          "comment": "Keeps my lips soft and moisturized.",
+          "rating": 5,
+          "date": "2023-11-18"
+        },
+        {
+          "user": "LipCareFan",
+          "comment": "Nice variety of flavors, effective.",
+          "rating": 4,
+          "date": "2023-11-17"
+        }
+      ]
+    },
+    "13": {
+      "id": 113,
+      "name": "Sunscreen SPF 50",
+      "description": "Broad-spectrum sunscreen with SPF 50 for effective sun protection.",
+      "price": 14.99,
+      "category": "Beauty / Skincare",
+      "stock": 30,
+      "tags": ["beauty", "skincare", "sunscreen", "spf 50", "broad-spectrum"],
+      "image": "productimage/beauty/skincare/skincare_4.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "SunProtection",
+          "comment": "Excellent sun protection, non-greasy.",
+          "rating": 5,
+          "date": "2023-11-16"
+        },
+        {
+          "user": "SkincareLover",
+          "comment": "Gentle on skin, absorbs well.",
+          "rating": 4,
+          "date": "2023-11-15"
+        }
+      ]
+    },
+    "14": {
+      "id": 114,
+      "name": "Perfume Set",
+      "description": "Set of 3 luxurious perfumes with floral and woody notes.",
+      "price": 39.99,
+      "category": "Personal Care / Dental Care",
+      "stock": 18,
+      "tags": ["beauty", "fragrance", "perfume", "floral", "woody"],
+      "image": "productimage/beauty/fragrance/fragrance_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "FragranceLover",
+          "comment": "Lovely scents, long-lasting.",
+          "rating": 5,
+          "date": "2023-11-14"
+        },
+        {
+          "user": "PerfumeFanatic",
+          "comment": "Beautiful packaging, great gift set.",
+          "rating": 4,
+          "date": "2023-11-13"
+        }
+      ]
+    },
+    "15": {
+      "id": 115,
+      "name": "Electric Toothbrush",
+      "description": "Rechargeable electric toothbrush with multiple brushing modes.",
+      "price": 49.99,
+      "category": "Personal Care / Dental Care",
+      "stock": 20,
+      "tags": [
+        "personal care",
+        "dental care",
+        "electric toothbrush",
+        "rechargeable"
+      ],
+      "image": "productimage/personal_care/personal+care_1.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 40
+      },
+      "sales": {
+        "totalSold": 110,
+        "soldThisMonth": 12
+      },
+      "reviews": [
+        {
+          "user": "CleanTeeth",
+          "comment": "Effective cleaning, love the different modes.",
+          "rating": 5,
+          "date": "2023-11-12"
+        },
+        {
+          "user": "DentalCareFan",
+          "comment": "Gentle on gums, sleek design.",
+          "rating": 4,
+          "date": "2023-11-11"
+        }
+      ]
+    }
+  },
+  "skincare": {
+    "1": {
+      "id": 101,
+      "name": "Moisturizing Shampoo",
+      "description": "Hydrating shampoo for soft and shiny hair, suitable for all hair types.",
+      "price": 12.99,
+      "category": "Beauty / Hair Care",
+      "stock": 25,
+      "tags": ["beauty", "hair care", "shampoo", "moisturizing"],
+      "image": "beauty/skincare/skincare_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "ShinyHairFan",
+          "comment": "Keeps my hair soft and manageable.",
+          "rating": 5,
+          "date": "2023-12-10"
+        },
+        {
+          "user": "BeautyAddict",
+          "comment": "Great for daily use, pleasant fragrance.",
+          "rating": 4,
+          "date": "2023-12-09"
+        }
+      ]
+    },
+    "2": {
+      "id": 102,
+      "name": "Matte Lipstick",
+      "description": "Long-lasting matte lipstick in a bold red shade.",
+      "price": 9.99,
+      "category": "Beauty / Makeup",
+      "stock": 20,
+      "tags": ["beauty", "makeup", "lipstick", "matte"],
+      "image": "beauty/skincare/skincare_2.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "BoldLips",
+          "comment": "Lovely color, stays put for hours.",
+          "rating": 5,
+          "date": "2023-12-08"
+        },
+        {
+          "user": "MakeupLover",
+          "comment": "Smooth application, vibrant pigment.",
+          "rating": 4,
+          "date": "2023-12-07"
+        }
+      ]
+    },
+    "3": {
+      "id": 103,
+      "name": "Nail Polish Set",
+      "description": "Set of 5 vibrant nail polishes in assorted colors.",
+      "price": 14.99,
+      "category": "Beauty / Nail Care",
+      "stock": 30,
+      "tags": ["beauty", "nail care", "nail polish", "vibrant"],
+      "image": "beauty/skincare/skincare_3.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "NailArtFanatic",
+          "comment": "Beautiful colors, great quality polish.",
+          "rating": 5,
+          "date": "2023-12-06"
+        },
+        {
+          "user": "NailPolishLover",
+          "comment": "Smooth application, long-lasting.",
+          "rating": 4,
+          "date": "2023-12-05"
+        }
+      ]
+    },
+    "4": {
+      "id": 104,
+      "name": "Face Mask",
+      "description": "Hydrating face mask enriched with vitamin C for radiant skin.",
+      "price": 19.99,
+      "category": "Beauty / Skincare",
+      "stock": 25,
+      "tags": ["beauty", "skincare", "face mask", "hydrating", "vitamin C"],
+      "image": "beauty/skincare/skincare_4.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "GlowingSkin",
+          "comment": "Leaves my skin feeling refreshed and glowing.",
+          "rating": 5,
+          "date": "2023-12-04"
+        },
+        {
+          "user": "SkincareAddict",
+          "comment": "Effective hydrating mask, nice scent.",
+          "rating": 4,
+          "date": "2023-12-03"
+        }
+      ]
+    },
+    "5": {
+      "id": 105,
+      "name": "Body Lotion",
+      "description": "Moisturizing body lotion with shea butter for smooth and soft skin.",
+      "price": 15.99,
+      "category": "Beauty / Body Care",
+      "stock": 20,
+      "tags": [
+        "beauty",
+        "body care",
+        "body lotion",
+        "moisturizing",
+        "shea butter"
+      ],
+      "image": "beauty/skincare/skincare_5.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "SmoothSkin",
+          "comment": "Keeps my skin hydrated all day long.",
+          "rating": 5,
+          "date": "2023-12-02"
+        },
+        {
+          "user": "BodyCareFan",
+          "comment": "Absorbs quickly, pleasant fragrance.",
+          "rating": 4,
+          "date": "2023-12-01"
+        }
+      ]
+    },
+    "6": {
+      "id": 106,
+      "name": "Makeup Brushes Set",
+      "description": "Set of 10 professional makeup brushes for flawless application.",
+      "price": 29.99,
+      "category": "Beauty / Makeup",
+      "stock": 18,
+      "tags": ["beauty", "makeup", "makeup brushes", "professional"],
+      "image": "beauty/skincare/skincare_6.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "MakeupArtist",
+          "comment": "Excellent quality brushes, blends makeup perfectly.",
+          "rating": 5,
+          "date": "2023-11-30"
+        },
+        {
+          "user": "BeautyEnthusiast",
+          "comment": "Great set for everyday use, soft bristles.",
+          "rating": 4,
+          "date": "2023-11-29"
+        }
+      ]
+    },
+    "7": {
+      "id": 107,
+      "name": "Anti-Aging Serum",
+      "description": "Revitalizing anti-aging serum with collagen and hyaluronic acid.",
+      "price": 39.99,
+      "category": "Beauty / Skincare",
+      "stock": 15,
+      "tags": [
+        "beauty",
+        "skincare",
+        "anti-aging",
+        "serum",
+        "collagen",
+        "hyaluronic acid"
+      ],
+      "image": "beauty/skincare/skincare_7.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 38
+      },
+      "sales": {
+        "totalSold": 110,
+        "soldThisMonth": 12
+      },
+      "reviews": [
+        {
+          "user": "YouthfulSkin",
+          "comment": "Noticeable improvement in skin texture, love it.",
+          "rating": 5,
+          "date": "2023-11-28"
+        },
+        {
+          "user": "SkincareFanatic",
+          "comment": "Hydrates well, reduces fine lines.",
+          "rating": 4,
+          "date": "2023-11-27"
+        }
+      ]
+    },
+    "8": {
+      "id": 108,
+      "name": "Eyeshadow Palette",
+      "description": "Versatile eyeshadow palette with 12 blendable shades.",
+      "price": 24.99,
+      "category": "Beauty / Makeup",
+      "stock": 20,
+      "tags": ["beauty", "makeup", "eyeshadow", "palette"],
+      "image": "beauty/skincare/skincare_8.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "YouthfulSkin",
+          "comment": "Noticeable improvement in skin texture, love it.",
+          "rating": 5,
+          "date": "2023-11-28"
+        },
+        {
+          "user": "SkincareFanatic",
+          "comment": "Hydrates well, reduces fine lines.",
+          "rating": 4,
+          "date": "2023-11-27"
+        }
+      ]
+    },
+    "9": {
+      "id": 109,
+      "name": "Facial Cleanser",
+      "description": "Gentle facial cleanser for all skin types, removes impurities and makeup.",
+      "price": 16.99,
+      "category": "Beauty / Skincare",
+      "stock": 25,
+      "tags": ["beauty", "skincare", "facial cleanser", "gentle"],
+      "image": "beauty/skincare/skincare_9.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "CleanSkinNow",
+          "comment": "Leaves my skin feeling clean and refreshed.",
+          "rating": 5,
+          "date": "2023-11-25"
+        },
+        {
+          "user": "SkincareRoutine",
+          "comment": "Gentle formula, doesn't dry out skin.",
+          "rating": 4,
+          "date": "2023-11-24"
+        }
+      ]
+    },
+    "10": {
+      "id": 110,
+      "name": "Lip Balm",
+      "description": "Moisturizing lip balm enriched with shea butter and vitamin E.",
+      "price": 7.99,
+      "category": "Beauty / Lip Care",
+      "stock": 30,
+      "tags": [
+        "beauty",
+        "lip care",
+        "lip balm",
+        "moisturizing",
+        "shea butter",
+        "vitamin E"
+      ],
+      "image": "beauty/skincare/skincare_10.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "SoftLips",
+          "comment": "Keeps my lips soft and hydrated.",
+          "rating": 5,
+          "date": "2023-11-23"
+        },
+        {
+          "user": "LipCareFan",
+          "comment": "Nice texture, long-lasting moisture.",
+          "rating": 4,
+          "date": "2023-11-22"
+        }
+      ]
+    },
+    "11": {
+      "id": 111,
+      "name": "Hair Conditioner",
+      "description": "Repairing hair conditioner for damaged hair, enriched with keratin.",
+      "price": 14.99,
+      "category": "Beauty / Hair Care",
+      "stock": 22,
+      "tags": [
+        "beauty",
+        "hair care",
+        "hair conditioner",
+        "repairing",
+        "keratin"
+      ],
+      "image": "beauty/skincare/skincare_11.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 88,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "RepairMyHair",
+          "comment": "Makes my hair smoother and more manageable.",
+          "rating": 5,
+          "date": "2023-11-21"
+        },
+        {
+          "user": "HealthyHair",
+          "comment": "Nice scent, noticeable improvement in hair texture.",
+          "rating": 4,
+          "date": "2023-11-20"
+        }
+      ]
+    },
+    "12": {
+      "id": 112,
+      "name": "Sunscreen Lotion",
+      "description": "Broad-spectrum SPF 50 sunscreen lotion for face and body.",
+      "price": 19.99,
+      "category": "Beauty / Sun Care",
+      "stock": 18,
+      "tags": ["beauty", "sun care", "sunscreen", "SPF 50", "broad-spectrum"],
+      "image": "beauty/skincare/skincare_12.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 105,
+        "soldThisMonth": 9
+      },
+      "reviews": [
+        {
+          "user": "SunscreenFan",
+          "comment": "Effective protection, absorbs well.",
+          "rating": 5,
+          "date": "2023-11-19"
+        },
+        {
+          "user": "SkinProtection",
+          "comment": "Doesn't leave a greasy feeling, great for daily use.",
+          "rating": 4,
+          "date": "2023-11-18"
+        }
+      ]
+    },
+    "13": {
+      "id": 113,
+      "name": "Exfoliating Scrub",
+      "description": "Gentle exfoliating scrub with natural ingredients for smooth skin.",
+      "price": 12.99,
+      "category": "Beauty / Skincare",
+      "stock": 28,
+      "tags": [
+        "beauty",
+        "skincare",
+        "exfoliating scrub",
+        "gentle",
+        "natural ingredients"
+      ],
+      "image": "beauty/skincare/skincare_13.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "SmoothSkinNow",
+          "comment": "Leaves my skin feeling soft and clean.",
+          "rating": 5,
+          "date": "2023-11-17"
+        },
+        {
+          "user": "SkincareRoutine",
+          "comment": "Gentle on sensitive skin, effective exfoliation.",
+          "rating": 4,
+          "date": "2023-11-16"
+        }
+      ]
+    },
+    "14": {
+      "id": 114,
+      "name": "Hand Cream",
+      "description": "Moisturizing hand cream with aloe vera for soft and hydrated hands.",
+      "price": 9.99,
+      "category": "Beauty / Hand Care",
+      "stock": 25,
+      "tags": [
+        "beauty",
+        "hand care",
+        "hand cream",
+        "moisturizing",
+        "aloe vera"
+      ],
+      "image": "beauty/skincare/skincare_14.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "SoftHands",
+          "comment": "Keeps my hands soft throughout the day.",
+          "rating": 5,
+          "date": "2023-11-15"
+        },
+        {
+          "user": "HandCareFan",
+          "comment": "Absorbs quickly, non-greasy.",
+          "rating": 4,
+          "date": "2023-11-14"
+        }
+      ]
+    },
+    "15": {
+      "id": 115,
+      "name": "Eye Cream",
+      "description": "Hydrating eye cream for reducing puffiness and dark circles.",
+      "price": 17.99,
+      "category": "Beauty / Eye Care",
+      "stock": 20,
+      "tags": [
+        "beauty",
+        "eye care",
+        "eye cream",
+        "hydrating",
+        "puffiness",
+        "dark circles"
+      ],
+      "image": "beauty/skincare/skincare_15.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 34
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "BrightEyes",
+          "comment": "Helps reduce puffiness, refreshing.",
+          "rating": 5,
+          "date": "2023-11-13"
+        },
+        {
+          "user": "EyeCareFan",
+          "comment": "Lightweight, absorbs quickly.",
+          "rating": 4,
+          "date": "2023-11-12"
+        }
+      ]
+    }
+  },
+  "spa_products": {
+    "1": {
+      "id": 101,
+      "name": "Luxury Bath Bomb",
+      "description": "Relax and rejuvenate with our luxury bath bombs, infused with essential oils.",
+      "price": 9.99,
+      "category": "Spa",
+      "stock": 50,
+      "tags": ["bath bomb", "relaxation", "essential oils"],
+      "image": "spa_products/spa+products_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 120,
+        "soldThisMonth": 15
+      },
+      "reviews": [
+        {
+          "user": "SpaLover",
+          "comment": "Amazing scent and very relaxing!",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "RelaxationGuru",
+          "comment": "Leaves my skin so soft and smells great.",
+          "rating": 4,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 102,
+      "name": "Herbal Bath Salts",
+      "description": "Natural herbal bath salts for a soothing and calming bath experience.",
+      "price": 12.99,
+      "category": "Spa",
+      "stock": 40,
+      "tags": ["bath salts", "herbal", "soothing"],
+      "image": "spa_products/spa+products_2.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 12
+      },
+      "reviews": [
+        {
+          "user": "HerbalFan",
+          "comment": "Very relaxing and helps me sleep better.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "BathTime",
+          "comment": "Love the natural ingredients.",
+          "rating": 4,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 103,
+      "name": "Aromatherapy Candles",
+      "description": "Set the mood with our aromatherapy candles, perfect for a spa-like atmosphere.",
+      "price": 19.99,
+      "category": "Spa",
+      "stock": 35,
+      "tags": ["candles", "aromatherapy", "spa"],
+      "image": "spa_products/spa+products_3.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "CandleLover",
+          "comment": "The scents are amazing and very calming.",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "RelaxationMaster",
+          "comment": "Perfect for my evening relaxation routine.",
+          "rating": 4,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 104,
+      "name": "Essential Oil Diffuser",
+      "description": "Create a tranquil environment with our essential oil diffusers.",
+      "price": 29.99,
+      "category": "Spa",
+      "stock": 20,
+      "tags": ["essential oil", "diffuser", "relaxation"],
+      "image": "spa_products/spa+products_4.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 22
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "OilLover",
+          "comment": "Works perfectly and looks great.",
+          "rating": 5,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "SpaAtHome",
+          "comment": "The aroma is very soothing.",
+          "rating": 4,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 105,
+      "name": "Luxury Spa Gift Set",
+      "description": "Pamper yourself or a loved one with our luxury spa gift set.",
+      "price": 49.99,
+      "category": "Spa",
+      "stock": 15,
+      "tags": ["gift set", "luxury", "spa"],
+      "image": "spa_products/spa+products_5.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 60,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "GiftGiver",
+          "comment": "Beautifully packaged and smells wonderful.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "SpaFanatic",
+          "comment": "Perfect for a relaxing evening.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 106,
+      "name": "Exfoliating Scrub",
+      "description": "Revitalize your skin with our natural exfoliating scrub.",
+      "price": 14.99,
+      "category": "Spa",
+      "stock": 25,
+      "tags": ["exfoliating", "scrub", "skin care"],
+      "image": "spa_products/spa+products_6.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "SkinCareGuru",
+          "comment": "Leaves my skin feeling so smooth.",
+          "rating": 5,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "ExfoliationFan",
+          "comment": "Great product for a great price.",
+          "rating": 4,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 107,
+      "name": "Moisturizing Face Mask",
+      "description": "Hydrate your skin with our nourishing face masks.",
+      "price": 9.99,
+      "category": "Spa",
+      "stock": 30,
+      "tags": ["face mask", "moisturizing", "skin care"],
+      "image": "spa_products/spa+products_7.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "FaceMaskFan",
+          "comment": "So hydrating and makes my skin glow.",
+          "rating": 5,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "SkinCareAddict",
+          "comment": "Perfect for a home spa day.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 108,
+      "name": "Aloe Vera Gel",
+      "description": "Soothe and cool your skin with our pure aloe vera gel.",
+      "price": 7.99,
+      "category": "Spa",
+      "stock": 50,
+      "tags": ["aloe vera", "soothing", "cooling"],
+      "image": "spa_products/spa+products_8.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 110,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "AloeFan",
+          "comment": "Very soothing, especially after sun exposure.",
+          "rating": 5,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "SkinCareLover",
+          "comment": "Absorbs quickly and feels great.",
+          "rating": 4,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 109,
+      "name": "Spa Headband",
+      "description": "Keep your hair out of your face with our soft spa headbands.",
+      "price": 5.99,
+      "category": "Spa",
+      "stock": 60,
+      "tags": ["headband", "spa", "accessories"],
+      "image": "spa_products/spa+products_9.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 15
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "SpaHeadbandFan",
+          "comment": "Very comfortable and keeps my hair back.",
+          "rating": 5,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "HeadbandLover",
+          "comment": "Good quality for the price.",
+          "rating": 4,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 110,
+      "name": "Foot Soak Crystals",
+      "description": "Relax your feet with our soothing foot soak crystals.",
+      "price": 8.99,
+      "category": "Spa",
+      "stock": 45,
+      "tags": ["foot soak", "crystals", "relaxation"],
+      "image": "spa_products/spa+products_10.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 65,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "FootCareFan",
+          "comment": "Very relaxing and smells great.",
+          "rating": 5,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "FootSoakLover",
+          "comment": "Perfect for tired feet.",
+          "rating": 4,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 111,
+      "name": "Body Butter",
+      "description": "Nourish and hydrate your skin with our rich body butter.",
+      "price": 15.99,
+      "category": "Spa",
+      "stock": 35,
+      "tags": ["body butter", "hydrating", "nourishing"],
+      "image": "spa_products/spa+products_11.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 50,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "BodyButterFan",
+          "comment": "Leaves my skin so soft and smooth.",
+          "rating": 5,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "SkinCareEnthusiast",
+          "comment": "Very moisturizing and smells great.",
+          "rating": 4,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 112,
+      "name": "Spa Slippers",
+      "description": "Treat your feet with our comfortable and soft spa slippers.",
+      "price": 12.99,
+      "category": "Spa",
+      "stock": 40,
+      "tags": ["slippers", "spa", "comfort"],
+      "image": "spa_products/spa+products_12.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 22
+      },
+      "sales": {
+        "totalSold": 55,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "SlipperFan",
+          "comment": "Very comfortable and perfect for around the house.",
+          "rating": 5,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "ComfyFeet",
+          "comment": "Great quality and very soft.",
+          "rating": 4,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 113,
+      "name": "Clay Face Mask",
+      "description": "Detoxify your skin with our natural clay face mask.",
+      "price": 11.99,
+      "category": "Spa",
+      "stock": 25,
+      "tags": ["clay mask", "detoxifying", "skin care"],
+      "image": "spa_products/spa+products_13.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 19
+      },
+      "sales": {
+        "totalSold": 45,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "ClayMaskFan",
+          "comment": "My skin feels so clean and refreshed.",
+          "rating": 5,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "DetoxLover",
+          "comment": "Great product for a great price.",
+          "rating": 4,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 114,
+      "name": "Hot Stone Massage Kit",
+      "description": "Experience the benefits of hot stone massage at home with our kit.",
+      "price": 39.99,
+      "category": "Spa",
+      "stock": 20,
+      "tags": ["hot stone", "massage", "relaxation"],
+      "image": "spa_products/spa+products_14.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 16
+      },
+      "sales": {
+        "totalSold": 40,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "MassageFan",
+          "comment": "Very relaxing and easy to use.",
+          "rating": 5,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "RelaxationLover",
+          "comment": "Perfect for a home spa day.",
+          "rating": 4,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 115,
+      "name": "Lavender Eye Pillow",
+      "description": "Relax your eyes with our soothing lavender eye pillow.",
+      "price": 8.99,
+      "category": "Spa",
+      "stock": 50,
+      "tags": ["eye pillow", "lavender", "relaxation"],
+      "image": "spa_products/spa+products_15.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 60,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "EyePillowFan",
+          "comment": "Very relaxing and helps me sleep better.",
+          "rating": 5,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "LavenderLover",
+          "comment": "Smells wonderful and very soothing.",
+          "rating": 4,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  },
+  "wellness_products": {
+    "1": {
+      "id": 101,
+      "name": "Luxury Bath Bomb",
+      "description": "Relax and rejuvenate with our luxury bath bombs, infused with essential oils.",
+      "price": 9.99,
+      "category": "Spa",
+      "stock": 50,
+      "tags": ["bath bomb", "relaxation", "essential oils"],
+      "image": "wellness_products/wellness+products_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 25
+      },
+      "sales": {
+        "totalSold": 120,
+        "soldThisMonth": 15
+      },
+      "reviews": [
+        {
+          "user": "SpaLover",
+          "comment": "Amazing scent and very relaxing!",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "RelaxationGuru",
+          "comment": "Leaves my skin so soft and smells great.",
+          "rating": 4,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 102,
+      "name": "Herbal Bath Salts",
+      "description": "Natural herbal bath salts for a soothing and calming bath experience.",
+      "price": 12.99,
+      "category": "Spa",
+      "stock": 40,
+      "tags": ["bath salts", "herbal", "soothing"],
+      "image": "wellness_products/wellness+products_2.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 12
+      },
+      "reviews": [
+        {
+          "user": "HerbalFan",
+          "comment": "Very relaxing and helps me sleep better.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "BathTime",
+          "comment": "Love the natural ingredients.",
+          "rating": 4,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 103,
+      "name": "Aromatherapy Candles",
+      "description": "Set the mood with our aromatherapy candles, perfect for a spa-like atmosphere.",
+      "price": 19.99,
+      "category": "Spa",
+      "stock": 35,
+      "tags": ["candles", "aromatherapy", "spa"],
+      "image": "wellness_products/wellness+products_3.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "CandleLover",
+          "comment": "The scents are amazing and very calming.",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "RelaxationMaster",
+          "comment": "Perfect for my evening relaxation routine.",
+          "rating": 4,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 104,
+      "name": "Essential Oil Diffuser",
+      "description": "Create a tranquil environment with our essential oil diffusers.",
+      "price": 29.99,
+      "category": "Spa",
+      "stock": 20,
+      "tags": ["essential oil", "diffuser", "relaxation"],
+      "image": "wellness_products/wellness+products_4.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 22
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "OilLover",
+          "comment": "Works perfectly and looks great.",
+          "rating": 5,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "SpaAtHome",
+          "comment": "The aroma is very soothing.",
+          "rating": 4,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 105,
+      "name": "Luxury Spa Gift Set",
+      "description": "Pamper yourself or a loved one with our luxury spa gift set.",
+      "price": 49.99,
+      "category": "Spa",
+      "stock": 15,
+      "tags": ["gift set", "luxury", "spa"],
+      "image": "wellness_products/wellness+products_5.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 60,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "GiftGiver",
+          "comment": "Beautifully packaged and smells wonderful.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "SpaFanatic",
+          "comment": "Perfect for a relaxing evening.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 106,
+      "name": "Exfoliating Scrub",
+      "description": "Revitalize your skin with our natural exfoliating scrub.",
+      "price": 14.99,
+      "category": "Spa",
+      "stock": 25,
+      "tags": ["exfoliating", "scrub", "skin care"],
+      "image": "wellness_products/wellness+products_6.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "SkinCareGuru",
+          "comment": "Leaves my skin feeling so smooth.",
+          "rating": 5,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "ExfoliationFan",
+          "comment": "Great product for a great price.",
+          "rating": 4,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 107,
+      "name": "Moisturizing Face Mask",
+      "description": "Hydrate your skin with our nourishing face masks.",
+      "price": 9.99,
+      "category": "Spa",
+      "stock": 30,
+      "tags": ["face mask", "moisturizing", "skin care"],
+      "image": "wellness_products/wellness+products_7.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "FaceMaskFan",
+          "comment": "So hydrating and makes my skin glow.",
+          "rating": 5,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "SkinCareAddict",
+          "comment": "Perfect for a home spa day.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 108,
+      "name": "Aloe Vera Gel",
+      "description": "Soothe and cool your skin with our pure aloe vera gel.",
+      "price": 7.99,
+      "category": "Spa",
+      "stock": 50,
+      "tags": ["aloe vera", "soothing", "cooling"],
+      "image": "wellness_products/wellness+products_8.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 110,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "AloeFan",
+          "comment": "Very soothing, especially after sun exposure.",
+          "rating": 5,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "SkinCareLover",
+          "comment": "Absorbs quickly and feels great.",
+          "rating": 4,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 109,
+      "name": "Spa Headband",
+      "description": "Keep your hair out of your face with our soft spa headbands.",
+      "price": 5.99,
+      "category": "Spa",
+      "stock": 60,
+      "tags": ["headband", "spa", "accessories"],
+      "image": "wellness_products/wellness+products_9.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 15
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "SpaHeadbandFan",
+          "comment": "Very comfortable and keeps my hair back.",
+          "rating": 5,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "HeadbandLover",
+          "comment": "Good quality for the price.",
+          "rating": 4,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 110,
+      "name": "Foot Soak Crystals",
+      "description": "Relax your feet with our soothing foot soak crystals.",
+      "price": 8.99,
+      "category": "Spa",
+      "stock": 45,
+      "tags": ["foot soak", "crystals", "relaxation"],
+      "image": "wellness_products/wellness+products_10.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 65,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "FootCareFan",
+          "comment": "Very relaxing and smells great.",
+          "rating": 5,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "FootSoakLover",
+          "comment": "Perfect for tired feet.",
+          "rating": 4,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 111,
+      "name": "Body Butter",
+      "description": "Nourish and hydrate your skin with our rich body butter.",
+      "price": 15.99,
+      "category": "Spa",
+      "stock": 35,
+      "tags": ["body butter", "hydrating", "nourishing"],
+      "image": "wellness_products/wellness+products_11.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 50,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "BodyButterFan",
+          "comment": "Leaves my skin so soft and smooth.",
+          "rating": 5,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "SkinCareEnthusiast",
+          "comment": "Very moisturizing and smells great.",
+          "rating": 4,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 112,
+      "name": "Spa Slippers",
+      "description": "Treat your feet with our comfortable and soft spa slippers.",
+      "price": 12.99,
+      "category": "Spa",
+      "stock": 40,
+      "tags": ["slippers", "spa", "comfort"],
+      "image": "wellness_products/wellness+products_12.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 22
+      },
+      "sales": {
+        "totalSold": 55,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "SlipperFan",
+          "comment": "Very comfortable and perfect for around the house.",
+          "rating": 5,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "ComfyFeet",
+          "comment": "Great quality and very soft.",
+          "rating": 4,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 113,
+      "name": "Clay Face Mask",
+      "description": "Detoxify your skin with our natural clay face mask.",
+      "price": 11.99,
+      "category": "Spa",
+      "stock": 25,
+      "tags": ["clay mask", "detoxifying", "skin care"],
+      "image": "wellness_products/wellness+products_13.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 19
+      },
+      "sales": {
+        "totalSold": 45,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "ClayMaskFan",
+          "comment": "My skin feels so clean and refreshed.",
+          "rating": 5,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "DetoxLover",
+          "comment": "Great product for a great price.",
+          "rating": 4,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 114,
+      "name": "Hot Stone Massage Kit",
+      "description": "Experience the benefits of hot stone massage at home with our kit.",
+      "price": 39.99,
+      "category": "Spa",
+      "stock": 20,
+      "tags": ["hot stone", "massage", "relaxation"],
+      "image": "wellness_products/wellness+products_14.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 16
+      },
+      "sales": {
+        "totalSold": 40,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "MassageFan",
+          "comment": "Very relaxing and easy to use.",
+          "rating": 5,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "RelaxationLover",
+          "comment": "Perfect for a home spa day.",
+          "rating": 4,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 115,
+      "name": "Lavender Eye Pillow",
+      "description": "Relax your eyes with our soothing lavender eye pillow.",
+      "price": 8.99,
+      "category": "Spa",
+      "stock": 50,
+      "tags": ["eye pillow", "lavender", "relaxation"],
+      "image": "wellness_products/wellness+products_15.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 18
+      },
+      "sales": {
+        "totalSold": 60,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "EyePillowFan",
+          "comment": "Very relaxing and helps me sleep better.",
+          "rating": 5,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "LavenderLover",
+          "comment": "Smells wonderful and very soothing.",
+          "rating": 4,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  }
+}

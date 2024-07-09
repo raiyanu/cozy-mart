@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 76,
+    "name": "Luxury Bath Towel Set",
+    "description": "Soft and absorbent towel set for a luxurious bathing experience.",
+    "price": 49.99,
+    "category": "Bath Products",
+    "stock": 25,
+    "tags": ["bath products", "towel set", "luxury"],
+    "image": "productimage/bath_products/bath+products_1.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "LuxuryLover",
+        "comment": "Extremely soft and plush, feels amazing.",
+        "rating": 5,
+        "date": "2024-02-15"
+      },
+      {
+        "user": "SpaGoer",
+        "comment": "Great quality towels, perfect for my spa days.",
+        "rating": 4,
+        "date": "2024-02-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 77,
+    "name": "Bathrobe",
+    "description": "Comfortable and cozy bathrobe for lounging after a bath or shower.",
+    "price": 39.99,
+    "category": "Bath Products",
+    "stock": 30,
+    "tags": ["bath products", "bathrobe", "comfort"],
+    "image": "productimage/bath_products/bath+products_2.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CozyCustomer",
+        "comment": "Lovely bathrobe, very soft and warm.",
+        "rating": 5,
+        "date": "2024-02-13"
+      },
+      {
+        "user": "RelaxationFan",
+        "comment": "Perfect for lounging, good quality fabric.",
+        "rating": 4,
+        "date": "2024-02-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 78,
+    "name": "Shower Gel",
+    "description": "Refreshing shower gel with a revitalizing scent.",
+    "price": 12.99,
+    "category": "Bath Products",
+    "stock": 35,
+    "tags": ["bath products", "shower gel", "refreshing"],
+    "image": "productimage/bath_products/bath+products_3.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "ScentLover",
+        "comment": "Great fragrance, lathers well.",
+        "rating": 5,
+        "date": "2024-02-11"
+      },
+      {
+        "user": "CleanFeeling",
+        "comment": "Leaves skin feeling fresh and clean.",
+        "rating": 4,
+        "date": "2024-02-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 79,
+    "name": "Bath Bomb Set",
+    "description": "Set of luxurious bath bombs for a relaxing bath experience.",
+    "price": 24.99,
+    "category": "Bath Products",
+    "stock": 20,
+    "tags": ["bath products", "bath bombs", "luxury"],
+    "image": "productimage/bath_products/bath+products_4.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 95,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "BathEnthusiast",
+        "comment": "Beautiful colors and scents, very relaxing.",
+        "rating": 5,
+        "date": "2024-02-09"
+      },
+      {
+        "user": "SpaLover",
+        "comment": "Lovely addition to my bath routine.",
+        "rating": 4,
+        "date": "2024-02-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 80,
+    "name": "Body Lotion",
+    "description": "Moisturizing body lotion with a soothing effect on the skin.",
+    "price": 19.99,
+    "category": "Bath Products",
+    "stock": 25,
+    "tags": ["bath products", "body lotion", "moisturizing"],
+    "image": "productimage/bath_products/bath+products_5.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "SkinCareFan",
+        "comment": "Keeps my skin soft and hydrated all day.",
+        "rating": 5,
+        "date": "2024-02-07"
+      },
+      {
+        "user": "RelaxationSeeker",
+        "comment": "Nice fragrance, absorbs well into the skin.",
+        "rating": 4,
+        "date": "2024-02-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 81,
+    "name": "Bath Mat",
+    "description": "Absorbent and non-slip bath mat for safety and comfort.",
+    "price": 14.99,
+    "category": "Bath Products",
+    "stock": 30,
+    "tags": ["bath products", "bath mat", "comfort"],
+    "image": "productimage/bath_products/bath+products_6.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "ComfortFirst",
+        "comment": "Soft and stays in place, good quality.",
+        "rating": 5,
+        "date": "2024-02-05"
+      },
+      {
+        "user": "HomeSpa",
+        "comment": "Nice addition to my bathroom, absorbs water well.",
+        "rating": 4,
+        "date": "2024-02-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 82,
+    "name": "Shower Caddy",
+    "description": "Convenient shower caddy for organizing bath essentials.",
+    "price": 19.99,
+    "category": "Bath Products",
+    "stock": 28,
+    "tags": ["bath products", "shower caddy", "organization"],
+    "image": "productimage/bath_products/bath+products_7.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "OrganizationFan",
+        "comment": "Very handy for keeping everything organized in the shower.",
+        "rating": 5,
+        "date": "2024-02-03"
+      },
+      {
+        "user": "BathEnthusiast",
+        "comment": "Sturdy and practical, fits all my shower essentials.",
+        "rating": 4,
+        "date": "2024-02-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 83,
+    "name": "Bath Sponge",
+    "description": "Soft and gentle bath sponge for cleansing and exfoliating the skin.",
+    "price": 9.99,
+    "category": "Bath Products",
+    "stock": 26,
+    "tags": ["bath products", "bath sponge", "exfoliating"],
+    "image": "productimage/bath_products/bath+products_8.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 27
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "SkinCareFan",
+        "comment": "Gentle on the skin, helps with exfoliation.",
+        "rating": 5,
+        "date": "2024-02-01"
+      },
+      {
+        "user": "CleanFeeling",
+        "comment": "Nice texture, good for daily use.",
+        "rating": 4,
+        "date": "2024-01-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 84,
+    "name": "Bath Salts",
+    "description": "Relaxing bath salts with natural minerals for a soothing bath experience.",
+    "price": 16.99,
+    "category": "Bath Products",
+    "stock": 24,
+    "tags": ["bath products", "bath salts", "relaxing"],
+    "image": "productimage/bath_products/bath+products_9.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "RelaxationSeeker",
+        "comment": "Very relaxing, melts away stress.",
+        "rating": 5,
+        "date": "2024-01-30"
+      },
+      {
+        "user": "SpaDay",
+        "comment": "Lovely fragrance, dissolves well in the bath.",
+        "rating": 4,
+        "date": "2024-01-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 85,
+    "name": "Bath Tray",
+    "description": "Stylish bath tray for holding books, wine, and bath accessories.",
+    "price": 29.99,
+    "category": "Bath Products",
+    "stock": 22,
+    "tags": ["bath products", "bath tray", "luxury"],
+    "image": "productimage/bath_products/bath+products_10.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "RelaxationFan",
+        "comment": "Great addition to my bath time relaxation.",
+        "rating": 5,
+        "date": "2024-01-28"
+      },
+      {
+        "user": "BathEnthusiast",
+        "comment": "Sturdy and looks elegant in my bathroom.",
+        "rating": 4,
+        "date": "2024-01-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 86,
+    "name": "Bath Brush",
+    "description": "Gentle bath brush for exfoliating and massaging the skin.",
+    "price": 12.99,
+    "category": "Bath Products",
+    "stock": 18,
+    "tags": ["bath products", "bath brush", "exfoliating"],
+    "image": "productimage/bath_products/bath+products_11.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "SkinCareFan",
+        "comment": "Nice bristles, feels great on the skin.",
+        "rating": 5,
+        "date": "2024-01-26"
+      },
+      {
+        "user": "CleanFeeling",
+        "comment": "Helps with circulation, good for dry brushing.",
+        "rating": 4,
+        "date": "2024-01-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 87,
+    "name": "Bubble Bath",
+    "description": "Fun bubble bath for a relaxing and enjoyable bath time.",
+    "price": 14.99,
+    "category": "Bath Products",
+    "stock": 20,
+    "tags": ["bath products", "bubble bath", "relaxing"],
+    "image": "productimage/bath_products/bath+products_12.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "BathEnthusiast",
+        "comment": "Lots of bubbles, nice fragrance.",
+        "rating": 5,
+        "date": "2024-01-24"
+      },
+      {
+        "user": "RelaxationSeeker",
+        "comment": "Great for a relaxing bath after a long day.",
+        "rating": 4,
+        "date": "2024-01-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 88,
+    "name": "Shower Cap",
+    "description": "Waterproof shower cap to keep hair dry while showering or bathing.",
+    "price": 9.99,
+    "category": "Bath Products",
+    "stock": 16,
+    "tags": ["bath products", "shower cap", "waterproof"],
+    "image": "productimage/bath_products/bath+products_13.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "ShowerCapUser",
+        "comment": "Keeps my hair dry and stays in place.",
+        "rating": 5,
+        "date": "2024-01-22"
+      },
+      {
+        "user": "ShowerLover",
+        "comment": "Good fit and comfortable to wear.",
+        "rating": 4,
+        "date": "2024-01-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 89,
+    "name": "Bath Pillow",
+    "description": "Soft and supportive bath pillow for a comfortable bathing experience.",
+    "price": 19.99,
+    "category": "Bath Products",
+    "stock": 18,
+    "tags": ["bath products", "bath pillow", "comfort"],
+    "image": "productimage/bath_products/bath+products_14.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "RelaxationFan",
+        "comment": "Very comfortable, supports my neck and back.",
+        "rating": 5,
+        "date": "2024-01-20"
+      },
+      {
+        "user": "BathEnthusiast",
+        "comment": "Great addition to my bath routine.",
+        "rating": 4,
+        "date": "2024-01-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 90,
+    "name": "Bathrobe for Kids",
+    "description": "Soft and cute bathrobe for kids to stay warm and cozy after bath time.",
+    "price": 29.99,
+    "category": "Bath Products",
+    "stock": 16,
+    "tags": ["bath products", "kids bathrobe", "cozy"],
+    "image": "productimage/bath_products/bath+products_15.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "ParentReviewer",
+        "comment": "Adorable bathrobe, soft fabric.",
+        "rating": 5,
+        "date": "2024-01-18"
+      },
+      {
+        "user": "CozyKids",
+        "comment": "Keeps my child warm after bath time.",
+        "rating": 4,
+        "date": "2024-01-17"
+      }
+    ]
+  }
+}

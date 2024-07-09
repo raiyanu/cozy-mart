@@ -1,0 +1,506 @@
+{
+  "1": {
+    "id": 101,
+    "name": "Moisturizing Shampoo",
+    "description": "Hydrating shampoo for soft and shiny hair, suitable for all hair types.",
+    "price": 12.99,
+    "category": "Beauty / Hair Care",
+    "stock": 25,
+    "tags": ["beauty", "hair care", "shampoo", "moisturizing"],
+    "image": "productimage/beauty/hair_care/hair+care_1.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "ShinyHairFan",
+        "comment": "Keeps my hair soft and manageable.",
+        "rating": 5,
+        "date": "2023-12-10"
+      },
+      {
+        "user": "BeautyAddict",
+        "comment": "Great for daily use, pleasant fragrance.",
+        "rating": 4,
+        "date": "2023-12-09"
+      }
+    ]
+  },
+  "2": {
+    "id": 102,
+    "name": "Matte Lipstick",
+    "description": "Long-lasting matte lipstick in a bold red shade.",
+    "price": 9.99,
+    "category": "Beauty / Makeup",
+    "stock": 20,
+    "tags": ["beauty", "makeup", "lipstick", "matte"],
+    "image": "productimage/beauty/makeup/makeup_1.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "BoldLips",
+        "comment": "Lovely color, stays put for hours.",
+        "rating": 5,
+        "date": "2023-12-08"
+      },
+      {
+        "user": "MakeupLover",
+        "comment": "Smooth application, vibrant pigment.",
+        "rating": 4,
+        "date": "2023-12-07"
+      }
+    ]
+  },
+  "3": {
+    "id": 103,
+    "name": "Nail Polish Set",
+    "description": "Set of 5 vibrant nail polishes in assorted colors.",
+    "price": 14.99,
+    "category": "Beauty / Nail Care",
+    "stock": 30,
+    "tags": ["beauty", "nail care", "nail polish", "vibrant"],
+    "image": "productimage/beauty/nail_care/nail+care_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 35
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "NailArtFanatic",
+        "comment": "Beautiful colors, great quality polish.",
+        "rating": 5,
+        "date": "2023-12-06"
+      },
+      {
+        "user": "NailPolishLover",
+        "comment": "Smooth application, long-lasting.",
+        "rating": 4,
+        "date": "2023-12-05"
+      }
+    ]
+  },
+  "4": {
+    "id": 104,
+    "name": "Face Mask",
+    "description": "Hydrating face mask enriched with vitamin C for radiant skin.",
+    "price": 19.99,
+    "category": "Beauty / Skincare",
+    "stock": 25,
+    "tags": ["beauty", "skincare", "face mask", "hydrating", "vitamin C"],
+    "image": "productimage/beauty/skincare/skincare_1.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "GlowingSkin",
+        "comment": "Leaves my skin feeling refreshed and glowing.",
+        "rating": 5,
+        "date": "2023-12-04"
+      },
+      {
+        "user": "SkincareAddict",
+        "comment": "Effective hydrating mask, nice scent.",
+        "rating": 4,
+        "date": "2023-12-03"
+      }
+    ]
+  },
+  "5": {
+    "id": 105,
+    "name": "Body Lotion",
+    "description": "Moisturizing body lotion with shea butter for smooth and soft skin.",
+    "price": 15.99,
+    "category": "Beauty / Body Care",
+    "stock": 20,
+    "tags": [
+      "beauty",
+      "body care",
+      "body lotion",
+      "moisturizing",
+      "shea butter"
+    ],
+    "image": "productimage/beauty/body_care/body+care_1.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 95,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "SmoothSkin",
+        "comment": "Keeps my skin hydrated all day long.",
+        "rating": 5,
+        "date": "2023-12-02"
+      },
+      {
+        "user": "BodyCareFan",
+        "comment": "Absorbs quickly, pleasant fragrance.",
+        "rating": 4,
+        "date": "2023-12-01"
+      }
+    ]
+  },
+  "6": {
+    "id": 106,
+    "name": "Makeup Brushes Set",
+    "description": "Set of 10 professional makeup brushes for flawless application.",
+    "price": 29.99,
+    "category": "Beauty / Makeup Tools",
+    "stock": 22,
+    "tags": ["beauty", "makeup tools", "makeup brushes", "professional"],
+    "image": "productimage/beauty/makeup_tools/makeup_tools_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 35
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "MakeupArtist",
+        "comment": "High-quality brushes, blends makeup flawlessly.",
+        "rating": 5,
+        "date": "2023-11-30"
+      },
+      {
+        "user": "BeautyEnthusiast",
+        "comment": "Great variety, soft bristles.",
+        "rating": 4,
+        "date": "2023-11-29"
+      }
+    ]
+  },
+  "7": {
+    "id": 107,
+    "name": "Facial Scrub",
+    "description": "Gentle exfoliating facial scrub for smoother skin texture.",
+    "price": 12.99,
+    "category": "Beauty / Skincare",
+    "stock": 28,
+    "tags": ["beauty", "skincare", "facial scrub", "exfoliating"],
+    "image": "productimage/beauty/skincare/skincare_2.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 95,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "SmoothSkin",
+        "comment": "Leaves my skin feeling refreshed and smooth.",
+        "rating": 5,
+        "date": "2023-11-28"
+      },
+      {
+        "user": "SkincareFanatic",
+        "comment": "Gentle on sensitive skin, effective exfoliation.",
+        "rating": 4,
+        "date": "2023-11-27"
+      }
+    ]
+  },
+  "8": {
+    "id": 108,
+    "name": "Eyeshadow Palette",
+    "description": "Versatile eyeshadow palette with 12 shades for day and night looks.",
+    "price": 24.99,
+    "category": "Beauty / Makeup",
+    "stock": 25,
+    "tags": ["beauty", "makeup", "eyeshadow", "palette"],
+    "image": "productimage/beauty/makeup/makeup_2.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "EyeMakeupFan",
+        "comment": "Great color payoff, blends easily.",
+        "rating": 5,
+        "date": "2023-11-26"
+      },
+      {
+        "user": "MakeupLover",
+        "comment": "Beautiful shades, long-lasting.",
+        "rating": 4,
+        "date": "2023-11-25"
+      }
+    ]
+  },
+  "9": {
+    "id": 109,
+    "name": "Anti-Aging Serum",
+    "description": "Revitalizing anti-aging serum with hyaluronic acid and vitamin E.",
+    "price": 34.99,
+    "category": "Beauty / Skincare",
+    "stock": 20,
+    "tags": [
+      "beauty",
+      "skincare",
+      "anti-aging",
+      "serum",
+      "hyaluronic acid",
+      "vitamin E"
+    ],
+    "image": "productimage/beauty/skincare/skincare_3.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 110,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "YouthfulGlow",
+        "comment": "Noticeable improvement in skin texture and tone.",
+        "rating": 5,
+        "date": "2023-11-24"
+      },
+      {
+        "user": "SkincareEnthusiast",
+        "comment": "Hydrates deeply, reduces fine lines.",
+        "rating": 4,
+        "date": "2023-11-23"
+      }
+    ]
+  },
+  "10": {
+    "id": 110,
+    "name": "Curl Defining Cream",
+    "description": "Defines and enhances natural curls, leaving hair frizz-free and shiny.",
+    "price": 16.99,
+    "category": "Beauty / Hair Care",
+    "stock": 18,
+    "tags": ["beauty", "hair care", "curl defining", "cream"],
+    "image": "productimage/beauty/hair_care/hair+care_2.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "CurlyHairLove",
+        "comment": "Works wonders on my curls, no frizz!",
+        "rating": 5,
+        "date": "2023-11-22"
+      },
+      {
+        "user": "HairCareFan",
+        "comment": "Defines curls beautifully, lovely scent.",
+        "rating": 4,
+        "date": "2023-11-21"
+      }
+    ]
+  },
+  "11": {
+    "id": 111,
+    "name": "Hand Cream",
+    "description": "Moisturizing hand cream with shea butter, ideal for dry hands.",
+    "price": 10.99,
+    "category": "Beauty / Body Care",
+    "stock": 22,
+    "tags": [
+      "beauty",
+      "body care",
+      "hand cream",
+      "moisturizing",
+      "shea butter"
+    ],
+    "image": "productimage/beauty/body_care/body+care_2.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "SoftHands",
+        "comment": "Keeps my hands soft and hydrated.",
+        "rating": 5,
+        "date": "2023-11-20"
+      },
+      {
+        "user": "HandCareFan",
+        "comment": "Absorbs quickly, no greasy residue.",
+        "rating": 4,
+        "date": "2023-11-19"
+      }
+    ]
+  },
+  "12": {
+    "id": 112,
+    "name": "Lip Balm Set",
+    "description": "Set of 3 hydrating lip balms with natural oils for smooth lips.",
+    "price": 8.99,
+    "category": "Beauty / Lip Care",
+    "stock": 25,
+    "tags": ["beauty", "lip care", "lip balm", "hydrating", "natural oils"],
+    "image": "productimage/beauty/lip_care/lip_care_1.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "SoftLips",
+        "comment": "Keeps my lips soft and moisturized.",
+        "rating": 5,
+        "date": "2023-11-18"
+      },
+      {
+        "user": "LipCareFan",
+        "comment": "Nice variety of flavors, effective.",
+        "rating": 4,
+        "date": "2023-11-17"
+      }
+    ]
+  },
+  "13": {
+    "id": 113,
+    "name": "Sunscreen SPF 50",
+    "description": "Broad-spectrum sunscreen with SPF 50 for effective sun protection.",
+    "price": 14.99,
+    "category": "Beauty / Skincare",
+    "stock": 30,
+    "tags": ["beauty", "skincare", "sunscreen", "spf 50", "broad-spectrum"],
+    "image": "productimage/beauty/skincare/skincare_4.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 35
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "SunProtection",
+        "comment": "Excellent sun protection, non-greasy.",
+        "rating": 5,
+        "date": "2023-11-16"
+      },
+      {
+        "user": "SkincareLover",
+        "comment": "Gentle on skin, absorbs well.",
+        "rating": 4,
+        "date": "2023-11-15"
+      }
+    ]
+  },
+  "14": {
+    "id": 114,
+    "name": "Perfume Set",
+    "description": "Set of 3 luxurious perfumes with floral and woody notes.",
+    "price": 39.99,
+    "category": "Personal Care / Dental Care",
+    "stock": 18,
+    "tags": ["beauty", "fragrance", "perfume", "floral", "woody"],
+    "image": "productimage/beauty/fragrance/fragrance_1.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "FragranceLover",
+        "comment": "Lovely scents, long-lasting.",
+        "rating": 5,
+        "date": "2023-11-14"
+      },
+      {
+        "user": "PerfumeFanatic",
+        "comment": "Beautiful packaging, great gift set.",
+        "rating": 4,
+        "date": "2023-11-13"
+      }
+    ]
+  },
+  "15": {
+    "id": 115,
+    "name": "Electric Toothbrush",
+    "description": "Rechargeable electric toothbrush with multiple brushing modes.",
+    "price": 49.99,
+    "category": "Personal Care / Dental Care",
+    "stock": 20,
+    "tags": [
+      "personal care",
+      "dental care",
+      "electric toothbrush",
+      "rechargeable"
+    ],
+    "image": "productimage/personal_care/personal+care_1.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 110,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "CleanTeeth",
+        "comment": "Effective cleaning, love the different modes.",
+        "rating": 5,
+        "date": "2023-11-12"
+      },
+      {
+        "user": "DentalCareFan",
+        "comment": "Gentle on gums, sleek design.",
+        "rating": 4,
+        "date": "2023-11-11"
+      }
+    ]
+  }
+}

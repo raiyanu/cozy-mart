@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Leather Biker Jacket",
+    "description": "Classic leather jacket with biker style.",
+    "price": 199.99,
+    "category": "Jackets",
+    "stock": 50,
+    "tags": ["Leather", "Biker", "Men", "Women"],
+    "image": "jackets/jackets_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "BikerStyle123",
+        "comment": "Perfect fit and great quality leather.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Love the rugged look!",
+        "rating": 5,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Denim Jacket",
+    "description": "Stylish denim jacket for casual wear.",
+    "price": 89.99,
+    "category": "Jackets",
+    "stock": 40,
+    "tags": ["Denim", "Casual", "Men", "Women"],
+    "image": "jackets/jackets_2.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "DenimFan123",
+        "comment": "Comfortable and goes with everything.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Great quality denim!",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Puffer Jacket",
+    "description": "Warm puffer jacket for cold weather.",
+    "price": 129.99,
+    "category": "Jackets",
+    "stock": 35,
+    "tags": ["Puffer", "Winter", "Men", "Women"],
+    "image": "jackets/jackets_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "WinterReady123",
+        "comment": "Keeps me warm in freezing temperatures.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Love the sleek design.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Bomber Jacket",
+    "description": "Classic bomber jacket for a retro look.",
+    "price": 109.99,
+    "category": "Jackets",
+    "stock": 30,
+    "tags": ["Bomber", "Retro", "Men", "Women"],
+    "image": "jackets/jackets_4.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "RetroStyle123",
+        "comment": "Love the vintage vibe.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Comfortable and stylish.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Parka Jacket",
+    "description": "Durable parka jacket for extreme weather.",
+    "price": 179.99,
+    "category": "Jackets",
+    "stock": 25,
+    "tags": ["Parka", "Outdoor", "Winter", "Men", "Women"],
+    "image": "jackets/jackets_5.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "OutdoorEnthusiast123",
+        "comment": "Perfect for hiking and camping.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Warm and comfortable.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Peacoat",
+    "description": "Elegant peacoat for formal occasions.",
+    "price": 249.99,
+    "category": "Jackets",
+    "stock": 20,
+    "tags": ["Peacoat", "Formal", "Winter", "Men", "Women"],
+    "image": "jackets/jackets_6.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "ElegantStyle123",
+        "comment": "Beautiful craftsmanship and fit.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Perfect for chilly evenings.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Trench Coat",
+    "description": "Classic trench coat for timeless style.",
+    "price": 159.99,
+    "category": "Jackets",
+    "stock": 18,
+    "tags": ["Trench Coat", "Classic", "Men", "Women"],
+    "image": "jackets/jackets_7.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Love the sophisticated look.",
+        "rating": 4,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "StyleIcon456",
+        "comment": "Perfect for rainy days.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Windbreaker",
+    "description": "Lightweight windbreaker jacket for outdoor activities.",
+    "price": 79.99,
+    "category": "Jackets",
+    "stock": 15,
+    "tags": ["Windbreaker", "Outdoor", "Men", "Women"],
+    "image": "jackets/jackets_8.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 80
+    },
+    "sales": {
+      "totalSold": 400,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "OutdoorEnthusiast123",
+        "comment": "Perfect for running and cycling.",
+        "rating": 4,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Comfortable and blocks wind.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Rain Jacket",
+    "description": "Waterproof rain jacket for wet weather.",
+    "price": 99.99,
+    "category": "Jackets",
+    "stock": 12,
+    "tags": ["Rain Jacket", "Waterproof", "Outdoor", "Men", "Women"],
+    "image": "jackets/jackets_9.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 70
+    },
+    "sales": {
+      "totalSold": 350,
+      "soldThisMonth": 18
+    },
+    "reviews": [
+      {
+        "user": "RainyDays123",
+        "comment": "Keeps me dry even in heavy rain.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Stylish and functional.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Varsity Jacket",
+    "description": "Classic varsity jacket for a sporty look.",
+    "price": 129.99,
+    "category": "Jackets",
+    "stock": 10,
+    "tags": ["Varsity Jacket", "Sporty", "Men", "Women"],
+    "image": "jackets/jackets_10.jpg",
+    "ratings": {
+      "average": 3.9,
+      "count": 60
+    },
+    "sales": {
+      "totalSold": 300,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "SportsFan123",
+        "comment": "Great for game day!",
+        "rating": 4,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Nice colors and soft material.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Down Jacket",
+    "description": "Warm down jacket for extreme cold.",
+    "price": 179.99,
+    "category": "Jackets",
+    "stock": 8,
+    "tags": ["Down Jacket", "Winter", "Men", "Women"],
+    "image": "jackets/jackets_11.jpg",
+    "ratings": {
+      "average": 3.8,
+      "count": 50
+    },
+    "sales": {
+      "totalSold": 250,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "WinterFashion123",
+        "comment": "Keeps me warm and stylish.",
+        "rating": 4,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Nice colors and soft material.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Fleece Jacket",
+    "description": "Cozy fleece jacket for chilly days.",
+    "price": 69.99,
+    "category": "Jackets",
+    "stock": 6,
+    "tags": ["Fleece Jacket", "Cozy", "Men", "Women"],
+    "image": "jackets/jackets_12.jpg",
+    "ratings": {
+      "average": 3.7,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 200,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "CozyStyle123",
+        "comment": "Love the soft feel.",
+        "rating": 4,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Great for layering.",
+        "rating": 3,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Military Jacket",
+    "description": "Military-style jacket for rugged look.",
+    "price": 109.99,
+    "category": "Jackets",
+    "stock": 4,
+    "tags": ["Military Jacket", "Rugged", "Men", "Women"],
+    "image": "jackets/jackets_13.jpg",
+    "ratings": {
+      "average": 3.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 150,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "TacticalStyle123",
+        "comment": "Durable and stylish.",
+        "rating": 4,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Love the camo print.",
+        "rating": 3,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Raincoat",
+    "description": "Water-resistant raincoat for light showers.",
+    "price": 49.99,
+    "category": "Jackets",
+    "stock": 2,
+    "tags": ["Raincoat", "Water-Resistant", "Men", "Women"],
+    "image": "jackets/jackets_14.jpg",
+    "ratings": {
+      "average": 3.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "RainyDays456",
+        "comment": "Good for light rain.",
+        "rating": 4,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Compact and easy to carry.",
+        "rating": 3,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Blazer",
+    "description": "Formal blazer for professional occasions.",
+    "price": 149.99,
+    "category": "Jackets",
+    "stock": 1,
+    "tags": ["Blazer", "Formal", "Men", "Women"],
+    "image": "jackets/jackets_15.jpg",
+    "ratings": {
+      "average": 3.4,
+      "count": 10
+    },
+    "sales": {
+      "totalSold": 50,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "ProfessionalStyle123",
+        "comment": "Sharp and sophisticated.",
+        "rating": 4,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Versatile and stylish.",
+        "rating": 3,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

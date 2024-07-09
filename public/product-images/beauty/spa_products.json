@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 101,
+    "name": "Luxury Bath Bomb",
+    "description": "Relax and rejuvenate with our luxury bath bombs, infused with essential oils.",
+    "price": 9.99,
+    "category": "Spa",
+    "stock": 50,
+    "tags": ["bath bomb", "relaxation", "essential oils"],
+    "image": "spa_products/spa+products_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 120,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "SpaLover",
+        "comment": "Amazing scent and very relaxing!",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "RelaxationGuru",
+        "comment": "Leaves my skin so soft and smells great.",
+        "rating": 4,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 102,
+    "name": "Herbal Bath Salts",
+    "description": "Natural herbal bath salts for a soothing and calming bath experience.",
+    "price": 12.99,
+    "category": "Spa",
+    "stock": 40,
+    "tags": ["bath salts", "herbal", "soothing"],
+    "image": "spa_products/spa+products_2.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "HerbalFan",
+        "comment": "Very relaxing and helps me sleep better.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "BathTime",
+        "comment": "Love the natural ingredients.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 103,
+    "name": "Aromatherapy Candles",
+    "description": "Set the mood with our aromatherapy candles, perfect for a spa-like atmosphere.",
+    "price": 19.99,
+    "category": "Spa",
+    "stock": 35,
+    "tags": ["candles", "aromatherapy", "spa"],
+    "image": "spa_products/spa+products_3.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "CandleLover",
+        "comment": "The scents are amazing and very calming.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "RelaxationMaster",
+        "comment": "Perfect for my evening relaxation routine.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 104,
+    "name": "Essential Oil Diffuser",
+    "description": "Create a tranquil environment with our essential oil diffusers.",
+    "price": 29.99,
+    "category": "Spa",
+    "stock": 20,
+    "tags": ["essential oil", "diffuser", "relaxation"],
+    "image": "spa_products/spa+products_4.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 22
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "OilLover",
+        "comment": "Works perfectly and looks great.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "SpaAtHome",
+        "comment": "The aroma is very soothing.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 105,
+    "name": "Luxury Spa Gift Set",
+    "description": "Pamper yourself or a loved one with our luxury spa gift set.",
+    "price": 49.99,
+    "category": "Spa",
+    "stock": 15,
+    "tags": ["gift set", "luxury", "spa"],
+    "image": "spa_products/spa+products_5.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 18
+    },
+    "sales": {
+      "totalSold": 60,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "GiftGiver",
+        "comment": "Beautifully packaged and smells wonderful.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "SpaFanatic",
+        "comment": "Perfect for a relaxing evening.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 106,
+    "name": "Exfoliating Scrub",
+    "description": "Revitalize your skin with our natural exfoliating scrub.",
+    "price": 14.99,
+    "category": "Spa",
+    "stock": 25,
+    "tags": ["exfoliating", "scrub", "skin care"],
+    "image": "spa_products/spa+products_6.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 70,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "SkinCareGuru",
+        "comment": "Leaves my skin feeling so smooth.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "ExfoliationFan",
+        "comment": "Great product for a great price.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 107,
+    "name": "Moisturizing Face Mask",
+    "description": "Hydrate your skin with our nourishing face masks.",
+    "price": 9.99,
+    "category": "Spa",
+    "stock": 30,
+    "tags": ["face mask", "moisturizing", "skin care"],
+    "image": "spa_products/spa+products_7.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "FaceMaskFan",
+        "comment": "So hydrating and makes my skin glow.",
+        "rating": 5,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "SkinCareAddict",
+        "comment": "Perfect for a home spa day.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 108,
+    "name": "Aloe Vera Gel",
+    "description": "Soothe and cool your skin with our pure aloe vera gel.",
+    "price": 7.99,
+    "category": "Spa",
+    "stock": 50,
+    "tags": ["aloe vera", "soothing", "cooling"],
+    "image": "spa_products/spa+products_8.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 35
+    },
+    "sales": {
+      "totalSold": 110,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "AloeFan",
+        "comment": "Very soothing, especially after sun exposure.",
+        "rating": 5,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "SkinCareLover",
+        "comment": "Absorbs quickly and feels great.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 109,
+    "name": "Spa Headband",
+    "description": "Keep your hair out of your face with our soft spa headbands.",
+    "price": 5.99,
+    "category": "Spa",
+    "stock": 60,
+    "tags": ["headband", "spa", "accessories"],
+    "image": "spa_products/spa+products_9.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 15
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "SpaHeadbandFan",
+        "comment": "Very comfortable and keeps my hair back.",
+        "rating": 5,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "HeadbandLover",
+        "comment": "Good quality for the price.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 110,
+    "name": "Foot Soak Crystals",
+    "description": "Relax your feet with our soothing foot soak crystals.",
+    "price": 8.99,
+    "category": "Spa",
+    "stock": 45,
+    "tags": ["foot soak", "crystals", "relaxation"],
+    "image": "spa_products/spa+products_10.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 18
+    },
+    "sales": {
+      "totalSold": 65,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "FootCareFan",
+        "comment": "Very relaxing and smells great.",
+        "rating": 5,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "FootSoakLover",
+        "comment": "Perfect for tired feet.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 111,
+    "name": "Body Butter",
+    "description": "Nourish and hydrate your skin with our rich body butter.",
+    "price": 15.99,
+    "category": "Spa",
+    "stock": 35,
+    "tags": ["body butter", "hydrating", "nourishing"],
+    "image": "spa_products/spa+products_11.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 50,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "BodyButterFan",
+        "comment": "Leaves my skin so soft and smooth.",
+        "rating": 5,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "SkinCareEnthusiast",
+        "comment": "Very moisturizing and smells great.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 112,
+    "name": "Spa Slippers",
+    "description": "Treat your feet with our comfortable and soft spa slippers.",
+    "price": 12.99,
+    "category": "Spa",
+    "stock": 40,
+    "tags": ["slippers", "spa", "comfort"],
+    "image": "spa_products/spa+products_12.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 22
+    },
+    "sales": {
+      "totalSold": 55,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "SlipperFan",
+        "comment": "Very comfortable and perfect for around the house.",
+        "rating": 5,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "ComfyFeet",
+        "comment": "Great quality and very soft.",
+        "rating": 4,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 113,
+    "name": "Clay Face Mask",
+    "description": "Detoxify your skin with our natural clay face mask.",
+    "price": 11.99,
+    "category": "Spa",
+    "stock": 25,
+    "tags": ["clay mask", "detoxifying", "skin care"],
+    "image": "spa_products/spa+products_13.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 19
+    },
+    "sales": {
+      "totalSold": 45,
+      "soldThisMonth": 4
+    },
+    "reviews": [
+      {
+        "user": "ClayMaskFan",
+        "comment": "My skin feels so clean and refreshed.",
+        "rating": 5,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "DetoxLover",
+        "comment": "Great product for a great price.",
+        "rating": 4,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 114,
+    "name": "Hot Stone Massage Kit",
+    "description": "Experience the benefits of hot stone massage at home with our kit.",
+    "price": 39.99,
+    "category": "Spa",
+    "stock": 20,
+    "tags": ["hot stone", "massage", "relaxation"],
+    "image": "spa_products/spa+products_14.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 16
+    },
+    "sales": {
+      "totalSold": 40,
+      "soldThisMonth": 4
+    },
+    "reviews": [
+      {
+        "user": "MassageFan",
+        "comment": "Very relaxing and easy to use.",
+        "rating": 5,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "RelaxationLover",
+        "comment": "Perfect for a home spa day.",
+        "rating": 4,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 115,
+    "name": "Lavender Eye Pillow",
+    "description": "Relax your eyes with our soothing lavender eye pillow.",
+    "price": 8.99,
+    "category": "Spa",
+    "stock": 50,
+    "tags": ["eye pillow", "lavender", "relaxation"],
+    "image": "spa_products/spa+products_15.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 18
+    },
+    "sales": {
+      "totalSold": 60,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "EyePillowFan",
+        "comment": "Very relaxing and helps me sleep better.",
+        "rating": 5,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "LavenderLover",
+        "comment": "Smells wonderful and very soothing.",
+        "rating": 4,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

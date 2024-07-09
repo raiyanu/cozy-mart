@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Wireless All-in-One Printer",
+    "description": "Compact printer with wireless connectivity for home and small office use.",
+    "price": 129.99,
+    "category": "Printers",
+    "stock": 50,
+    "tags": ["wireless", "all-in-one", "compact"],
+    "image": "printers/printers_1.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "HomeUser123",
+        "comment": "Easy to set up and great for printing from multiple devices.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "SmallBusiness456",
+        "comment": "Reliable for everyday printing tasks in our office.",
+        "rating": 4,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Color Laser Printer",
+    "description": "High-speed color laser printer for sharp and vibrant prints.",
+    "price": 399.99,
+    "category": "Printers",
+    "stock": 30,
+    "tags": ["color laser", "high-speed", "office"],
+    "image": "printers/printers_2.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "Designer789",
+        "comment": "Produces professional-quality prints for our design projects.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "OfficeManager456",
+        "comment": "Fast printing speed and clear text output.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Photo Printer",
+    "description": "Specialized printer for high-quality photo printing at home.",
+    "price": 299.99,
+    "category": "Printers",
+    "stock": 40,
+    "tags": ["photo", "home", "specialized"],
+    "image": "printers/printers_3.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 60
+    },
+    "reviews": [
+      {
+        "user": "PhotoEnthusiast789",
+        "comment": "Produces lifelike photos with vibrant colors.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "HomeUser456",
+        "comment": "Great for printing family photos and memories.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Inkjet Printer",
+    "description": "Affordable inkjet printer for everyday printing needs.",
+    "price": 79.99,
+    "category": "Printers",
+    "stock": 80,
+    "tags": ["inkjet", "affordable", "everyday"],
+    "image": "printers/printers_4.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "BudgetUser123",
+        "comment": "Good value for money and easy to use.",
+        "rating": 4,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "Student456",
+        "comment": "Perfect for printing school assignments.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Label Printer",
+    "description": "Compact label printer for organizing home and office supplies.",
+    "price": 149.99,
+    "category": "Printers",
+    "stock": 60,
+    "tags": ["label", "compact", "organization"],
+    "image": "printers/printers_5.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "Organizer789",
+        "comment": "Helps keep our office supplies neatly labeled.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "HomeOfficeUser456",
+        "comment": "Easy to use for printing address labels and stickers.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Wireless Laser Printer",
+    "description": "Fast and reliable laser printer with wireless connectivity.",
+    "price": 249.99,
+    "category": "Printers",
+    "stock": 70,
+    "tags": ["wireless", "laser", "fast", "reliable"],
+    "image": "printers/printers_6.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "TechUser123",
+        "comment": "Highly efficient for our small business printing needs.",
+        "rating": 4,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "OfficeManager789",
+        "comment": "Clear and crisp prints with every use.",
+        "rating": 5,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Office Inkjet Printer",
+    "description": "Durable inkjet printer for high-volume printing in office environments.",
+    "price": 199.99,
+    "category": "Printers",
+    "stock": 20,
+    "tags": ["office", "inkjet", "high-volume", "durable"],
+    "image": "printers/printers_7.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "OfficeManager456",
+        "comment": "Handles large print jobs efficiently.",
+        "rating": 5,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "BusinessUser789",
+        "comment": "Reliable printer for our busy office.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Portable Photo Printer",
+    "description": "Compact printer for printing photos on the go.",
+    "price": 199.99,
+    "category": "Printers",
+    "stock": 85,
+    "tags": ["portable", "photo", "compact"],
+    "image": "printers/printers_8.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "Photographer123",
+        "comment": "Produces high-quality photos anywhere I travel.",
+        "rating": 5,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "Traveler456",
+        "comment": "Perfect for printing vacation photos on the spot.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Large Format Printer",
+    "description": "Wide-format printer for printing posters, banners, and large graphics.",
+    "price": 1499.99,
+    "category": "Printers",
+    "stock": 100,
+    "tags": ["large format", "wide-format", "posters", "banners"],
+    "image": "printers/printers_9.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "Designer789",
+        "comment": "Excellent for producing high-resolution posters.",
+        "rating": 5,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "Artist123",
+        "comment": "Great for printing large-scale artworks.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Duplex Office Printer",
+    "description": "Duplex printer for automatic double-sided printing in office environments.",
+    "price": 299.99,
+    "category": "Printers",
+    "stock": 60,
+    "tags": ["duplex", "office", "automatic", "double-sided"],
+    "image": "printers/printers_10.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "OfficeManager123",
+        "comment": "Saves paper and time with duplex printing.",
+        "rating": 5,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "BusinessUser456",
+        "comment": "Efficient for our office document printing needs.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Color Office Printer",
+    "description": "High-capacity color printer for demanding office printing tasks.",
+    "price": 499.99,
+    "category": "Printers",
+    "stock": 25,
+    "tags": ["color", "office", "high-capacity"],
+    "image": "printers/printers_11.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 42
+    },
+    "reviews": [
+      {
+        "user": "OfficeManager789",
+        "comment": "Handles large print jobs with vibrant color output.",
+        "rating": 5,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "BusinessPro123",
+        "comment": "Reliable printer for our design studio's color printing needs.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Multifunction Inkjet Printer",
+    "description": "Versatile inkjet printer with scanning and copying capabilities.",
+    "price": 149.99,
+    "category": "Printers",
+    "stock": 35,
+    "tags": ["multifunction", "inkjet", "versatile"],
+    "image": "printers/printers_12.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "HomeOfficeUser123",
+        "comment": "Great for home office use with scanning and copying features.",
+        "rating": 4,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "SmallBusiness456",
+        "comment": "Compact and efficient printer for our small business needs.",
+        "rating": 4,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Portable Label Printer",
+    "description": "Handheld label printer for on-the-go labeling tasks.",
+    "price": 99.99,
+    "category": "Printers",
+    "stock": 15,
+    "tags": ["portable", "label", "handheld"],
+    "image": "printers/printers_13.jpg",
+    "ratings": {
+      "average": 3.9,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "LabelUser123",
+        "comment": "Convenient for labeling items quickly and accurately.",
+        "rating": 4,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "Organization456",
+        "comment": "Helps keep our warehouse inventory organized.",
+        "rating": 4,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Professional Photo Printer",
+    "description": "High-end printer for professional photographers with precise color control.",
+    "price": 799.99,
+    "category": "Printers",
+    "stock": 85,
+    "tags": ["professional", "photo", "high-end"],
+    "image": "printers/printers_14.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "Photographer789",
+        "comment": "Produces gallery-quality prints with accurate colors.",
+        "rating": 5,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "Studio123",
+        "comment": "Essential for our photography studio's printing needs.",
+        "rating": 4,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Compact Document Scanner",
+    "description": "Portable scanner for digitizing documents and receipts.",
+    "price": 149.99,
+    "category": "Printers",
+    "stock": 75,
+    "tags": ["compact", "document scanner", "portable"],
+    "image": "printers/printers_15.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 42
+    },
+    "reviews": [
+      {
+        "user": "DocumentUser123",
+        "comment": "Efficient for scanning business documents on the go.",
+        "rating": 5,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "BusinessTraveler789",
+        "comment": "Helps keep my travel documents organized.",
+        "rating": 4,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

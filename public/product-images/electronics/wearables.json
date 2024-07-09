@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Apple Watch Series 7",
+    "description": "Apple's latest smartwatch with larger Always-On Retina display and advanced health monitoring.",
+    "price": 399.99,
+    "category": "Wearables",
+    "stock": 50,
+    "tags": ["Apple", "Watch", "iOS", "wearable"],
+    "image": "wearables/wearables_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "AppleFan123",
+        "comment": "Excellent health tracking and stylish design.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "TechSavvy456",
+        "comment": "Integration with iOS is seamless.",
+        "rating": 5,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Samsung Galaxy Watch 4",
+    "description": "Samsung's smartwatch with Wear OS powered by Samsung and advanced fitness tracking features.",
+    "price": 349.99,
+    "category": "Wearables",
+    "stock": 40,
+    "tags": ["Samsung", "Galaxy", "Android", "wearable"],
+    "image": "wearables/wearables_2.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "SamsungFan123",
+        "comment": "Great fitness tracking and smooth interface.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Wear OS experience is improved.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Fitbit Versa 4",
+    "description": "Fitbit's versatile smartwatch with built-in GPS and health insights.",
+    "price": 299.99,
+    "category": "Wearables",
+    "stock": 35,
+    "tags": ["Fitbit", "Versa", "Fitness", "wearable"],
+    "image": "wearables/wearables_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "FitbitFan123",
+        "comment": "Accurate health tracking and long battery life.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "FitnessEnthusiast456",
+        "comment": "GPS feature is great for outdoor workouts.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Garmin Venu 2",
+    "description": "Garmin's premium smartwatch with AMOLED display and extensive sports tracking features.",
+    "price": 399.99,
+    "category": "Wearables",
+    "stock": 30,
+    "tags": ["Garmin", "Venu", "Fitness", "wearable"],
+    "image": "wearables/wearables_4.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "GarminFan123",
+        "comment": "Comprehensive sports tracking and durable design.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "FitnessEnthusiast456",
+        "comment": "AMOLED display is vibrant and easy to read.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Xiaomi Mi Watch",
+    "description": "Xiaomi's affordable smartwatch with SpO2 monitoring and long battery life.",
+    "price": 199.99,
+    "category": "Wearables",
+    "stock": 25,
+    "tags": ["Xiaomi", "Mi Watch", "Android", "wearable"],
+    "image": "wearables/wearables_5.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "XiaomiFan123",
+        "comment": "Value for money with good health features.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "TechReviewer456",
+        "comment": "Battery life exceeds expectations.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Huawei Watch GT 3",
+    "description": "Huawei's smartwatch with HarmonyOS and advanced health tracking capabilities.",
+    "price": 299.99,
+    "category": "Wearables",
+    "stock": 20,
+    "tags": ["Huawei", "Watch GT", "HarmonyOS", "wearable"],
+    "image": "wearables/wearables_6.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "HuaweiFan123",
+        "comment": "HarmonyOS makes the user experience smooth.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Health tracking is accurate and detailed.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Amazfit GTR 3",
+    "description": "Amazfit's sleek smartwatch with AMOLED display and long battery life.",
+    "price": 249.99,
+    "category": "Wearables",
+    "stock": 18,
+    "tags": ["Amazfit", "GTR", "Fitness", "wearable"],
+    "image": "wearables/wearables_7.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "AmazfitFan123",
+        "comment": "Beautiful AMOLED display and solid build.",
+        "rating": 4,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "TechUser456",
+        "comment": "Battery life is impressive.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Fossil Gen 6",
+    "description": "Fossil's stylish smartwatch with Wear OS and customizable dials.",
+    "price": 279.99,
+    "category": "Wearables",
+    "stock": 15,
+    "tags": ["Fossil", "Gen 6", "Fashion", "wearable"],
+    "image": "wearables/wearables_8.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 80
+    },
+    "sales": {
+      "totalSold": 400,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "FossilFan123",
+        "comment": "Great design and smooth performance.",
+        "rating": 4,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "TechSavvy456",
+        "comment": "Wear OS works well with Android phones.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Garmin Instinct 2",
+    "description": "Garmin's rugged outdoor smartwatch with GPS and heart rate monitoring.",
+    "price": 299.99,
+    "category": "Wearables",
+    "stock": 12,
+    "tags": ["Garmin", "Instinct", "Outdoor", "wearable"],
+    "image": "wearables/wearables_9.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 70
+    },
+    "sales": {
+      "totalSold": 350,
+      "soldThisMonth": 18
+    },
+    "reviews": [
+      {
+        "user": "GarminFan123",
+        "comment": "Durable build for outdoor adventures.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "OutdoorEnthusiast456",
+        "comment": "Accurate GPS tracking and useful features.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Samsung Galaxy Fit 3",
+    "description": "Samsung's lightweight fitness band with AMOLED display and 24/7 activity tracking.",
+    "price": 149.99,
+    "category": "Wearables",
+    "stock": 10,
+    "tags": ["Samsung", "Galaxy Fit", "Fitness", "wearable"],
+    "image": "wearables/wearables_10.jpg",
+    "ratings": {
+      "average": 3.9,
+      "count": 60
+    },
+    "sales": {
+      "totalSold": 300,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "SamsungFan123",
+        "comment": "Comfortable to wear all day.",
+        "rating": 4,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "FitnessEnthusiast456",
+        "comment": "AMOLED display is sharp and vibrant.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Amazfit Bip U Pro",
+    "description": "Amazfit's affordable smartwatch with built-in GPS and SpO2 measurement.",
+    "price": 79.99,
+    "category": "Wearables",
+    "stock": 5,
+    "tags": ["Amazfit", "Bip U Pro", "Fitness", "wearable"],
+    "image": "wearables/wearables_11.jpg",
+    "ratings": {
+      "average": 3.8,
+      "count": 50
+    },
+    "sales": {
+      "totalSold": 250,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "AmazfitFan123",
+        "comment": "Great value for the price.",
+        "rating": 4,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "FitnessEnthusiast456",
+        "comment": "Accurate fitness tracking features.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Fossil Hybrid HR Collider",
+    "description": "Fossil's hybrid smartwatch with E Ink display and long battery life.",
+    "price": 199.99,
+    "category": "Wearables",
+    "stock": 3,
+    "tags": ["Fossil", "Hybrid HR", "Fashion", "wearable"],
+    "image": "wearables/wearables_12.jpg",
+    "ratings": {
+      "average": 3.7,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 200,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "FossilFan123",
+        "comment": "Classic watch design with smart features.",
+        "rating": 4,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "E Ink display is clear and easy to read.",
+        "rating": 3,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Xiaomi Mi Band 7",
+    "description": "Xiaomi's budget fitness tracker with improved heart rate monitoring and sleep tracking.",
+    "price": 49.99,
+    "category": "Wearables",
+    "stock": 2,
+    "tags": ["Xiaomi", "Mi Band", "Fitness", "wearable"],
+    "image": "wearables/wearables_13.jpg",
+    "ratings": {
+      "average": 3.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 150,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "XiaomiFan123",
+        "comment": "Good fitness tracking capabilities.",
+        "rating": 4,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "FitnessEnthusiast456",
+        "comment": "Lightweight and comfortable to wear.",
+        "rating": 3,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Huawei Band 6",
+    "description": "Huawei's fitness band with SpO2 monitoring and 2-week battery life.",
+    "price": 79.99,
+    "category": "Wearables",
+    "stock": 1,
+    "tags": ["Huawei", "Band", "Fitness", "wearable"],
+    "image": "wearables/wearables_14.jpg",
+    "ratings": {
+      "average": 3.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "HuaweiFan123",
+        "comment": "Long battery life is impressive.",
+        "rating": 4,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "FitnessEnthusiast456",
+        "comment": "Accurate health monitoring features.",
+        "rating": 3,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Amazfit Neo 3",
+    "description": "Amazfit's retro-style smartwatch with always-on display and up to 14 days battery life.",
+    "price": 69.99,
+    "category": "Wearables",
+    "stock": 0,
+    "tags": ["Amazfit", "Neo", "Fitness", "wearable"],
+    "image": "wearables/wearables_15.jpg",
+    "ratings": {
+      "average": 3.4,
+      "count": 10
+    },
+    "sales": {
+      "totalSold": 50,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "AmazfitFan123",
+        "comment": "Classic design with modern features.",
+        "rating": 4,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "TechReviewer456",
+        "comment": "Battery life is as advertised.",
+        "rating": 3,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

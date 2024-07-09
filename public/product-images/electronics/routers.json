@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Dual-Band Wi-Fi Router",
+    "description": "High-performance router for seamless internet connectivity.",
+    "price": 99.99,
+    "category": "Routers",
+    "stock": 50,
+    "tags": ["dual-band", "Wi-Fi", "high-performance"],
+    "image": "routers/routers_1.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "HomeUser123",
+        "comment": "Excellent coverage and stable connection throughout our home.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Easy setup and reliable performance.",
+        "rating": 4,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Mesh Wi-Fi System",
+    "description": "Whole home mesh Wi-Fi system for eliminating dead zones.",
+    "price": 199.99,
+    "category": "Routers",
+    "stock": 30,
+    "tags": ["mesh", "whole home", "eliminate dead zones"],
+    "image": "routers/routers_2.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "Homeowner789",
+        "comment": "Great coverage and easy to expand with additional nodes.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "LargeFamily456",
+        "comment": "Improved internet speed and connectivity across multiple devices.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Gigabit Ethernet Router",
+    "description": "Router with gigabit Ethernet ports for fast wired connections.",
+    "price": 149.99,
+    "category": "Routers",
+    "stock": 40,
+    "tags": ["gigabit", "Ethernet", "fast wired connections"],
+    "image": "routers/routers_3.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 60
+    },
+    "reviews": [
+      {
+        "user": "TechUser789",
+        "comment": "Reliable performance with multiple wired devices connected.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "OfficeUser456",
+        "comment": "Handles our office network needs efficiently.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Tri-Band Gaming Router",
+    "description": "Router optimized for low latency and high-speed gaming.",
+    "price": 299.99,
+    "category": "Routers",
+    "stock": 80,
+    "tags": ["tri-band", "gaming", "low latency"],
+    "image": "routers/routers_4.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "Gamer123",
+        "comment": "Great router for reducing lag in online games.",
+        "rating": 4,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "TechGuru456",
+        "comment": "Advanced features for optimizing gaming performance.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Dual-WAN Router",
+    "description": "Router with dual WAN ports for reliable internet failover.",
+    "price": 199.99,
+    "category": "Routers",
+    "stock": 60,
+    "tags": ["dual-WAN", "internet failover", "reliable"],
+    "image": "routers/routers_5.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "ITProfessional123",
+        "comment": "Ensures our network stays up even if one ISP connection fails.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "SmallBusiness456",
+        "comment": "Reliable router for our small business internet needs.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Parental Control Router",
+    "description": "Router with built-in parental controls for managing internet access.",
+    "price": 129.99,
+    "category": "Routers",
+    "stock": 70,
+    "tags": ["parental controls", "family", "internet management"],
+    "image": "routers/routers_6.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "Parent123",
+        "comment": "Helps keep my children safe online with easy-to-use controls.",
+        "rating": 4,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "TechSavvy456",
+        "comment": "Effective filtering and scheduling features.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Outdoor Wireless Router",
+    "description": "Weatherproof wireless router for outdoor installations.",
+    "price": 149.99,
+    "category": "Routers",
+    "stock": 20,
+    "tags": ["outdoor", "wireless", "weatherproof"],
+    "image": "routers/routers_7.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "OutdoorEnthusiast123",
+        "comment": "Provides strong Wi-Fi signal in our outdoor area.",
+        "rating": 5,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "Gardener456",
+        "comment": "Reliable connection for outdoor smart devices.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Business VPN Router",
+    "description": "Router with built-in VPN for secure remote access and office connectivity.",
+    "price": 299.99,
+    "category": "Routers",
+    "stock": 85,
+    "tags": ["business", "VPN", "secure", "remote access"],
+    "image": "routers/routers_8.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "BusinessOwner123",
+        "comment": "Essential for secure remote access to our office network.",
+        "rating": 5,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "ITManager456",
+        "comment": "Reliable and easy to set up VPN connectivity.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "4G LTE Router",
+    "description": "Router with 4G LTE support for mobile broadband internet.",
+    "price": 199.99,
+    "category": "Routers",
+    "stock": 100,
+    "tags": ["4G LTE", "mobile broadband", "internet"],
+    "image": "routers/routers_9.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "MobileUser123",
+        "comment": "Fast and reliable internet access wherever I go.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "Traveler456",
+        "comment": "Great for staying connected on the road.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "High-Speed Home Router",
+    "description": "Router optimized for high-speed home internet connections.",
+    "price": 129.99,
+    "category": "Routers",
+    "stock": 75,
+    "tags": ["high-speed", "home", "internet"],
+    "image": "routers/routers_10.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 42
+    },
+    "reviews": [
+      {
+        "user": "Homeowner123",
+        "comment": "Improves streaming and gaming performance at home.",
+        "rating": 5,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "TechUser456",
+        "comment": "Reliable router for our home network.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Enterprise Router",
+    "description": "Scalable router solution for large-scale enterprise networks.",
+    "price": 499.99,
+    "category": "Routers",
+    "stock": 25,
+    "tags": ["enterprise", "scalable", "large-scale"],
+    "image": "routers/routers_11.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 190
+    },
+    "sales": {
+      "totalSold": 950,
+      "soldThisMonth": 47
+    },
+    "reviews": [
+      {
+        "user": "ITDirector123",
+        "comment": "Handles our complex network infrastructure with ease.",
+        "rating": 5,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "NetworkAdmin456",
+        "comment": "Reliable and scalable router solution for our enterprise needs.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Outdoor Mesh Router",
+    "description": "Mesh router designed for outdoor Wi-Fi coverage.",
+    "price": 199.99,
+    "category": "Routers",
+    "stock": 50,
+    "tags": ["outdoor", "mesh", "Wi-Fi coverage"],
+    "image": "routers/routers_12.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 750,
+      "soldThisMonth": 38
+    },
+    "reviews": [
+      {
+        "user": "OutdoorEnthusiast123",
+        "comment": "Strong and reliable outdoor Wi-Fi signal.",
+        "rating": 5,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "TechReviewer456",
+        "comment": "Excellent coverage for our outdoor area.",
+        "rating": 4,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Compact Travel Router",
+    "description": "Portable router for secure internet access while traveling.",
+    "price": 79.99,
+    "category": "Routers",
+    "stock": 40,
+    "tags": ["compact", "travel", "secure internet access"],
+    "image": "routers/routers_13.jpg",
+    "ratings": {
+      "average": 3.9,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "Traveler123",
+        "comment": "Great for ensuring secure connections in hotels and airports.",
+        "rating": 4,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "RemoteWorker456",
+        "comment": "Reliable performance for remote work on the go.",
+        "rating": 4,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Smart Home Router",
+    "description": "Router integrated with smart home features for automation.",
+    "price": 149.99,
+    "category": "Routers",
+    "stock": 60,
+    "tags": ["smart home", "automation", "integration"],
+    "image": "routers/routers_14.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "SmartHomeUser123",
+        "comment": "Easy integration with our smart home devices.",
+        "rating": 5,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Improves our home automation system with reliable Wi-Fi.",
+        "rating": 4,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Wireless AC Router",
+    "description": "Router with Wireless AC technology for fast Wi-Fi speeds.",
+    "price": 129.99,
+    "category": "Routers",
+    "stock": 70,
+    "tags": ["Wireless AC", "fast Wi-Fi speeds"],
+    "image": "routers/routers_15.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 42
+    },
+    "reviews": [
+      {
+        "user": "TechUser123",
+        "comment": "Provides excellent coverage and speed for our home network.",
+        "rating": 5,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "Homeowner456",
+        "comment": "Reliable Wi-Fi router with good range and performance.",
+        "rating": 4,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

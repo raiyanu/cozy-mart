@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "iPad Pro (2023)",
+    "description": "Apple's latest iPad Pro with M2 chip and Liquid Retina XDR display.",
+    "price": 1099.99,
+    "category": "Tablets",
+    "stock": 50,
+    "tags": ["Apple", "iPad", "iOS", "tablet"],
+    "image": "tablets/tablets_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "AppleFan123",
+        "comment": "Amazing display and performance.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "TechSavvy456",
+        "comment": "iOS experience is top-notch.",
+        "rating": 5,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Samsung Galaxy Tab S8 Ultra",
+    "description": "Samsung's flagship tablet with a large Super AMOLED display and S Pen support.",
+    "price": 1299.99,
+    "category": "Tablets",
+    "stock": 40,
+    "tags": ["Samsung", "Galaxy", "Android", "tablet"],
+    "image": "tablets/tablets_2.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "SamsungFan123",
+        "comment": "Excellent display and versatile S Pen functionality.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Smooth multitasking and powerful performance.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Microsoft Surface Pro 8",
+    "description": "Microsoft's versatile tablet with Windows 11 and Surface Pen support.",
+    "price": 1199.99,
+    "category": "Tablets",
+    "stock": 35,
+    "tags": ["Microsoft", "Surface", "Windows", "tablet"],
+    "image": "tablets/tablets_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "SurfaceFan123",
+        "comment": "Great for productivity with Windows 11.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "TechUser456",
+        "comment": "Solid build quality and performance.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Lenovo Tab P12 Pro",
+    "description": "Lenovo's premium Android tablet with OLED display and Snapdragon 8 Gen 1.",
+    "price": 999.99,
+    "category": "Tablets",
+    "stock": 30,
+    "tags": ["Lenovo", "Tab", "Android", "tablet"],
+    "image": "tablets/tablets_4.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "LenovoFan123",
+        "comment": "Excellent display and powerful performance.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Smooth experience for multimedia and productivity.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Huawei MatePad Pro 12.6",
+    "description": "Huawei's flagship tablet with HarmonyOS and M-Pencil support.",
+    "price": 1099.99,
+    "category": "Tablets",
+    "stock": 25,
+    "tags": ["Huawei", "MatePad", "HarmonyOS", "tablet"],
+    "image": "tablets/tablets_5.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "HuaweiFan123",
+        "comment": "Great display and smooth performance with HarmonyOS.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "TechReviewer456",
+        "comment": "M-Pencil enhances the productivity experience.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Amazon Fire HD 10",
+    "description": "Amazon's affordable tablet with a 10.1\" Full HD display and Alexa integration.",
+    "price": 199.99,
+    "category": "Tablets",
+    "stock": 20,
+    "tags": ["Amazon", "Fire", "Android", "tablet"],
+    "image": "tablets/tablets_6.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "AmazonFan123",
+        "comment": "Great value for money with Amazon services.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Perfect for media consumption and basic tasks.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Sony Xperia Z6 Tablet",
+    "description": "Sony's slim and lightweight tablet with 2K display and Snapdragon 8 Gen 1.",
+    "price": 899.99,
+    "category": "Tablets",
+    "stock": 18,
+    "tags": ["Sony", "Xperia", "Android", "tablet"],
+    "image": "tablets/tablets_7.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "SonyFan123",
+        "comment": "Slim design with impressive display quality.",
+        "rating": 4,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "TechUser456",
+        "comment": "Smooth performance for multimedia and gaming.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Google Pixel Slate 2",
+    "description": "Google's premium Chrome OS tablet with 4K Molecular Display and Pixel Pen support.",
+    "price": 999.99,
+    "category": "Tablets",
+    "stock": 15,
+    "tags": ["Google", "Pixel", "Chrome OS", "tablet"],
+    "image": "tablets/tablets_8.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 80
+    },
+    "sales": {
+      "totalSold": 400,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "PixelFan123",
+        "comment": "Excellent for productivity with Chrome OS.",
+        "rating": 4,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "TechSavvy456",
+        "comment": "Pixel Pen enhances the user experience.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "ASUS ZenPad 8S",
+    "description": "ASUS's compact and stylish Android tablet with high-resolution display and premium build.",
+    "price": 499.99,
+    "category": "Tablets",
+    "stock": 10,
+    "tags": ["ASUS", "ZenPad", "Android", "tablet"],
+    "image": "tablets/tablets_9.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 70
+    },
+    "sales": {
+      "totalSold": 350,
+      "soldThisMonth": 18
+    },
+    "reviews": [
+      {
+        "user": "ASUSFan123",
+        "comment": "Great design and display quality.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Good performance for its size.",
+        "rating": 3,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "iPad Air (2023)",
+    "description": "Apple's mid-range iPad with A15 Bionic chip and True Tone display.",
+    "price": 699.99,
+    "category": "Tablets",
+    "stock": 8,
+    "tags": ["Apple", "iPad", "iOS", "tablet"],
+    "image": "tablets/tablets_10.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 60
+    },
+    "sales": {
+      "totalSold": 300,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "AppleFan123",
+        "comment": "Good performance and versatile for daily use.",
+        "rating": 4,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "TechReviewer456",
+        "comment": "iOS experience is reliable.",
+        "rating": 3,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Samsung Galaxy Tab A8",
+    "description": "Samsung's budget-friendly Android tablet with a compact design and good battery life.",
+    "price": 299.99,
+    "category": "Tablets",
+    "stock": 5,
+    "tags": ["Samsung", "Galaxy", "Android", "tablet"],
+    "image": "tablets/tablets_11.jpg",
+    "ratings": {
+      "average": 3.9,
+      "count": 50
+    },
+    "sales": {
+      "totalSold": 250,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "BudgetBuyer123",
+        "comment": "Affordable and does the job well.",
+        "rating": 4,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "TechSavvy456",
+        "comment": "Good for basic tasks and media consumption.",
+        "rating": 3,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Lenovo Yoga Tab 13",
+    "description": "Lenovo's versatile Android tablet with a built-in kickstand and Dolby Atmos sound.",
+    "price": 599.99,
+    "category": "Tablets",
+    "stock": 3,
+    "tags": ["Lenovo", "Yoga", "Android", "tablet"],
+    "image": "tablets/tablets_12.jpg",
+    "ratings": {
+      "average": 3.8,
+      "count": 45
+    },
+    "sales": {
+      "totalSold": 225,
+      "soldThisMonth": 11
+    },
+    "reviews": [
+      {
+        "user": "LenovoFan123",
+        "comment": "Unique design and good multimedia features.",
+        "rating": 4,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Kickstand adds versatility for different uses.",
+        "rating": 3,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Huawei MatePad 11",
+    "description": "Huawei's mid-range tablet with HarmonyOS and quad-speaker setup.",
+    "price": 499.99,
+    "category": "Tablets",
+    "stock": 2,
+    "tags": ["Huawei", "MatePad", "HarmonyOS", "tablet"],
+    "image": "tablets/tablets_13.jpg",
+    "ratings": {
+      "average": 3.7,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 200,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "HuaweiFan123",
+        "comment": "HarmonyOS is smooth and responsive.",
+        "rating": 4,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "TechReviewer456",
+        "comment": "Decent performance for daily tasks.",
+        "rating": 3,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Amazon Fire HD 8 Plus",
+    "description": "Amazon's affordable 8\" tablet with wireless charging dock and Alexa hands-free.",
+    "price": 149.99,
+    "category": "Tablets",
+    "stock": 1,
+    "tags": ["Amazon", "Fire", "Android", "tablet"],
+    "image": "tablets/tablets_14.jpg",
+    "ratings": {
+      "average": 3.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 150,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "AmazonFan123",
+        "comment": "Great value with wireless charging capability.",
+        "rating": 4,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Good for basic tasks and reading.",
+        "rating": 3,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Sony Xperia Z5 Tablet Compact",
+    "description": "Sony's compact Android tablet with water-resistant design and Snapdragon 8 Gen 1.",
+    "price": 799.99,
+    "category": "Tablets",
+    "stock": 0,
+    "tags": ["Sony", "Xperia", "Android", "tablet"],
+    "image": "tablets/tablets_15.jpg",
+    "ratings": {
+      "average": 3.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "SonyFan123",
+        "comment": "Compact size with good build quality.",
+        "rating": 4,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "TechReviewer456",
+        "comment": "Water-resistant feature is a plus.",
+        "rating": 3,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

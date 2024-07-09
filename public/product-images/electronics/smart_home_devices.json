@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Smart Thermostat",
+    "description": "Programmable thermostat that learns your schedule and adjusts temperatures automatically.",
+    "price": 199.99,
+    "category": "Smart Home Devices",
+    "stock": 50,
+    "tags": ["thermostat", "smart", "energy saving"],
+    "image": "smart_home_devices/smart+home+devices_1.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "HomeOwner123",
+        "comment": "Easy to use and saves on our energy bills.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Great for controlling home temperature remotely.",
+        "rating": 4,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Smart Lighting System",
+    "description": "Adjustable lighting system that can be controlled via smartphone or voice assistant.",
+    "price": 149.99,
+    "category": "Smart Home Devices",
+    "stock": 40,
+    "tags": ["lighting", "smart", "voice control"],
+    "image": "smart_home_devices/smart+home+devices_2.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "HomeOwner789",
+        "comment": "Love the ambiance control and energy efficiency.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "TechSavvy456",
+        "comment": "Easy setup and integrates well with our smart home ecosystem.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Smart Security Camera",
+    "description": "High-definition security camera with motion detection and night vision.",
+    "price": 249.99,
+    "category": "Smart Home Devices",
+    "stock": 30,
+    "tags": ["security", "camera", "motion detection"],
+    "image": "smart_home_devices/smart+home+devices_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 220
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 55
+    },
+    "reviews": [
+      {
+        "user": "SecurityEnthusiast123",
+        "comment": "Clear video quality and reliable motion detection.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "HomeOwner456",
+        "comment": "Provides peace of mind with its surveillance capabilities.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Smart Speaker",
+    "description": "Voice-controlled speaker with virtual assistant integration for music, news, and more.",
+    "price": 129.99,
+    "category": "Smart Home Devices",
+    "stock": 60,
+    "tags": ["speaker", "voice control", "virtual assistant"],
+    "image": "smart_home_devices/smart+home+devices_4.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "MusicLover123",
+        "comment": "Great sound quality and useful for home automation.",
+        "rating": 4,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "TechFan456",
+        "comment": "Integrates well with other smart devices in our home.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Smart Doorbell",
+    "description": "Video doorbell with two-way audio and motion detection for home security.",
+    "price": 179.99,
+    "category": "Smart Home Devices",
+    "stock": 45,
+    "tags": ["doorbell", "video", "security"],
+    "image": "smart_home_devices/smart+home+devices_5.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 42
+    },
+    "reviews": [
+      {
+        "user": "HomeOwner123",
+        "comment": "Convenient and adds an extra layer of security to our home.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "SecurityConscious456",
+        "comment": "Clear video and reliable motion alerts.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Smart Lock",
+    "description": "Keyless entry system with remote access and activity logs.",
+    "price": 199.99,
+    "category": "Smart Home Devices",
+    "stock": 35,
+    "tags": ["lock", "keyless entry", "remote access"],
+    "image": "smart_home_devices/smart+home+devices_6.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "HomeOwner789",
+        "comment": "Convenient and secure way to manage access to our home.",
+        "rating": 4,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "SecurityExpert456",
+        "comment": "Reliable performance and easy to install.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Smart Plug",
+    "description": "Remote-controlled plug for scheduling and monitoring connected devices.",
+    "price": 39.99,
+    "category": "Smart Home Devices",
+    "stock": 80,
+    "tags": ["plug", "remote control", "scheduling"],
+    "image": "smart_home_devices/smart+home+devices_7.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 650,
+      "soldThisMonth": 32
+    },
+    "reviews": [
+      {
+        "user": "TechEnthusiast123",
+        "comment": "Useful for controlling devices remotely and saving energy.",
+        "rating": 4,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "HomeAutomation456",
+        "comment": "Easy setup and integrates well with our smart home system.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Smart Camera System",
+    "description": "Comprehensive camera system with multiple cameras for indoor and outdoor surveillance.",
+    "price": 299.99,
+    "category": "Smart Home Devices",
+    "stock": 25,
+    "tags": ["camera system", "surveillance", "indoor", "outdoor"],
+    "image": "smart_home_devices/smart+home+devices_8.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 190
+    },
+    "sales": {
+      "totalSold": 950,
+      "soldThisMonth": 47
+    },
+    "reviews": [
+      {
+        "user": "SecurityExpert123",
+        "comment": "Excellent video quality and coverage for our property.",
+        "rating": 5,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "HomeOwner456",
+        "comment": "Easy to monitor our home with these cameras.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Smart Smoke Detector",
+    "description": "Connected smoke detector with smartphone alerts and battery monitoring.",
+    "price": 79.99,
+    "category": "Smart Home Devices",
+    "stock": 60,
+    "tags": ["smoke detector", "connected", "safety"],
+    "image": "smart_home_devices/smart+home+devices_9.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "HomeSafety123",
+        "comment": "Provides peace of mind knowing we'll be alerted to smoke.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "SafetyConscious456",
+        "comment": "Easy to install and works well with our smart home setup.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Smart Kitchen Appliance",
+    "description": "WiFi-enabled kitchen appliance for remote control and monitoring.",
+    "price": 199.99,
+    "category": "Smart Home Devices",
+    "stock": 75,
+    "tags": ["kitchen", "appliance", "WiFi-enabled"],
+    "image": "smart_home_devices/smart+home+devices_10.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 42
+    },
+    "reviews": [
+      {
+        "user": "HomeChef123",
+        "comment": "Convenient for controlling cooking remotely.",
+        "rating": 5,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Great addition to our smart kitchen setup.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Smart Mirror",
+    "description": "Interactive mirror with built-in display for weather, news, and personal notifications.",
+    "price": 299.99,
+    "category": "Smart Home Devices",
+    "stock": 25,
+    "tags": ["mirror", "interactive", "display"],
+    "image": "smart_home_devices/smart+home+devices_11.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 190
+    },
+    "sales": {
+      "totalSold": 950,
+      "soldThisMonth": 47
+    },
+    "reviews": [
+      {
+        "user": "TechEnthusiast123",
+        "comment": "Useful for daily updates and checking my schedule.",
+        "rating": 5,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "HomeOwner456",
+        "comment": "Innovative product with practical uses.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Smart Pet Feeder",
+    "description": "Automated pet feeder with portion control and scheduling via smartphone.",
+    "price": 129.99,
+    "category": "Smart Home Devices",
+    "stock": 50,
+    "tags": ["pet feeder", "automated", "portion control"],
+    "image": "smart_home_devices/smart+home+devices_12.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 750,
+      "soldThisMonth": 38
+    },
+    "reviews": [
+      {
+        "user": "PetOwner123",
+        "comment": "Convenient for feeding our pet on schedule.",
+        "rating": 5,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "TechSavvy456",
+        "comment": "Easy to use and keeps our pet fed when we're not home.",
+        "rating": 4,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Smart Vacuum Cleaner",
+    "description": "Robotic vacuum cleaner with mapping technology for efficient cleaning.",
+    "price": 299.99,
+    "category": "Smart Home Devices",
+    "stock": 30,
+    "tags": ["vacuum cleaner", "robotic", "mapping technology"],
+    "image": "smart_home_devices/smart+home+devices_13.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 220
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 55
+    },
+    "reviews": [
+      {
+        "user": "CleanFreak123",
+        "comment": "Cleans efficiently and saves time on house chores.",
+        "rating": 5,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "HomeOwner456",
+        "comment": "Great for keeping our floors clean with minimal effort.",
+        "rating": 4,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Smart Garden System",
+    "description": "Automated garden watering system with weather forecasting and soil monitoring.",
+    "price": 199.99,
+    "category": "Smart Home Devices",
+    "stock": 35,
+    "tags": ["garden", "automated", "watering system"],
+    "image": "smart_home_devices/smart+home+devices_14.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "GardeningEnthusiast123",
+        "comment": "Helps maintain our garden with precise watering.",
+        "rating": 4,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "TechGardener456",
+        "comment": "Integrates well with our smart home setup and keeps our plants healthy.",
+        "rating": 4,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Smart Air Purifier",
+    "description": "Air purifier with smart sensors for monitoring air quality and automatic adjustments.",
+    "price": 179.99,
+    "category": "Smart Home Devices",
+    "stock": 40,
+    "tags": ["air purifier", "smart sensors", "air quality"],
+    "image": "smart_home_devices/smart+home+devices_15.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 42
+    },
+    "reviews": [
+      {
+        "user": "CleanAir123",
+        "comment": "Improves air quality noticeably and runs quietly.",
+        "rating": 5,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "HealthConscious456",
+        "comment": "Helps reduce allergens and keeps our indoor air clean.",
+        "rating": 4,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

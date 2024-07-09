@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Wide Brim Sun Hat",
+    "description": "Stylish wide brim hat for sun protection.",
+    "price": 29.99,
+    "category": "Hats",
+    "stock": 50,
+    "tags": ["Wide Brim", "Sun Hat", "Women"],
+    "image": "hats/hats_2.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "SunLover123",
+        "comment": "Great sun coverage and lightweight.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Perfect for beach days!",
+        "rating": 5,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Fedora Hat",
+    "description": "Classic fedora hat for a stylish look.",
+    "price": 39.99,
+    "category": "Hats",
+    "stock": 40,
+    "tags": ["Fedora", "Men", "Women"],
+    "image": "hats/hats_3.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "StylishGuy123",
+        "comment": "Love the fit and quality.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Perfect addition to any outfit.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Beanie Hat",
+    "description": "Warm and cozy beanie hat for cold weather.",
+    "price": 19.99,
+    "category": "Hats",
+    "stock": 35,
+    "tags": ["Beanie", "Winter", "Unisex"],
+    "image": "hats/hats_4.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "WinterReady123",
+        "comment": "Keeps me warm and looks great.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Nice fit and comfortable.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Straw Hat",
+    "description": "Casual straw hat for beach and outdoor activities.",
+    "price": 24.99,
+    "category": "Hats",
+    "stock": 30,
+    "tags": ["Straw Hat", "Beach", "Men", "Women"],
+    "image": "hats/hats_5.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "BeachLover123",
+        "comment": "Perfect for sunny days.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Lightweight and stylish.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Bucket Hat",
+    "description": "Trendy bucket hat for a laid-back style.",
+    "price": 34.99,
+    "category": "Hats",
+    "stock": 25,
+    "tags": ["Bucket Hat", "Trendy", "Unisex"],
+    "image": "hats/hats_6.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "Trendsetter123",
+        "comment": "Love the casual vibe.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Comfortable and stylish.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Baseball Cap",
+    "description": "Classic baseball cap for everyday wear.",
+    "price": 19.99,
+    "category": "Hats",
+    "stock": 20,
+    "tags": ["Baseball Cap", "Casual", "Men", "Women"],
+    "image": "hats/hats_7.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "SportyStyle123",
+        "comment": "Great fit and comfortable.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Nice quality and adjustable.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Beret Hat",
+    "description": "Chic beret hat for a Parisian-inspired look.",
+    "price": 29.99,
+    "category": "Hats",
+    "stock": 18,
+    "tags": ["Beret", "Chic", "Women"],
+    "image": "hats/hats_8.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Love the classic style.",
+        "rating": 4,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "StyleIcon456",
+        "comment": "Perfect for fall and winter.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Panama Hat",
+    "description": "Elegant Panama hat for a sophisticated look.",
+    "price": 49.99,
+    "category": "Hats",
+    "stock": 15,
+    "tags": ["Panama Hat", "Elegant", "Men", "Women"],
+    "image": "hats/hats_9.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 80
+    },
+    "sales": {
+      "totalSold": 400,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "SophisticatedStyle123",
+        "comment": "Beautiful craftsmanship and fit.",
+        "rating": 4,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Perfect for summer outings.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Knit Beanie",
+    "description": "Cozy knit beanie for cold weather.",
+    "price": 14.99,
+    "category": "Hats",
+    "stock": 12,
+    "tags": ["Knit Beanie", "Winter", "Unisex"],
+    "image": "hats/hats_10.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 70
+    },
+    "sales": {
+      "totalSold": 350,
+      "soldThisMonth": 18
+    },
+    "reviews": [
+      {
+        "user": "WinterFashion123",
+        "comment": "Keeps me warm and stylish.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Nice colors and soft material.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Trucker Hat",
+    "description": "Casual trucker hat with mesh back.",
+    "price": 24.99,
+    "category": "Hats",
+    "stock": 10,
+    "tags": ["Trucker Hat", "Casual", "Men", "Women"],
+    "image": "hats/hats_11.jpg",
+    "ratings": {
+      "average": 3.9,
+      "count": 60
+    },
+    "sales": {
+      "totalSold": 300,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "OnTheGo123",
+        "comment": "Perfect size for concerts and events.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Love the adjustable strap and sleek design.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Classic Cap",
+    "description": "Classic cap for everyday wear.",
+    "price": 19.99,
+    "category": "Hats",
+    "stock": 8,
+    "tags": ["Cap", "Casual", "Men", "Women"],
+    "image": "hats/hats_12.jpg",
+    "ratings": {
+      "average": 3.8,
+      "count": 50
+    },
+    "sales": {
+      "totalSold": 250,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "CapFan123",
+        "comment": "Great fit and comfortable.",
+        "rating": 4,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Perfect for casual outings.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Straw Fedora",
+    "description": "Stylish straw fedora hat for summer.",
+    "price": 34.99,
+    "category": "Hats",
+    "stock": 6,
+    "tags": ["Straw Fedora", "Summer", "Men", "Women"],
+    "image": "hats/hats_13.jpg",
+    "ratings": {
+      "average": 3.7,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 200,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "SunshineStyle123",
+        "comment": "Love the beachy vibe.",
+        "rating": 4,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Nice fit and stylish.",
+        "rating": 3,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Floppy Sun Hat",
+    "description": "Fashionable floppy sun hat for summer.",
+    "price": 39.99,
+    "category": "Hats",
+    "stock": 4,
+    "tags": ["Floppy Hat", "Sun Hat", "Women"],
+    "image": "hats/hats_14.jpg",
+    "ratings": {
+      "average": 3.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 150,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "SunshineStyle456",
+        "comment": "Perfect for poolside lounging.",
+        "rating": 4,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Great sun protection and stylish.",
+        "rating": 3,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Bucket Sun Hat",
+    "description": "Functional bucket sun hat for outdoor activities.",
+    "price": 29.99,
+    "category": "Hats",
+    "stock": 2,
+    "tags": ["Bucket Hat", "Sun Hat", "Men", "Women"],
+    "image": "hats/hats_15.jpg",
+    "ratings": {
+      "average": 3.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "OutdoorEnthusiast123",
+        "comment": "Perfect for hiking and fishing.",
+        "rating": 4,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Comfortable and lightweight.",
+        "rating": 3,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Wide Brim Fedora",
+    "description": "Stylish wide brim fedora hat for all seasons.",
+    "price": 44.99,
+    "category": "Hats",
+    "stock": 1,
+    "tags": ["Wide Brim", "Fedora", "Men", "Women"],
+    "image": "hats/hats_16.jpg",
+    "ratings": {
+      "average": 3.4,
+      "count": 10
+    },
+    "sales": {
+      "totalSold": 50,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "FashionForward123",
+        "comment": "Love the statement look.",
+        "rating": 4,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Great fit and quality.",
+        "rating": 3,
+        "date": "2023-05-19"
+      }
+    ]
+  }
+}

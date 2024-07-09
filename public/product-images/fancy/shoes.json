@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Sneakers",
+    "description": "Casual sneakers for everyday wear.",
+    "price": 79.99,
+    "category": "Shoes",
+    "stock": 50,
+    "tags": ["Sneakers", "Casual", "Men", "Women"],
+    "image": "shoes/shoes_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "SneakerFan123",
+        "comment": "Comfortable and stylish.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "Fashionista456",
+        "comment": "Love the design and fit.",
+        "rating": 5,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Loafers",
+    "description": "Classic loafers for formal occasions.",
+    "price": 99.99,
+    "category": "Shoes",
+    "stock": 40,
+    "tags": ["Loafers", "Formal", "Men", "Women"],
+    "image": "shoes/shoes_2.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "FormalStyle123",
+        "comment": "Great quality and comfort.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Perfect for office wear.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "High Heels",
+    "description": "Elegant high heels for special occasions.",
+    "price": 129.99,
+    "category": "Shoes",
+    "stock": 35,
+    "tags": ["High Heels", "Elegant", "Women"],
+    "image": "shoes/shoes_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "ElegantStyle123",
+        "comment": "Beautiful and comfortable.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "Fashionista456",
+        "comment": "Perfect fit and stylish.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Boots",
+    "description": "Sturdy boots for outdoor adventures.",
+    "price": 149.99,
+    "category": "Shoes",
+    "stock": 30,
+    "tags": ["Boots", "Outdoor", "Men", "Women"],
+    "image": "shoes/shoes_4.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "OutdoorEnthusiast123",
+        "comment": "Durable and comfortable.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Love the rugged look.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Sandals",
+    "description": "Comfortable sandals for summer.",
+    "price": 59.99,
+    "category": "Shoes",
+    "stock": 25,
+    "tags": ["Sandals", "Summer", "Men", "Women"],
+    "image": "shoes/shoes_5.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "SummerVibes123",
+        "comment": "Cool and comfortable.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Perfect for beach days.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Oxfords",
+    "description": "Classic oxford shoes for formal attire.",
+    "price": 119.99,
+    "category": "Shoes",
+    "stock": 20,
+    "tags": ["Oxfords", "Formal", "Men", "Women"],
+    "image": "shoes/shoes_6.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "FormalStyle123",
+        "comment": "Great fit and quality.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Comfortable for long hours.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Espadrilles",
+    "description": "Lightweight espadrilles for casual outings.",
+    "price": 69.99,
+    "category": "Shoes",
+    "stock": 18,
+    "tags": ["Espadrilles", "Casual", "Men", "Women"],
+    "image": "shoes/shoes_7.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "CasualStyle123",
+        "comment": "Perfect for summer.",
+        "rating": 4,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Comfortable and stylish.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Slip-Ons",
+    "description": "Convenient slip-on shoes for easy wear.",
+    "price": 49.99,
+    "category": "Shoes",
+    "stock": 15,
+    "tags": ["Slip-Ons", "Casual", "Men", "Women"],
+    "image": "shoes/shoes_8.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 80
+    },
+    "sales": {
+      "totalSold": 400,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "EasyWear123",
+        "comment": "Very comfortable and lightweight.",
+        "rating": 4,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Great for casual outings.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Ankle Boots",
+    "description": "Stylish ankle boots for versatile wear.",
+    "price": 89.99,
+    "category": "Shoes",
+    "stock": 12,
+    "tags": ["Ankle Boots", "Stylish", "Women"],
+    "image": "shoes/shoes_9.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 70
+    },
+    "sales": {
+      "totalSold": 350,
+      "soldThisMonth": 18
+    },
+    "reviews": [
+      {
+        "user": "StylishChoice123",
+        "comment": "Love the design and comfort.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "Fashionista456",
+        "comment": "Perfect for fall season.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes for fitness enthusiasts.",
+    "price": 99.99,
+    "category": "Shoes",
+    "stock": 10,
+    "tags": ["Running Shoes", "Athletic", "Men", "Women"],
+    "image": "shoes/shoes_10.jpg",
+    "ratings": {
+      "average": 3.9,
+      "count": 60
+    },
+    "sales": {
+      "totalSold": 300,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "FitnessFan123",
+        "comment": "Comfortable and supportive.",
+        "rating": 4,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Great for outdoor runs.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Dress Shoes",
+    "description": "Classic dress shoes for formal events.",
+    "price": 119.99,
+    "category": "Shoes",
+    "stock": 8,
+    "tags": ["Dress Shoes", "Formal", "Men", "Women"],
+    "image": "shoes/shoes_11.jpg",
+    "ratings": {
+      "average": 3.8,
+      "count": 50
+    },
+    "sales": {
+      "totalSold": 250,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "FormalStyle123",
+        "comment": "Elegant and comfortable.",
+        "rating": 4,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Perfect fit for formal wear.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Flip Flops",
+    "description": "Casual flip flops for beach days.",
+    "price": 29.99,
+    "category": "Shoes",
+    "stock": 6,
+    "tags": ["Flip Flops", "Casual", "Men", "Women"],
+    "image": "shoes/shoes_12.jpg",
+    "ratings": {
+      "average": 3.7,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 200,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "BeachVibes123",
+        "comment": "Simple and comfortable.",
+        "rating": 4,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Perfect for summer.",
+        "rating": 3,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Hiking Boots",
+    "description": "Durable hiking boots for outdoor adventures.",
+    "price": 139.99,
+    "category": "Shoes",
+    "stock": 4,
+    "tags": ["Hiking Boots", "Outdoor", "Men", "Women"],
+    "image": "shoes/shoes_13.jpg",
+    "ratings": {
+      "average": 3.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 150,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "OutdoorEnthusiast123",
+        "comment": "Very sturdy and comfortable.",
+        "rating": 4,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Great grip on rugged terrain.",
+        "rating": 3,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Wedding Shoes",
+    "description": "Elegant wedding shoes for special occasions.",
+    "price": 159.99,
+    "category": "Shoes",
+    "stock": 2,
+    "tags": ["Wedding Shoes", "Elegant", "Men", "Women"],
+    "image": "shoes/shoes_14.jpg",
+    "ratings": {
+      "average": 3.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "WeddingBells123",
+        "comment": "Beautiful and comfortable.",
+        "rating": 4,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Perfect match for my dress.",
+        "rating": 3,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Platform Shoes",
+    "description": "Trendy platform shoes for fashion-forward look.",
+    "price": 109.99,
+    "category": "Shoes",
+    "stock": 1,
+    "tags": ["Platform Shoes", "Trendy", "Women"],
+    "image": "shoes/shoes_15.jpg",
+    "ratings": {
+      "average": 3.4,
+      "count": 10
+    },
+    "sales": {
+      "totalSold": 50,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "FashionForward123",
+        "comment": "Love the height and style.",
+        "rating": 4,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "FashionFan456",
+        "comment": "Stylish and comfortable.",
+        "rating": 3,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 601,
+    "name": "Watchmen",
+    "description": "Alan Moore's groundbreaking graphic novel exploring complex themes through superheroes in an alternate history.",
+    "price": 14.99,
+    "category": "Graphic Novels",
+    "stock": 100,
+    "tags": ["superheroes", "alternate history", "complex themes"],
+    "image": "graphic_novels/graphic+novels_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1500,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "ComicEnthusiast",
+        "comment": "A masterpiece in storytelling.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "GraphicFan123",
+        "comment": "Deep and thought-provoking.",
+        "rating": 4,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 602,
+    "name": "Maus",
+    "description": "Art Spiegelman's Pulitzer Prize-winning graphic novel recounting his father's experiences during the Holocaust.",
+    "price": 16.99,
+    "category": "Graphic Novels",
+    "stock": 80,
+    "tags": ["Holocaust", "Pulitzer Prize", "historical"],
+    "image": "graphic_novels/graphic+novels_2.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "HistoryReader",
+        "comment": "Powerful and emotionally resonant.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "GraphicNovelFan",
+        "comment": "Captivating storytelling.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 603,
+    "name": "Sandman",
+    "description": "Neil Gaiman's iconic series blending mythology, fantasy, and horror in a rich narrative.",
+    "price": 19.99,
+    "category": "Graphic Novels",
+    "stock": 90,
+    "tags": ["Neil Gaiman", "mythology", "fantasy", "horror"],
+    "image": "graphic_novels/graphic+novels_3.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 210
+    },
+    "sales": {
+      "totalSold": 1300,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "FantasyReader",
+        "comment": "Immersive and imaginative.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "SandmanFan456",
+        "comment": "Legendary storytelling.",
+        "rating": 5,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 604,
+    "name": "Saga",
+    "description": "Brian K. Vaughan and Fiona Staples' epic space opera with a blend of fantasy and science fiction.",
+    "price": 17.99,
+    "category": "Graphic Novels",
+    "stock": 70,
+    "tags": ["space opera", "fantasy", "science fiction"],
+    "image": "graphic_novels/graphic+novels_4.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "SpaceOperaFan",
+        "comment": "A modern masterpiece.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "SagaReader",
+        "comment": "Compelling characters and world-building.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 605,
+    "name": "Batman: The Killing Joke",
+    "description": "Alan Moore and Brian Bolland's graphic novel exploring the Joker's origin and relationship with Batman.",
+    "price": 15.99,
+    "category": "Graphic Novels",
+    "stock": 60,
+    "tags": ["Batman", "Joker", "origin story"],
+    "image": "graphic_novels/graphic+novels_5.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "BatmanFan",
+        "comment": "Dark and psychological.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "ComicBookReader",
+        "comment": "Iconic storytelling.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 606,
+    "name": "Persepolis",
+    "description": "Marjane Satrapi's autobiographical graphic novel depicting her childhood and early adult years in Iran.",
+    "price": 18.99,
+    "category": "Graphic Novels",
+    "stock": 100,
+    "tags": ["autobiography", "Iran", "cultural revolution"],
+    "image": "graphic_novels/graphic+novels_6.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "AutobiographyFan",
+        "comment": "Eye-opening and poignant.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "PersepolisReader",
+        "comment": "Powerful storytelling.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 607,
+    "name": "Y: The Last Man",
+    "description": "Brian K. Vaughan and Pia Guerra's post-apocalyptic science fiction series exploring a world without men.",
+    "price": 20.99,
+    "category": "Graphic Novels",
+    "stock": 50,
+    "tags": ["post-apocalyptic", "science fiction", "gender"],
+    "image": "graphic_novels/graphic+novels_7.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "SciFiFan",
+        "comment": "Thought-provoking and intense.",
+        "rating": 5,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "LastManReader",
+        "comment": "Compelling storyline and characters.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 608,
+    "name": "Blankets",
+    "description": "Craig Thompson's autobiographical graphic novel exploring family, faith, and coming-of-age experiences.",
+    "price": 19.99,
+    "category": "Graphic Novels",
+    "stock": 90,
+    "tags": ["autobiography", "family", "coming-of-age"],
+    "image": "graphic_novels/graphic+novels_8.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "AutobiographyFan",
+        "comment": "Emotionally resonant and beautifully illustrated.",
+        "rating": 5,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "GraphicNovelReader",
+        "comment": "Touching portrayal of personal growth.",
+        "rating": 5,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 609,
+    "name": "Saga of the Swamp Thing",
+    "description": "Alan Moore's influential series redefining the character of Swamp Thing with philosophical and horror elements.",
+    "price": 21.99,
+    "category": "Graphic Novels",
+    "stock": 80,
+    "tags": ["Swamp Thing", "Alan Moore", "horror", "philosophical"],
+    "image": "graphic_novels/graphic+novels_9.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 190
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "HorrorFan",
+        "comment": "A dark and introspective journey.",
+        "rating": 5,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "SwampThingFan",
+        "comment": "Moore's brilliance shines through.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 610,
+    "name": "Fables",
+    "description": "Bill Willingham's series where fairy tale characters live in exile in New York City, blending fantasy and modern-day life.",
+    "price": 20.99,
+    "category": "Graphic Novels",
+    "stock": 70,
+    "tags": ["fairy tales", "fantasy", "modern-day"],
+    "image": "graphic_novels/graphic+novels_10.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "FairyTaleFan",
+        "comment": "Imaginative and addictive storytelling.",
+        "rating": 5,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "FablesReader",
+        "comment": "Creative concept with rich characters.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 611,
+    "name": "Preacher",
+    "description": "Garth Ennis and Steve Dillon's series following Jesse Custer, a preacher with supernatural abilities, on a quest to find God.",
+    "price": 22.99,
+    "category": "Graphic Novels",
+    "stock": 60,
+    "tags": ["supernatural", "religion", "dark humor"],
+    "image": "graphic_novels/graphic+novels_11.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 950,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "SupernaturalFan",
+        "comment": "Bold and thought-provoking.",
+        "rating": 5,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "PreacherFan",
+        "comment": "Darkly humorous and addictive.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 612,
+    "name": "The Walking Dead",
+    "description": "Robert Kirkman's series depicting life in a post-apocalyptic world overrun by zombies, focusing on human survival and moral dilemmas.",
+    "price": 19.99,
+    "category": "Graphic Novels",
+    "stock": 50,
+    "tags": ["zombies", "post-apocalyptic", "survival"],
+    "image": "graphic_novels/graphic+novels_12.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "ZombieFanatic",
+        "comment": "Gripping and intense.",
+        "rating": 5,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "WalkingDeadReader",
+        "comment": "Compelling characters and emotional depth.",
+        "rating": 4,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 613,
+    "name": "V for Vendetta",
+    "description": "Alan Moore and David Lloyd's dystopian graphic novel following a masked vigilante fighting against a totalitarian regime.",
+    "price": 18.99,
+    "category": "Graphic Novels",
+    "stock": 40,
+    "tags": ["dystopian", "vigilante", "totalitarianism"],
+    "image": "graphic_novels/graphic+novels_13.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "DystopiaFan",
+        "comment": "Thought-provoking and relevant.",
+        "rating": 5,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "VForVendettaReader",
+        "comment": "Iconic and powerful.",
+        "rating": 4,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 614,
+    "name": "Hellboy",
+    "description": "Mike Mignola's supernatural series featuring Hellboy, a demon summoned to Earth during World War II, now fighting occult threats.",
+    "price": 17.99,
+    "category": "Graphic Novels",
+    "stock": 30,
+    "tags": ["supernatural", "occult", "demon"],
+    "image": "graphic_novels/graphic+novels_14.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "SupernaturalEnthusiast",
+        "comment": "Fantastic blend of mythology and action.",
+        "rating": 5,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "HellboyFan123",
+        "comment": "Unique and thrilling.",
+        "rating": 4,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 615,
+    "name": "Locke & Key",
+    "description": "Joe Hill and Gabriel Rodríguez's supernatural horror series about a family unlocking magical keys in their ancestral home.",
+    "price": 16.99,
+    "category": "Graphic Novels",
+    "stock": 20,
+    "tags": ["supernatural", "horror", "magic"],
+    "image": "graphic_novels/graphic+novels_15.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 750,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "HorrorFanatic",
+        "comment": "Intriguing and chilling.",
+        "rating": 5,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "LockeAndKeyReader",
+        "comment": "Captivating story with creative twists.",
+        "rating": 4,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

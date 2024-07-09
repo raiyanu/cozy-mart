@@ -1,0 +1,483 @@
+{
+    "1": {
+      "id": 106,
+      "name": "Eau de Parfum",
+      "description": "Elegant and floral eau de parfum for women.",
+      "price": 59.99,
+      "category": "Fragrances",
+      "stock": 30,
+      "tags": ["fragrances", "eau de parfum", "floral"],
+      "image": "productimage/fragrances/fragrances_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "FragranceLover",
+          "comment": "Lovely scent, long-lasting.",
+          "rating": 5,
+          "date": "2023-12-17"
+        },
+        {
+          "user": "PerfumeFanatic",
+          "comment": "Perfect for everyday wear, subtle and elegant.",
+          "rating": 4,
+          "date": "2023-12-16"
+        }
+      ]
+    },
+    "2": {
+      "id": 107,
+      "name": "Cologne",
+      "description": "Refreshing cologne for men with citrus and woody notes.",
+      "price": 49.99,
+      "category": "Fragrances",
+      "stock": 28,
+      "tags": ["fragrances", "cologne", "citrus", "woody"],
+      "image": "productimage/fragrances/fragrances_2.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "CologneEnthusiast",
+          "comment": "Fresh and invigorating scent, perfect for any occasion.",
+          "rating": 5,
+          "date": "2023-12-15"
+        },
+        {
+          "user": "FragranceFan",
+          "comment": "Lasts throughout the day, great value.",
+          "rating": 4,
+          "date": "2023-12-14"
+        }
+      ]
+    },
+    "3": {
+      "id": 108,
+      "name": "Perfume Gift Set",
+      "description": "Luxurious perfume gift set with a variety of scents for women.",
+      "price": 79.99,
+      "category": "Fragrances",
+      "stock": 25,
+      "tags": ["fragrances", "perfume gift set", "luxury"],
+      "image": "productimage/fragrances/fragrances_3.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 38
+      },
+      "sales": {
+        "totalSold": 110,
+        "soldThisMonth": 12
+      },
+      "reviews": [
+        {
+          "user": "LuxuryLover",
+          "comment": "Beautifully packaged, scents are divine.",
+          "rating": 5,
+          "date": "2023-12-13"
+        },
+        {
+          "user": "PerfumeConnoisseur",
+          "comment": "High-quality scents, perfect as a gift.",
+          "rating": 5,
+          "date": "2023-12-12"
+        }
+      ]
+    },
+    "4": {
+      "id": 109,
+      "name": "Aftershave Balm",
+      "description": "Soothing aftershave balm for men's post-shave skincare.",
+      "price": 29.99,
+      "category": "Fragrances",
+      "stock": 20,
+      "tags": ["fragrances", "aftershave balm", "men's skincare"],
+      "image": "productimage/fragrances/fragrances_4.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "ShavingEnthusiast",
+          "comment": "Calms skin after shaving, pleasant scent.",
+          "rating": 5,
+          "date": "2023-12-11"
+        },
+        {
+          "user": "FragranceFan",
+          "comment": "Moisturizes well, not greasy.",
+          "rating": 4,
+          "date": "2023-12-10"
+        }
+      ]
+    },
+    "5": {
+      "id": 110,
+      "name": "Body Mist",
+      "description": "Light and refreshing body mist with floral and fruity notes.",
+      "price": 19.99,
+      "category": "Fragrances",
+      "stock": 24,
+      "tags": ["fragrances", "body mist", "floral", "fruity"],
+      "image": "productimage/fragrances/fragrances_5.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "FruityScent",
+          "comment": "Fresh and uplifting scent, perfect for everyday use.",
+          "rating": 5,
+          "date": "2023-12-09"
+        },
+        {
+          "user": "FloralFan",
+          "comment": "Lovely fragrance, lasts long.",
+          "rating": 4,
+          "date": "2023-12-08"
+        }
+      ]
+    },
+    "6": {
+      "id": 111,
+      "name": "Unisex Perfume",
+      "description": "Versatile unisex perfume with a blend of spicy and woody notes.",
+      "price": 69.99,
+      "category": "Fragrances",
+      "stock": 22,
+      "tags": ["fragrances", "unisex perfume", "spicy", "woody"],
+      "image": "productimage/fragrances/fragrances_6.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 32
+      },
+      "sales": {
+        "totalSold": 90,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "UnisexPerfumeFan",
+          "comment": "Unique scent, suitable for any gender.",
+          "rating": 5,
+          "date": "2023-12-07"
+        },
+        {
+          "user": "FragranceEnthusiast",
+          "comment": "Long-lasting and intriguing fragrance.",
+          "rating": 4,
+          "date": "2023-12-06"
+        }
+      ]
+    },
+    "7": {
+      "id": 112,
+      "name": "Perfume Oil",
+      "description": "Luxurious perfume oil with a rich and intense aroma.",
+      "price": 89.99,
+      "category": "Fragrances",
+      "stock": 18,
+      "tags": ["fragrances", "perfume oil", "luxury"],
+      "image": "productimage/fragrances/fragrances_7.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 35
+      },
+      "sales": {
+        "totalSold": 95,
+        "soldThisMonth": 7
+      },
+      "reviews": [
+        {
+          "user": "LuxuryPerfume",
+          "comment": "Intense and long-lasting fragrance, worth the price.",
+          "rating": 5,
+          "date": "2023-12-05"
+        },
+        {
+          "user": "FragranceConnoisseur",
+          "comment": "Rich scent, perfect for special occasions.",
+          "rating": 4,
+          "date": "2023-12-04"
+        }
+      ]
+    },
+    "8": {
+      "id": 113,
+      "name": "Perfume Lotion",
+      "description": "Silky perfume lotion for layering fragrance and moisturizing skin.",
+      "price": 34.99,
+      "category": "Fragrances",
+      "stock": 15,
+      "tags": ["fragrances", "perfume lotion", "moisturizing"],
+      "image": "productimage/fragrances/fragrances_8.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "FragranceLover",
+          "comment": "Lovely fragrance, keeps skin hydrated.",
+          "rating": 5,
+          "date": "2023-12-03"
+        },
+        {
+          "user": "SkinCareFanatic",
+          "comment": "Lightweight and absorbs quickly.",
+          "rating": 4,
+          "date": "2023-12-02"
+        }
+      ]
+    },
+    "9": {
+      "id": 114,
+      "name": "Solid Perfume",
+      "description": "Compact solid perfume with a sweet and subtle scent.",
+      "price": 24.99,
+      "category": "Fragrances",
+      "stock": 20,
+      "tags": ["fragrances", "solid perfume", "sweet"],
+      "image": "productimage/fragrances/fragrances_9.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 80,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "PerfumeCollector",
+          "comment": "Convenient and smells delightful.",
+          "rating": 5,
+          "date": "2023-12-01"
+        },
+        {
+          "user": "FragranceEnthusiast",
+          "comment": "Subtle fragrance, perfect for travel.",
+          "rating": 4,
+          "date": "2023-11-30"
+        }
+      ]
+    },
+    "10": {
+      "id": 115,
+      "name": "Perfume Atomizer",
+      "description": "Refillable perfume atomizer for carrying your favorite fragrance.",
+      "price": 14.99,
+      "category": "Fragrances",
+      "stock": 18,
+      "tags": ["fragrances", "perfume atomizer", "travel"],
+      "image": "productimage/fragrances/fragrances_10.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "OnTheGoPerfume",
+          "comment": "Easy to refill and use, compact size.",
+          "rating": 5,
+          "date": "2023-11-29"
+        },
+        {
+          "user": "FragranceLover",
+          "comment": "Perfect for carrying my favorite perfume.",
+          "rating": 4,
+          "date": "2023-11-28"
+        }
+      ]
+    },
+    "11": {
+      "id": 116,
+      "name": "Eau de Toilette",
+      "description": "Light and refreshing eau de toilette for everyday wear.",
+      "price": 39.99,
+      "category": "Fragrances",
+      "stock": 22,
+      "tags": ["fragrances", "eau de toilette", "fresh"],
+      "image": "productimage/fragrances/fragrances_11.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 85,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "ToiletteFan",
+          "comment": "Fresh and invigorating, perfect for daily use.",
+          "rating": 5,
+          "date": "2023-11-27"
+        },
+        {
+          "user": "FragranceEnthusiast",
+          "comment": "Lasts long and smells great.",
+          "rating": 4,
+          "date": "2023-11-26"
+        }
+      ]
+    },
+    "12": {
+      "id": 117,
+      "name": "Scented Candle",
+      "description": "Luxurious scented candle with a blend of floral and woody notes.",
+      "price": 19.99,
+      "category": "Fragrances",
+      "stock": 20,
+      "tags": ["fragrances", "scented candle", "home fragrance"],
+      "image": "productimage/fragrances/fragrances_12.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 28
+      },
+      "sales": {
+        "totalSold": 75,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "HomeFragrance",
+          "comment": "Lovely scent, fills the room beautifully.",
+          "rating": 5,
+          "date": "2023-11-25"
+        },
+        {
+          "user": "CandleLover",
+          "comment": "Great quality candle, soothing aroma.",
+          "rating": 4,
+          "date": "2023-11-24"
+        }
+      ]
+    },
+    "13": {
+      "id": 118,
+      "name": "Room Spray",
+      "description": "Refreshing room spray with a citrus and herbal fragrance.",
+      "price": 16.99,
+      "category": "Fragrances",
+      "stock": 18,
+      "tags": ["fragrances", "room spray", "citrus", "herbal"],
+      "image": "productimage/fragrances/fragrances_13.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 26
+      },
+      "sales": {
+        "totalSold": 70,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "HomeFragrance",
+          "comment": "Freshens the air instantly, pleasant scent.",
+          "rating": 5,
+          "date": "2023-11-23"
+        },
+        {
+          "user": "FragranceFan",
+          "comment": "Light and not overpowering, great for any room.",
+          "rating": 4,
+          "date": "2023-11-22"
+        }
+      ]
+    },
+    "14": {
+      "id": 119,
+      "name": "Perfume Rollerball",
+      "description": "Convenient perfume rollerball for quick application on the go.",
+      "price": 12.99,
+      "category": "Fragrances",
+      "stock": 15,
+      "tags": ["fragrances", "perfume rollerball", "portable"],
+      "image": "productimage/fragrances/fragrances_14.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 24
+      },
+      "sales": {
+        "totalSold": 65,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "OnTheGoPerfume",
+          "comment": "Easy to carry, lovely fragrance.",
+          "rating": 5,
+          "date": "2023-11-21"
+        },
+        {
+          "user": "FragranceLover",
+          "comment": "Perfect size for my purse, great for travel.",
+          "rating": 4,
+          "date": "2023-11-20"
+        }
+      ]
+    },
+    "15": {
+      "id": 120,
+      "name": "Fragrance Diffuser",
+      "description": "Elegant fragrance diffuser with a blend of floral and woody scents.",
+      "price": 24.99,
+      "category": "Fragrances",
+      "stock": 12,
+      "tags": ["fragrances", "fragrance diffuser", "home fragrance"],
+      "image": "productimage/fragrances/fragrances_15.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 22
+      },
+      "sales": {
+        "totalSold": 60,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "HomeFragrance",
+          "comment": "Adds a subtle fragrance to the room, looks elegant.",
+          "rating": 5,
+          "date": "2023-11-19"
+        },
+        {
+          "user": "FragranceFan",
+          "comment": "Nice design, soothing aroma.",
+          "rating": 4,
+          "date": "2023-11-18"
+        }
+      ]
+    }
+  }
+  

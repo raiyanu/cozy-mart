@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 301,
+    "name": "Batman: The Dark Knight Returns",
+    "description": "Frank Miller's iconic Batman story, showcasing the Dark Knight's return to crime-fighting.",
+    "price": 14.99,
+    "category": "Comics",
+    "stock": 100,
+    "tags": ["Batman", "superhero", "Frank Miller"],
+    "image": "comics/comics_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1500,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "BatFan123",
+        "comment": "An absolute classic of the genre.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "ComicBookEnthusiast",
+        "comment": "One of the best Batman comics ever written.",
+        "rating": 4,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 302,
+    "name": "Watchmen",
+    "description": "Alan Moore's groundbreaking graphic novel exploring the dark and complex world of masked vigilantes.",
+    "price": 12.99,
+    "category": "Comics",
+    "stock": 80,
+    "tags": ["superhero", "graphic novel", "Alan Moore"],
+    "image": "comics/comics_2.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "WatchmenFan",
+        "comment": "A masterpiece that redefined the genre.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "GraphicNovelReader",
+        "comment": "Complex and thought-provoking storytelling.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 303,
+    "name": "Spider-Man: Kraven's Last Hunt",
+    "description": "A gripping Spider-Man story where he faces one of his deadliest foes, Kraven the Hunter.",
+    "price": 16.99,
+    "category": "Comics",
+    "stock": 90,
+    "tags": ["Spider-Man", "superhero", "Kraven"],
+    "image": "comics/comics_3.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 210
+    },
+    "sales": {
+      "totalSold": 1300,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "SpideyFan",
+        "comment": "A dark and intense storyline.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "MarvelReader",
+        "comment": "One of the best Spider-Man arcs.",
+        "rating": 5,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 304,
+    "name": "The Sandman",
+    "description": "Neil Gaiman's epic saga of Dream, the Lord of Dreams, and his interactions with mortals and other mythical beings.",
+    "price": 13.99,
+    "category": "Comics",
+    "stock": 70,
+    "tags": ["fantasy", "graphic novel", "Neil Gaiman"],
+    "image": "comics/comics_4.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "SandmanFan",
+        "comment": "A rich and imaginative series.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "GraphicNovelEnthusiast",
+        "comment": "Neil Gaiman at his best.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 305,
+    "name": "Saga",
+    "description": "Brian K. Vaughan and Fiona Staples' space opera about love, family, and conflict across galaxies.",
+    "price": 15.99,
+    "category": "Comics",
+    "stock": 60,
+    "tags": ["science fiction", "graphic novel", "Brian K. Vaughan"],
+    "image": "comics/comics_5.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "SpaceOperaFan",
+        "comment": "An epic and emotionally resonant story.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "ComicBookReader",
+        "comment": "Unique and compelling artwork.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 306,
+    "name": "Y: The Last Man",
+    "description": "Brian K. Vaughan and Pia Guerra's series about the last surviving man on Earth and the challenges he faces.",
+    "price": 12.99,
+    "category": "Comics",
+    "stock": 100,
+    "tags": ["science fiction", "graphic novel", "Brian K. Vaughan"],
+    "image": "comics/comics_6.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "YFan",
+        "comment": "A fascinating exploration of gender and survival.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "GraphicNovelLover",
+        "comment": "Compelling storytelling with strong character development.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 307,
+    "name": "Hellboy",
+    "description": "Mike Mignola's supernatural hero Hellboy battles paranormal threats in a series of occult adventures.",
+    "price": 19.99,
+    "category": "Comics",
+    "stock": 50,
+    "tags": ["supernatural", "horror", "Mike Mignola"],
+    "image": "comics/comics_7.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "HellboyFan",
+        "comment": "Fantastic artwork and storytelling.",
+        "rating": 5,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "ComicEnthusiast",
+        "comment": "A must-read for fans of supernatural comics.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 308,
+    "name": "Bone",
+    "description": "Jeff Smith's epic fantasy tale following the adventures of three cousins as they navigate a world filled with mystery and danger.",
+    "price": 14.99,
+    "category": "Comics",
+    "stock": 90,
+    "tags": ["fantasy", "graphic novel", "Jeff Smith"],
+    "image": "comics/comics_8.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "BoneFan",
+        "comment": "Wonderful characters and storytelling.",
+        "rating": 5,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "FantasyComicReader",
+        "comment": "A delightful journey through a richly imagined world.",
+        "rating": 5,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 309,
+    "name": "Preacher",
+    "description": "Garth Ennis and Steve Dillon's series about a preacher imbued with supernatural powers on a quest to find God.",
+    "price": 16.99,
+    "category": "Comics",
+    "stock": 80,
+    "tags": ["supernatural", "graphic novel", "Garth Ennis"],
+    "image": "comics/comics_9.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "PreacherFan",
+        "comment": "Darkly humorous and thought-provoking.",
+        "rating": 5,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "GraphicNovelFan",
+        "comment": "An intense and gripping read.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 310,
+    "name": "Saga of the Swamp Thing",
+    "description": "Alan Moore's revitalization of the Swamp Thing character into a sophisticated and philosophical series.",
+    "price": 18.99,
+    "category": "Comics",
+    "stock": 70,
+    "tags": ["horror", "graphic novel", "Alan Moore"],
+    "image": "comics/comics_10.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "SwampThingFan",
+        "comment": "A masterpiece of horror and atmosphere.",
+        "rating": 5,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "HorrorComicReader",
+        "comment": "A deep and haunting narrative.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 311,
+    "name": "Fables",
+    "description": "Bill Willingham's series depicting fairy tale characters living in exile in modern-day New York City.",
+    "price": 15.99,
+    "category": "Comics",
+    "stock": 60,
+    "tags": ["fantasy", "graphic novel", "Bill Willingham"],
+    "image": "comics/comics_11.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 950,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "FablesFan",
+        "comment": "An imaginative and clever series.",
+        "rating": 5,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "FantasyComicEnthusiast",
+        "comment": "Unique take on classic fairy tales.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 312,
+    "name": "Locke & Key",
+    "description": "Joe Hill and Gabriel Rodríguez's horror-fantasy series revolving around a family and a set of supernatural keys.",
+    "price": 17.99,
+    "category": "Comics",
+    "stock": 50,
+    "tags": ["horror", "fantasy", "Joe Hill"],
+    "image": "comics/comics_12.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "LockeKeyFan",
+        "comment": "Intriguing and suspenseful storytelling.",
+        "rating": 5,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "HorrorComicLover",
+        "comment": "Unique premise with excellent execution.",
+        "rating": 4,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 313,
+    "name": "Transmetropolitan",
+    "description": "Warren Ellis and Darick Robertson's satirical series set in a dystopian future where a gonzo journalist fights corruption.",
+    "price": 16.99,
+    "category": "Comics",
+    "stock": 40,
+    "tags": ["science fiction", "satire", "Warren Ellis"],
+    "image": "comics/comics_13.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "TransmetropolitanFan",
+        "comment": "Darkly humorous and scarily prescient.",
+        "rating": 5,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "SciFiComicReader",
+        "comment": "A wild and thought-provoking ride.",
+        "rating": 4,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 314,
+    "name": "Bone: Coda",
+    "description": "Jeff Smith's epilogue to the Bone series, exploring further adventures and resolutions.",
+    "price": 14.99,
+    "category": "Comics",
+    "stock": 30,
+    "tags": ["fantasy", "graphic novel", "Jeff Smith"],
+    "image": "comics/comics_14.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "BoneFan",
+        "comment": "A satisfying conclusion to the Bone saga.",
+        "rating": 5,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "GraphicNovelReader",
+        "comment": "Great closure for fans of the series.",
+        "rating": 4,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 315,
+    "name": "Sandman: Overture",
+    "description": "Neil Gaiman's prequel to The Sandman, exploring the events leading up to the original series.",
+    "price": 15.99,
+    "category": "Comics",
+    "stock": 25,
+    "tags": ["fantasy", "graphic novel", "Neil Gaiman"],
+    "image": "comics/comics_15.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 750,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "SandmanFan",
+        "comment": "Beautiful artwork and a compelling story.",
+        "rating": 5,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "GraphicNovelEnthusiast",
+        "comment": "A must-read for Sandman fans.",
+        "rating": 5,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

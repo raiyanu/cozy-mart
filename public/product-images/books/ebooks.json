@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 501,
+    "name": "Introduction to Python Programming",
+    "description": "A beginner's guide to learning Python programming language.",
+    "price": 19.99,
+    "category": "Programming",
+    "stock": 100,
+    "tags": ["Python", "beginner", "programming"],
+    "image": "ebooks/ebooks_1.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "PythonEnthusiast",
+        "comment": "Great introduction to Python.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "ProgrammingNovice",
+        "comment": "Clear and concise explanations.",
+        "rating": 4,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 502,
+    "name": "Machine Learning Basics",
+    "description": "An introductory book on machine learning concepts and algorithms.",
+    "price": 24.99,
+    "category": "Machine Learning",
+    "stock": 80,
+    "tags": ["machine learning", "beginner", "algorithms"],
+    "image": "ebooks/ebooks_2.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "MLStudent",
+        "comment": "Excellent introduction to ML.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "TechEnthusiast",
+        "comment": "Well-written and informative.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 503,
+    "name": "Data Structures and Algorithms",
+    "description": "A comprehensive guide to data structures and algorithms for programmers.",
+    "price": 29.99,
+    "category": "Programming",
+    "stock": 90,
+    "tags": ["data structures", "algorithms", "programming"],
+    "image": "ebooks/ebooks_3.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "AlgorithmEnthusiast",
+        "comment": "Essential for any programmer.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "CodeMaster",
+        "comment": "Clear explanations and examples.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 504,
+    "name": "Web Development Fundamentals",
+    "description": "A beginner's guide to web development technologies and techniques.",
+    "price": 22.99,
+    "category": "Web Development",
+    "stock": 70,
+    "tags": ["web development", "beginner", "HTML", "CSS", "JavaScript"],
+    "image": "ebooks/ebooks_4.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "WebDevStudent",
+        "comment": "Great starting point for web development.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "CodeNewbie",
+        "comment": "Easy to follow and practical.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 505,
+    "name": "Cybersecurity Basics",
+    "description": "An introductory book on cybersecurity principles and practices.",
+    "price": 19.99,
+    "category": "Cybersecurity",
+    "stock": 60,
+    "tags": ["cybersecurity", "beginner", "security"],
+    "image": "ebooks/ebooks_5.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "SecurityEnthusiast",
+        "comment": "Informative and practical cybersecurity guide.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "TechSecurity",
+        "comment": "Useful insights into cybersecurity.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 506,
+    "name": "Artificial Intelligence Essentials",
+    "description": "A beginner's guide to understanding artificial intelligence concepts and applications.",
+    "price": 24.99,
+    "category": "Artificial Intelligence",
+    "stock": 100,
+    "tags": ["artificial intelligence", "beginner", "AI"],
+    "image": "ebooks/ebooks_6.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "AIFan",
+        "comment": "Clear and informative introduction to AI.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "TechAI",
+        "comment": "Great foundation for understanding AI.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 507,
+    "name": "Java Programming Basics",
+    "description": "An introductory book on Java programming language for beginners.",
+    "price": 21.99,
+    "category": "Programming",
+    "stock": 80,
+    "tags": ["Java", "beginner", "programming"],
+    "image": "ebooks/ebooks_7.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "JavaEnthusiast",
+        "comment": "Comprehensive introduction to Java.",
+        "rating": 5,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "CodeJava",
+        "comment": "Well-structured and easy to follow.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 508,
+    "name": "Introduction to Data Science",
+    "description": "A beginner's guide to data science principles and techniques.",
+    "price": 23.99,
+    "category": "Data Science",
+    "stock": 70,
+    "tags": ["data science", "beginner", "analytics"],
+    "image": "ebooks/ebooks_8.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 80
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "DataScienceStudent",
+        "comment": "Excellent introduction to data science.",
+        "rating": 5,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "TechData",
+        "comment": "Informative and practical data science guide.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 509,
+    "name": "Blockchain Basics",
+    "description": "An introductory book on blockchain technology and its applications.",
+    "price": 20.99,
+    "category": "Blockchain",
+    "stock": 60,
+    "tags": ["blockchain", "beginner", "technology"],
+    "image": "ebooks/ebooks_9.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 70
+    },
+    "sales": {
+      "totalSold": 400,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "BlockchainEnthusiast",
+        "comment": "Clear and concise introduction to blockchain.",
+        "rating": 5,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "TechBlockchain",
+        "comment": "Useful insights into blockchain technology.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 510,
+    "name": "iOS App Development",
+    "description": "A beginner's guide to developing iOS applications using Swift.",
+    "price": 25.99,
+    "category": "App Development",
+    "stock": 50,
+    "tags": ["iOS", "Swift", "beginner", "app development"],
+    "image": "ebooks/ebooks_10.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 60
+    },
+    "sales": {
+      "totalSold": 300,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "iOSDeveloper",
+        "comment": "Great introduction to iOS app development.",
+        "rating": 5,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "AppDevStudent",
+        "comment": "Helpful and practical guide.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 511,
+    "name": "Android App Development",
+    "description": "An introductory book on developing Android applications.",
+    "price": 22.99,
+    "category": "App Development",
+    "stock": 40,
+    "tags": ["Android", "app development", "beginner"],
+    "image": "ebooks/ebooks_11.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 50
+    },
+    "sales": {
+      "totalSold": 200,
+      "soldThisMonth": 4
+    },
+    "reviews": [
+      {
+        "user": "AndroidDeveloper",
+        "comment": "Comprehensive guide to Android development.",
+        "rating": 5,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "AppDevEnthusiast",
+        "comment": "Well-structured and informative.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 512,
+    "name": "Cloud Computing Fundamentals",
+    "description": "A beginner's guide to understanding cloud computing concepts and services.",
+    "price": 26.99,
+    "category": "Cloud Computing",
+    "stock": 30,
+    "tags": ["cloud computing", "beginner", "AWS", "Azure", "Google Cloud"],
+    "image": "ebooks/ebooks_12.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "CloudStudent",
+        "comment": "Informative introduction to cloud computing.",
+        "rating": 5,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "TechCloud",
+        "comment": "Useful insights into cloud services.",
+        "rating": 4,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 513,
+    "name": "Big Data Analytics",
+    "description": "An introductory book on big data analytics techniques and tools.",
+    "price": 24.99,
+    "category": "Big Data",
+    "stock": 20,
+    "tags": ["big data", "analytics", "data science"],
+    "image": "ebooks/ebooks_13.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 50,
+      "soldThisMonth": 1
+    },
+    "reviews": [
+      {
+        "user": "BigDataEnthusiast",
+        "comment": "Comprehensive guide to big data analytics.",
+        "rating": 5,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "DataAnalyticsStudent",
+        "comment": "Well-explained concepts and examples.",
+        "rating": 4,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 514,
+    "name": "Digital Marketing Essentials",
+    "description": "A beginner's guide to digital marketing strategies and techniques.",
+    "price": 21.99,
+    "category": "Digital Marketing",
+    "stock": 10,
+    "tags": ["digital marketing", "beginner", "SEO", "social media"],
+    "image": "ebooks/ebooks_14.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 20,
+      "soldThisMonth": 0
+    },
+    "reviews": [
+      {
+        "user": "MarketingStudent",
+        "comment": "Useful introduction to digital marketing.",
+        "rating": 5,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "TechMarketing",
+        "comment": "Helpful insights into digital strategies.",
+        "rating": 4,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 515,
+    "name": "UX Design Fundamentals",
+    "description": "An introductory book on user experience (UX) design principles and practices.",
+    "price": 23.99,
+    "category": "UX Design",
+    "stock": 5,
+    "tags": ["UX design", "design principles", "user experience"],
+    "image": "ebooks/ebooks_15.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 10
+    },
+    "sales": {
+      "totalSold": 10,
+      "soldThisMonth": 0
+    },
+    "reviews": [
+      {
+        "user": "UXDesigner",
+        "comment": "Informative introduction to UX design.",
+        "rating": 5,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "DesignStudent",
+        "comment": "Well-structured and practical.",
+        "rating": 4,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

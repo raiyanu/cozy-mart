@@ -1,0 +1,322 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Car Wax",
+    "description": "Give your car a shiny finish with this high-quality wax.",
+    "price": 15.99,
+    "category": "Car Care Products",
+    "stock": 40,
+    "tags": ["car", "care", "wax"],
+    "image": "productimage/car_care_products/car+care+products_1.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 34
+    },
+    "sales": {
+      "totalSold": 120,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "CustomerA",
+        "comment": "Great wax, easy to apply!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerB",
+        "comment": "Good but a bit expensive.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Tire Cleaner",
+    "description": "Keep your tires looking new with this powerful cleaner.",
+    "price": 12.99,
+    "category": "Car Care Products",
+    "stock": 30,
+    "tags": ["car", "care", "tire cleaner"],
+    "image": "productimage/car_care_products/car+care+products_2.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 9
+    },
+    "reviews": [
+      {
+        "user": "CustomerC",
+        "comment": "Cleans tires very well!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerD",
+        "comment": "Works well but smells strong.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Glass Cleaner",
+    "description": "Ensure crystal clear visibility with this glass cleaner.",
+    "price": 8.99,
+    "category": "Car Care Products",
+    "stock": 50,
+    "tags": ["car", "care", "glass cleaner"],
+    "image": "productimage/car_care_products/car+care+products_3.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 150,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "CustomerE",
+        "comment": "Best glass cleaner I've used!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerF",
+        "comment": "Good cleaner but a bit pricey.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Leather Cleaner",
+    "description": "Maintain your car's leather interior with this cleaner.",
+    "price": 18.99,
+    "category": "Car Care Products",
+    "stock": 25,
+    "tags": ["car", "care", "leather cleaner"],
+    "image": "productimage/car_care_products/car+care+products_4.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CustomerG",
+        "comment": "Excellent cleaner for leather seats!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerH",
+        "comment": "Good but leaves a residue.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Interior Cleaner",
+    "description": "Keep your car's interior spotless with this cleaner.",
+    "price": 14.99,
+    "category": "Car Care Products",
+    "stock": 35,
+    "tags": ["car", "care", "interior cleaner"],
+    "image": "productimage/car_care_products/car+care+products_5.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 110,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "CustomerI",
+        "comment": "Great for cleaning the dashboard!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerJ",
+        "comment": "Works well but strong scent.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Polish",
+    "description": "Give your car a brilliant shine with this polish.",
+    "price": 19.99,
+    "category": "Car Care Products",
+    "stock": 20,
+    "tags": ["car", "care", "polish"],
+    "image": "productimage/car_care_products/car+care+products_6.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CustomerK",
+        "comment": "Excellent polish, very effective!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerL",
+        "comment": "Good polish but pricey.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Engine Cleaner",
+    "description": "Keep your engine clean and running smoothly.",
+    "price": 22.99,
+    "category": "Car Care Products",
+    "stock": 15,
+    "tags": ["car", "care", "engine cleaner"],
+    "image": "productimage/car_care_products/car+care+products_7.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "CustomerM",
+        "comment": "Great cleaner for the engine!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerN",
+        "comment": "Works well but expensive.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Wheel Cleaner",
+    "description": "Ensure your wheels look new with this cleaner.",
+    "price": 13.99,
+    "category": "Car Care Products",
+    "stock": 45,
+    "tags": ["car", "care", "wheel cleaner"],
+    "image": "productimage/car_care_products/car+care+products_8.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 38
+    },
+    "sales": {
+      "totalSold": 135,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "CustomerO",
+        "comment": "Great for cleaning wheels!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerP",
+        "comment": "Good cleaner but strong smell.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Bug Remover",
+    "description": "Easily remove bugs from your car's surface.",
+    "price": 9.99,
+    "category": "Car Care Products",
+    "stock": 50,
+    "tags": ["car", "care", "bug remover"],
+    "image": "productimage/car_care_products/car+care+products_9.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 120,
+      "soldThisMonth": 9
+    },
+    "reviews": [
+      {
+        "user": "CustomerQ",
+        "comment": "Works well on bugs!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerR",
+        "comment": "Effective but smells strong.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Detailing Kit",
+    "description": "Complete kit for all your car detailing needs.",
+    "price": 49.99,
+    "category": "Car Care Products",
+    "stock": 10,
+    "tags": ["car", "care", "detailing kit"],
+    "image": "productimage/car_care_products/car+care+products_10.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 45
+    },
+    "sales": {
+      "totalSold": 60,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "CustomerS",
+        "comment": "Everything you need for detailing!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerT",
+        "comment": "Great kit but a bit pricey.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  }
+}

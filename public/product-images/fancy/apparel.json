@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Cotton T-shirt",
+    "description": "Comfortable cotton t-shirt in various colors.",
+    "price": 19.99,
+    "category": "Apparel",
+    "stock": 50,
+    "tags": ["T-shirt", "Cotton", "Casual"],
+    "image": "apparel/apparel_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Soft and breathable fabric.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "CasualWearer456",
+        "comment": "Great fit and quality stitching.",
+        "rating": 5,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Denim Jeans",
+    "description": "Classic denim jeans with straight fit.",
+    "price": 49.99,
+    "category": "Apparel",
+    "stock": 40,
+    "tags": ["Jeans", "Denim", "Classic"],
+    "image": "apparel/apparel_2.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Durable denim and comfortable fit.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "DenimLover456",
+        "comment": "Great for everyday wear.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Athletic Shorts",
+    "description": "Breathable athletic shorts for workouts.",
+    "price": 29.99,
+    "category": "Apparel",
+    "stock": 35,
+    "tags": ["Shorts", "Athletic", "Workout"],
+    "image": "apparel/apparel_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "FitnessFanatic123",
+        "comment": "Comfortable and stretchy.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "AthleticEnthusiast456",
+        "comment": "Perfect for workouts.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Formal Dress",
+    "description": "Elegant formal dress for special occasions.",
+    "price": 199.99,
+    "category": "Apparel",
+    "stock": 30,
+    "tags": ["Dress", "Formal", "Elegant"],
+    "image": "apparel/apparel_4.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Beautiful fabric and flattering fit.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "ElegantLover456",
+        "comment": "Stunning dress for special events.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Casual Blouse",
+    "description": "Relaxed fit blouse for everyday wear.",
+    "price": 49.99,
+    "category": "Apparel",
+    "stock": 25,
+    "tags": ["Blouse", "Casual", "Relaxed"],
+    "image": "apparel/apparel_5.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Comfortable and versatile.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "CasualWearer456",
+        "comment": "Great blouse for casual outings.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Puffer Jacket",
+    "description": "Warm puffer jacket for cold weather.",
+    "price": 129.99,
+    "category": "Apparel",
+    "stock": 20,
+    "tags": ["Jacket", "Puffer", "Warm"],
+    "image": "apparel/apparel_6.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Keeps me warm in winter.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "WinterLover456",
+        "comment": "Good insulation and stylish design.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Leather Jacket",
+    "description": "Classic leather jacket with zip closure.",
+    "price": 179.99,
+    "category": "Apparel",
+    "stock": 18,
+    "tags": ["Jacket", "Leather", "Classic"],
+    "image": "apparel/apparel_7.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Quality leather and stylish cut.",
+        "rating": 4,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "LeatherEnthusiast456",
+        "comment": "Durable and timeless design.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Summer Dress",
+    "description": "Lightweight summer dress with floral print.",
+    "price": 69.99,
+    "category": "Apparel",
+    "stock": 15,
+    "tags": ["Dress", "Summer", "Floral"],
+    "image": "apparel/apparel_8.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 80
+    },
+    "sales": {
+      "totalSold": 400,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Comfortable and stylish.",
+        "rating": 4,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "SummerLover456",
+        "comment": "Perfect for hot days.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Hooded Sweatshirt",
+    "description": "Cozy hooded sweatshirt for casual wear.",
+    "price": 39.99,
+    "category": "Apparel",
+    "stock": 12,
+    "tags": ["Sweatshirt", "Hooded", "Cozy"],
+    "image": "apparel/apparel_9.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 70
+    },
+    "sales": {
+      "totalSold": 350,
+      "soldThisMonth": 18
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Soft fabric and fits well.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "CasualWearer456",
+        "comment": "Comfortable and lightweight.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Leather Gloves",
+    "description": "Classic leather gloves with cashmere lining.",
+    "price": 79.99,
+    "category": "Accessories",
+    "stock": 10,
+    "tags": ["Gloves", "Leather", "Classic"],
+    "image": "apparel/apparel_10.jpg",
+    "ratings": {
+      "average": 3.9,
+      "count": 60
+    },
+    "sales": {
+      "totalSold": 300,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Warm and stylish.",
+        "rating": 4,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Soft cashmere lining feels luxurious.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Silk Tie",
+    "description": "Silk tie with modern pattern.",
+    "price": 49.99,
+    "category": "Accessories",
+    "stock": 5,
+    "tags": ["Tie", "Silk", "Modern"],
+    "image": "apparel/apparel_11.jpg",
+    "ratings": {
+      "average": 3.8,
+      "count": 50
+    },
+    "sales": {
+      "totalSold": 250,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Excellent quality silk.",
+        "rating": 4,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Modern design stands out.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Leather Backpack",
+    "description": "Stylish leather backpack with multiple compartments.",
+    "price": 149.99,
+    "category": "Accessories",
+    "stock": 3,
+    "tags": ["Backpack", "Leather", "Stylish"],
+    "image": "apparel/apparel_12.jpg",
+    "ratings": {
+      "average": 3.7,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 200,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Comfortable to wear and holds a lot.",
+        "rating": 4,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Quality leather and well-designed.",
+        "rating": 3,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Wool Scarf",
+    "description": "Warm wool scarf with striped pattern.",
+    "price": 79.99,
+    "category": "Accessories",
+    "stock": 2,
+    "tags": ["Scarf", "Wool", "Warm"],
+    "image": "apparel/apparel_13.jpg",
+    "ratings": {
+      "average": 3.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 150,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Keeps me warm in cold weather.",
+        "rating": 4,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Classic striped design.",
+        "rating": 3,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Silver Bracelet",
+    "description": "Simple silver bracelet with polished finish.",
+    "price": 99.99,
+    "category": "Accessories",
+    "stock": 1,
+    "tags": ["Bracelet", "Silver", "Simple"],
+    "image": "apparel/apparel_14.jpg",
+    "ratings": {
+      "average": 3.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Matches any outfit.",
+        "rating": 4,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Subtle and elegant.",
+        "rating": 3,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Designer Belt",
+    "description": "Luxury designer belt with logo buckle.",
+    "price": 279.99,
+    "category": "Accessories",
+    "stock": 0,
+    "tags": ["Belt", "Designer", "Luxury"],
+    "image": "apparel/apparel_15.jpg",
+    "ratings": {
+      "average": 3.4,
+      "count": 10
+    },
+    "sales": {
+      "totalSold": 50,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "High-quality leather and impressive design.",
+        "rating": 4,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Logo buckle adds a touch of luxury.",
+        "rating": 3,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}
