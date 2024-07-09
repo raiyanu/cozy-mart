@@ -9,17 +9,11 @@ import PopUp from "./components/PopUp";
 import { useState, useEffect } from "react";
 import Contact from "./pages/Contact";
 import SearchPage from "./pages/SearchPage";
-
 function App() {
   const [isLoginOpen, setIsLoginOpen] = useState(true);
   const handLoginToggle = () => {
     setIsLoginOpen(!isLoginOpen);
   };
-  useEffect(() => {
-    fetch("/products.json")
-      .then((res) => res.json())
-      .then((data) => console.log(data));
-  }, []);
   return (
     <>
       <Header handleLoginOpen={handLoginToggle} />

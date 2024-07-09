@@ -3224,7 +3224,7 @@
         "category": "Automotive Tires",
         "stock": 15,
         "tags": ["automotive", "tires", "high-performance"],
-        "image": "productimage/automotive/tires/tires_1.jpg",
+        "image": "productimage/tires/tires_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 35
@@ -3256,7 +3256,7 @@
         "category": "Automotive Tires",
         "stock": 20,
         "tags": ["automotive", "tires", "all-season"],
-        "image": "productimage/automotive/tires/tires_2.jpg",
+        "image": "productimage/tires/tires_2.jpg",
         "ratings": {
           "average": 4.6,
           "count": 30
@@ -3288,7 +3288,7 @@
         "category": "Automotive Tires",
         "stock": 18,
         "tags": ["automotive", "tires", "winter"],
-        "image": "productimage/automotive/tires/tires_3.jpg",
+        "image": "productimage/tires/tires_3.jpg",
         "ratings": {
           "average": 4.7,
           "count": 32
@@ -3320,7 +3320,7 @@
         "category": "Automotive Tires",
         "stock": 16,
         "tags": ["automotive", "tires", "performance"],
-        "image": "productimage/automotive/tires/tires_4.jpg",
+        "image": "productimage/tires/tires_4.jpg",
         "ratings": {
           "average": 4.9,
           "count": 35
@@ -3352,7 +3352,7 @@
         "category": "Automotive Tires",
         "stock": 22,
         "tags": ["automotive", "tires", "off-road"],
-        "image": "productimage/automotive/tires/tires_5.jpg",
+        "image": "productimage/tires/tires_5.jpg",
         "ratings": {
           "average": 4.5,
           "count": 28
@@ -3384,7 +3384,7 @@
         "category": "Automotive Tires",
         "stock": 25,
         "tags": ["automotive", "tires", "eco-friendly"],
-        "image": "productimage/automotive/tires/tires_6.jpg",
+        "image": "productimage/tires/tires_6.jpg",
         "ratings": {
           "average": 4.4,
           "count": 26
@@ -3416,7 +3416,7 @@
         "category": "Automotive Tires",
         "stock": 20,
         "tags": ["automotive", "tires", "touring"],
-        "image": "productimage/automotive/tires/tires_7.jpg",
+        "image": "productimage/tires/tires_7.jpg",
         "ratings": {
           "average": 4.6,
           "count": 30
@@ -3448,7 +3448,7 @@
         "category": "Automotive Tires",
         "stock": 18,
         "tags": ["automotive", "tires", "SUV"],
-        "image": "productimage/automotive/tires/tires_8.jpg",
+        "image": "productimage/tires/tires_8.jpg",
         "ratings": {
           "average": 4.7,
           "count": 32
@@ -3480,7 +3480,7 @@
         "category": "Automotive Tires",
         "stock": 16,
         "tags": ["automotive", "tires", "run-flat"],
-        "image": "productimage/automotive/tires/tires_9.jpg",
+        "image": "productimage/tires/tires_9.jpg",
         "ratings": {
           "average": 4.8,
           "count": 35
@@ -3512,7 +3512,7 @@
         "category": "Automotive Tires",
         "stock": 20,
         "tags": ["automotive", "tires", "budget"],
-        "image": "productimage/automotive/tires/tires_10.jpg",
+        "image": "productimage/tires/tires_10.jpg",
         "ratings": {
           "average": 4.4,
           "count": 25
@@ -3544,7 +3544,7 @@
         "category": "Automotive Tires",
         "stock": 18,
         "tags": ["automotive", "tires", "summer"],
-        "image": "productimage/automotive/tires/tires_11.jpg",
+        "image": "productimage/tires/tires_11.jpg",
         "ratings": {
           "average": 4.7,
           "count": 30
@@ -3576,7 +3576,7 @@
         "category": "Automotive Tires",
         "stock": 15,
         "tags": ["automotive", "tires", "truck"],
-        "image": "productimage/automotive/tires/tires_12.jpg",
+        "image": "productimage/tires/tires_12.jpg",
         "ratings": {
           "average": 4.9,
           "count": 35
@@ -3608,7 +3608,7 @@
         "category": "Automotive Tires",
         "stock": 20,
         "tags": ["automotive", "tires", "vintage"],
-        "image": "productimage/automotive/tires/tires_13.jpg",
+        "image": "productimage/tires/tires_13.jpg",
         "ratings": {
           "average": 4.6,
           "count": 30
@@ -3640,7 +3640,7 @@
         "category": "Automotive Tires",
         "stock": 18,
         "tags": ["automotive", "tires", "electric"],
-        "image": "productimage/automotive/tires/tires_14.jpg",
+        "image": "productimage/tires/tires_14.jpg",
         "ratings": {
           "average": 4.8,
           "count": 32
@@ -3672,7 +3672,7 @@
         "category": "Automotive Tires",
         "stock": 16,
         "tags": ["automotive", "tires", "compact"],
-        "image": "productimage/automotive/tires/tires_15.jpg",
+        "image": "productimage/tires/tires_15.jpg",
         "ratings": {
           "average": 4.5,
           "count": 28
@@ -5636,7 +5636,7 @@
         "category": "Hair Care",
         "stock": 30,
         "tags": ["hair care", "shampoo", "moisturizing"],
-        "image": "productimage/beauty/hair_care/hair_care_1.jpg",
+        "image": "productimage/hair_care/hair_care_1.jpg",
         "ratings": {
           "average": 4.5,
           "count": 20
@@ -5668,7 +5668,7 @@
         "category": "Hair Care",
         "stock": 25,
         "tags": ["hair care", "conditioner", "repairing"],
-        "image": "productimage/beauty/hair_care/hair_care_2.jpg",
+        "image": "productimage/hair_care/hair_care_2.jpg",
         "ratings": {
           "average": 4.3,
           "count": 18
@@ -5700,7 +5700,7 @@
         "category": "Hair Care",
         "stock": 20,
         "tags": ["hair care", "curl defining", "gel"],
-        "image": "productimage/beauty/hair_care/hair_care_3.jpg",
+        "image": "productimage/hair_care/hair_care_3.jpg",
         "ratings": {
           "average": 4.0,
           "count": 15
@@ -5732,7 +5732,7 @@
         "category": "Hair Care",
         "stock": 18,
         "tags": ["hair care", "hair serum", "argan oil"],
-        "image": "productimage/beauty/hair_care/hair_care_4.jpg",
+        "image": "productimage/hair_care/hair_care_4.jpg",
         "ratings": {
           "average": 4.2,
           "count": 17
@@ -5764,7 +5764,7 @@
         "category": "Hair Care",
         "stock": 15,
         "tags": ["hair care", "heat protectant", "spray"],
-        "image": "productimage/beauty/hair_care/hair_care_5.jpg",
+        "image": "productimage/hair_care/hair_care_5.jpg",
         "ratings": {
           "average": 4.1,
           "count": 16
@@ -5796,7 +5796,7 @@
         "category": "Hair Care",
         "stock": 25,
         "tags": ["hair care", "hair mask", "coconut oil"],
-        "image": "productimage/beauty/hair_care/hair_care_6.jpg",
+        "image": "productimage/hair_care/hair_care_6.jpg",
         "ratings": {
           "average": 4.4,
           "count": 19
@@ -5828,7 +5828,7 @@
         "category": "Hair Care",
         "stock": 22,
         "tags": ["hair care", "volumizing", "mousse"],
-        "image": "productimage/beauty/hair_care/hair_care_7.jpg",
+        "image": "productimage/hair_care/hair_care_7.jpg",
         "ratings": {
           "average": 4.3,
           "count": 18
@@ -5860,7 +5860,7 @@
         "category": "Hair Care",
         "stock": 20,
         "tags": ["hair care", "anti-frizz", "serum"],
-        "image": "productimage/beauty/hair_care/hair_care_8.jpg",
+        "image": "productimage/hair_care/hair_care_8.jpg",
         "ratings": {
           "average": 4.2,
           "count": 16
@@ -5892,7 +5892,7 @@
         "category": "Hair Care",
         "stock": 28,
         "tags": ["hair care", "dry shampoo", "refreshing"],
-        "image": "productimage/beauty/hair_care/hair_care_9.jpg",
+        "image": "productimage/hair_care/hair_care_9.jpg",
         "ratings": {
           "average": 4.0,
           "count": 15
@@ -5924,7 +5924,7 @@
         "category": "Hair Care",
         "stock": 24,
         "tags": ["hair care", "hair mask", "strengthening"],
-        "image": "productimage/beauty/hair_care/hair_care_10.jpg",
+        "image": "productimage/hair_care/hair_care_10.jpg",
         "ratings": {
           "average": 4.3,
           "count": 17
@@ -5956,7 +5956,7 @@
         "category": "Hair Care",
         "stock": 26,
         "tags": ["hair care", "conditioner", "leave-in"],
-        "image": "productimage/beauty/hair_care/hair_care_11.jpg",
+        "image": "productimage/hair_care/hair_care_11.jpg",
         "ratings": {
           "average": 4.2,
           "count": 16
@@ -5988,7 +5988,7 @@
         "category": "Hair Care",
         "stock": 23,
         "tags": ["hair care", "shine enhancing", "spray"],
-        "image": "productimage/beauty/hair_care/hair_care_12.jpg",
+        "image": "productimage/hair_care/hair_care_12.jpg",
         "ratings": {
           "average": 4.1,
           "count": 15
@@ -6020,7 +6020,7 @@
         "category": "Hair Care",
         "stock": 21,
         "tags": ["hair care", "texturizing", "spray"],
-        "image": "productimage/beauty/hair_care/hair_care_13.jpg",
+        "image": "productimage/hair_care/hair_care_13.jpg",
         "ratings": {
           "average": 4.0,
           "count": 14
@@ -6052,7 +6052,7 @@
         "category": "Hair Care",
         "stock": 27,
         "tags": ["hair care", "shampoo", "color protecting"],
-        "image": "productimage/beauty/hair_care/hair_care_14.jpg",
+        "image": "productimage/hair_care/hair_care_14.jpg",
         "ratings": {
           "average": 4.3,
           "count": 17
@@ -6084,7 +6084,7 @@
         "category": "Hair Care",
         "stock": 29,
         "tags": ["hair care", "conditioner", "dry conditioner"],
-        "image": "productimage/beauty/hair_care/hair_care_15.jpg",
+        "image": "productimage/hair_care/hair_care_15.jpg",
         "ratings": {
           "average": 4.1,
           "count": 16
@@ -6118,7 +6118,7 @@
         "category": "Makeup",
         "stock": 25,
         "tags": ["makeup", "foundation", "liquid"],
-        "image": "productimage/beauty/makeup/makeup_1.jpg",
+        "image": "productimage/makeup/makeup_1.jpg",
         "ratings": {
           "average": 4.5,
           "count": 20
@@ -6150,7 +6150,7 @@
         "category": "Makeup",
         "stock": 28,
         "tags": ["makeup", "eyeshadow", "palette"],
-        "image": "productimage/beauty/makeup/makeup_2.jpg",
+        "image": "productimage/makeup/makeup_2.jpg",
         "ratings": {
           "average": 4.3,
           "count": 18
@@ -6182,7 +6182,7 @@
         "category": "Makeup",
         "stock": 26,
         "tags": ["makeup", "mascara", "lengthening"],
-        "image": "productimage/beauty/makeup/makeup_3.jpg",
+        "image": "productimage/makeup/makeup_3.jpg",
         "ratings": {
           "average": 4.2,
           "count": 17
@@ -6214,7 +6214,7 @@
         "category": "Makeup",
         "stock": 27,
         "tags": ["makeup", "lipstick", "creamy"],
-        "image": "productimage/beauty/makeup/makeup_4.jpg",
+        "image": "productimage/makeup/makeup_4.jpg",
         "ratings": {
           "average": 4.4,
           "count": 19
@@ -6246,7 +6246,7 @@
         "category": "Makeup",
         "stock": 24,
         "tags": ["makeup", "blush", "powder"],
-        "image": "productimage/beauty/makeup/makeup_5.jpg",
+        "image": "productimage/makeup/makeup_5.jpg",
         "ratings": {
           "average": 4.1,
           "count": 16
@@ -6278,7 +6278,7 @@
         "category": "Makeup",
         "stock": 23,
         "tags": ["makeup", "highlighter", "creamy"],
-        "image": "productimage/beauty/makeup/makeup_6.jpg",
+        "image": "productimage/makeup/makeup_6.jpg",
         "ratings": {
           "average": 4.3,
           "count": 18
@@ -6310,7 +6310,7 @@
         "category": "Makeup",
         "stock": 25,
         "tags": ["makeup", "eyeliner", "liquid"],
-        "image": "productimage/beauty/makeup/makeup_7.jpg",
+        "image": "productimage/makeup/makeup_7.jpg",
         "ratings": {
           "average": 4.2,
           "count": 17
@@ -6342,7 +6342,7 @@
         "category": "Makeup",
         "stock": 24,
         "tags": ["makeup", "setting spray", "long-lasting"],
-        "image": "productimage/beauty/makeup/makeup_8.jpg",
+        "image": "productimage/makeup/makeup_8.jpg",
         "ratings": {
           "average": 4.4,
           "count": 19
@@ -6374,7 +6374,7 @@
         "category": "Makeup",
         "stock": 25,
         "tags": ["makeup", "matte lipstick", "long-lasting"],
-        "image": "productimage/beauty/makeup/makeup_9.jpg",
+        "image": "productimage/makeup/makeup_9.jpg",
         "ratings": {
           "average": 4.5,
           "count": 28
@@ -6406,7 +6406,7 @@
         "category": "Makeup",
         "stock": 20,
         "tags": ["makeup", "eyeshadow palette", "matte", "shimmer"],
-        "image": "productimage/beauty/makeup/makeup_10.jpg",
+        "image": "productimage/makeup/makeup_10.jpg",
         "ratings": {
           "average": 4.6,
           "count": 30
@@ -6438,7 +6438,7 @@
         "category": "Makeup",
         "stock": 18,
         "tags": ["makeup", "highlighter", "luminous"],
-        "image": "productimage/beauty/makeup/makeup_11.jpg",
+        "image": "productimage/makeup/makeup_11.jpg",
         "ratings": {
           "average": 4.4,
           "count": 26
@@ -6470,7 +6470,7 @@
         "category": "Makeup",
         "stock": 22,
         "tags": ["makeup", "mascara", "lengthening", "volumizing"],
-        "image": "productimage/beauty/makeup/makeup_12.jpg",
+        "image": "productimage/makeup/makeup_12.jpg",
         "ratings": {
           "average": 4.5,
           "count": 28
@@ -6502,7 +6502,7 @@
         "category": "Makeup",
         "stock": 20,
         "tags": ["makeup", "liquid foundation", "flawless coverage"],
-        "image": "productimage/beauty/makeup/makeup_13.jpg",
+        "image": "productimage/makeup/makeup_13.jpg",
         "ratings": {
           "average": 4.6,
           "count": 30
@@ -6534,7 +6534,7 @@
         "category": "Makeup",
         "stock": 18,
         "tags": ["makeup", "blush", "natural"],
-        "image": "productimage/beauty/makeup/makeup_14.jpg",
+        "image": "productimage/makeup/makeup_14.jpg",
         "ratings": {
           "average": 4.4,
           "count": 26
@@ -6566,7 +6566,7 @@
         "category": "Makeup",
         "stock": 15,
         "tags": ["makeup", "setting spray", "long-lasting"],
-        "image": "productimage/beauty/makeup/makeup_15.jpg",
+        "image": "productimage/makeup/makeup_15.jpg",
         "ratings": {
           "average": 4.3,
           "count": 24
@@ -6600,7 +6600,7 @@
         "category": "Nail Care",
         "stock": 25,
         "tags": ["beauty", "nail polish", "bold"],
-        "image": "productimage/beauty/nail_care/nail+care_1.jpg",
+        "image": "productimage/nail_care/nail+care_1.jpg",
         "ratings": {
           "average": 4.7,
           "count": 32
@@ -6632,7 +6632,7 @@
         "category": "Nail Care",
         "stock": 20,
         "tags": ["beauty", "nail care", "nail strengthener"],
-        "image": "productimage/beauty/nail_care/nail+care_2.jpg",
+        "image": "productimage/nail_care/nail+care_2.jpg",
         "ratings": {
           "average": 4.6,
           "count": 30
@@ -6664,7 +6664,7 @@
         "category": "Nail Care",
         "stock": 30,
         "tags": ["beauty", "nail care", "nail polish remover"],
-        "image": "productimage/beauty/nail_care/nail+care_3.jpg",
+        "image": "productimage/nail_care/nail+care_3.jpg",
         "ratings": {
           "average": 4.4,
           "count": 28
@@ -6696,7 +6696,7 @@
         "category": "Nail Care",
         "stock": 25,
         "tags": ["beauty", "nail care", "nail file"],
-        "image": "productimage/beauty/nail_care/nail+care_4.jpg",
+        "image": "productimage/nail_care/nail+care_4.jpg",
         "ratings": {
           "average": 4.5,
           "count": 28
@@ -6728,7 +6728,7 @@
         "category": "Nail Care",
         "stock": 22,
         "tags": ["beauty", "nail care", "nail treatment"],
-        "image": "productimage/beauty/nail_care/nail+care_5.jpg",
+        "image": "productimage/nail_care/nail+care_5.jpg",
         "ratings": {
           "average": 4.3,
           "count": 26
@@ -6760,7 +6760,7 @@
         "category": "Nail Care",
         "stock": 20,
         "tags": ["beauty", "nail care", "nail buffer"],
-        "image": "productimage/beauty/nail_care/nail+care_6.jpg",
+        "image": "productimage/nail_care/nail+care_6.jpg",
         "ratings": {
           "average": 4.2,
           "count": 24
@@ -6792,7 +6792,7 @@
         "category": "Nail Care",
         "stock": 18,
         "tags": ["beauty", "nail care", "nail art"],
-        "image": "productimage/beauty/nail_care/nail+care_7.jpg",
+        "image": "productimage/nail_care/nail+care_7.jpg",
         "ratings": {
           "average": 4.4,
           "count": 26
@@ -6824,7 +6824,7 @@
         "category": "Nail Care",
         "stock": 15,
         "tags": ["beauty", "nail care", "nail decals"],
-        "image": "productimage/beauty/nail_care/nail+care_8.jpg",
+        "image": "productimage/nail_care/nail+care_8.jpg",
         "ratings": {
           "average": 4.3,
           "count": 24
@@ -6856,7 +6856,7 @@
         "category": "Nail Care",
         "stock": 20,
         "tags": ["beauty", "nail polish", "nail care"],
-        "image": "productimage/beauty/nail_care/nail+care_9.jpg",
+        "image": "productimage/nail_care/nail+care_9.jpg",
         "ratings": {
           "average": 4.5,
           "count": 28
@@ -6888,7 +6888,7 @@
         "category": "Nail Care",
         "stock": 18,
         "tags": ["beauty", "cuticle oil", "nail care", "moisturizing"],
-        "image": "productimage/beauty/nail_care/nail+care_10.jpg",
+        "image": "productimage/nail_care/nail+care_10.jpg",
         "ratings": {
           "average": 4.4,
           "count": 26
@@ -6920,7 +6920,7 @@
         "category": "Nail Care",
         "stock": 22,
         "tags": ["beauty", "nail care", "nail art"],
-        "image": "productimage/beauty/nail_care/nail+care_11.jpg",
+        "image": "productimage/nail_care/nail+care_11.jpg",
         "ratings": {
           "average": 4.6,
           "count": 27
@@ -6952,7 +6952,7 @@
         "category": "Nail Care",
         "stock": 19,
         "tags": ["beauty", "nail care", "nail kit"],
-        "image": "productimage/beauty/nail_care/nail+care_12.jpg",
+        "image": "productimage/nail_care/nail+care_12.jpg",
         "ratings": {
           "average": 4.5,
           "count": 25
@@ -6984,7 +6984,7 @@
         "category": "Nail Care",
         "stock": 17,
         "tags": ["beauty", "nail care", "nail polish dryer"],
-        "image": "productimage/beauty/nail_care/nail+care_13.jpg",
+        "image": "productimage/nail_care/nail+care_13.jpg",
         "ratings": {
           "average": 4.4,
           "count": 23
@@ -7016,7 +7016,7 @@
         "category": "Nail Care",
         "stock": 16,
         "tags": ["beauty", "nail care", "nail strengthener"],
-        "image": "productimage/beauty/nail_care/nail+care_14.jpg",
+        "image": "productimage/nail_care/nail+care_14.jpg",
         "ratings": {
           "average": 4.3,
           "count": 22
@@ -7048,7 +7048,7 @@
         "category": "Nail Care",
         "stock": 15,
         "tags": ["beauty", "nail care", "cuticle cream"],
-        "image": "productimage/beauty/nail_care/nail+care_15.jpg",
+        "image": "productimage/nail_care/nail+care_15.jpg",
         "ratings": {
           "average": 4.2,
           "count": 20
@@ -7082,7 +7082,7 @@
         "category": "Beauty / Hair Care",
         "stock": 25,
         "tags": ["beauty", "hair care", "shampoo", "moisturizing"],
-        "image": "productimage/beauty/hair_care/hair+care_1.jpg",
+        "image": "productimage/hair_care/hair+care_1.jpg",
         "ratings": {
           "average": 4.7,
           "count": 30
@@ -7114,7 +7114,7 @@
         "category": "Beauty / Makeup",
         "stock": 20,
         "tags": ["beauty", "makeup", "lipstick", "matte"],
-        "image": "productimage/beauty/makeup/makeup_1.jpg",
+        "image": "productimage/makeup/makeup_1.jpg",
         "ratings": {
           "average": 4.5,
           "count": 25
@@ -7146,7 +7146,7 @@
         "category": "Beauty / Nail Care",
         "stock": 30,
         "tags": ["beauty", "nail care", "nail polish", "vibrant"],
-        "image": "productimage/beauty/nail_care/nail+care_1.jpg",
+        "image": "productimage/nail_care/nail+care_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 35
@@ -7178,7 +7178,7 @@
         "category": "Beauty / Skincare",
         "stock": 25,
         "tags": ["beauty", "skincare", "face mask", "hydrating", "vitamin C"],
-        "image": "productimage/beauty/skincare/skincare_1.jpg",
+        "image": "productimage/productimage/skincare/skincare_1.jpg",
         "ratings": {
           "average": 4.6,
           "count": 30
@@ -7216,7 +7216,7 @@
           "moisturizing",
           "shea butter"
         ],
-        "image": "productimage/beauty/body_care/body+care_1.jpg",
+        "image": "productimage/body_care/body+care_1.jpg",
         "ratings": {
           "average": 4.7,
           "count": 32
@@ -7248,7 +7248,7 @@
         "category": "Beauty / Makeup Tools",
         "stock": 22,
         "tags": ["beauty", "makeup tools", "makeup brushes", "professional"],
-        "image": "productimage/beauty/makeup_tools/makeup_tools_1.jpg",
+        "image": "productimage/makeup_tools/makeup_tools_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 35
@@ -7280,7 +7280,7 @@
         "category": "Beauty / Skincare",
         "stock": 28,
         "tags": ["beauty", "skincare", "facial scrub", "exfoliating"],
-        "image": "productimage/beauty/skincare/skincare_2.jpg",
+        "image": "productimage/productimage/skincare/skincare_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 32
@@ -7312,7 +7312,7 @@
         "category": "Beauty / Makeup",
         "stock": 25,
         "tags": ["beauty", "makeup", "eyeshadow", "palette"],
-        "image": "productimage/beauty/makeup/makeup_2.jpg",
+        "image": "productimage/makeup/makeup_2.jpg",
         "ratings": {
           "average": 4.6,
           "count": 30
@@ -7351,7 +7351,7 @@
           "hyaluronic acid",
           "vitamin E"
         ],
-        "image": "productimage/beauty/skincare/skincare_3.jpg",
+        "image": "productimage/productimage/skincare/skincare_3.jpg",
         "ratings": {
           "average": 4.9,
           "count": 40
@@ -7383,7 +7383,7 @@
         "category": "Beauty / Hair Care",
         "stock": 18,
         "tags": ["beauty", "hair care", "curl defining", "cream"],
-        "image": "productimage/beauty/hair_care/hair+care_2.jpg",
+        "image": "productimage/hair_care/hair+care_2.jpg",
         "ratings": {
           "average": 4.5,
           "count": 25
@@ -7421,7 +7421,7 @@
           "moisturizing",
           "shea butter"
         ],
-        "image": "productimage/beauty/body_care/body+care_2.jpg",
+        "image": "productimage/body_care/body+care_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 28
@@ -7485,7 +7485,7 @@
         "category": "Beauty / Skincare",
         "stock": 30,
         "tags": ["beauty", "skincare", "sunscreen", "spf 50", "broad-spectrum"],
-        "image": "productimage/beauty/skincare/skincare_4.jpg",
+        "image": "productimage/productimage/skincare/skincare_4.jpg",
         "ratings": {
           "average": 4.8,
           "count": 35
@@ -7588,7 +7588,7 @@
         "category": "Beauty / Hair Care",
         "stock": 25,
         "tags": ["beauty", "hair care", "shampoo", "moisturizing"],
-        "image": "beauty/skincare/skincare_1.jpg",
+        "image": "productimage/skincare/skincare_1.jpg",
         "ratings": {
           "average": 4.7,
           "count": 30
@@ -7620,7 +7620,7 @@
         "category": "Beauty / Makeup",
         "stock": 20,
         "tags": ["beauty", "makeup", "lipstick", "matte"],
-        "image": "beauty/skincare/skincare_2.jpg",
+        "image": "productimage/skincare/skincare_2.jpg",
         "ratings": {
           "average": 4.5,
           "count": 25
@@ -7652,7 +7652,7 @@
         "category": "Beauty / Nail Care",
         "stock": 30,
         "tags": ["beauty", "nail care", "nail polish", "vibrant"],
-        "image": "beauty/skincare/skincare_3.jpg",
+        "image": "productimage/skincare/skincare_3.jpg",
         "ratings": {
           "average": 4.8,
           "count": 35
@@ -7684,7 +7684,7 @@
         "category": "Beauty / Skincare",
         "stock": 25,
         "tags": ["beauty", "skincare", "face mask", "hydrating", "vitamin C"],
-        "image": "beauty/skincare/skincare_4.jpg",
+        "image": "productimage/skincare/skincare_4.jpg",
         "ratings": {
           "average": 4.6,
           "count": 30
@@ -7722,7 +7722,7 @@
           "moisturizing",
           "shea butter"
         ],
-        "image": "beauty/skincare/skincare_5.jpg",
+        "image": "productimage/skincare/skincare_5.jpg",
         "ratings": {
           "average": 4.7,
           "count": 32
@@ -7754,7 +7754,7 @@
         "category": "Beauty / Makeup",
         "stock": 18,
         "tags": ["beauty", "makeup", "makeup brushes", "professional"],
-        "image": "beauty/skincare/skincare_6.jpg",
+        "image": "productimage/skincare/skincare_6.jpg",
         "ratings": {
           "average": 4.8,
           "count": 35
@@ -7793,7 +7793,7 @@
           "collagen",
           "hyaluronic acid"
         ],
-        "image": "beauty/skincare/skincare_7.jpg",
+        "image": "productimage/skincare/skincare_7.jpg",
         "ratings": {
           "average": 4.9,
           "count": 38
@@ -7825,7 +7825,7 @@
         "category": "Beauty / Makeup",
         "stock": 20,
         "tags": ["beauty", "makeup", "eyeshadow", "palette"],
-        "image": "beauty/skincare/skincare_8.jpg",
+        "image": "productimage/skincare/skincare_8.jpg",
         "ratings": {
           "average": 4.7,
           "count": 32
@@ -7857,7 +7857,7 @@
         "category": "Beauty / Skincare",
         "stock": 25,
         "tags": ["beauty", "skincare", "facial cleanser", "gentle"],
-        "image": "beauty/skincare/skincare_9.jpg",
+        "image": "productimage/skincare/skincare_9.jpg",
         "ratings": {
           "average": 4.6,
           "count": 28
@@ -7896,7 +7896,7 @@
           "shea butter",
           "vitamin E"
         ],
-        "image": "beauty/skincare/skincare_10.jpg",
+        "image": "productimage/skincare/skincare_10.jpg",
         "ratings": {
           "average": 4.5,
           "count": 25
@@ -7934,7 +7934,7 @@
           "repairing",
           "keratin"
         ],
-        "image": "beauty/skincare/skincare_11.jpg",
+        "image": "productimage/skincare/skincare_11.jpg",
         "ratings": {
           "average": 4.7,
           "count": 30
@@ -7966,7 +7966,7 @@
         "category": "Beauty / Sun Care",
         "stock": 18,
         "tags": ["beauty", "sun care", "sunscreen", "SPF 50", "broad-spectrum"],
-        "image": "beauty/skincare/skincare_12.jpg",
+        "image": "productimage/skincare/skincare_12.jpg",
         "ratings": {
           "average": 4.8,
           "count": 35
@@ -8004,7 +8004,7 @@
           "gentle",
           "natural ingredients"
         ],
-        "image": "beauty/skincare/skincare_13.jpg",
+        "image": "productimage/skincare/skincare_13.jpg",
         "ratings": {
           "average": 4.6,
           "count": 26
@@ -8042,7 +8042,7 @@
           "moisturizing",
           "aloe vera"
         ],
-        "image": "beauty/skincare/skincare_14.jpg",
+        "image": "productimage/skincare/skincare_14.jpg",
         "ratings": {
           "average": 4.7,
           "count": 32
@@ -8081,7 +8081,7 @@
           "puffiness",
           "dark circles"
         ],
-        "image": "beauty/skincare/skincare_15.jpg",
+        "image": "productimage/skincare/skincare_15.jpg",
         "ratings": {
           "average": 4.8,
           "count": 34
@@ -8115,7 +8115,7 @@
         "category": "Spa",
         "stock": 50,
         "tags": ["bath bomb", "relaxation", "essential oils"],
-        "image": "spa_products/spa+products_1.jpg",
+        "image": "productimage/spa_products/spa+products_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 25
@@ -8147,7 +8147,7 @@
         "category": "Spa",
         "stock": 40,
         "tags": ["bath salts", "herbal", "soothing"],
-        "image": "spa_products/spa+products_2.jpg",
+        "image": "productimage/spa_products/spa+products_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 20
@@ -8179,7 +8179,7 @@
         "category": "Spa",
         "stock": 35,
         "tags": ["candles", "aromatherapy", "spa"],
-        "image": "spa_products/spa+products_3.jpg",
+        "image": "productimage/spa_products/spa+products_3.jpg",
         "ratings": {
           "average": 4.8,
           "count": 30
@@ -8211,7 +8211,7 @@
         "category": "Spa",
         "stock": 20,
         "tags": ["essential oil", "diffuser", "relaxation"],
-        "image": "spa_products/spa+products_4.jpg",
+        "image": "productimage/spa_products/spa+products_4.jpg",
         "ratings": {
           "average": 4.6,
           "count": 22
@@ -8243,7 +8243,7 @@
         "category": "Spa",
         "stock": 15,
         "tags": ["gift set", "luxury", "spa"],
-        "image": "spa_products/spa+products_5.jpg",
+        "image": "productimage/spa_products/spa+products_5.jpg",
         "ratings": {
           "average": 4.9,
           "count": 18
@@ -8275,7 +8275,7 @@
         "category": "Spa",
         "stock": 25,
         "tags": ["exfoliating", "scrub", "skin care"],
-        "image": "spa_products/spa+products_6.jpg",
+        "image": "productimage/spa_products/spa+products_6.jpg",
         "ratings": {
           "average": 4.7,
           "count": 26
@@ -8307,7 +8307,7 @@
         "category": "Spa",
         "stock": 30,
         "tags": ["face mask", "moisturizing", "skin care"],
-        "image": "spa_products/spa+products_7.jpg",
+        "image": "productimage/spa_products/spa+products_7.jpg",
         "ratings": {
           "average": 4.8,
           "count": 28
@@ -8339,7 +8339,7 @@
         "category": "Spa",
         "stock": 50,
         "tags": ["aloe vera", "soothing", "cooling"],
-        "image": "spa_products/spa+products_8.jpg",
+        "image": "productimage/spa_products/spa+products_8.jpg",
         "ratings": {
           "average": 4.9,
           "count": 35
@@ -8371,7 +8371,7 @@
         "category": "Spa",
         "stock": 60,
         "tags": ["headband", "spa", "accessories"],
-        "image": "spa_products/spa+products_9.jpg",
+        "image": "productimage/spa_products/spa+products_9.jpg",
         "ratings": {
           "average": 4.5,
           "count": 15
@@ -8403,7 +8403,7 @@
         "category": "Spa",
         "stock": 45,
         "tags": ["foot soak", "crystals", "relaxation"],
-        "image": "spa_products/spa+products_10.jpg",
+        "image": "productimage/spa_products/spa+products_10.jpg",
         "ratings": {
           "average": 4.6,
           "count": 18
@@ -8435,7 +8435,7 @@
         "category": "Spa",
         "stock": 35,
         "tags": ["body butter", "hydrating", "nourishing"],
-        "image": "spa_products/spa+products_11.jpg",
+        "image": "productimage/spa_products/spa+products_11.jpg",
         "ratings": {
           "average": 4.8,
           "count": 20
@@ -8467,7 +8467,7 @@
         "category": "Spa",
         "stock": 40,
         "tags": ["slippers", "spa", "comfort"],
-        "image": "spa_products/spa+products_12.jpg",
+        "image": "productimage/spa_products/spa+products_12.jpg",
         "ratings": {
           "average": 4.7,
           "count": 22
@@ -8499,7 +8499,7 @@
         "category": "Spa",
         "stock": 25,
         "tags": ["clay mask", "detoxifying", "skin care"],
-        "image": "spa_products/spa+products_13.jpg",
+        "image": "productimage/spa_products/spa+products_13.jpg",
         "ratings": {
           "average": 4.6,
           "count": 19
@@ -8531,7 +8531,7 @@
         "category": "Spa",
         "stock": 20,
         "tags": ["hot stone", "massage", "relaxation"],
-        "image": "spa_products/spa+products_14.jpg",
+        "image": "productimage/spa_products/spa+products_14.jpg",
         "ratings": {
           "average": 4.8,
           "count": 16
@@ -8563,7 +8563,7 @@
         "category": "Spa",
         "stock": 50,
         "tags": ["eye pillow", "lavender", "relaxation"],
-        "image": "spa_products/spa+products_15.jpg",
+        "image": "productimage/spa_products/spa+products_15.jpg",
         "ratings": {
           "average": 4.7,
           "count": 18
@@ -8597,7 +8597,7 @@
         "category": "Spa",
         "stock": 50,
         "tags": ["bath bomb", "relaxation", "essential oils"],
-        "image": "wellness_products/wellness+products_1.jpg",
+        "image": "productimage/wellness_products/wellness+products_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 25
@@ -8629,7 +8629,7 @@
         "category": "Spa",
         "stock": 40,
         "tags": ["bath salts", "herbal", "soothing"],
-        "image": "wellness_products/wellness+products_2.jpg",
+        "image": "productimage/wellness_products/wellness+products_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 20
@@ -8661,7 +8661,7 @@
         "category": "Spa",
         "stock": 35,
         "tags": ["candles", "aromatherapy", "spa"],
-        "image": "wellness_products/wellness+products_3.jpg",
+        "image": "productimage/wellness_products/wellness+products_3.jpg",
         "ratings": {
           "average": 4.8,
           "count": 30
@@ -8693,7 +8693,7 @@
         "category": "Spa",
         "stock": 20,
         "tags": ["essential oil", "diffuser", "relaxation"],
-        "image": "wellness_products/wellness+products_4.jpg",
+        "image": "productimage/wellness_products/wellness+products_4.jpg",
         "ratings": {
           "average": 4.6,
           "count": 22
@@ -8725,7 +8725,7 @@
         "category": "Spa",
         "stock": 15,
         "tags": ["gift set", "luxury", "spa"],
-        "image": "wellness_products/wellness+products_5.jpg",
+        "image": "productimage/wellness_products/wellness+products_5.jpg",
         "ratings": {
           "average": 4.9,
           "count": 18
@@ -8757,7 +8757,7 @@
         "category": "Spa",
         "stock": 25,
         "tags": ["exfoliating", "scrub", "skin care"],
-        "image": "wellness_products/wellness+products_6.jpg",
+        "image": "productimage/wellness_products/wellness+products_6.jpg",
         "ratings": {
           "average": 4.7,
           "count": 26
@@ -8789,7 +8789,7 @@
         "category": "Spa",
         "stock": 30,
         "tags": ["face mask", "moisturizing", "skin care"],
-        "image": "wellness_products/wellness+products_7.jpg",
+        "image": "productimage/wellness_products/wellness+products_7.jpg",
         "ratings": {
           "average": 4.8,
           "count": 28
@@ -8821,7 +8821,7 @@
         "category": "Spa",
         "stock": 50,
         "tags": ["aloe vera", "soothing", "cooling"],
-        "image": "wellness_products/wellness+products_8.jpg",
+        "image": "productimage/wellness_products/wellness+products_8.jpg",
         "ratings": {
           "average": 4.9,
           "count": 35
@@ -8853,7 +8853,7 @@
         "category": "Spa",
         "stock": 60,
         "tags": ["headband", "spa", "accessories"],
-        "image": "wellness_products/wellness+products_9.jpg",
+        "image": "productimage/wellness_products/wellness+products_9.jpg",
         "ratings": {
           "average": 4.5,
           "count": 15
@@ -8885,7 +8885,7 @@
         "category": "Spa",
         "stock": 45,
         "tags": ["foot soak", "crystals", "relaxation"],
-        "image": "wellness_products/wellness+products_10.jpg",
+        "image": "productimage/wellness_products/wellness+products_10.jpg",
         "ratings": {
           "average": 4.6,
           "count": 18
@@ -8917,7 +8917,7 @@
         "category": "Spa",
         "stock": 35,
         "tags": ["body butter", "hydrating", "nourishing"],
-        "image": "wellness_products/wellness+products_11.jpg",
+        "image": "productimage/wellness_products/wellness+products_11.jpg",
         "ratings": {
           "average": 4.8,
           "count": 20
@@ -8949,7 +8949,7 @@
         "category": "Spa",
         "stock": 40,
         "tags": ["slippers", "spa", "comfort"],
-        "image": "wellness_products/wellness+products_12.jpg",
+        "image": "productimage/wellness_products/wellness+products_12.jpg",
         "ratings": {
           "average": 4.7,
           "count": 22
@@ -8981,7 +8981,7 @@
         "category": "Spa",
         "stock": 25,
         "tags": ["clay mask", "detoxifying", "skin care"],
-        "image": "wellness_products/wellness+products_13.jpg",
+        "image": "productimage/wellness_products/wellness+products_13.jpg",
         "ratings": {
           "average": 4.6,
           "count": 19
@@ -9013,7 +9013,7 @@
         "category": "Spa",
         "stock": 20,
         "tags": ["hot stone", "massage", "relaxation"],
-        "image": "wellness_products/wellness+products_14.jpg",
+        "image": "productimage/wellness_products/wellness+products_14.jpg",
         "ratings": {
           "average": 4.8,
           "count": 16
@@ -9045,7 +9045,7 @@
         "category": "Spa",
         "stock": 50,
         "tags": ["eye pillow", "lavender", "relaxation"],
-        "image": "wellness_products/wellness+products_15.jpg",
+        "image": "productimage/wellness_products/wellness+products_15.jpg",
         "ratings": {
           "average": 4.7,
           "count": 18
@@ -9081,7 +9081,7 @@
         "category": "Audiobooks",
         "stock": 100,
         "tags": ["classic", "fiction", "F. Scott Fitzgerald"],
-        "image": "audiobooks/audiobooks_1.jpg",
+        "image": "productimage/audiobooks/audiobooks_1.jpg",
         "ratings": {
           "average": 4.7,
           "count": 200
@@ -9113,7 +9113,7 @@
         "category": "Audiobooks",
         "stock": 80,
         "tags": ["dystopian", "fiction", "George Orwell"],
-        "image": "audiobooks/audiobooks_2.jpg",
+        "image": "productimage/audiobooks/audiobooks_2.jpg",
         "ratings": {
           "average": 4.8,
           "count": 180
@@ -9145,7 +9145,7 @@
         "category": "Audiobooks",
         "stock": 90,
         "tags": ["classic", "fiction", "Harper Lee"],
-        "image": "audiobooks/audiobooks_3.jpg",
+        "image": "productimage/audiobooks/audiobooks_3.jpg",
         "ratings": {
           "average": 4.9,
           "count": 210
@@ -9177,7 +9177,7 @@
         "category": "Audiobooks",
         "stock": 70,
         "tags": ["classic", "romance", "Jane Austen"],
-        "image": "audiobooks/audiobooks_4.jpg",
+        "image": "productimage/audiobooks/audiobooks_4.jpg",
         "ratings": {
           "average": 4.6,
           "count": 170
@@ -9209,7 +9209,7 @@
         "category": "Audiobooks",
         "stock": 60,
         "tags": ["classic", "adventure", "Herman Melville"],
-        "image": "audiobooks/audiobooks_5.jpg",
+        "image": "productimage/audiobooks/audiobooks_5.jpg",
         "ratings": {
           "average": 4.5,
           "count": 160
@@ -9241,7 +9241,7 @@
         "category": "Audiobooks",
         "stock": 100,
         "tags": ["classic", "fiction", "J.D. Salinger"],
-        "image": "audiobooks/audiobooks_6.jpg",
+        "image": "productimage/audiobooks/audiobooks_6.jpg",
         "ratings": {
           "average": 4.4,
           "count": 140
@@ -9273,7 +9273,7 @@
         "category": "Audiobooks",
         "stock": 50,
         "tags": ["classic", "historical", "Leo Tolstoy"],
-        "image": "audiobooks/audiobooks_7.jpg",
+        "image": "productimage/audiobooks/audiobooks_7.jpg",
         "ratings": {
           "average": 4.7,
           "count": 150
@@ -9305,7 +9305,7 @@
         "category": "Audiobooks",
         "stock": 90,
         "tags": ["fantasy", "classic", "J.R.R. Tolkien"],
-        "image": "audiobooks/audiobooks_8.jpg",
+        "image": "productimage/audiobooks/audiobooks_8.jpg",
         "ratings": {
           "average": 4.9,
           "count": 200
@@ -9337,7 +9337,7 @@
         "category": "Audiobooks",
         "stock": 80,
         "tags": ["dystopian", "fiction", "Aldous Huxley"],
-        "image": "audiobooks/audiobooks_9.jpg",
+        "image": "productimage/audiobooks/audiobooks_9.jpg",
         "ratings": {
           "average": 4.6,
           "count": 170
@@ -9369,7 +9369,7 @@
         "category": "Audiobooks",
         "stock": 100,
         "tags": ["classic", "romance", "Charlotte Brontë"],
-        "image": "audiobooks/audiobooks_10.jpg",
+        "image": "productimage/audiobooks/audiobooks_10.jpg",
         "ratings": {
           "average": 4.8,
           "count": 180
@@ -9401,7 +9401,7 @@
         "category": "Audiobooks",
         "stock": 70,
         "tags": ["classic", "epic", "Homer"],
-        "image": "audiobooks/audiobooks_11.jpg",
+        "image": "productimage/audiobooks/audiobooks_11.jpg",
         "ratings": {
           "average": 4.7,
           "count": 160
@@ -9433,7 +9433,7 @@
         "category": "Audiobooks",
         "stock": 90,
         "tags": ["classic", "fiction", "Charles Dickens"],
-        "image": "audiobooks/audiobooks_12.jpg",
+        "image": "productimage/audiobooks/audiobooks_12.jpg",
         "ratings": {
           "average": 4.6,
           "count": 150
@@ -9465,7 +9465,7 @@
         "category": "Audiobooks",
         "stock": 85,
         "tags": ["horror", "classic", "Bram Stoker"],
-        "image": "audiobooks/audiobooks_13.jpg",
+        "image": "productimage/audiobooks/audiobooks_13.jpg",
         "ratings": {
           "average": 4.5,
           "count": 140
@@ -9497,7 +9497,7 @@
         "category": "Audiobooks",
         "stock": 100,
         "tags": ["detective", "classic", "Arthur Conan Doyle"],
-        "image": "audiobooks/audiobooks_14.jpg",
+        "image": "productimage/audiobooks/audiobooks_14.jpg",
         "ratings": {
           "average": 4.8,
           "count": 170
@@ -9529,7 +9529,7 @@
         "category": "Audiobooks",
         "stock": 95,
         "tags": ["classic", "romance", "Emily Brontë"],
-        "image": "audiobooks/audiobooks_15.jpg",
+        "image": "productimage/audiobooks/audiobooks_15.jpg",
         "ratings": {
           "average": 4.7,
           "count": 160
@@ -9563,7 +9563,7 @@
         "category": "Comics",
         "stock": 100,
         "tags": ["Batman", "superhero", "Frank Miller"],
-        "image": "comics/comics_1.jpg",
+        "image": "productimage/comics/comics_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 200
@@ -9595,7 +9595,7 @@
         "category": "Comics",
         "stock": 80,
         "tags": ["superhero", "graphic novel", "Alan Moore"],
-        "image": "comics/comics_2.jpg",
+        "image": "productimage/comics/comics_2.jpg",
         "ratings": {
           "average": 4.9,
           "count": 180
@@ -9627,7 +9627,7 @@
         "category": "Comics",
         "stock": 90,
         "tags": ["Spider-Man", "superhero", "Kraven"],
-        "image": "comics/comics_3.jpg",
+        "image": "productimage/comics/comics_3.jpg",
         "ratings": {
           "average": 4.7,
           "count": 210
@@ -9659,7 +9659,7 @@
         "category": "Comics",
         "stock": 70,
         "tags": ["fantasy", "graphic novel", "Neil Gaiman"],
-        "image": "comics/comics_4.jpg",
+        "image": "productimage/comics/comics_4.jpg",
         "ratings": {
           "average": 4.6,
           "count": 170
@@ -9691,7 +9691,7 @@
         "category": "Comics",
         "stock": 60,
         "tags": ["science fiction", "graphic novel", "Brian K. Vaughan"],
-        "image": "comics/comics_5.jpg",
+        "image": "productimage/comics/comics_5.jpg",
         "ratings": {
           "average": 4.5,
           "count": 160
@@ -9723,7 +9723,7 @@
         "category": "Comics",
         "stock": 100,
         "tags": ["science fiction", "graphic novel", "Brian K. Vaughan"],
-        "image": "comics/comics_6.jpg",
+        "image": "productimage/comics/comics_6.jpg",
         "ratings": {
           "average": 4.4,
           "count": 140
@@ -9755,7 +9755,7 @@
         "category": "Comics",
         "stock": 50,
         "tags": ["supernatural", "horror", "Mike Mignola"],
-        "image": "comics/comics_7.jpg",
+        "image": "productimage/comics/comics_7.jpg",
         "ratings": {
           "average": 4.7,
           "count": 150
@@ -9787,7 +9787,7 @@
         "category": "Comics",
         "stock": 90,
         "tags": ["fantasy", "graphic novel", "Jeff Smith"],
-        "image": "comics/comics_8.jpg",
+        "image": "productimage/comics/comics_8.jpg",
         "ratings": {
           "average": 4.9,
           "count": 200
@@ -9819,7 +9819,7 @@
         "category": "Comics",
         "stock": 80,
         "tags": ["supernatural", "graphic novel", "Garth Ennis"],
-        "image": "comics/comics_9.jpg",
+        "image": "productimage/comics/comics_9.jpg",
         "ratings": {
           "average": 4.6,
           "count": 180
@@ -9851,7 +9851,7 @@
         "category": "Comics",
         "stock": 70,
         "tags": ["horror", "graphic novel", "Alan Moore"],
-        "image": "comics/comics_10.jpg",
+        "image": "productimage/comics/comics_10.jpg",
         "ratings": {
           "average": 4.7,
           "count": 170
@@ -9883,7 +9883,7 @@
         "category": "Comics",
         "stock": 60,
         "tags": ["fantasy", "graphic novel", "Bill Willingham"],
-        "image": "comics/comics_11.jpg",
+        "image": "productimage/comics/comics_11.jpg",
         "ratings": {
           "average": 4.8,
           "count": 160
@@ -9915,7 +9915,7 @@
         "category": "Comics",
         "stock": 50,
         "tags": ["horror", "fantasy", "Joe Hill"],
-        "image": "comics/comics_12.jpg",
+        "image": "productimage/comics/comics_12.jpg",
         "ratings": {
           "average": 4.9,
           "count": 150
@@ -9947,7 +9947,7 @@
         "category": "Comics",
         "stock": 40,
         "tags": ["science fiction", "satire", "Warren Ellis"],
-        "image": "comics/comics_13.jpg",
+        "image": "productimage/comics/comics_13.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -9979,7 +9979,7 @@
         "category": "Comics",
         "stock": 30,
         "tags": ["fantasy", "graphic novel", "Jeff Smith"],
-        "image": "comics/comics_14.jpg",
+        "image": "productimage/comics/comics_14.jpg",
         "ratings": {
           "average": 4.8,
           "count": 130
@@ -10011,7 +10011,7 @@
         "category": "Comics",
         "stock": 25,
         "tags": ["fantasy", "graphic novel", "Neil Gaiman"],
-        "image": "comics/comics_15.jpg",
+        "image": "productimage/comics/comics_15.jpg",
         "ratings": {
           "average": 4.9,
           "count": 120
@@ -10045,7 +10045,7 @@
         "category": "Cookbooks",
         "stock": 100,
         "tags": ["American cuisine", "classic", "recipes"],
-        "image": "cookbooks/cookbooks_1.jpg",
+        "image": "productimage/cookbooks/cookbooks_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 200
@@ -10077,7 +10077,7 @@
         "category": "Cookbooks",
         "stock": 80,
         "tags": ["French cuisine", "Julia Child", "classic"],
-        "image": "cookbooks/cookbooks_2.jpg",
+        "image": "productimage/cookbooks/cookbooks_2.jpg",
         "ratings": {
           "average": 4.9,
           "count": 180
@@ -10109,7 +10109,7 @@
         "category": "Cookbooks",
         "stock": 90,
         "tags": ["comprehensive", "recipes", "techniques"],
-        "image": "cookbooks/cookbooks_3.jpg",
+        "image": "productimage/cookbooks/cookbooks_3.jpg",
         "ratings": {
           "average": 4.7,
           "count": 210
@@ -10141,7 +10141,7 @@
         "category": "Cookbooks",
         "stock": 70,
         "tags": ["ranch cuisine", "family recipes", "Ree Drummond"],
-        "image": "cookbooks/cookbooks_4.jpg",
+        "image": "productimage/cookbooks/cookbooks_4.jpg",
         "ratings": {
           "average": 4.6,
           "count": 170
@@ -10173,7 +10173,7 @@
         "category": "Cookbooks",
         "stock": 60,
         "tags": ["vegan", "bold flavors", "Thug Kitchen"],
-        "image": "cookbooks/cookbooks_5.jpg",
+        "image": "productimage/cookbooks/cookbooks_5.jpg",
         "ratings": {
           "average": 4.5,
           "count": 160
@@ -10205,7 +10205,7 @@
         "category": "Cookbooks",
         "stock": 100,
         "tags": ["cooking techniques", "Samin Nosrat", "essential elements"],
-        "image": "cookbooks/cookbooks_6.jpg",
+        "image": "productimage/cookbooks/cookbooks_6.jpg",
         "ratings": {
           "average": 4.4,
           "count": 140
@@ -10237,7 +10237,7 @@
         "category": "Cookbooks",
         "stock": 50,
         "tags": ["comfort food", "Ina Garten", "home cooking"],
-        "image": "cookbooks/cookbooks_7.jpg",
+        "image": "productimage/cookbooks/cookbooks_7.jpg",
         "ratings": {
           "average": 4.7,
           "count": 150
@@ -10269,7 +10269,7 @@
         "category": "Cookbooks",
         "stock": 90,
         "tags": ["approachable", "inventive", "Deb Perelman"],
-        "image": "cookbooks/cookbooks_8.jpg",
+        "image": "productimage/cookbooks/cookbooks_8.jpg",
         "ratings": {
           "average": 4.9,
           "count": 200
@@ -10301,7 +10301,7 @@
         "category": "Cookbooks",
         "stock": 80,
         "tags": ["comfort food", "Jamie Oliver", "recipes"],
-        "image": "cookbooks/cookbooks_9.jpg",
+        "image": "productimage/cookbooks/cookbooks_9.jpg",
         "ratings": {
           "average": 4.8,
           "count": 190
@@ -10333,7 +10333,7 @@
         "category": "Cookbooks",
         "stock": 70,
         "tags": ["Mediterranean cuisine", "comprehensive", "recipes"],
-        "image": "cookbooks/cookbooks_10.jpg",
+        "image": "productimage/cookbooks/cookbooks_10.jpg",
         "ratings": {
           "average": 4.7,
           "count": 180
@@ -10365,7 +10365,7 @@
         "category": "Cookbooks",
         "stock": 60,
         "tags": ["Italian cuisine", "simple recipes", "Giada De Laurentiis"],
-        "image": "cookbooks/cookbooks_11.jpg",
+        "image": "productimage/cookbooks/cookbooks_11.jpg",
         "ratings": {
           "average": 4.8,
           "count": 170
@@ -10397,7 +10397,7 @@
         "category": "Cookbooks",
         "stock": 50,
         "tags": ["America's Test Kitchen", "comprehensive", "recipes"],
-        "image": "cookbooks/cookbooks_12.jpg",
+        "image": "productimage/cookbooks/cookbooks_12.jpg",
         "ratings": {
           "average": 4.9,
           "count": 160
@@ -10429,7 +10429,7 @@
         "category": "Cookbooks",
         "stock": 40,
         "tags": ["vegetarian", "vibrant flavors", "Yotam Ottolenghi"],
-        "image": "cookbooks/cookbooks_13.jpg",
+        "image": "productimage/cookbooks/cookbooks_13.jpg",
         "ratings": {
           "average": 4.7,
           "count": 150
@@ -10461,7 +10461,7 @@
         "category": "Cookbooks",
         "stock": 30,
         "tags": ["cooking science", "J. Kenji López-Alt", "better cooking"],
-        "image": "cookbooks/cookbooks_14.jpg",
+        "image": "productimage/cookbooks/cookbooks_14.jpg",
         "ratings": {
           "average": 4.8,
           "count": 140
@@ -10493,7 +10493,7 @@
         "category": "Cookbooks",
         "stock": 25,
         "tags": ["Ina Garten", "favorite recipes", "entertaining tips"],
-        "image": "cookbooks/cookbooks_15.jpg",
+        "image": "productimage/cookbooks/cookbooks_15.jpg",
         "ratings": {
           "average": 4.9,
           "count": 130
@@ -10527,7 +10527,7 @@
         "category": "Programming",
         "stock": 100,
         "tags": ["Python", "beginner", "programming"],
-        "image": "ebooks/ebooks_1.jpg",
+        "image": "productimage/ebooks/ebooks_1.jpg",
         "ratings": {
           "average": 4.5,
           "count": 150
@@ -10559,7 +10559,7 @@
         "category": "Machine Learning",
         "stock": 80,
         "tags": ["machine learning", "beginner", "algorithms"],
-        "image": "ebooks/ebooks_2.jpg",
+        "image": "productimage/ebooks/ebooks_2.jpg",
         "ratings": {
           "average": 4.8,
           "count": 130
@@ -10591,7 +10591,7 @@
         "category": "Programming",
         "stock": 90,
         "tags": ["data structures", "algorithms", "programming"],
-        "image": "ebooks/ebooks_3.jpg",
+        "image": "productimage/ebooks/ebooks_3.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -10623,7 +10623,7 @@
         "category": "Web Development",
         "stock": 70,
         "tags": ["web development", "beginner", "HTML", "CSS", "JavaScript"],
-        "image": "ebooks/ebooks_4.jpg",
+        "image": "productimage/ebooks/ebooks_4.jpg",
         "ratings": {
           "average": 4.6,
           "count": 120
@@ -10655,7 +10655,7 @@
         "category": "Cybersecurity",
         "stock": 60,
         "tags": ["cybersecurity", "beginner", "security"],
-        "image": "ebooks/ebooks_5.jpg",
+        "image": "productimage/ebooks/ebooks_5.jpg",
         "ratings": {
           "average": 4.5,
           "count": 110
@@ -10687,7 +10687,7 @@
         "category": "Artificial Intelligence",
         "stock": 100,
         "tags": ["artificial intelligence", "beginner", "AI"],
-        "image": "ebooks/ebooks_6.jpg",
+        "image": "productimage/ebooks/ebooks_6.jpg",
         "ratings": {
           "average": 4.4,
           "count": 100
@@ -10719,7 +10719,7 @@
         "category": "Programming",
         "stock": 80,
         "tags": ["Java", "beginner", "programming"],
-        "image": "ebooks/ebooks_7.jpg",
+        "image": "productimage/ebooks/ebooks_7.jpg",
         "ratings": {
           "average": 4.7,
           "count": 90
@@ -10751,7 +10751,7 @@
         "category": "Data Science",
         "stock": 70,
         "tags": ["data science", "beginner", "analytics"],
-        "image": "ebooks/ebooks_8.jpg",
+        "image": "productimage/ebooks/ebooks_8.jpg",
         "ratings": {
           "average": 4.8,
           "count": 80
@@ -10783,7 +10783,7 @@
         "category": "Blockchain",
         "stock": 60,
         "tags": ["blockchain", "beginner", "technology"],
-        "image": "ebooks/ebooks_9.jpg",
+        "image": "productimage/ebooks/ebooks_9.jpg",
         "ratings": {
           "average": 4.6,
           "count": 70
@@ -10815,7 +10815,7 @@
         "category": "App Development",
         "stock": 50,
         "tags": ["iOS", "Swift", "beginner", "app development"],
-        "image": "ebooks/ebooks_10.jpg",
+        "image": "productimage/ebooks/ebooks_10.jpg",
         "ratings": {
           "average": 4.5,
           "count": 60
@@ -10847,7 +10847,7 @@
         "category": "App Development",
         "stock": 40,
         "tags": ["Android", "app development", "beginner"],
-        "image": "ebooks/ebooks_11.jpg",
+        "image": "productimage/ebooks/ebooks_11.jpg",
         "ratings": {
           "average": 4.4,
           "count": 50
@@ -10879,7 +10879,7 @@
         "category": "Cloud Computing",
         "stock": 30,
         "tags": ["cloud computing", "beginner", "AWS", "Azure", "Google Cloud"],
-        "image": "ebooks/ebooks_12.jpg",
+        "image": "productimage/ebooks/ebooks_12.jpg",
         "ratings": {
           "average": 4.3,
           "count": 40
@@ -10911,7 +10911,7 @@
         "category": "Big Data",
         "stock": 20,
         "tags": ["big data", "analytics", "data science"],
-        "image": "ebooks/ebooks_13.jpg",
+        "image": "productimage/ebooks/ebooks_13.jpg",
         "ratings": {
           "average": 4.2,
           "count": 30
@@ -10943,7 +10943,7 @@
         "category": "Digital Marketing",
         "stock": 10,
         "tags": ["digital marketing", "beginner", "SEO", "social media"],
-        "image": "ebooks/ebooks_14.jpg",
+        "image": "productimage/ebooks/ebooks_14.jpg",
         "ratings": {
           "average": 4.1,
           "count": 20
@@ -10975,7 +10975,7 @@
         "category": "UX Design",
         "stock": 5,
         "tags": ["UX design", "design principles", "user experience"],
-        "image": "ebooks/ebooks_15.jpg",
+        "image": "productimage/ebooks/ebooks_15.jpg",
         "ratings": {
           "average": 4.0,
           "count": 10
@@ -11009,7 +11009,7 @@
         "category": "Graphic Novels",
         "stock": 100,
         "tags": ["superheroes", "alternate history", "complex themes"],
-        "image": "graphic_novels/graphic+novels_1.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 200
@@ -11041,7 +11041,7 @@
         "category": "Graphic Novels",
         "stock": 80,
         "tags": ["Holocaust", "Pulitzer Prize", "historical"],
-        "image": "graphic_novels/graphic+novels_2.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_2.jpg",
         "ratings": {
           "average": 4.9,
           "count": 180
@@ -11073,7 +11073,7 @@
         "category": "Graphic Novels",
         "stock": 90,
         "tags": ["Neil Gaiman", "mythology", "fantasy", "horror"],
-        "image": "graphic_novels/graphic+novels_3.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_3.jpg",
         "ratings": {
           "average": 4.7,
           "count": 210
@@ -11105,7 +11105,7 @@
         "category": "Graphic Novels",
         "stock": 70,
         "tags": ["space opera", "fantasy", "science fiction"],
-        "image": "graphic_novels/graphic+novels_4.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_4.jpg",
         "ratings": {
           "average": 4.6,
           "count": 170
@@ -11137,7 +11137,7 @@
         "category": "Graphic Novels",
         "stock": 60,
         "tags": ["Batman", "Joker", "origin story"],
-        "image": "graphic_novels/graphic+novels_5.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_5.jpg",
         "ratings": {
           "average": 4.5,
           "count": 160
@@ -11169,7 +11169,7 @@
         "category": "Graphic Novels",
         "stock": 100,
         "tags": ["autobiography", "Iran", "cultural revolution"],
-        "image": "graphic_novels/graphic+novels_6.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_6.jpg",
         "ratings": {
           "average": 4.4,
           "count": 140
@@ -11201,7 +11201,7 @@
         "category": "Graphic Novels",
         "stock": 50,
         "tags": ["post-apocalyptic", "science fiction", "gender"],
-        "image": "graphic_novels/graphic+novels_7.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_7.jpg",
         "ratings": {
           "average": 4.7,
           "count": 150
@@ -11233,7 +11233,7 @@
         "category": "Graphic Novels",
         "stock": 90,
         "tags": ["autobiography", "family", "coming-of-age"],
-        "image": "graphic_novels/graphic+novels_8.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_8.jpg",
         "ratings": {
           "average": 4.9,
           "count": 200
@@ -11265,7 +11265,7 @@
         "category": "Graphic Novels",
         "stock": 80,
         "tags": ["Swamp Thing", "Alan Moore", "horror", "philosophical"],
-        "image": "graphic_novels/graphic+novels_9.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_9.jpg",
         "ratings": {
           "average": 4.8,
           "count": 190
@@ -11297,7 +11297,7 @@
         "category": "Graphic Novels",
         "stock": 70,
         "tags": ["fairy tales", "fantasy", "modern-day"],
-        "image": "graphic_novels/graphic+novels_10.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_10.jpg",
         "ratings": {
           "average": 4.7,
           "count": 180
@@ -11329,7 +11329,7 @@
         "category": "Graphic Novels",
         "stock": 60,
         "tags": ["supernatural", "religion", "dark humor"],
-        "image": "graphic_novels/graphic+novels_11.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_11.jpg",
         "ratings": {
           "average": 4.6,
           "count": 170
@@ -11361,7 +11361,7 @@
         "category": "Graphic Novels",
         "stock": 50,
         "tags": ["zombies", "post-apocalyptic", "survival"],
-        "image": "graphic_novels/graphic+novels_12.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_12.jpg",
         "ratings": {
           "average": 4.5,
           "count": 160
@@ -11393,7 +11393,7 @@
         "category": "Graphic Novels",
         "stock": 40,
         "tags": ["dystopian", "vigilante", "totalitarianism"],
-        "image": "graphic_novels/graphic+novels_13.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_13.jpg",
         "ratings": {
           "average": 4.4,
           "count": 150
@@ -11425,7 +11425,7 @@
         "category": "Graphic Novels",
         "stock": 30,
         "tags": ["supernatural", "occult", "demon"],
-        "image": "graphic_novels/graphic+novels_14.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_14.jpg",
         "ratings": {
           "average": 4.3,
           "count": 140
@@ -11457,7 +11457,7 @@
         "category": "Graphic Novels",
         "stock": 20,
         "tags": ["supernatural", "horror", "magic"],
-        "image": "graphic_novels/graphic+novels_15.jpg",
+        "image": "productimage/graphic_novels/graphic+novels_15.jpg",
         "ratings": {
           "average": 4.2,
           "count": 130
@@ -11491,7 +11491,7 @@
         "category": "Journals",
         "stock": 100,
         "tags": ["leather", "handcrafted", "refillable"],
-        "image": "journals/journals_1.jpg",
+        "image": "productimage/journals/journals_1.jpg",
         "ratings": {
           "average": 4.9,
           "count": 200
@@ -11523,7 +11523,7 @@
         "category": "Journals",
         "stock": 90,
         "tags": ["vintage", "floral", "elegant"],
-        "image": "journals/journals_2.jpg",
+        "image": "productimage/journals/journals_2.jpg",
         "ratings": {
           "average": 4.8,
           "count": 190
@@ -11555,7 +11555,7 @@
         "category": "Journals",
         "stock": 80,
         "tags": ["bullet journal", "dot-grid", "planning"],
-        "image": "journals/journals_3.jpg",
+        "image": "productimage/journals/journals_3.jpg",
         "ratings": {
           "average": 4.7,
           "count": 180
@@ -11587,7 +11587,7 @@
         "category": "Journals",
         "stock": 70,
         "tags": ["travel", "world map", "compact"],
-        "image": "journals/journals_4.jpg",
+        "image": "productimage/journals/journals_4.jpg",
         "ratings": {
           "average": 4.6,
           "count": 170
@@ -11619,7 +11619,7 @@
         "category": "Journals",
         "stock": 60,
         "tags": ["sketchbook", "art", "premium"],
-        "image": "journals/journals_5.jpg",
+        "image": "productimage/journals/journals_5.jpg",
         "ratings": {
           "average": 4.5,
           "count": 160
@@ -11651,7 +11651,7 @@
         "category": "Journals",
         "stock": 50,
         "tags": ["personalized", "customizable", "gift"],
-        "image": "journals/journals_6.jpg",
+        "image": "productimage/journals/journals_6.jpg",
         "ratings": {
           "average": 4.4,
           "count": 150
@@ -11683,7 +11683,7 @@
         "category": "Journals",
         "stock": 40,
         "tags": ["minimalist", "matte finish", "professional"],
-        "image": "journals/journals_7.jpg",
+        "image": "productimage/journals/journals_7.jpg",
         "ratings": {
           "average": 4.3,
           "count": 140
@@ -11715,7 +11715,7 @@
         "category": "Journals",
         "stock": 30,
         "tags": ["nature", "eco-friendly", "environmental"],
-        "image": "journals/journals_8.jpg",
+        "image": "productimage/journals/journals_8.jpg",
         "ratings": {
           "average": 4.2,
           "count": 130
@@ -11747,7 +11747,7 @@
         "category": "Journals",
         "stock": 25,
         "tags": ["hardcover", "classic", "lined pages"],
-        "image": "journals/journals_9.jpg",
+        "image": "productimage/journals/journals_9.jpg",
         "ratings": {
           "average": 4.1,
           "count": 120
@@ -11779,7 +11779,7 @@
         "category": "Journals",
         "stock": 20,
         "tags": ["luxury", "silk", "gold-trimmed"],
-        "image": "journals/journals_10.jpg",
+        "image": "productimage/journals/journals_10.jpg",
         "ratings": {
           "average": 4.0,
           "count": 110
@@ -11811,7 +11811,7 @@
         "category": "Journals",
         "stock": 18,
         "tags": ["gratitude", "mindfulness", "guided"],
-        "image": "journals/journals_11.jpg",
+        "image": "productimage/journals/journals_11.jpg",
         "ratings": {
           "average": 4.9,
           "count": 195
@@ -11843,7 +11843,7 @@
         "category": "Journals",
         "stock": 15,
         "tags": ["fitness", "workout tracking", "motivational"],
-        "image": "journals/journals_12.jpg",
+        "image": "productimage/journals/journals_12.jpg",
         "ratings": {
           "average": 4.8,
           "count": 185
@@ -11875,7 +11875,7 @@
         "category": "Journals",
         "stock": 12,
         "tags": ["recipes", "cooking", "culinary"],
-        "image": "journals/journals_13.jpg",
+        "image": "productimage/journals/journals_13.jpg",
         "ratings": {
           "average": 4.7,
           "count": 175
@@ -11907,7 +11907,7 @@
         "category": "Journals",
         "stock": 10,
         "tags": ["dreams", "subconscious", "reflection"],
-        "image": "journals/journals_14.jpg",
+        "image": "productimage/journals/journals_14.jpg",
         "ratings": {
           "average": 4.6,
           "count": 165
@@ -11939,7 +11939,7 @@
         "category": "Journals",
         "stock": 8,
         "tags": ["family", "memories", "keepsake"],
-        "image": "journals/journals_15.jpg",
+        "image": "productimage/journals/journals_15.jpg",
         "ratings": {
           "average": 4.5,
           "count": 155
@@ -11973,7 +11973,7 @@
         "category": "Magazines",
         "stock": 200,
         "tags": ["nature", "science", "adventure"],
-        "image": "magazines/magazines_1.jpg",
+        "image": "productimage/magazines/magazines_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 150
@@ -12005,7 +12005,7 @@
         "category": "Magazines",
         "stock": 180,
         "tags": ["news", "current events", "analysis"],
-        "image": "magazines/magazines_2.jpg",
+        "image": "productimage/magazines/magazines_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -12037,7 +12037,7 @@
         "category": "Magazines",
         "stock": 160,
         "tags": ["sports", "athlete profiles", "analysis"],
-        "image": "magazines/magazines_3.jpg",
+        "image": "productimage/magazines/magazines_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 130
@@ -12069,7 +12069,7 @@
         "category": "Magazines",
         "stock": 140,
         "tags": ["fashion", "beauty", "celebrity style"],
-        "image": "magazines/magazines_4.jpg",
+        "image": "productimage/magazines/magazines_4.jpg",
         "ratings": {
           "average": 4.5,
           "count": 120
@@ -12101,7 +12101,7 @@
         "category": "Magazines",
         "stock": 120,
         "tags": ["technology", "innovation", "culture"],
-        "image": "magazines/magazines_5.jpg",
+        "image": "productimage/magazines/magazines_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 110
@@ -12133,7 +12133,7 @@
         "category": "Magazines",
         "stock": 100,
         "tags": ["entertainment", "celebrity interviews", "reviews"],
-        "image": "magazines/magazines_6.jpg",
+        "image": "productimage/magazines/magazines_6.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -12165,7 +12165,7 @@
         "category": "Magazines",
         "stock": 90,
         "tags": ["economics", "international news", "politics"],
-        "image": "magazines/magazines_7.jpg",
+        "image": "productimage/magazines/magazines_7.jpg",
         "ratings": {
           "average": 4.2,
           "count": 90
@@ -12197,7 +12197,7 @@
         "category": "Magazines",
         "stock": 80,
         "tags": ["architecture", "interior design", "homes"],
-        "image": "magazines/magazines_8.jpg",
+        "image": "productimage/magazines/magazines_8.jpg",
         "ratings": {
           "average": 4.1,
           "count": 80
@@ -12229,7 +12229,7 @@
         "category": "Magazines",
         "stock": 70,
         "tags": ["fashion", "beauty", "relationships"],
-        "image": "magazines/magazines_9.jpg",
+        "image": "productimage/magazines/magazines_9.jpg",
         "ratings": {
           "average": 4.0,
           "count": 70
@@ -12261,7 +12261,7 @@
         "category": "Magazines",
         "stock": 60,
         "tags": ["men's fashion", "grooming", "lifestyle"],
-        "image": "magazines/magazines_10.jpg",
+        "image": "productimage/magazines/magazines_10.jpg",
         "ratings": {
           "average": 4.5,
           "count": 60
@@ -12293,7 +12293,7 @@
         "category": "Magazines",
         "stock": 50,
         "tags": ["business news", "financial markets", "investment"],
-        "image": "magazines/magazines_11.jpg",
+        "image": "productimage/magazines/magazines_11.jpg",
         "ratings": {
           "average": 4.4,
           "count": 50
@@ -12325,7 +12325,7 @@
         "category": "Magazines",
         "stock": 40,
         "tags": ["inspiring stories", "health tips", "advice"],
-        "image": "magazines/magazines_12.jpg",
+        "image": "productimage/magazines/magazines_12.jpg",
         "ratings": {
           "average": 4.3,
           "count": 40
@@ -12357,7 +12357,7 @@
         "category": "Magazines",
         "stock": 30,
         "tags": ["science", "technology", "medicine"],
-        "image": "magazines/magazines_13.jpg",
+        "image": "productimage/magazines/magazines_13.jpg",
         "ratings": {
           "average": 4.2,
           "count": 30
@@ -12389,7 +12389,7 @@
         "category": "Magazines",
         "stock": 20,
         "tags": ["food", "wine", "culinary"],
-        "image": "magazines/magazines_14.jpg",
+        "image": "productimage/magazines/magazines_14.jpg",
         "ratings": {
           "average": 4.1,
           "count": 20
@@ -12421,7 +12421,7 @@
         "category": "Magazines",
         "stock": 10,
         "tags": ["science", "technology", "automotive"],
-        "image": "magazines/magazines_15.jpg",
+        "image": "productimage/magazines/magazines_15.jpg",
         "ratings": {
           "average": 4.0,
           "count": 10
@@ -12455,7 +12455,7 @@
         "category": "Textbooks",
         "stock": 150,
         "tags": ["psychology", "introduction", "research methods"],
-        "image": "textbooks/textbooks_1.jpg",
+        "image": "productimage/textbooks/textbooks_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 200
@@ -12487,7 +12487,7 @@
         "category": "Textbooks",
         "stock": 140,
         "tags": ["economics", "microeconomics", "macroeconomics"],
-        "image": "textbooks/textbooks_2.jpg",
+        "image": "productimage/textbooks/textbooks_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 190
@@ -12519,7 +12519,7 @@
         "category": "Textbooks",
         "stock": 130,
         "tags": ["organic chemistry", "chemistry", "reactions"],
-        "image": "textbooks/textbooks_3.jpg",
+        "image": "productimage/textbooks/textbooks_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 180
@@ -12551,7 +12551,7 @@
         "category": "Textbooks",
         "stock": 120,
         "tags": ["calculus", "differentiation", "integration"],
-        "image": "textbooks/textbooks_4.jpg",
+        "image": "productimage/textbooks/textbooks_4.jpg",
         "ratings": {
           "average": 4.5,
           "count": 170
@@ -12583,7 +12583,7 @@
         "category": "Textbooks",
         "stock": 110,
         "tags": ["sociology", "sociological concepts", "contemporary society"],
-        "image": "textbooks/textbooks_5.jpg",
+        "image": "productimage/textbooks/textbooks_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 160
@@ -12615,7 +12615,7 @@
         "category": "Textbooks",
         "stock": 100,
         "tags": ["nursing", "nursing principles", "healthcare"],
-        "image": "textbooks/textbooks_6.jpg",
+        "image": "productimage/textbooks/textbooks_6.jpg",
         "ratings": {
           "average": 4.3,
           "count": 150
@@ -12647,7 +12647,7 @@
         "category": "Textbooks",
         "stock": 90,
         "tags": ["marketing", "management", "business"],
-        "image": "textbooks/textbooks_7.jpg",
+        "image": "productimage/textbooks/textbooks_7.jpg",
         "ratings": {
           "average": 4.2,
           "count": 140
@@ -12679,7 +12679,7 @@
         "category": "Textbooks",
         "stock": 80,
         "tags": ["computer networks", "networking", "protocols"],
-        "image": "textbooks/textbooks_8.jpg",
+        "image": "productimage/textbooks/textbooks_8.jpg",
         "ratings": {
           "average": 4.1,
           "count": 130
@@ -12711,7 +12711,7 @@
         "category": "Textbooks",
         "stock": 70,
         "tags": ["anatomy", "physiology", "clinical applications"],
-        "image": "textbooks/textbooks_9.jpg",
+        "image": "productimage/textbooks/textbooks_9.jpg",
         "ratings": {
           "average": 4.0,
           "count": 120
@@ -12743,7 +12743,7 @@
         "category": "Textbooks",
         "stock": 60,
         "tags": ["business law", "contracts", "legal implications"],
-        "image": "textbooks/textbooks_10.jpg",
+        "image": "productimage/textbooks/textbooks_10.jpg",
         "ratings": {
           "average": 3.9,
           "count": 110
@@ -12775,7 +12775,7 @@
         "category": "Textbooks",
         "stock": 50,
         "tags": ["environmental science", "sustainability", "ecosystems"],
-        "image": "textbooks/textbooks_11.jpg",
+        "image": "productimage/textbooks/textbooks_11.jpg",
         "ratings": {
           "average": 3.8,
           "count": 100
@@ -12807,7 +12807,7 @@
         "category": "Textbooks",
         "stock": 40,
         "tags": ["digital marketing", "social media", "online marketing"],
-        "image": "textbooks/textbooks_12.jpg",
+        "image": "productimage/textbooks/textbooks_12.jpg",
         "ratings": {
           "average": 3.7,
           "count": 90
@@ -12839,7 +12839,7 @@
         "category": "Textbooks",
         "stock": 30,
         "tags": ["operations management", "logistics", "supply chain"],
-        "image": "textbooks/textbooks_13.jpg",
+        "image": "productimage/textbooks/textbooks_13.jpg",
         "ratings": {
           "average": 3.6,
           "count": 80
@@ -12875,7 +12875,7 @@
           "employee relations",
           "HR strategies"
         ],
-        "image": "textbooks/textbooks_14.jpg",
+        "image": "productimage/textbooks/textbooks_14.jpg",
         "ratings": {
           "average": 3.5,
           "count": 70
@@ -12911,7 +12911,7 @@
           "speech preparation",
           "delivery strategies"
         ],
-        "image": "textbooks/textbooks_15.jpg",
+        "image": "productimage/textbooks/textbooks_15.jpg",
         "ratings": {
           "average": 3.4,
           "count": 60
@@ -12947,7 +12947,7 @@
         "category": "Headphones",
         "stock": 100,
         "tags": ["noise-cancelling", "comfortable", "high-quality"],
-        "image": "headphones/headphones_1.jpg",
+        "image": "productimage/headphones/headphones_1.jpg",
         "ratings": {
           "average": 4.7,
           "count": 150
@@ -12979,7 +12979,7 @@
         "category": "Headphones",
         "stock": 150,
         "tags": ["wireless", "compact", "excellent sound"],
-        "image": "headphones/headphones_2.jpg",
+        "image": "productimage/headphones/headphones_2.jpg",
         "ratings": {
           "average": 4.5,
           "count": 180
@@ -13011,7 +13011,7 @@
         "category": "Headphones",
         "stock": 90,
         "tags": ["over-ear", "comfortable", "superior sound"],
-        "image": "headphones/headphones_3.jpg",
+        "image": "productimage/headphones/headphones_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 140
@@ -13043,7 +13043,7 @@
         "category": "Headphones",
         "stock": 70,
         "tags": ["gaming", "surround sound", "built-in microphone"],
-        "image": "headphones/headphones_4.jpg",
+        "image": "productimage/headphones/headphones_4.jpg",
         "ratings": {
           "average": 4.8,
           "count": 200
@@ -13075,7 +13075,7 @@
         "category": "Headphones",
         "stock": 120,
         "tags": ["sports", "sweat-resistant", "secure fit"],
-        "image": "headphones/headphones_5.jpg",
+        "image": "productimage/headphones/headphones_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 130
@@ -13107,7 +13107,7 @@
         "category": "Headphones",
         "stock": 50,
         "tags": ["studio", "professional", "accurate sound"],
-        "image": "headphones/headphones_6.jpg",
+        "image": "productimage/headphones/headphones_6.jpg",
         "ratings": {
           "average": 4.9,
           "count": 220
@@ -13139,7 +13139,7 @@
         "category": "Headphones",
         "stock": 100,
         "tags": ["wireless", "over-ear", "long battery life"],
-        "image": "headphones/headphones_7.jpg",
+        "image": "productimage/headphones/headphones_7.jpg",
         "ratings": {
           "average": 4.5,
           "count": 180
@@ -13171,7 +13171,7 @@
         "category": "Headphones",
         "stock": 80,
         "tags": ["bone conduction", "safe", "outdoor"],
-        "image": "headphones/headphones_8.jpg",
+        "image": "productimage/headphones/headphones_8.jpg",
         "ratings": {
           "average": 4.4,
           "count": 160
@@ -13203,7 +13203,7 @@
         "category": "Headphones",
         "stock": 200,
         "tags": ["kids", "durable", "volume-limited"],
-        "image": "headphones/headphones_9.jpg",
+        "image": "productimage/headphones/headphones_9.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -13235,7 +13235,7 @@
         "category": "Headphones",
         "stock": 150,
         "tags": ["Bluetooth", "versatile", "great connectivity"],
-        "image": "headphones/headphones_10.jpg",
+        "image": "productimage/headphones/headphones_10.jpg",
         "ratings": {
           "average": 4.5,
           "count": 190
@@ -13267,7 +13267,7 @@
         "category": "Headphones",
         "stock": 30,
         "tags": ["luxury", "premium", "superior sound"],
-        "image": "headphones/headphones_11.jpg",
+        "image": "productimage/headphones/headphones_11.jpg",
         "ratings": {
           "average": 4.7,
           "count": 100
@@ -13299,7 +13299,7 @@
         "category": "Headphones",
         "stock": 80,
         "tags": ["travel", "compact", "foldable"],
-        "image": "headphones/headphones_12.jpg",
+        "image": "productimage/headphones/headphones_12.jpg",
         "ratings": {
           "average": 4.4,
           "count": 140
@@ -13331,7 +13331,7 @@
         "category": "Headphones",
         "stock": 100,
         "tags": ["bass boost", "dynamic sound", "enhanced bass"],
-        "image": "headphones/headphones_13.jpg",
+        "image": "productimage/headphones/headphones_13.jpg",
         "ratings": {
           "average": 4.6,
           "count": 150
@@ -13363,7 +13363,7 @@
         "category": "Headphones",
         "stock": 200,
         "tags": ["wired", "classic", "durable"],
-        "image": "headphones/headphones_14.jpg",
+        "image": "productimage/headphones/headphones_14.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -13395,7 +13395,7 @@
         "category": "Headphones",
         "stock": 20,
         "tags": ["high-fidelity", "premium", "audiophiles"],
-        "image": "headphones/headphones_15.jpg",
+        "image": "productimage/headphones/headphones_15.jpg",
         "ratings": {
           "average": 4.9,
           "count": 80
@@ -13429,7 +13429,7 @@
         "category": "Laptops",
         "stock": 50,
         "tags": ["gaming", "high-performance", "powerful graphics"],
-        "image": "laptops/laptops_1.jpg",
+        "image": "productimage/laptops/laptops_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 200
@@ -13461,7 +13461,7 @@
         "category": "Laptops",
         "stock": 75,
         "tags": ["ultrabook", "lightweight", "long battery life"],
-        "image": "laptops/laptops_2.jpg",
+        "image": "productimage/laptops/laptops_2.jpg",
         "ratings": {
           "average": 4.6,
           "count": 180
@@ -13493,7 +13493,7 @@
         "category": "Laptops",
         "stock": 60,
         "tags": ["2-in-1", "touch screen", "detachable keyboard"],
-        "image": "laptops/laptops_3.jpg",
+        "image": "productimage/laptops/laptops_3.jpg",
         "ratings": {
           "average": 4.5,
           "count": 160
@@ -13525,7 +13525,7 @@
         "category": "Laptops",
         "stock": 40,
         "tags": ["business", "reliable", "security features"],
-        "image": "laptops/laptops_4.jpg",
+        "image": "productimage/laptops/laptops_4.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -13557,7 +13557,7 @@
         "category": "Laptops",
         "stock": 100,
         "tags": ["student", "affordable", "essential features"],
-        "image": "laptops/laptops_5.jpg",
+        "image": "productimage/laptops/laptops_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 130
@@ -13589,7 +13589,7 @@
         "category": "Laptops",
         "stock": 30,
         "tags": ["workstation", "high-performance", "advanced graphics"],
-        "image": "laptops/laptops_6.jpg",
+        "image": "productimage/laptops/laptops_6.jpg",
         "ratings": {
           "average": 4.9,
           "count": 220
@@ -13621,7 +13621,7 @@
         "category": "Laptops",
         "stock": 90,
         "tags": ["Chromebook", "lightweight", "easy-to-use"],
-        "image": "laptops/laptops_7.jpg",
+        "image": "productimage/laptops/laptops_7.jpg",
         "ratings": {
           "average": 4.5,
           "count": 180
@@ -13653,7 +13653,7 @@
         "category": "Laptops",
         "stock": 50,
         "tags": ["MacBook", "powerful", "sleek design"],
-        "image": "laptops/laptops_8.jpg",
+        "image": "productimage/laptops/laptops_8.jpg",
         "ratings": {
           "average": 4.8,
           "count": 200
@@ -13685,7 +13685,7 @@
         "category": "Laptops",
         "stock": 120,
         "tags": ["budget", "affordable", "essential features"],
-        "image": "laptops/laptops_9.jpg",
+        "image": "productimage/laptops/laptops_9.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -13717,7 +13717,7 @@
         "category": "Laptops",
         "stock": 25,
         "tags": ["high-end", "premium", "superior performance"],
-        "image": "laptops/laptops_10.jpg",
+        "image": "productimage/laptops/laptops_10.jpg",
         "ratings": {
           "average": 4.9,
           "count": 80
@@ -13749,7 +13749,7 @@
         "category": "Laptops",
         "stock": 60,
         "tags": ["convertible", "flexible", "touch screen"],
-        "image": "laptops/laptops_11.jpg",
+        "image": "productimage/laptops/laptops_11.jpg",
         "ratings": {
           "average": 4.5,
           "count": 150
@@ -13781,7 +13781,7 @@
         "category": "Laptops",
         "stock": 40,
         "tags": ["rugged", "durable", "tough environments"],
-        "image": "laptops/laptops_12.jpg",
+        "image": "productimage/laptops/laptops_12.jpg",
         "ratings": {
           "average": 4.6,
           "count": 140
@@ -13813,7 +13813,7 @@
         "category": "Laptops",
         "stock": 50,
         "tags": ["designer", "high-resolution display", "powerful"],
-        "image": "laptops/laptops_13.jpg",
+        "image": "productimage/laptops/laptops_13.jpg",
         "ratings": {
           "average": 4.8,
           "count": 200
@@ -13845,7 +13845,7 @@
         "category": "Laptops",
         "stock": 110,
         "tags": ["basic", "affordable", "everyday tasks"],
-        "image": "laptops/laptops_14.jpg",
+        "image": "productimage/laptops/laptops_14.jpg",
         "ratings": {
           "average": 4.2,
           "count": 90
@@ -13877,7 +13877,7 @@
         "category": "Laptops",
         "stock": 20,
         "tags": ["high-performance", "top-tier", "demanding tasks"],
-        "image": "laptops/laptops_15.jpg",
+        "image": "productimage/laptops/laptops_15.jpg",
         "ratings": {
           "average": 4.9,
           "count": 80
@@ -13911,7 +13911,7 @@
         "category": "Monitors",
         "stock": 50,
         "tags": ["gaming", "27-inch", "QHD", "HDR"],
-        "image": "monitors/monitors_1.jpg",
+        "image": "productimage/monitors/monitors_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 200
@@ -13943,7 +13943,7 @@
         "category": "Monitors",
         "stock": 30,
         "tags": ["4K", "32-inch", "professional", "color accuracy"],
-        "image": "monitors/monitors_2.jpg",
+        "image": "productimage/monitors/monitors_2.jpg",
         "ratings": {
           "average": 4.6,
           "count": 150
@@ -13975,7 +13975,7 @@
         "category": "Monitors",
         "stock": 40,
         "tags": ["ultrawide", "34-inch", "curved", "immersive"],
-        "image": "monitors/monitors_3.jpg",
+        "image": "productimage/monitors/monitors_3.jpg",
         "ratings": {
           "average": 4.4,
           "count": 180
@@ -14007,7 +14007,7 @@
         "category": "Monitors",
         "stock": 80,
         "tags": ["office", "24-inch", "adjustable stand", "energy-saving"],
-        "image": "monitors/monitors_4.jpg",
+        "image": "productimage/monitors/monitors_4.jpg",
         "ratings": {
           "average": 4.2,
           "count": 120
@@ -14039,7 +14039,7 @@
         "category": "Monitors",
         "stock": 60,
         "tags": ["ultrawide", "29-inch", "split-screen", "compact"],
-        "image": "monitors/monitors_5.jpg",
+        "image": "productimage/monitors/monitors_5.jpg",
         "ratings": {
           "average": 4.5,
           "count": 160
@@ -14071,7 +14071,7 @@
         "category": "Monitors",
         "stock": 70,
         "tags": ["4K", "27-inch", "HDR", "high-resolution"],
-        "image": "monitors/monitors_6.jpg",
+        "image": "productimage/monitors/monitors_6.jpg",
         "ratings": {
           "average": 4.0,
           "count": 100
@@ -14103,7 +14103,7 @@
         "category": "Monitors",
         "stock": 20,
         "tags": ["gaming", "23-inch", "Full HD", "fast response"],
-        "image": "monitors/monitors_7.jpg",
+        "image": "productimage/monitors/monitors_7.jpg",
         "ratings": {
           "average": 4.3,
           "count": 140
@@ -14135,7 +14135,7 @@
         "category": "Monitors",
         "stock": 85,
         "tags": ["office", "25-inch", "adjustable tilt", "slim"],
-        "image": "monitors/monitors_8.jpg",
+        "image": "productimage/monitors/monitors_8.jpg",
         "ratings": {
           "average": 4.5,
           "count": 180
@@ -14167,7 +14167,7 @@
         "category": "Monitors",
         "stock": 100,
         "tags": ["budget", "20-inch", "basic", "affordable"],
-        "image": "monitors/monitors_9.jpg",
+        "image": "productimage/monitors/monitors_9.jpg",
         "ratings": {
           "average": 3.9,
           "count": 90
@@ -14199,7 +14199,7 @@
         "category": "Monitors",
         "stock": 60,
         "tags": ["gaming", "28-inch", "4K", "high refresh rate"],
-        "image": "monitors/monitors_10.jpg",
+        "image": "productimage/monitors/monitors_10.jpg",
         "ratings": {
           "average": 4.7,
           "count": 170
@@ -14237,7 +14237,7 @@
           "photo editing",
           "video editing"
         ],
-        "image": "monitors/monitors_11.jpg",
+        "image": "productimage/monitors/monitors_11.jpg",
         "ratings": {
           "average": 4.9,
           "count": 220
@@ -14269,7 +14269,7 @@
         "category": "Monitors",
         "stock": 35,
         "tags": ["touchscreen", "22-inch", "interactive", "presentations"],
-        "image": "monitors/monitors_12.jpg",
+        "image": "productimage/monitors/monitors_12.jpg",
         "ratings": {
           "average": 4.5,
           "count": 180
@@ -14301,7 +14301,7 @@
         "category": "Monitors",
         "stock": 15,
         "tags": ["privacy", "21-inch", "privacy filter", "secure viewing"],
-        "image": "monitors/monitors_13.jpg",
+        "image": "productimage/monitors/monitors_13.jpg",
         "ratings": {
           "average": 4.2,
           "count": 140
@@ -14333,7 +14333,7 @@
         "category": "Monitors",
         "stock": 85,
         "tags": ["gaming", "25-inch", "curved", "AMD FreeSync"],
-        "image": "monitors/monitors_14.jpg",
+        "image": "productimage/monitors/monitors_14.jpg",
         "ratings": {
           "average": 4.6,
           "count": 160
@@ -14365,7 +14365,7 @@
         "category": "Monitors",
         "stock": 75,
         "tags": ["business", "23-inch", "ergonomic", "blue light filter"],
-        "image": "monitors/monitors_15.jpg",
+        "image": "productimage/monitors/monitors_15.jpg",
         "ratings": {
           "average": 4.4,
           "count": 170
@@ -14399,7 +14399,7 @@
         "category": "Cameras",
         "stock": 50,
         "tags": ["DSLR", "high-resolution", "professional"],
-        "image": "cameras/cameras_1.jpg",
+        "image": "productimage/cameras/cameras_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 200
@@ -14431,7 +14431,7 @@
         "category": "Cameras",
         "stock": 30,
         "tags": ["mirrorless", "4K video", "compact"],
-        "image": "cameras/cameras_2.jpg",
+        "image": "productimage/cameras/cameras_2.jpg",
         "ratings": {
           "average": 4.6,
           "count": 150
@@ -14463,7 +14463,7 @@
         "category": "Cameras",
         "stock": 100,
         "tags": ["action camera", "waterproof", "4K video"],
-        "image": "cameras/cameras_3.jpg",
+        "image": "productimage/cameras/cameras_3.jpg",
         "ratings": {
           "average": 4.4,
           "count": 180
@@ -14495,7 +14495,7 @@
         "category": "Cameras",
         "stock": 80,
         "tags": ["compact camera", "HD video", "lightweight"],
-        "image": "cameras/cameras_4.jpg",
+        "image": "productimage/cameras/cameras_4.jpg",
         "ratings": {
           "average": 4.2,
           "count": 120
@@ -14527,7 +14527,7 @@
         "category": "Cameras",
         "stock": 60,
         "tags": ["bridge camera", "powerful zoom", "versatile"],
-        "image": "cameras/cameras_5.jpg",
+        "image": "productimage/cameras/cameras_5.jpg",
         "ratings": {
           "average": 4.5,
           "count": 160
@@ -14559,7 +14559,7 @@
         "category": "Cameras",
         "stock": 40,
         "tags": ["instant camera", "film", "nostalgic"],
-        "image": "cameras/cameras_6.jpg",
+        "image": "productimage/cameras/cameras_6.jpg",
         "ratings": {
           "average": 4.0,
           "count": 100
@@ -14591,7 +14591,7 @@
         "category": "Cameras",
         "stock": 20,
         "tags": ["360-degree camera", "immersive", "compact"],
-        "image": "cameras/cameras_7.jpg",
+        "image": "productimage/cameras/cameras_7.jpg",
         "ratings": {
           "average": 4.3,
           "count": 140
@@ -14623,7 +14623,7 @@
         "category": "Cameras",
         "stock": 70,
         "tags": ["underwater camera", "waterproof", "rugged"],
-        "image": "cameras/cameras_8.jpg",
+        "image": "productimage/cameras/cameras_8.jpg",
         "ratings": {
           "average": 4.7,
           "count": 170
@@ -14655,7 +14655,7 @@
         "category": "Cameras",
         "stock": 90,
         "tags": ["film camera", "SLR", "manual controls"],
-        "image": "cameras/cameras_9.jpg",
+        "image": "productimage/cameras/cameras_9.jpg",
         "ratings": {
           "average": 4.1,
           "count": 130
@@ -14687,7 +14687,7 @@
         "category": "Cameras",
         "stock": 25,
         "tags": ["video camera", "professional", "filmmaking"],
-        "image": "cameras/cameras_10.jpg",
+        "image": "productimage/cameras/cameras_10.jpg",
         "ratings": {
           "average": 4.9,
           "count": 220
@@ -14719,7 +14719,7 @@
         "category": "Cameras",
         "stock": 35,
         "tags": ["drone camera", "4K video", "GPS"],
-        "image": "cameras/cameras_11.jpg",
+        "image": "productimage/cameras/cameras_11.jpg",
         "ratings": {
           "average": 4.7,
           "count": 190
@@ -14751,7 +14751,7 @@
         "category": "Cameras",
         "stock": 15,
         "tags": ["VR camera", "360-degree videos", "immersive"],
-        "image": "cameras/cameras_12.jpg",
+        "image": "productimage/cameras/cameras_12.jpg",
         "ratings": {
           "average": 4.6,
           "count": 160
@@ -14783,7 +14783,7 @@
         "category": "Cameras",
         "stock": 120,
         "tags": ["webcam", "HD", "video conferencing"],
-        "image": "cameras/cameras_13.jpg",
+        "image": "productimage/cameras/cameras_13.jpg",
         "ratings": {
           "average": 4.2,
           "count": 140
@@ -14815,7 +14815,7 @@
         "category": "Cameras",
         "stock": 85,
         "tags": ["security camera", "night vision", "motion detection"],
-        "image": "cameras/cameras_14.jpg",
+        "image": "productimage/cameras/cameras_14.jpg",
         "ratings": {
           "average": 4.5,
           "count": 180
@@ -14847,7 +14847,7 @@
         "category": "Cameras",
         "stock": 75,
         "tags": ["trail camera", "wildlife detection", "infrared night vision"],
-        "image": "cameras/cameras_15.jpg",
+        "image": "productimage/cameras/cameras_15.jpg",
         "ratings": {
           "average": 4.4,
           "count": 170
@@ -14881,7 +14881,7 @@
         "category": "Printers",
         "stock": 50,
         "tags": ["wireless", "all-in-one", "compact"],
-        "image": "printers/printers_1.jpg",
+        "image": "productimage/printers/printers_1.jpg",
         "ratings": {
           "average": 4.5,
           "count": 200
@@ -14913,7 +14913,7 @@
         "category": "Printers",
         "stock": 30,
         "tags": ["color laser", "high-speed", "office"],
-        "image": "printers/printers_2.jpg",
+        "image": "productimage/printers/printers_2.jpg",
         "ratings": {
           "average": 4.8,
           "count": 150
@@ -14945,7 +14945,7 @@
         "category": "Printers",
         "stock": 40,
         "tags": ["photo", "home", "specialized"],
-        "image": "printers/printers_3.jpg",
+        "image": "productimage/printers/printers_3.jpg",
         "ratings": {
           "average": 4.4,
           "count": 180
@@ -14977,7 +14977,7 @@
         "category": "Printers",
         "stock": 80,
         "tags": ["inkjet", "affordable", "everyday"],
-        "image": "printers/printers_4.jpg",
+        "image": "productimage/printers/printers_4.jpg",
         "ratings": {
           "average": 4.2,
           "count": 120
@@ -15009,7 +15009,7 @@
         "category": "Printers",
         "stock": 60,
         "tags": ["label", "compact", "organization"],
-        "image": "printers/printers_5.jpg",
+        "image": "productimage/printers/printers_5.jpg",
         "ratings": {
           "average": 4.5,
           "count": 160
@@ -15041,7 +15041,7 @@
         "category": "Printers",
         "stock": 70,
         "tags": ["wireless", "laser", "fast", "reliable"],
-        "image": "printers/printers_6.jpg",
+        "image": "productimage/printers/printers_6.jpg",
         "ratings": {
           "average": 4.0,
           "count": 100
@@ -15073,7 +15073,7 @@
         "category": "Printers",
         "stock": 20,
         "tags": ["office", "inkjet", "high-volume", "durable"],
-        "image": "printers/printers_7.jpg",
+        "image": "productimage/printers/printers_7.jpg",
         "ratings": {
           "average": 4.3,
           "count": 140
@@ -15105,7 +15105,7 @@
         "category": "Printers",
         "stock": 85,
         "tags": ["portable", "photo", "compact"],
-        "image": "printers/printers_8.jpg",
+        "image": "productimage/printers/printers_8.jpg",
         "ratings": {
           "average": 4.5,
           "count": 180
@@ -15137,7 +15137,7 @@
         "category": "Printers",
         "stock": 100,
         "tags": ["large format", "wide-format", "posters", "banners"],
-        "image": "printers/printers_9.jpg",
+        "image": "productimage/printers/printers_9.jpg",
         "ratings": {
           "average": 4.8,
           "count": 200
@@ -15169,7 +15169,7 @@
         "category": "Printers",
         "stock": 60,
         "tags": ["duplex", "office", "automatic", "double-sided"],
-        "image": "printers/printers_10.jpg",
+        "image": "productimage/printers/printers_10.jpg",
         "ratings": {
           "average": 4.4,
           "count": 180
@@ -15201,7 +15201,7 @@
         "category": "Printers",
         "stock": 25,
         "tags": ["color", "office", "high-capacity"],
-        "image": "printers/printers_11.jpg",
+        "image": "productimage/printers/printers_11.jpg",
         "ratings": {
           "average": 4.7,
           "count": 170
@@ -15233,7 +15233,7 @@
         "category": "Printers",
         "stock": 35,
         "tags": ["multifunction", "inkjet", "versatile"],
-        "image": "printers/printers_12.jpg",
+        "image": "productimage/printers/printers_12.jpg",
         "ratings": {
           "average": 4.3,
           "count": 140
@@ -15265,7 +15265,7 @@
         "category": "Printers",
         "stock": 15,
         "tags": ["portable", "label", "handheld"],
-        "image": "printers/printers_13.jpg",
+        "image": "productimage/printers/printers_13.jpg",
         "ratings": {
           "average": 3.9,
           "count": 90
@@ -15297,7 +15297,7 @@
         "category": "Printers",
         "stock": 85,
         "tags": ["professional", "photo", "high-end"],
-        "image": "printers/printers_14.jpg",
+        "image": "productimage/printers/printers_14.jpg",
         "ratings": {
           "average": 4.6,
           "count": 160
@@ -15329,7 +15329,7 @@
         "category": "Printers",
         "stock": 75,
         "tags": ["compact", "document scanner", "portable"],
-        "image": "printers/printers_15.jpg",
+        "image": "productimage/printers/printers_15.jpg",
         "ratings": {
           "average": 4.4,
           "count": 170
@@ -15363,7 +15363,7 @@
         "category": "Routers",
         "stock": 50,
         "tags": ["dual-band", "Wi-Fi", "high-performance"],
-        "image": "routers/routers_1.jpg",
+        "image": "productimage/routers/routers_1.jpg",
         "ratings": {
           "average": 4.5,
           "count": 200
@@ -15395,7 +15395,7 @@
         "category": "Routers",
         "stock": 30,
         "tags": ["mesh", "whole home", "eliminate dead zones"],
-        "image": "routers/routers_2.jpg",
+        "image": "productimage/routers/routers_2.jpg",
         "ratings": {
           "average": 4.8,
           "count": 150
@@ -15427,7 +15427,7 @@
         "category": "Routers",
         "stock": 40,
         "tags": ["gigabit", "Ethernet", "fast wired connections"],
-        "image": "routers/routers_3.jpg",
+        "image": "productimage/routers/routers_3.jpg",
         "ratings": {
           "average": 4.4,
           "count": 180
@@ -15459,7 +15459,7 @@
         "category": "Routers",
         "stock": 80,
         "tags": ["tri-band", "gaming", "low latency"],
-        "image": "routers/routers_4.jpg",
+        "image": "productimage/routers/routers_4.jpg",
         "ratings": {
           "average": 4.2,
           "count": 120
@@ -15491,7 +15491,7 @@
         "category": "Routers",
         "stock": 60,
         "tags": ["dual-WAN", "internet failover", "reliable"],
-        "image": "routers/routers_5.jpg",
+        "image": "productimage/routers/routers_5.jpg",
         "ratings": {
           "average": 4.5,
           "count": 160
@@ -15523,7 +15523,7 @@
         "category": "Routers",
         "stock": 70,
         "tags": ["parental controls", "family", "internet management"],
-        "image": "routers/routers_6.jpg",
+        "image": "productimage/routers/routers_6.jpg",
         "ratings": {
           "average": 4.0,
           "count": 100
@@ -15555,7 +15555,7 @@
         "category": "Routers",
         "stock": 20,
         "tags": ["outdoor", "wireless", "weatherproof"],
-        "image": "routers/routers_7.jpg",
+        "image": "productimage/routers/routers_7.jpg",
         "ratings": {
           "average": 4.3,
           "count": 140
@@ -15587,7 +15587,7 @@
         "category": "Routers",
         "stock": 85,
         "tags": ["business", "VPN", "secure", "remote access"],
-        "image": "routers/routers_8.jpg",
+        "image": "productimage/routers/routers_8.jpg",
         "ratings": {
           "average": 4.5,
           "count": 180
@@ -15619,7 +15619,7 @@
         "category": "Routers",
         "stock": 100,
         "tags": ["4G LTE", "mobile broadband", "internet"],
-        "image": "routers/routers_9.jpg",
+        "image": "productimage/routers/routers_9.jpg",
         "ratings": {
           "average": 4.2,
           "count": 160
@@ -15651,7 +15651,7 @@
         "category": "Routers",
         "stock": 75,
         "tags": ["high-speed", "home", "internet"],
-        "image": "routers/routers_10.jpg",
+        "image": "productimage/routers/routers_10.jpg",
         "ratings": {
           "average": 4.4,
           "count": 170
@@ -15683,7 +15683,7 @@
         "category": "Routers",
         "stock": 25,
         "tags": ["enterprise", "scalable", "large-scale"],
-        "image": "routers/routers_11.jpg",
+        "image": "productimage/routers/routers_11.jpg",
         "ratings": {
           "average": 4.7,
           "count": 190
@@ -15715,7 +15715,7 @@
         "category": "Routers",
         "stock": 50,
         "tags": ["outdoor", "mesh", "Wi-Fi coverage"],
-        "image": "routers/routers_12.jpg",
+        "image": "productimage/routers/routers_12.jpg",
         "ratings": {
           "average": 4.3,
           "count": 150
@@ -15747,7 +15747,7 @@
         "category": "Routers",
         "stock": 40,
         "tags": ["compact", "travel", "secure internet access"],
-        "image": "routers/routers_13.jpg",
+        "image": "productimage/routers/routers_13.jpg",
         "ratings": {
           "average": 3.9,
           "count": 90
@@ -15779,7 +15779,7 @@
         "category": "Routers",
         "stock": 60,
         "tags": ["smart home", "automation", "integration"],
-        "image": "routers/routers_14.jpg",
+        "image": "productimage/routers/routers_14.jpg",
         "ratings": {
           "average": 4.6,
           "count": 180
@@ -15811,7 +15811,7 @@
         "category": "Routers",
         "stock": 70,
         "tags": ["Wireless AC", "fast Wi-Fi speeds"],
-        "image": "routers/routers_15.jpg",
+        "image": "productimage/routers/routers_15.jpg",
         "ratings": {
           "average": 4.4,
           "count": 170
@@ -15845,7 +15845,7 @@
         "category": "Smart Home Devices",
         "stock": 50,
         "tags": ["thermostat", "smart", "energy saving"],
-        "image": "smart_home_devices/smart+home+devices_1.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_1.jpg",
         "ratings": {
           "average": 4.5,
           "count": 200
@@ -15877,7 +15877,7 @@
         "category": "Smart Home Devices",
         "stock": 40,
         "tags": ["lighting", "smart", "voice control"],
-        "image": "smart_home_devices/smart+home+devices_2.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_2.jpg",
         "ratings": {
           "average": 4.3,
           "count": 180
@@ -15909,7 +15909,7 @@
         "category": "Smart Home Devices",
         "stock": 30,
         "tags": ["security", "camera", "motion detection"],
-        "image": "smart_home_devices/smart+home+devices_3.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 220
@@ -15941,7 +15941,7 @@
         "category": "Smart Home Devices",
         "stock": 60,
         "tags": ["speaker", "voice control", "virtual assistant"],
-        "image": "smart_home_devices/smart+home+devices_4.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_4.jpg",
         "ratings": {
           "average": 4.2,
           "count": 160
@@ -15973,7 +15973,7 @@
         "category": "Smart Home Devices",
         "stock": 45,
         "tags": ["doorbell", "video", "security"],
-        "image": "smart_home_devices/smart+home+devices_5.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 170
@@ -16005,7 +16005,7 @@
         "category": "Smart Home Devices",
         "stock": 35,
         "tags": ["lock", "keyless entry", "remote access"],
-        "image": "smart_home_devices/smart+home+devices_6.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_6.jpg",
         "ratings": {
           "average": 4.1,
           "count": 140
@@ -16037,7 +16037,7 @@
         "category": "Smart Home Devices",
         "stock": 80,
         "tags": ["plug", "remote control", "scheduling"],
-        "image": "smart_home_devices/smart+home+devices_7.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_7.jpg",
         "ratings": {
           "average": 4.0,
           "count": 130
@@ -16069,7 +16069,7 @@
         "category": "Smart Home Devices",
         "stock": 25,
         "tags": ["camera system", "surveillance", "indoor", "outdoor"],
-        "image": "smart_home_devices/smart+home+devices_8.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_8.jpg",
         "ratings": {
           "average": 4.7,
           "count": 190
@@ -16101,7 +16101,7 @@
         "category": "Smart Home Devices",
         "stock": 60,
         "tags": ["smoke detector", "connected", "safety"],
-        "image": "smart_home_devices/smart+home+devices_9.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_9.jpg",
         "ratings": {
           "average": 4.2,
           "count": 160
@@ -16133,7 +16133,7 @@
         "category": "Smart Home Devices",
         "stock": 75,
         "tags": ["kitchen", "appliance", "WiFi-enabled"],
-        "image": "smart_home_devices/smart+home+devices_10.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_10.jpg",
         "ratings": {
           "average": 4.4,
           "count": 170
@@ -16165,7 +16165,7 @@
         "category": "Smart Home Devices",
         "stock": 25,
         "tags": ["mirror", "interactive", "display"],
-        "image": "smart_home_devices/smart+home+devices_11.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_11.jpg",
         "ratings": {
           "average": 4.7,
           "count": 190
@@ -16197,7 +16197,7 @@
         "category": "Smart Home Devices",
         "stock": 50,
         "tags": ["pet feeder", "automated", "portion control"],
-        "image": "smart_home_devices/smart+home+devices_12.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_12.jpg",
         "ratings": {
           "average": 4.3,
           "count": 150
@@ -16229,7 +16229,7 @@
         "category": "Smart Home Devices",
         "stock": 30,
         "tags": ["vacuum cleaner", "robotic", "mapping technology"],
-        "image": "smart_home_devices/smart+home+devices_13.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_13.jpg",
         "ratings": {
           "average": 4.6,
           "count": 220
@@ -16261,7 +16261,7 @@
         "category": "Smart Home Devices",
         "stock": 35,
         "tags": ["garden", "automated", "watering system"],
-        "image": "smart_home_devices/smart+home+devices_14.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_14.jpg",
         "ratings": {
           "average": 4.1,
           "count": 140
@@ -16293,7 +16293,7 @@
         "category": "Smart Home Devices",
         "stock": 40,
         "tags": ["air purifier", "smart sensors", "air quality"],
-        "image": "smart_home_devices/smart+home+devices_15.jpg",
+        "image": "productimage/smart_home_devices/smart+home+devices_15.jpg",
         "ratings": {
           "average": 4.4,
           "count": 170
@@ -16327,7 +16327,7 @@
         "category": "Smartphones",
         "stock": 50,
         "tags": ["Samsung", "flagship", "Android", "camera"],
-        "image": "smartphones/smartphones_1.jpg",
+        "image": "productimage/smartphones/smartphones_1.jpg",
         "ratings": {
           "average": 4.7,
           "count": 150
@@ -16359,7 +16359,7 @@
         "category": "Smartphones",
         "stock": 40,
         "tags": ["Apple", "iPhone", "iOS", "camera"],
-        "image": "smartphones/smartphones_2.jpg",
+        "image": "productimage/smartphones/smartphones_2.jpg",
         "ratings": {
           "average": 4.8,
           "count": 160
@@ -16391,7 +16391,7 @@
         "category": "Smartphones",
         "stock": 30,
         "tags": ["Google", "Pixel", "Android", "camera"],
-        "image": "smartphones/smartphones_3.jpg",
+        "image": "productimage/smartphones/smartphones_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 140
@@ -16423,7 +16423,7 @@
         "category": "Smartphones",
         "stock": 35,
         "tags": ["OnePlus", "flagship", "Android", "performance"],
-        "image": "smartphones/smartphones_4.jpg",
+        "image": "productimage/smartphones/smartphones_4.jpg",
         "ratings": {
           "average": 4.5,
           "count": 130
@@ -16455,7 +16455,7 @@
         "category": "Smartphones",
         "stock": 25,
         "tags": ["Xiaomi", "flagship", "Android", "camera"],
-        "image": "smartphones/smartphones_5.jpg",
+        "image": "productimage/smartphones/smartphones_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 120
@@ -16487,7 +16487,7 @@
         "category": "Smartphones",
         "stock": 20,
         "tags": ["Sony", "Xperia", "Android", "camera"],
-        "image": "smartphones/smartphones_6.jpg",
+        "image": "productimage/smartphones/smartphones_6.jpg",
         "ratings": {
           "average": 4.3,
           "count": 110
@@ -16519,7 +16519,7 @@
         "category": "Smartphones",
         "stock": 15,
         "tags": ["Huawei", "flagship", "camera", "HarmonyOS"],
-        "image": "smartphones/smartphones_7.jpg",
+        "image": "productimage/smartphones/smartphones_7.jpg",
         "ratings": {
           "average": 4.2,
           "count": 100
@@ -16551,7 +16551,7 @@
         "category": "Smartphones",
         "stock": 10,
         "tags": ["LG", "Velvet", "Android", "multimedia"],
-        "image": "smartphones/smartphones_8.jpg",
+        "image": "productimage/smartphones/smartphones_8.jpg",
         "ratings": {
           "average": 4.1,
           "count": 90
@@ -16583,7 +16583,7 @@
         "category": "Smartphones",
         "stock": 18,
         "tags": ["ASUS", "ROG", "gaming", "Android"],
-        "image": "smartphones/smartphones_9.jpg",
+        "image": "productimage/smartphones/smartphones_9.jpg",
         "ratings": {
           "average": 4.5,
           "count": 110
@@ -16615,7 +16615,7 @@
         "category": "Smartphones",
         "stock": 20,
         "tags": ["Samsung", "foldable", "Android", "multitasking"],
-        "image": "smartphones/smartphones_10.jpg",
+        "image": "productimage/smartphones/smartphones_10.jpg",
         "ratings": {
           "average": 4.6,
           "count": 120
@@ -16647,7 +16647,7 @@
         "category": "Smartphones",
         "stock": 15,
         "tags": ["Apple", "iPhone", "budget", "iOS"],
-        "image": "smartphones/smartphones_11.jpg",
+        "image": "productimage/smartphones/smartphones_11.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -16679,7 +16679,7 @@
         "category": "Smartphones",
         "stock": 12,
         "tags": ["Google", "Pixel", "Android", "camera"],
-        "image": "smartphones/smartphones_12.jpg",
+        "image": "productimage/smartphones/smartphones_12.jpg",
         "ratings": {
           "average": 4.2,
           "count": 90
@@ -16711,7 +16711,7 @@
         "category": "Smartphones",
         "stock": 10,
         "tags": ["OnePlus", "Nord", "Android", "performance"],
-        "image": "smartphones/smartphones_13.jpg",
+        "image": "productimage/smartphones/smartphones_13.jpg",
         "ratings": {
           "average": 4.1,
           "count": 80
@@ -16743,7 +16743,7 @@
         "category": "Smartphones",
         "stock": 8,
         "tags": ["Xiaomi", "Redmi", "Android", "affordable"],
-        "image": "smartphones/smartphones_14.jpg",
+        "image": "productimage/smartphones/smartphones_14.jpg",
         "ratings": {
           "average": 4.0,
           "count": 70
@@ -16775,7 +16775,7 @@
         "category": "Smartphones",
         "stock": 5,
         "tags": ["Sony", "Xperia", "Android", "multimedia"],
-        "image": "smartphones/smartphones_15.jpg",
+        "image": "productimage/smartphones/smartphones_15.jpg",
         "ratings": {
           "average": 4.0,
           "count": 60
@@ -16809,7 +16809,7 @@
         "category": "Tablets",
         "stock": 50,
         "tags": ["Apple", "iPad", "iOS", "tablet"],
-        "image": "tablets/tablets_1.jpg",
+        "image": "productimage/tablets/tablets_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 150
@@ -16841,7 +16841,7 @@
         "category": "Tablets",
         "stock": 40,
         "tags": ["Samsung", "Galaxy", "Android", "tablet"],
-        "image": "tablets/tablets_2.jpg",
+        "image": "productimage/tablets/tablets_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -16873,7 +16873,7 @@
         "category": "Tablets",
         "stock": 35,
         "tags": ["Microsoft", "Surface", "Windows", "tablet"],
-        "image": "tablets/tablets_3.jpg",
+        "image": "productimage/tablets/tablets_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 130
@@ -16905,7 +16905,7 @@
         "category": "Tablets",
         "stock": 30,
         "tags": ["Lenovo", "Tab", "Android", "tablet"],
-        "image": "tablets/tablets_4.jpg",
+        "image": "productimage/tablets/tablets_4.jpg",
         "ratings": {
           "average": 4.5,
           "count": 120
@@ -16937,7 +16937,7 @@
         "category": "Tablets",
         "stock": 25,
         "tags": ["Huawei", "MatePad", "HarmonyOS", "tablet"],
-        "image": "tablets/tablets_5.jpg",
+        "image": "productimage/tablets/tablets_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 110
@@ -16969,7 +16969,7 @@
         "category": "Tablets",
         "stock": 20,
         "tags": ["Amazon", "Fire", "Android", "tablet"],
-        "image": "tablets/tablets_6.jpg",
+        "image": "productimage/tablets/tablets_6.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -17001,7 +17001,7 @@
         "category": "Tablets",
         "stock": 18,
         "tags": ["Sony", "Xperia", "Android", "tablet"],
-        "image": "tablets/tablets_7.jpg",
+        "image": "productimage/tablets/tablets_7.jpg",
         "ratings": {
           "average": 4.2,
           "count": 90
@@ -17033,7 +17033,7 @@
         "category": "Tablets",
         "stock": 15,
         "tags": ["Google", "Pixel", "Chrome OS", "tablet"],
-        "image": "tablets/tablets_8.jpg",
+        "image": "productimage/tablets/tablets_8.jpg",
         "ratings": {
           "average": 4.1,
           "count": 80
@@ -17065,7 +17065,7 @@
         "category": "Tablets",
         "stock": 10,
         "tags": ["ASUS", "ZenPad", "Android", "tablet"],
-        "image": "tablets/tablets_9.jpg",
+        "image": "productimage/tablets/tablets_9.jpg",
         "ratings": {
           "average": 4.0,
           "count": 70
@@ -17097,7 +17097,7 @@
         "category": "Tablets",
         "stock": 8,
         "tags": ["Apple", "iPad", "iOS", "tablet"],
-        "image": "tablets/tablets_10.jpg",
+        "image": "productimage/tablets/tablets_10.jpg",
         "ratings": {
           "average": 4.0,
           "count": 60
@@ -17129,7 +17129,7 @@
         "category": "Tablets",
         "stock": 5,
         "tags": ["Samsung", "Galaxy", "Android", "tablet"],
-        "image": "tablets/tablets_11.jpg",
+        "image": "productimage/tablets/tablets_11.jpg",
         "ratings": {
           "average": 3.9,
           "count": 50
@@ -17161,7 +17161,7 @@
         "category": "Tablets",
         "stock": 3,
         "tags": ["Lenovo", "Yoga", "Android", "tablet"],
-        "image": "tablets/tablets_12.jpg",
+        "image": "productimage/tablets/tablets_12.jpg",
         "ratings": {
           "average": 3.8,
           "count": 45
@@ -17193,7 +17193,7 @@
         "category": "Tablets",
         "stock": 2,
         "tags": ["Huawei", "MatePad", "HarmonyOS", "tablet"],
-        "image": "tablets/tablets_13.jpg",
+        "image": "productimage/tablets/tablets_13.jpg",
         "ratings": {
           "average": 3.7,
           "count": 40
@@ -17225,7 +17225,7 @@
         "category": "Tablets",
         "stock": 1,
         "tags": ["Amazon", "Fire", "Android", "tablet"],
-        "image": "tablets/tablets_14.jpg",
+        "image": "productimage/tablets/tablets_14.jpg",
         "ratings": {
           "average": 3.6,
           "count": 30
@@ -17257,7 +17257,7 @@
         "category": "Tablets",
         "stock": 0,
         "tags": ["Sony", "Xperia", "Android", "tablet"],
-        "image": "tablets/tablets_15.jpg",
+        "image": "productimage/tablets/tablets_15.jpg",
         "ratings": {
           "average": 3.5,
           "count": 20
@@ -17291,7 +17291,7 @@
         "category": "Wearables",
         "stock": 50,
         "tags": ["Apple", "Watch", "iOS", "wearable"],
-        "image": "wearables/wearables_1.jpg",
+        "image": "productimage/wearables/wearables_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 150
@@ -17323,7 +17323,7 @@
         "category": "Wearables",
         "stock": 40,
         "tags": ["Samsung", "Galaxy", "Android", "wearable"],
-        "image": "wearables/wearables_2.jpg",
+        "image": "productimage/wearables/wearables_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -17355,7 +17355,7 @@
         "category": "Wearables",
         "stock": 35,
         "tags": ["Fitbit", "Versa", "Fitness", "wearable"],
-        "image": "wearables/wearables_3.jpg",
+        "image": "productimage/wearables/wearables_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 130
@@ -17387,7 +17387,7 @@
         "category": "Wearables",
         "stock": 30,
         "tags": ["Garmin", "Venu", "Fitness", "wearable"],
-        "image": "wearables/wearables_4.jpg",
+        "image": "productimage/wearables/wearables_4.jpg",
         "ratings": {
           "average": 4.5,
           "count": 120
@@ -17419,7 +17419,7 @@
         "category": "Wearables",
         "stock": 25,
         "tags": ["Xiaomi", "Mi Watch", "Android", "wearable"],
-        "image": "wearables/wearables_5.jpg",
+        "image": "productimage/wearables/wearables_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 110
@@ -17451,7 +17451,7 @@
         "category": "Wearables",
         "stock": 20,
         "tags": ["Huawei", "Watch GT", "HarmonyOS", "wearable"],
-        "image": "wearables/wearables_6.jpg",
+        "image": "productimage/wearables/wearables_6.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -17483,7 +17483,7 @@
         "category": "Wearables",
         "stock": 18,
         "tags": ["Amazfit", "GTR", "Fitness", "wearable"],
-        "image": "wearables/wearables_7.jpg",
+        "image": "productimage/wearables/wearables_7.jpg",
         "ratings": {
           "average": 4.2,
           "count": 90
@@ -17515,7 +17515,7 @@
         "category": "Wearables",
         "stock": 15,
         "tags": ["Fossil", "Gen 6", "Fashion", "wearable"],
-        "image": "wearables/wearables_8.jpg",
+        "image": "productimage/wearables/wearables_8.jpg",
         "ratings": {
           "average": 4.1,
           "count": 80
@@ -17547,7 +17547,7 @@
         "category": "Wearables",
         "stock": 12,
         "tags": ["Garmin", "Instinct", "Outdoor", "wearable"],
-        "image": "wearables/wearables_9.jpg",
+        "image": "productimage/wearables/wearables_9.jpg",
         "ratings": {
           "average": 4.0,
           "count": 70
@@ -17579,7 +17579,7 @@
         "category": "Wearables",
         "stock": 10,
         "tags": ["Samsung", "Galaxy Fit", "Fitness", "wearable"],
-        "image": "wearables/wearables_10.jpg",
+        "image": "productimage/wearables/wearables_10.jpg",
         "ratings": {
           "average": 3.9,
           "count": 60
@@ -17611,7 +17611,7 @@
         "category": "Wearables",
         "stock": 5,
         "tags": ["Amazfit", "Bip U Pro", "Fitness", "wearable"],
-        "image": "wearables/wearables_11.jpg",
+        "image": "productimage/wearables/wearables_11.jpg",
         "ratings": {
           "average": 3.8,
           "count": 50
@@ -17643,7 +17643,7 @@
         "category": "Wearables",
         "stock": 3,
         "tags": ["Fossil", "Hybrid HR", "Fashion", "wearable"],
-        "image": "wearables/wearables_12.jpg",
+        "image": "productimage/wearables/wearables_12.jpg",
         "ratings": {
           "average": 3.7,
           "count": 40
@@ -17675,7 +17675,7 @@
         "category": "Wearables",
         "stock": 2,
         "tags": ["Xiaomi", "Mi Band", "Fitness", "wearable"],
-        "image": "wearables/wearables_13.jpg",
+        "image": "productimage/wearables/wearables_13.jpg",
         "ratings": {
           "average": 3.6,
           "count": 30
@@ -17707,7 +17707,7 @@
         "category": "Wearables",
         "stock": 1,
         "tags": ["Huawei", "Band", "Fitness", "wearable"],
-        "image": "wearables/wearables_14.jpg",
+        "image": "productimage/wearables/wearables_14.jpg",
         "ratings": {
           "average": 3.5,
           "count": 20
@@ -17739,7 +17739,7 @@
         "category": "Wearables",
         "stock": 0,
         "tags": ["Amazfit", "Neo", "Fitness", "wearable"],
-        "image": "wearables/wearables_15.jpg",
+        "image": "productimage/wearables/wearables_15.jpg",
         "ratings": {
           "average": 3.4,
           "count": 10
@@ -17775,7 +17775,7 @@
         "category": "Fashion",
         "stock": 50,
         "tags": ["Dress", "Floral", "Women"],
-        "image": "fashion/fashion_1.jpg",
+        "image": "productimage/wearables/wearables_fashion_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 150
@@ -17807,7 +17807,7 @@
         "category": "Fashion",
         "stock": 40,
         "tags": ["Suit", "Formal", "Men"],
-        "image": "fashion/fashion_2.jpg",
+        "image": "productimage/wearables/wearables_fashion_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -17839,7 +17839,7 @@
         "category": "Fashion",
         "stock": 35,
         "tags": ["Jeans", "Casual", "Women"],
-        "image": "fashion/fashion_3.jpg",
+        "image": "productimage/wearables/wearables_fashion_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 130
@@ -17871,7 +17871,7 @@
         "category": "Fashion",
         "stock": 30,
         "tags": ["Jacket", "Leather", "Men"],
-        "image": "fashion/fashion_4.jpg",
+        "image": "productimage/wearables/wearables_fashion_4.jpg",
         "ratings": {
           "average": 4.5,
           "count": 120
@@ -17903,7 +17903,7 @@
         "category": "Fashion",
         "stock": 25,
         "tags": ["Sneakers", "Women", "Comfortable"],
-        "image": "fashion/fashion_5.jpg",
+        "image": "productimage/wearables/wearables_fashion_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 110
@@ -17935,7 +17935,7 @@
         "category": "Fashion",
         "stock": 20,
         "tags": ["T-shirt", "Casual", "Men"],
-        "image": "fashion/fashion_6.jpg",
+        "image": "productimage/wearables/wearables_fashion_6.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -17967,7 +17967,7 @@
         "category": "Fashion",
         "stock": 18,
         "tags": ["Blouse", "Formal", "Women"],
-        "image": "fashion/fashion_7.jpg",
+        "image": "productimage/wearables/wearables_fashion_7.jpg",
         "ratings": {
           "average": 4.2,
           "count": 90
@@ -17999,7 +17999,7 @@
         "category": "Fashion",
         "stock": 15,
         "tags": ["Shorts", "Casual", "Men"],
-        "image": "fashion/fashion_8.jpg",
+        "image": "productimage/wearables/wearables_fashion_8.jpg",
         "ratings": {
           "average": 4.1,
           "count": 80
@@ -18031,7 +18031,7 @@
         "category": "Fashion",
         "stock": 12,
         "tags": ["Handbag", "Leather", "Women"],
-        "image": "fashion/fashion_9.jpg",
+        "image": "productimage/wearables/wearables_fashion_9.jpg",
         "ratings": {
           "average": 4.0,
           "count": 70
@@ -18063,7 +18063,7 @@
         "category": "Fashion",
         "stock": 10,
         "tags": ["Hat", "Beach", "Women"],
-        "image": "fashion/fashion_10.jpg",
+        "image": "productimage/wearables/wearables_fashion_10.jpg",
         "ratings": {
           "average": 3.9,
           "count": 60
@@ -18095,7 +18095,7 @@
         "category": "Fashion",
         "stock": 5,
         "tags": ["Watch", "Sports", "Men"],
-        "image": "fashion/fashion_11.jpg",
+        "image": "productimage/wearables/wearables_fashion_11.jpg",
         "ratings": {
           "average": 3.8,
           "count": 50
@@ -18127,7 +18127,7 @@
         "category": "Fashion",
         "stock": 3,
         "tags": ["Sunglasses", "Women", "Fashion"],
-        "image": "fashion/fashion_12.jpg",
+        "image": "productimage/wearables/wearables_fashion_12.jpg",
         "ratings": {
           "average": 3.7,
           "count": 40
@@ -18159,7 +18159,7 @@
         "category": "Fashion",
         "stock": 2,
         "tags": ["Belt", "Leather", "Men"],
-        "image": "fashion/fashion_13.jpg",
+        "image": "productimage/wearables/wearables_fashion_13.jpg",
         "ratings": {
           "average": 3.6,
           "count": 30
@@ -18191,7 +18191,7 @@
         "category": "Fashion",
         "stock": 1,
         "tags": ["Scarf", "Casual", "Women"],
-        "image": "fashion/fashion_14.jpg",
+        "image": "productimage/wearables/wearables_fashion_14.jpg",
         "ratings": {
           "average": 3.5,
           "count": 20
@@ -18223,7 +18223,7 @@
         "category": "Fashion",
         "stock": 0,
         "tags": ["Shoes", "Dress", "Men"],
-        "image": "fashion/fashion_15.jpg",
+        "image": "productimage/wearables/wearables_fashion_15.jpg",
         "ratings": {
           "average": 3.4,
           "count": 10
@@ -18257,7 +18257,7 @@
         "category": "Accessories",
         "stock": 50,
         "tags": ["Belt", "Leather", "Classic"],
-        "image": "accessories/accessories_1.jpg",
+        "image": "productimage/accessories/accessories_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 150
@@ -18289,7 +18289,7 @@
         "category": "Accessories",
         "stock": 40,
         "tags": ["Scarf", "Silk", "Luxury"],
-        "image": "accessories/accessories_2.jpg",
+        "image": "productimage/accessories/accessories_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -18321,7 +18321,7 @@
         "category": "Accessories",
         "stock": 35,
         "tags": ["Bag", "Crossbody", "Fashion"],
-        "image": "accessories/accessories_3.jpg",
+        "image": "productimage/accessories/accessories_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 130
@@ -18353,7 +18353,7 @@
         "category": "Accessories",
         "stock": 30,
         "tags": ["Watch", "Gold", "Elegant"],
-        "image": "accessories/accessories_4.jpg",
+        "image": "productimage/accessories/accessories_4.jpg",
         "ratings": {
           "average": 4.5,
           "count": 120
@@ -18385,7 +18385,7 @@
         "category": "Accessories",
         "stock": 25,
         "tags": ["Necklace", "Pearl", "Classic"],
-        "image": "accessories/accessories_5.jpg",
+        "image": "productimage/accessories/accessories_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 110
@@ -18417,7 +18417,7 @@
         "category": "Accessories",
         "stock": 20,
         "tags": ["Wallet", "Leather", "RFID"],
-        "image": "accessories/accessories_6.jpg",
+        "image": "productimage/accessories/accessories_6.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -18449,7 +18449,7 @@
         "category": "Accessories",
         "stock": 18,
         "tags": ["Earrings", "Silver", "Chic"],
-        "image": "accessories/accessories_7.jpg",
+        "image": "productimage/accessories/accessories_7.jpg",
         "ratings": {
           "average": 4.2,
           "count": 90
@@ -18481,7 +18481,7 @@
         "category": "Accessories",
         "stock": 15,
         "tags": ["Bag", "Canvas", "Tote"],
-        "image": "accessories/accessories_8.jpg",
+        "image": "productimage/accessories/accessories_8.jpg",
         "ratings": {
           "average": 4.1,
           "count": 80
@@ -18513,7 +18513,7 @@
         "category": "Accessories",
         "stock": 12,
         "tags": ["Scarf", "Cotton", "Soft"],
-        "image": "accessories/accessories_9.jpg",
+        "image": "productimage/accessories/accessories_9.jpg",
         "ratings": {
           "average": 4.0,
           "count": 70
@@ -18545,7 +18545,7 @@
         "category": "Accessories",
         "stock": 10,
         "tags": ["Gloves", "Leather", "Classic"],
-        "image": "accessories/accessories_10.jpg",
+        "image": "productimage/accessories/accessories_10.jpg",
         "ratings": {
           "average": 3.9,
           "count": 60
@@ -18577,7 +18577,7 @@
         "category": "Accessories",
         "stock": 5,
         "tags": ["Tie", "Silk", "Modern"],
-        "image": "accessories/accessories_11.jpg",
+        "image": "productimage/accessories/accessories_11.jpg",
         "ratings": {
           "average": 3.8,
           "count": 50
@@ -18609,7 +18609,7 @@
         "category": "Accessories",
         "stock": 3,
         "tags": ["Backpack", "Leather", "Stylish"],
-        "image": "accessories/accessories_12.jpg",
+        "image": "productimage/accessories/accessories_12.jpg",
         "ratings": {
           "average": 3.7,
           "count": 40
@@ -18641,7 +18641,7 @@
         "category": "Accessories",
         "stock": 2,
         "tags": ["Scarf", "Wool", "Warm"],
-        "image": "accessories/accessories_13.jpg",
+        "image": "productimage/accessories/accessories_13.jpg",
         "ratings": {
           "average": 3.6,
           "count": 30
@@ -18673,7 +18673,7 @@
         "category": "Accessories",
         "stock": 1,
         "tags": ["Bracelet", "Silver", "Simple"],
-        "image": "accessories/accessories_14.jpg",
+        "image": "productimage/accessories/accessories_14.jpg",
         "ratings": {
           "average": 3.5,
           "count": 20
@@ -18705,7 +18705,7 @@
         "category": "Accessories",
         "stock": 0,
         "tags": ["Belt", "Designer", "Luxury"],
-        "image": "accessories/accessories_15.jpg",
+        "image": "productimage/accessories/accessories_15.jpg",
         "ratings": {
           "average": 3.4,
           "count": 10
@@ -18739,7 +18739,7 @@
         "category": "Apparel",
         "stock": 50,
         "tags": ["T-shirt", "Cotton", "Casual"],
-        "image": "apparel/apparel_1.jpg",
+        "image": "productimage/apparel/apparel_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 150
@@ -18771,7 +18771,7 @@
         "category": "Apparel",
         "stock": 40,
         "tags": ["Jeans", "Denim", "Classic"],
-        "image": "apparel/apparel_2.jpg",
+        "image": "productimage/apparel/apparel_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -18803,7 +18803,7 @@
         "category": "Apparel",
         "stock": 35,
         "tags": ["Shorts", "Athletic", "Workout"],
-        "image": "apparel/apparel_3.jpg",
+        "image": "productimage/apparel/apparel_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 130
@@ -18835,7 +18835,7 @@
         "category": "Apparel",
         "stock": 30,
         "tags": ["Dress", "Formal", "Elegant"],
-        "image": "apparel/apparel_4.jpg",
+        "image": "productimage/apparel/apparel_4.jpg",
         "ratings": {
           "average": 4.5,
           "count": 120
@@ -18867,7 +18867,7 @@
         "category": "Apparel",
         "stock": 25,
         "tags": ["Blouse", "Casual", "Relaxed"],
-        "image": "apparel/apparel_5.jpg",
+        "image": "productimage/apparel/apparel_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 110
@@ -18899,7 +18899,7 @@
         "category": "Apparel",
         "stock": 20,
         "tags": ["Jacket", "Puffer", "Warm"],
-        "image": "apparel/apparel_6.jpg",
+        "image": "productimage/apparel/apparel_6.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -18931,7 +18931,7 @@
         "category": "Apparel",
         "stock": 18,
         "tags": ["Jacket", "Leather", "Classic"],
-        "image": "apparel/apparel_7.jpg",
+        "image": "productimage/apparel/apparel_7.jpg",
         "ratings": {
           "average": 4.2,
           "count": 90
@@ -18963,7 +18963,7 @@
         "category": "Apparel",
         "stock": 15,
         "tags": ["Dress", "Summer", "Floral"],
-        "image": "apparel/apparel_8.jpg",
+        "image": "productimage/apparel/apparel_8.jpg",
         "ratings": {
           "average": 4.1,
           "count": 80
@@ -18995,7 +18995,7 @@
         "category": "Apparel",
         "stock": 12,
         "tags": ["Sweatshirt", "Hooded", "Cozy"],
-        "image": "apparel/apparel_9.jpg",
+        "image": "productimage/apparel/apparel_9.jpg",
         "ratings": {
           "average": 4.0,
           "count": 70
@@ -19027,7 +19027,7 @@
         "category": "Accessories",
         "stock": 10,
         "tags": ["Gloves", "Leather", "Classic"],
-        "image": "apparel/apparel_10.jpg",
+        "image": "productimage/apparel/apparel_10.jpg",
         "ratings": {
           "average": 3.9,
           "count": 60
@@ -19059,7 +19059,7 @@
         "category": "Accessories",
         "stock": 5,
         "tags": ["Tie", "Silk", "Modern"],
-        "image": "apparel/apparel_11.jpg",
+        "image": "productimage/apparel/apparel_11.jpg",
         "ratings": {
           "average": 3.8,
           "count": 50
@@ -19091,7 +19091,7 @@
         "category": "Accessories",
         "stock": 3,
         "tags": ["Backpack", "Leather", "Stylish"],
-        "image": "apparel/apparel_12.jpg",
+        "image": "productimage/apparel/apparel_12.jpg",
         "ratings": {
           "average": 3.7,
           "count": 40
@@ -19123,7 +19123,7 @@
         "category": "Accessories",
         "stock": 2,
         "tags": ["Scarf", "Wool", "Warm"],
-        "image": "apparel/apparel_13.jpg",
+        "image": "productimage/apparel/apparel_13.jpg",
         "ratings": {
           "average": 3.6,
           "count": 30
@@ -19155,7 +19155,7 @@
         "category": "Accessories",
         "stock": 1,
         "tags": ["Bracelet", "Silver", "Simple"],
-        "image": "apparel/apparel_14.jpg",
+        "image": "productimage/apparel/apparel_14.jpg",
         "ratings": {
           "average": 3.5,
           "count": 20
@@ -19187,7 +19187,7 @@
         "category": "Accessories",
         "stock": 0,
         "tags": ["Belt", "Designer", "Luxury"],
-        "image": "apparel/apparel_15.jpg",
+        "image": "productimage/apparel/apparel_15.jpg",
         "ratings": {
           "average": 3.4,
           "count": 10
@@ -19221,7 +19221,7 @@
         "category": "Belts",
         "stock": 50,
         "tags": ["Belt", "Leather", "Casual"],
-        "image": "belts/belts_1.jpg",
+        "image": "productimage/belts/belts_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 150
@@ -19253,7 +19253,7 @@
         "category": "Belts",
         "stock": 40,
         "tags": ["Belt", "Leather", "Formal"],
-        "image": "belts/belts_2.jpg",
+        "image": "productimage/belts/belts_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -19285,7 +19285,7 @@
         "category": "Belts",
         "stock": 35,
         "tags": ["Belt", "Designer", "Luxury"],
-        "image": "belts/belts_3.jpg",
+        "image": "productimage/belts/belts_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 130
@@ -19317,7 +19317,7 @@
         "category": "Belts",
         "stock": 30,
         "tags": ["Belt", "Canvas", "Durable"],
-        "image": "belts/belts_4.jpg",
+        "image": "productimage/belts/belts_4.jpg",
         "ratings": {
           "average": 4.5,
           "count": 120
@@ -19349,7 +19349,7 @@
         "category": "Belts",
         "stock": 25,
         "tags": ["Belt", "Reversible", "Versatile"],
-        "image": "belts/belts_5.jpg",
+        "image": "productimage/belts/belts_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 110
@@ -19381,7 +19381,7 @@
         "category": "Belts",
         "stock": 20,
         "tags": ["Belt", "Slim", "Minimalist"],
-        "image": "belts/belts_6.jpg",
+        "image": "productimage/belts/belts_6.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -19413,7 +19413,7 @@
         "category": "Belts",
         "stock": 18,
         "tags": ["Belt", "Studded", "Edgy"],
-        "image": "belts/belts_7.jpg",
+        "image": "productimage/belts/belts_7.jpg",
         "ratings": {
           "average": 4.2,
           "count": 90
@@ -19445,7 +19445,7 @@
         "category": "Belts",
         "stock": 15,
         "tags": ["Belt", "Chain", "Unique"],
-        "image": "belts/belts_8.jpg",
+        "image": "productimage/belts/belts_8.jpg",
         "ratings": {
           "average": 4.1,
           "count": 80
@@ -19477,7 +19477,7 @@
         "category": "Belts",
         "stock": 12,
         "tags": ["Belt", "Braided", "Stylish"],
-        "image": "belts/belts_9.jpg",
+        "image": "productimage/belts/belts_9.jpg",
         "ratings": {
           "average": 4.0,
           "count": 70
@@ -19509,7 +19509,7 @@
         "category": "Belts",
         "stock": 10,
         "tags": ["Belt", "Western", "Classic"],
-        "image": "belts/belts_10.jpg",
+        "image": "productimage/belts/belts_10.jpg",
         "ratings": {
           "average": 3.9,
           "count": 60
@@ -19541,7 +19541,7 @@
         "category": "Belts",
         "stock": 5,
         "tags": ["Belt", "Patent Leather", "Shiny"],
-        "image": "belts/belts_11.jpg",
+        "image": "productimage/belts/belts_11.jpg",
         "ratings": {
           "average": 3.8,
           "count": 50
@@ -19573,7 +19573,7 @@
         "category": "Belts",
         "stock": 3,
         "tags": ["Belt", "Embellished", "Detailed"],
-        "image": "belts/belts_12.jpg",
+        "image": "productimage/belts/belts_12.jpg",
         "ratings": {
           "average": 3.7,
           "count": 40
@@ -19605,7 +19605,7 @@
         "category": "Belts",
         "stock": 2,
         "tags": ["Belt", "Wide", "Statement"],
-        "image": "belts/belts_13.jpg",
+        "image": "productimage/belts/belts_13.jpg",
         "ratings": {
           "average": 3.6,
           "count": 30
@@ -19637,7 +19637,7 @@
         "category": "Belts",
         "stock": 1,
         "tags": ["Belt", "Elastic", "Comfortable"],
-        "image": "belts/belts_14.jpg",
+        "image": "productimage/belts/belts_14.jpg",
         "ratings": {
           "average": 3.5,
           "count": 20
@@ -19669,7 +19669,7 @@
         "category": "Belts",
         "stock": 0,
         "tags": ["Belt", "Chain Link", "Adjustable"],
-        "image": "belts/belts_15.jpg",
+        "image": "productimage/belts/belts_15.jpg",
         "ratings": {
           "average": 3.4,
           "count": 10
@@ -19703,7 +19703,7 @@
         "category": "Dresses",
         "stock": 50,
         "tags": ["Dress", "Summer", "Floral"],
-        "image": "dresses/dresses_1.jpg",
+        "image": "productimage/dresses/dresses_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 150
@@ -19735,7 +19735,7 @@
         "category": "Dresses",
         "stock": 40,
         "tags": ["Dress", "Cocktail", "Evening"],
-        "image": "dresses/dresses_2.jpg",
+        "image": "productimage/dresses/dresses_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -19767,7 +19767,7 @@
         "category": "Dresses",
         "stock": 35,
         "tags": ["Dress", "Maxi", "Bohemian"],
-        "image": "dresses/dresses_3.jpg",
+        "image": "productimage/dresses/dresses_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 130
@@ -19799,7 +19799,7 @@
         "category": "Dresses",
         "stock": 30,
         "tags": ["Dress", "Black", "Classic"],
-        "image": "dresses/dresses_4.jpg",
+        "image": "productimage/dresses/dresses_4.jpg",
         "ratings": {
           "average": 4.5,
           "count": 120
@@ -19831,7 +19831,7 @@
         "category": "Dresses",
         "stock": 25,
         "tags": ["Dress", "Wrap", "Figure-flattering"],
-        "image": "dresses/dresses_5.jpg",
+        "image": "productimage/dresses/dresses_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 110
@@ -19863,7 +19863,7 @@
         "category": "Dresses",
         "stock": 20,
         "tags": ["Dress", "Midi", "Lace"],
-        "image": "dresses/dresses_6.jpg",
+        "image": "productimage/dresses/dresses_6.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -19895,7 +19895,7 @@
         "category": "Dresses",
         "stock": 18,
         "tags": ["Dress", "Satin", "Luxurious"],
-        "image": "dresses/dresses_7.jpg",
+        "image": "productimage/dresses/dresses_7.jpg",
         "ratings": {
           "average": 4.2,
           "count": 90
@@ -19927,7 +19927,7 @@
         "category": "Dresses",
         "stock": 15,
         "tags": ["Dress", "Boho", "Chic"],
-        "image": "dresses/dresses_8.jpg",
+        "image": "productimage/dresses/dresses_8.jpg",
         "ratings": {
           "average": 4.1,
           "count": 80
@@ -19959,7 +19959,7 @@
         "category": "Dresses",
         "stock": 12,
         "tags": ["Dress", "Shirt", "Striped"],
-        "image": "dresses/dresses_9.jpg",
+        "image": "productimage/dresses/dresses_9.jpg",
         "ratings": {
           "average": 4.0,
           "count": 70
@@ -19991,7 +19991,7 @@
         "category": "Dresses",
         "stock": 10,
         "tags": ["Dress", "Maxi", "Off-shoulder"],
-        "image": "dresses/dresses_10.jpg",
+        "image": "productimage/dresses/dresses_10.jpg",
         "ratings": {
           "average": 3.9,
           "count": 60
@@ -20023,7 +20023,7 @@
         "category": "Dresses",
         "stock": 5,
         "tags": ["Dress", "Wrap", "Midi"],
-        "image": "dresses/dresses_11.jpg",
+        "image": "productimage/dresses/dresses_11.jpg",
         "ratings": {
           "average": 3.8,
           "count": 50
@@ -20055,7 +20055,7 @@
         "category": "Dresses",
         "stock": 3,
         "tags": ["Dress", "Linen", "Shift"],
-        "image": "dresses/dresses_12.jpg",
+        "image": "productimage/dresses/dresses_12.jpg",
         "ratings": {
           "average": 3.7,
           "count": 40
@@ -20087,7 +20087,7 @@
         "category": "Dresses",
         "stock": 2,
         "tags": ["Dress", "Silk", "Slip"],
-        "image": "dresses/dresses_13.jpg",
+        "image": "productimage/dresses/dresses_13.jpg",
         "ratings": {
           "average": 3.6,
           "count": 30
@@ -20119,7 +20119,7 @@
         "category": "Dresses",
         "stock": 1,
         "tags": ["Dress", "Printed", "Mini"],
-        "image": "dresses/dresses_14.jpg",
+        "image": "productimage/dresses/dresses_14.jpg",
         "ratings": {
           "average": 3.5,
           "count": 20
@@ -20151,7 +20151,7 @@
         "category": "Dresses",
         "stock": 0,
         "tags": ["Dress", "Denim", "Casual"],
-        "image": "dresses/dresses_15.jpg",
+        "image": "productimage/dresses/dresses_15.jpg",
         "ratings": {
           "average": 3.4,
           "count": 10
@@ -20185,7 +20185,7 @@
         "category": "Hats",
         "stock": 50,
         "tags": ["Wide Brim", "Sun Hat", "Women"],
-        "image": "hats/hats_2.jpg",
+        "image": "productimage/hats/hats_2.jpg",
         "ratings": {
           "average": 4.8,
           "count": 150
@@ -20217,7 +20217,7 @@
         "category": "Hats",
         "stock": 40,
         "tags": ["Fedora", "Men", "Women"],
-        "image": "hats/hats_3.jpg",
+        "image": "productimage/hats/hats_3.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -20249,7 +20249,7 @@
         "category": "Hats",
         "stock": 35,
         "tags": ["Beanie", "Winter", "Unisex"],
-        "image": "hats/hats_4.jpg",
+        "image": "productimage/hats/hats_4.jpg",
         "ratings": {
           "average": 4.6,
           "count": 130
@@ -20281,7 +20281,7 @@
         "category": "Hats",
         "stock": 30,
         "tags": ["Straw Hat", "Beach", "Men", "Women"],
-        "image": "hats/hats_5.jpg",
+        "image": "productimage/hats/hats_5.jpg",
         "ratings": {
           "average": 4.5,
           "count": 120
@@ -20313,7 +20313,7 @@
         "category": "Hats",
         "stock": 25,
         "tags": ["Bucket Hat", "Trendy", "Unisex"],
-        "image": "hats/hats_6.jpg",
+        "image": "productimage/hats/hats_6.jpg",
         "ratings": {
           "average": 4.4,
           "count": 110
@@ -20345,7 +20345,7 @@
         "category": "Hats",
         "stock": 20,
         "tags": ["Baseball Cap", "Casual", "Men", "Women"],
-        "image": "hats/hats_7.jpg",
+        "image": "productimage/hats/hats_7.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -20377,7 +20377,7 @@
         "category": "Hats",
         "stock": 18,
         "tags": ["Beret", "Chic", "Women"],
-        "image": "hats/hats_8.jpg",
+        "image": "productimage/hats/hats_8.jpg",
         "ratings": {
           "average": 4.2,
           "count": 90
@@ -20409,7 +20409,7 @@
         "category": "Hats",
         "stock": 15,
         "tags": ["Panama Hat", "Elegant", "Men", "Women"],
-        "image": "hats/hats_9.jpg",
+        "image": "productimage/hats/hats_9.jpg",
         "ratings": {
           "average": 4.1,
           "count": 80
@@ -20441,7 +20441,7 @@
         "category": "Hats",
         "stock": 12,
         "tags": ["Knit Beanie", "Winter", "Unisex"],
-        "image": "hats/hats_10.jpg",
+        "image": "productimage/hats/hats_10.jpg",
         "ratings": {
           "average": 4.0,
           "count": 70
@@ -20473,7 +20473,7 @@
         "category": "Hats",
         "stock": 10,
         "tags": ["Trucker Hat", "Casual", "Men", "Women"],
-        "image": "hats/hats_11.jpg",
+        "image": "productimage/hats/hats_11.jpg",
         "ratings": {
           "average": 3.9,
           "count": 60
@@ -20505,7 +20505,7 @@
         "category": "Hats",
         "stock": 8,
         "tags": ["Cap", "Casual", "Men", "Women"],
-        "image": "hats/hats_12.jpg",
+        "image": "productimage/hats/hats_12.jpg",
         "ratings": {
           "average": 3.8,
           "count": 50
@@ -20537,7 +20537,7 @@
         "category": "Hats",
         "stock": 6,
         "tags": ["Straw Fedora", "Summer", "Men", "Women"],
-        "image": "hats/hats_13.jpg",
+        "image": "productimage/hats/hats_13.jpg",
         "ratings": {
           "average": 3.7,
           "count": 40
@@ -20569,7 +20569,7 @@
         "category": "Hats",
         "stock": 4,
         "tags": ["Floppy Hat", "Sun Hat", "Women"],
-        "image": "hats/hats_14.jpg",
+        "image": "productimage/hats/hats_14.jpg",
         "ratings": {
           "average": 3.6,
           "count": 30
@@ -20601,7 +20601,7 @@
         "category": "Hats",
         "stock": 2,
         "tags": ["Bucket Hat", "Sun Hat", "Men", "Women"],
-        "image": "hats/hats_15.jpg",
+        "image": "productimage/hats/hats_15.jpg",
         "ratings": {
           "average": 3.5,
           "count": 20
@@ -20633,7 +20633,7 @@
         "category": "Hats",
         "stock": 1,
         "tags": ["Wide Brim", "Fedora", "Men", "Women"],
-        "image": "hats/hats_16.jpg",
+        "image": "productimage/hats/hats_16.jpg",
         "ratings": {
           "average": 3.4,
           "count": 10
@@ -20667,7 +20667,7 @@
         "category": "Jackets",
         "stock": 50,
         "tags": ["Leather", "Biker", "Men", "Women"],
-        "image": "jackets/jackets_1.jpg",
+        "image": "productimage/jackets/jackets_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 150
@@ -20699,7 +20699,7 @@
         "category": "Jackets",
         "stock": 40,
         "tags": ["Denim", "Casual", "Men", "Women"],
-        "image": "jackets/jackets_2.jpg",
+        "image": "productimage/jackets/jackets_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -20731,7 +20731,7 @@
         "category": "Jackets",
         "stock": 35,
         "tags": ["Puffer", "Winter", "Men", "Women"],
-        "image": "jackets/jackets_3.jpg",
+        "image": "productimage/jackets/jackets_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 130
@@ -20763,7 +20763,7 @@
         "category": "Jackets",
         "stock": 30,
         "tags": ["Bomber", "Retro", "Men", "Women"],
-        "image": "jackets/jackets_4.jpg",
+        "image": "productimage/jackets/jackets_4.jpg",
         "ratings": {
           "average": 4.5,
           "count": 120
@@ -20795,7 +20795,7 @@
         "category": "Jackets",
         "stock": 25,
         "tags": ["Parka", "Outdoor", "Winter", "Men", "Women"],
-        "image": "jackets/jackets_5.jpg",
+        "image": "productimage/jackets/jackets_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 110
@@ -20827,7 +20827,7 @@
         "category": "Jackets",
         "stock": 20,
         "tags": ["Peacoat", "Formal", "Winter", "Men", "Women"],
-        "image": "jackets/jackets_6.jpg",
+        "image": "productimage/jackets/jackets_6.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -20859,7 +20859,7 @@
         "category": "Jackets",
         "stock": 18,
         "tags": ["Trench Coat", "Classic", "Men", "Women"],
-        "image": "jackets/jackets_7.jpg",
+        "image": "productimage/jackets/jackets_7.jpg",
         "ratings": {
           "average": 4.2,
           "count": 90
@@ -20891,7 +20891,7 @@
         "category": "Jackets",
         "stock": 15,
         "tags": ["Windbreaker", "Outdoor", "Men", "Women"],
-        "image": "jackets/jackets_8.jpg",
+        "image": "productimage/jackets/jackets_8.jpg",
         "ratings": {
           "average": 4.1,
           "count": 80
@@ -20923,7 +20923,7 @@
         "category": "Jackets",
         "stock": 12,
         "tags": ["Rain Jacket", "Waterproof", "Outdoor", "Men", "Women"],
-        "image": "jackets/jackets_9.jpg",
+        "image": "productimage/jackets/jackets_9.jpg",
         "ratings": {
           "average": 4.0,
           "count": 70
@@ -20955,7 +20955,7 @@
         "category": "Jackets",
         "stock": 10,
         "tags": ["Varsity Jacket", "Sporty", "Men", "Women"],
-        "image": "jackets/jackets_10.jpg",
+        "image": "productimage/jackets/jackets_10.jpg",
         "ratings": {
           "average": 3.9,
           "count": 60
@@ -20987,7 +20987,7 @@
         "category": "Jackets",
         "stock": 8,
         "tags": ["Down Jacket", "Winter", "Men", "Women"],
-        "image": "jackets/jackets_11.jpg",
+        "image": "productimage/jackets/jackets_11.jpg",
         "ratings": {
           "average": 3.8,
           "count": 50
@@ -21019,7 +21019,7 @@
         "category": "Jackets",
         "stock": 6,
         "tags": ["Fleece Jacket", "Cozy", "Men", "Women"],
-        "image": "jackets/jackets_12.jpg",
+        "image": "productimage/jackets/jackets_12.jpg",
         "ratings": {
           "average": 3.7,
           "count": 40
@@ -21051,7 +21051,7 @@
         "category": "Jackets",
         "stock": 4,
         "tags": ["Military Jacket", "Rugged", "Men", "Women"],
-        "image": "jackets/jackets_13.jpg",
+        "image": "productimage/jackets/jackets_13.jpg",
         "ratings": {
           "average": 3.6,
           "count": 30
@@ -21083,7 +21083,7 @@
         "category": "Jackets",
         "stock": 2,
         "tags": ["Raincoat", "Water-Resistant", "Men", "Women"],
-        "image": "jackets/jackets_14.jpg",
+        "image": "productimage/jackets/jackets_14.jpg",
         "ratings": {
           "average": 3.5,
           "count": 20
@@ -21115,7 +21115,7 @@
         "category": "Jackets",
         "stock": 1,
         "tags": ["Blazer", "Formal", "Men", "Women"],
-        "image": "jackets/jackets_15.jpg",
+        "image": "productimage/jackets/jackets_15.jpg",
         "ratings": {
           "average": 3.4,
           "count": 10
@@ -21149,7 +21149,7 @@
         "category": "Shoes",
         "stock": 50,
         "tags": ["Sneakers", "Casual", "Men", "Women"],
-        "image": "shoes/shoes_1.jpg",
+        "image": "productimage/shoes/shoes_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 150
@@ -21181,7 +21181,7 @@
         "category": "Shoes",
         "stock": 40,
         "tags": ["Loafers", "Formal", "Men", "Women"],
-        "image": "shoes/shoes_2.jpg",
+        "image": "productimage/shoes/shoes_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -21213,7 +21213,7 @@
         "category": "Shoes",
         "stock": 35,
         "tags": ["High Heels", "Elegant", "Women"],
-        "image": "shoes/shoes_3.jpg",
+        "image": "productimage/shoes/shoes_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 130
@@ -21245,7 +21245,7 @@
         "category": "Shoes",
         "stock": 30,
         "tags": ["Boots", "Outdoor", "Men", "Women"],
-        "image": "shoes/shoes_4.jpg",
+        "image": "productimage/shoes/shoes_4.jpg",
         "ratings": {
           "average": 4.5,
           "count": 120
@@ -21277,7 +21277,7 @@
         "category": "Shoes",
         "stock": 25,
         "tags": ["Sandals", "Summer", "Men", "Women"],
-        "image": "shoes/shoes_5.jpg",
+        "image": "productimage/shoes/shoes_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 110
@@ -21309,7 +21309,7 @@
         "category": "Shoes",
         "stock": 20,
         "tags": ["Oxfords", "Formal", "Men", "Women"],
-        "image": "shoes/shoes_6.jpg",
+        "image": "productimage/shoes/shoes_6.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -21341,7 +21341,7 @@
         "category": "Shoes",
         "stock": 18,
         "tags": ["Espadrilles", "Casual", "Men", "Women"],
-        "image": "shoes/shoes_7.jpg",
+        "image": "productimage/shoes/shoes_7.jpg",
         "ratings": {
           "average": 4.2,
           "count": 90
@@ -21373,7 +21373,7 @@
         "category": "Shoes",
         "stock": 15,
         "tags": ["Slip-Ons", "Casual", "Men", "Women"],
-        "image": "shoes/shoes_8.jpg",
+        "image": "productimage/shoes/shoes_8.jpg",
         "ratings": {
           "average": 4.1,
           "count": 80
@@ -21405,7 +21405,7 @@
         "category": "Shoes",
         "stock": 12,
         "tags": ["Ankle Boots", "Stylish", "Women"],
-        "image": "shoes/shoes_9.jpg",
+        "image": "productimage/shoes/shoes_9.jpg",
         "ratings": {
           "average": 4.0,
           "count": 70
@@ -21437,7 +21437,7 @@
         "category": "Shoes",
         "stock": 10,
         "tags": ["Running Shoes", "Athletic", "Men", "Women"],
-        "image": "shoes/shoes_10.jpg",
+        "image": "productimage/shoes/shoes_10.jpg",
         "ratings": {
           "average": 3.9,
           "count": 60
@@ -21469,7 +21469,7 @@
         "category": "Shoes",
         "stock": 8,
         "tags": ["Dress Shoes", "Formal", "Men", "Women"],
-        "image": "shoes/shoes_11.jpg",
+        "image": "productimage/shoes/shoes_11.jpg",
         "ratings": {
           "average": 3.8,
           "count": 50
@@ -21501,7 +21501,7 @@
         "category": "Shoes",
         "stock": 6,
         "tags": ["Flip Flops", "Casual", "Men", "Women"],
-        "image": "shoes/shoes_12.jpg",
+        "image": "productimage/shoes/shoes_12.jpg",
         "ratings": {
           "average": 3.7,
           "count": 40
@@ -21533,7 +21533,7 @@
         "category": "Shoes",
         "stock": 4,
         "tags": ["Hiking Boots", "Outdoor", "Men", "Women"],
-        "image": "shoes/shoes_13.jpg",
+        "image": "productimage/shoes/shoes_13.jpg",
         "ratings": {
           "average": 3.6,
           "count": 30
@@ -21565,7 +21565,7 @@
         "category": "Shoes",
         "stock": 2,
         "tags": ["Wedding Shoes", "Elegant", "Men", "Women"],
-        "image": "shoes/shoes_14.jpg",
+        "image": "productimage/shoes/shoes_14.jpg",
         "ratings": {
           "average": 3.5,
           "count": 20
@@ -21597,7 +21597,7 @@
         "category": "Shoes",
         "stock": 1,
         "tags": ["Platform Shoes", "Trendy", "Women"],
-        "image": "shoes/shoes_15.jpg",
+        "image": "productimage/shoes/shoes_15.jpg",
         "ratings": {
           "average": 3.4,
           "count": 10
@@ -21631,7 +21631,7 @@
         "category": "Sunglasses",
         "stock": 50,
         "tags": ["Ray-Ban", "Aviator", "Polarized", "Metal"],
-        "image": "sunglasses/sunglasses_1.jpg",
+        "image": "productimage/sunglasses/sunglasses_1.jpg",
         "ratings": {
           "average": 4.8,
           "count": 150
@@ -21649,7 +21649,7 @@
           },
           {
             "user": "SunglassesFan456",
-            "comment": "Polarized lenses are great for driving.",
+            "comment": "Polarized lenses are great for driving.Men's Leather Jacket",
             "rating": 5,
             "date": "2023-06-14"
           }
@@ -21663,7 +21663,7 @@
         "category": "Sunglasses",
         "stock": 40,
         "tags": ["Oakley", "Holbrook", "Prizm", "Sport"],
-        "image": "sunglasses/sunglasses_2.jpg",
+        "image": "productimage/sunglasses/sunglasses_2.jpg",
         "ratings": {
           "average": 4.7,
           "count": 140
@@ -21695,7 +21695,7 @@
         "category": "Sunglasses",
         "stock": 35,
         "tags": ["Maui Jim", "Kawika", "MauiPure", "Tortoise"],
-        "image": "sunglasses/sunglasses_3.jpg",
+        "image": "productimage/sunglasses/sunglasses_3.jpg",
         "ratings": {
           "average": 4.6,
           "count": 130
@@ -21727,7 +21727,7 @@
         "category": "Sunglasses",
         "stock": 30,
         "tags": ["Persol", "PO0649", "Crystal", "Handmade"],
-        "image": "sunglasses/sunglasses_4.jpg",
+        "image": "productimage/sunglasses/sunglasses_4.jpg",
         "ratings": {
           "average": 4.5,
           "count": 120
@@ -21759,7 +21759,7 @@
         "category": "Sunglasses",
         "stock": 25,
         "tags": ["Prada", "Linea Rossa", "Wraparound", "Fashion"],
-        "image": "sunglasses/sunglasses_5.jpg",
+        "image": "productimage/sunglasses/sunglasses_5.jpg",
         "ratings": {
           "average": 4.4,
           "count": 110
@@ -21791,7 +21791,7 @@
         "category": "Sunglasses",
         "stock": 20,
         "tags": ["Gucci", "GG0061S", "Luxury", "Fashion"],
-        "image": "sunglasses/sunglasses_6.jpg",
+        "image": "productimage/sunglasses/sunglasses_6.jpg",
         "ratings": {
           "average": 4.3,
           "count": 100
@@ -21823,7 +21823,7 @@
         "category": "Sunglasses",
         "stock": 18,
         "tags": ["Dior", "Homme", "Blacktie", "Fashion"],
-        "image": "sunglasses/sunglasses_7.jpg",
+        "image": "productimage/sunglasses/sunglasses_7.jpg",
         "ratings": {
           "average": 4.2,
           "count": 90
@@ -21855,7 +21855,7 @@
         "category": "Sunglasses",
         "stock": 15,
         "tags": ["Tom Ford", "FT0621", "Square", "Fashion"],
-        "image": "sunglasses/sunglasses_8.jpg",
+        "image": "productimage/sunglasses/sunglasses_8.jpg",
         "ratings": {
           "average": 4.1,
           "count": 80
@@ -21887,7 +21887,7 @@
         "category": "Sunglasses",
         "stock": 12,
         "tags": ["Oliver Peoples", "Gregory Peck", "Vintage", "Fashion"],
-        "image": "sunglasses/sunglasses_9.jpg",
+        "image": "productimage/sunglasses/sunglasses_9.jpg",
         "ratings": {
           "average": 4.0,
           "count": 70
@@ -21919,7 +21919,7 @@
         "category": "Sunglasses",
         "stock": 10,
         "tags": ["Carrera", "Champion", "Aviator", "Sport"],
-        "image": "sunglasses/sunglasses_10.jpg",
+        "image": "productimage/sunglasses/sunglasses_10.jpg",
         "ratings": {
           "average": 3.9,
           "count": 60
@@ -21951,7 +21951,7 @@
         "category": "Sunglasses",
         "stock": 5,
         "tags": ["Polaroid", "PLD 1012/S", "Rectangular", "Affordable"],
-        "image": "sunglasses/sunglasses_11.jpg",
+        "image": "productimage/sunglasses/sunglasses_11.jpg",
         "ratings": {
           "average": 3.8,
           "count": 50
@@ -21983,7 +21983,7 @@
         "category": "Sunglasses",
         "stock": 3,
         "tags": ["Versace", "VE2199", "Cat-eye", "Luxury"],
-        "image": "sunglasses/sunglasses_12.jpg",
+        "image": "productimage/sunglasses/sunglasses_12.jpg",
         "ratings": {
           "average": 3.7,
           "count": 40
@@ -22015,7 +22015,7 @@
         "category": "Sunglasses",
         "stock": 2,
         "tags": ["Saint Laurent", "SL 462", "Oversized", "Fashion"],
-        "image": "sunglasses/sunglasses_13.jpg",
+        "image": "productimage/sunglasses/sunglasses_13.jpg",
         "ratings": {
           "average": 3.6,
           "count": 30
@@ -22047,7 +22047,7 @@
         "category": "Sunglasses",
         "stock": 1,
         "tags": ["Warby Parker", "Fletcher", "Square", "Affordable"],
-        "image": "sunglasses/sunglasses_14.jpg",
+        "image": "productimage/sunglasses/sunglasses_14.jpg",
         "ratings": {
           "average": 3.5,
           "count": 20
@@ -22079,7 +22079,7 @@
         "category": "Sunglasses",
         "stock": 0,
         "tags": ["Burberry", "BE4291", "Rounded Square", "Classic"],
-        "image": "sunglasses/sunglasses_15.jpg",
+        "image": "productimage/sunglasses/sunglasses_15.jpg",
         "ratings": {
           "average": 3.4,
           "count": 10

@@ -1,4 +1,7 @@
 .ProductFilter {
   grid-area: ProductFilter;
   border: 1px solid #000;
+  position: sticky;
+  top: 0;
+  height: 300px;
 }
