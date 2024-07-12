@@ -4,6 +4,14 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ebb56c3b-5604-4ace-aa14-9a4e4773e856/deploy-status)](https://app.netlify.com/sites/cozymart/deploys)
 
 </i>
+<i style="text-align:center">
+
+<a href="https://cozymart.netlify.app/" style="text-decoration: none;display:block;margin-inline:auto;">
+  <img src="https://img.shields.io/badge/Check%20Live%20website-blue?style=for-the-badge&logo=internet" alt="Button Text">
+</a>
+
+</i>
+
 CozyMart is an e-commerce website built using React and Framer Motion. It utilizes CSS modules for styling.
 
 ## Installation
@@ -12,27 +20,27 @@ To get started with CozyMart, follow these steps:
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/raiyanu/cozy-mart.git
-    ```
+   ```bash
+   git clone https://github.com/raiyanu/cozy-mart.git
+   ```
 
 2. Navigate to the project directory:
 
-    ```bash
-    cd cozy-mart
-    ```
+   ```bash
+   cd cozy-mart
+   ```
 
 3. Install the dependencies using Yarn:
 
-    ```bash
-    yarn
-    ```
+   ```bash
+   yarn
+   ```
 
-    or using npm:
+   or using npm:
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 ### Usage
 
@@ -64,8 +72,7 @@ To deploy CozyMart to Netlify, follow these steps:
 
 4. Configure the build settings:
 
-    - Build command: `yarn build` or `npm run build`
-    - Publish directory: `build`
+   - Build command: `yarn build` or `npm run build`
+   - Publish directory: `build`
 
 5. Click on "Deploy site" and Netlify will build and deploy your CozyMart website.
-
