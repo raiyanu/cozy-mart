@@ -83,10 +83,10 @@
 }
 
 body {
-  max-width: 1200px;
+  max-width: 1600px;
   min-height: 100vh;
   margin-inline: auto;
-  padding-block: 1rem;
+  padding-block: 12px;
   background-color: rgba(225, 200, 200, 0.1);
 }
 :root {

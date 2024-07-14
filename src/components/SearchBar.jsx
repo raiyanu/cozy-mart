@@ -1,59 +1,98 @@
-import React, { useState, useEffect } from "react";
+import { useState } from "react";
+import Box from "@mui/material/Box";
+import SearchIcon from "@mui/icons-material/Search";
+import { styled, alpha } from "@mui/material/styles";
+import { InputBase } from "@mui/material";
+import { useNavigate } from "react-router-dom";
 
-function SearchBar({ open }) {
+function SearchBar() {
+  const [searchVisible, setSearchVisible] = useState(false);
+  const [query, setQuery] = useState("");
+  const navigate = useNavigate();
+  const handleSearch = (event) => {
+    event.preventDefault();
+    console.log("handleSearch");
+    navigate(`/search?search=${query}`);
+  };
   return (
-    <form
-      method="get"
-      action="/search"
+    <Search
       style={{
-        display: "flex",
-        justifyContent: "center",
-        marginBlock: "0rem",
-        position: "absolute",
-        width: "100%",
-        maxWidth: "100%",
-        marginInline: "auto",
-        top: "100%",
-        left: 0,
-        zIndex: 950,
-        padding: ".5rem 1rem",
-        background: "rgba(var(--primary-color,1))",
-
-        height: open ? "auto" : 0,
-        opacity: open ? 1 : 0,
-        translateY: open ? 0 : -100,
-        transition: open ? " all 0.3s ease-in-out" : "",
+        display: "block",
+        marginRight: "auto",
       }}
-      // animate={{
-      //   opacity: isVisible ? 1 : 0,
-      //   y: isVisible ? 0 : -100,
-      // }}
-      // transition={{
-      //   duration: 0.3,
-      //   ease: "easeInOut",
-      // }}
     >
-      <input
-        type="text"
-        name="search"
-        placeholder="Search Product . . ."
-        style={{ padding: "0.5rem", width: "70%", borderRadius: "1rem" }}
-      />
-      <button
-        style={{
-          paddingInline: "1rem",
-          marginLeft: "0.5rem",
-          borderRadius: "5px",
-          background: "rgba(var(--primary-color,1))",
-          color: "white",
-          border: "1px solid rgba(var(--background-primary), 1)",
+      <SearchIconWrapper
+        onClick={() => {
+          setSearchVisible(!searchVisible);
         }}
-        type="submit"
       >
-        Search
-      </button>
-    </form>
+        <SearchIcon />
+      </SearchIconWrapper>
+      {searchVisible ? (
+        <Box component="form" onSubmit={handleSearch}>
+          <StyledInputBase
+            htmlFor="searchProduct"
+            placeholder="Search…"
+            inputProps={{ "aria-label": "search" }}
+            label="searchProduct"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+          />
+        </Box>
+      ) : null}{" "}
+    </Search>
   );
 }
 
 export default SearchBar;
+
+const productsLists = [
+  { title: "Product 1" },
+  { title: "Product 2" },
+  { title: "Product 3" },
+  { title: "Product 4" },
+  { title: "Product 5" },
+];
+
+const Search = styled("div")(({ theme }) => ({
+  position: "relative",
+  borderRadius: theme.shape.borderRadius,
+  backgroundColor: alpha(theme.palette.common.white, 0.15),
+  "&:hover": {
+    backgroundColor: alpha(theme.palette.common.white, 0.25),
+  },
+  marginRight: theme.spacing(2),
+  marginLeft: "auto",
+  width: "100%",
+  [theme.breakpoints.up("sm")]: {
+    marginLeft: theme.spacing(3),
+    width: "auto",
+  },
+}));
+const SearchIconWrapper = styled("div")(({ theme }) => ({
+  padding: theme.spacing(0, 2),
+  height: "100%",
+  position: "absolute",
+  display: "flex",
+  alignItems: "center",
+  justifyContent: "center",
+  zIndex: 1,
+  cursor: "pointer",
+  "&:hover": {
+    backgroundColor: theme.palette.action.hover,
+  },
+}));
+
+const StyledInputBase = styled(InputBase)(({ theme }) => ({
+  color: "inherit",
+  "& .MuiInputBase-input": {
+    padding: theme.spacing(1, 1, 1, 0),
+    // vertical padding + font size from searchIcon
+    paddingLeft: `calc(1em + ${theme.spacing(4)})`,
+    transition: theme.transitions.create("width"),
+    width: "100%",
+    [theme.breakpoints.up("md")]: {
+      width: "20ch",
+    },
+  },
+}));

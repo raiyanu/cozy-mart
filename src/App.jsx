@@ -1,14 +1,17 @@
 import "./App.css";
-import Hero from "./components/Hero";
-import Card from "./components/Card";
 import About from "./pages/About";
-import Header from "./components/Header";
 import { Routes, Route } from "react-router-dom";
-import Cards from "./components/Cards";
-import PopUp from "./components/PopUp";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Contact from "./pages/Contact";
-import SearchPage from "./pages/SearchPage";
+import Search from "./pages/Search";
+import Home from "./pages/Home";
+import "@fontsource/roboto/300.css";
+import "@fontsource/roboto/400.css";
+import "@fontsource/roboto/500.css";
+import "@fontsource/roboto/700.css";
+import Header from "./components/Header";
+import * as React from "react";
+import Button from "@mui/material/Button";
 function App() {
   const [isLoginOpen, setIsLoginOpen] = useState(true);
   const handLoginToggle = () => {
@@ -23,8 +26,9 @@ function App() {
             index
             element={
               <>
-                <PopUp isOpen={isLoginOpen} onClose={handLoginToggle} />
-                <Hero />
+                {/* <Button variant="contained">Hello world</Button> */}
+                {/* <PopUp isOpen={isLoginOpen} onClose={handLoginToggle} /> */}
+                hey there
                 {/* <Cards /> */}
               </>
             }
@@ -40,7 +44,7 @@ function App() {
             }
           />
         </Route>
-        <Route path="/search" element={<SearchPage />} />
+        <Route path="/search" element={<Search />} />
       </Routes>
     </>
   );

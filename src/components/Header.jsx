@@ -1,208 +1,73 @@
-import header from "./Header.module.css";
-import Button from "./Button";
-import { NavLink } from "react-router-dom";
-import { useState, useEffect } from "react";
+import { useState } from "react";
+import { styled, alpha } from "@mui/material/styles";
+import AppBar from "@mui/material/AppBar";
+import Box from "@mui/material/Box";
+import Toolbar from "@mui/material/Toolbar";
+import IconButton from "@mui/material/IconButton";
+import Typography from "@mui/material/Typography";
+import InputBase from "@mui/material/InputBase";
+import Badge from "@mui/material/Badge";
+import MenuItem from "@mui/material/MenuItem";
+import Menu from "@mui/material/Menu";
+import MenuIcon from "@mui/icons-material/Menu";
+import SearchIcon from "@mui/icons-material/Search";
+import AccountCircle from "@mui/icons-material/AccountCircle";
+import MailIcon from "@mui/icons-material/Mail";
+import NotificationsIcon from "@mui/icons-material/Notifications";
+import MoreIcon from "@mui/icons-material/MoreVert";
+import Autocomplete from "@mui/material/Autocomplete";
 import SearchBar from "./SearchBar";
-import { motion, useScroll } from "framer-motion";
 
-import { styled, alpha } from '@mui/material/styles';
-import AppBar from '@mui/material/AppBar';
-import Box from '@mui/material/Box';
-import Toolbar from '@mui/material/Toolbar';
-import IconButton from '@mui/material/IconButton';
-import Typography from '@mui/material/Typography';
-import InputBase from '@mui/material/InputBase';
-import Badge from '@mui/material/Badge';
-import MenuItem from '@mui/material/MenuItem';
-import Menu from '@mui/material/Menu';
-import MenuIcon from '@mui/icons-material/Menu';
-import SearchIcon from '@mui/icons-material/Search';
-import AccountCircle from '@mui/icons-material/AccountCircle';
-import MailIcon from '@mui/icons-material/Mail';
-import NotificationsIcon from '@mui/icons-material/Notifications';
-import MoreIcon from '@mui/icons-material/MoreVert';
-
-
-export default function Header({ handleLoginOpen }) {
-  const [menuOpen, setMenuOpen] = useState(false);
-  const [searchBar, setSearchBar] = useState(false);
-  const { scrollY } = useScroll();
-  const [isVisible, setIsVisible] = useState(true);
-  const [lastScrollY, setLastScrollY] = useState(0);
-
-  useEffect(() => {
-    const handleScroll = () => {
-      const currentScrollY = scrollY.get();
-      if (currentScrollY < lastScrollY) {
-        if (lastScrollY - currentScrollY > 20) {
-          setIsVisible(true);
-        }
-      } else {
-        if (currentScrollY - lastScrollY > 20) {
-          setIsVisible(false);
-        }
-      }
-      setLastScrollY(currentScrollY);
-    };
-    const unsubscribe = scrollY.onChange(handleScroll);
-    return () => unsubscribe();
-  }, [scrollY, lastScrollY]);
-
-  return (
-    <header
-      className={header.header}
-      style={{
-        opacity: isVisible ? 1 : 0,
-        transition: "all 0.3s ease-in-out",
-      }}
-    >
-      <h1>CozyMart</h1>
-      <nav className={`${header.navigation} ${menuOpen ? header.open : ""}`}>
-        <NavLink
-          to="/"
-          className={({ isActive }) =>
-            `${header.navLink} ${isActive ? header.active : ""}`
-          }
-          onClick={() => setMenuOpen(false)}
-        >
-          Home
-        </NavLink>
-        <NavLink
-          to="/Search"
-          className={({ isActive }) =>
-            `${header.navLink} ${isActive ? header.active : ""}`
-          }
-          onClick={() => setMenuOpen(false)}
-        >
-          Search
-        </NavLink>
-        <NavLink
-          to="/about"
-          className={({ isActive }) =>
-            `${header.navLink} ${isActive ? header.active : ""}`
-          }
-          onClick={() => setMenuOpen(false)}
-        >
-          About
-        </NavLink>
-        <NavLink
-          to="/contact"
-          className={({ isActive }) =>
-            `${header.navLink} ${isActive ? header.active : ""}`
-          }
-          onClick={() => setMenuOpen(false)}
-        >
-          Contact
-        </NavLink>
-        <div
-          style={{
-            display: "flex",
-            marginInline: "auto",
-            alignItems: "space-evenly",
-            width: "100%",
-          }}
-          className={header.actionButton}
-        >
-          <span className="material-symbols-rounded">notifications</span>
-          <span className="material-symbols-rounded">shopping_cart</span>
-        </div>
-        <div style={{ display: "flex", marginInline: "auto" }}>
-          <Button text={"Sign Up"} theme="minimal" />
-          <Button
-            text={"Login"}
-            theme="flare"
-            onClick={() => handleLoginOpen()}
-          />
-        </div>
-      </nav>
-      <div className="actionIcon">
-        <span
-          className={`material-symbols-rounded ${header.burger} ${header.searchIcon}`}
-          onClick={() => setSearchBar(!searchBar)}
-          style={{ color: "rgba(251, 246, 226,1)" }}
-        >
-          search
-        </span>
-        <span
-          className={`material-symbols-rounded ${header.burger}`}
-          onClick={() => setMenuOpen(!menuOpen)}
-          style={{ color: "rgba(251, 246, 226,1)" }}
-        >
-          menu
-        </span>
-      </div>
-      <SearchBar open={searchBar} />
-    </header>
-  );
-}
-
-// const NavLink = ({ href, children }) => {
-//   const pathname = usePathname();
-//   const isActive = pathname === href;
-
-//   return (
-//     <Link
-//       href={href}
-//       className={`${header.navLink} ${isActive ? header.active : ""}`}
-//     >
-//       {children}
-//     </Link>
-//   );
-// };
-
-
-
-
-
-const Search = styled('div')(({ theme }) => ({
-  position: 'relative',
+const Search = styled("div")(({ theme }) => ({
+  position: "relative",
   borderRadius: theme.shape.borderRadius,
   backgroundColor: alpha(theme.palette.common.white, 0.15),
-  '&:hover': {
+  "&:hover": {
     backgroundColor: alpha(theme.palette.common.white, 0.25),
   },
   marginRight: theme.spacing(2),
   marginLeft: 0,
-  width: '100%',
-  [theme.breakpoints.up('sm')]: {
+  width: "100%",
+  [theme.breakpoints.up("sm")]: {
     marginLeft: theme.spacing(3),
-    width: 'auto',
+    width: "auto",
   },
 }));
 
-const SearchIconWrapper = styled('div')(({ theme }) => ({
+const SearchIconWrapper = styled("div")(({ theme }) => ({
   padding: theme.spacing(0, 2),
-  height: '100%',
-  position: 'absolute',
-  pointerEvents: 'none',
-  display: 'flex',
-  alignItems: 'center',
-  justifyContent: 'center',
+  height: "100%",
+  position: "absolute",
+  pointerEvents: "none",
+  display: "flex",
+  alignItems: "center",
+  justifyContent: "center",
 }));
 
 const StyledInputBase = styled(InputBase)(({ theme }) => ({
-  color: 'inherit',
-  '& .MuiInputBase-input': {
+  color: "inherit",
+  "& .MuiInputBase-input": {
     padding: theme.spacing(1, 1, 1, 0),
     // vertical padding + font size from searchIcon
     paddingLeft: `calc(1em + ${theme.spacing(4)})`,
-    transition: theme.transitions.create('width'),
-    width: '100%',
-    [theme.breakpoints.up('md')]: {
-      width: '20ch',
+    transition: theme.transitions.create("width"),
+    width: "100%",
+    [theme.breakpoints.up("md")]: {
+      width: "20ch",
     },
   },
 }));
 
-export default function PrimarySearchAppBar() {
-  const [anchorEl, setAnchorEl] = React.useState(null);
-  const [mobileMoreAnchorEl, setMobileMoreAnchorEl] = React.useState(null);
+export default function Header() {
+  const [anchorEl, setAnchorEl] = useState(null);
+  const [mobileMoreAnchorEl, setMobileMoreAnchorEl] = useState(null);
 
   const isMenuOpen = Boolean(anchorEl);
   const isMobileMenuOpen = Boolean(mobileMoreAnchorEl);
 
   const handleProfileMenuOpen = (event) => {
     setAnchorEl(event.currentTarget);
+    console.log("handleProfileMenuOpen");
   };
 
   const handleMobileMenuClose = () => {
@@ -218,19 +83,19 @@ export default function PrimarySearchAppBar() {
     setMobileMoreAnchorEl(event.currentTarget);
   };
 
-  const menuId = 'primary-search-account-menu';
+  const menuId = "primary-search-account-menu";
   const renderMenu = (
     <Menu
       anchorEl={anchorEl}
       anchorOrigin={{
-        vertical: 'top',
-        horizontal: 'right',
+        vertical: "top",
+        horizontal: "right",
       }}
       id={menuId}
       keepMounted
       transformOrigin={{
-        vertical: 'top',
-        horizontal: 'right',
+        vertical: "top",
+        horizontal: "right",
       }}
       open={isMenuOpen}
       onClose={handleMenuClose}
@@ -240,19 +105,19 @@ export default function PrimarySearchAppBar() {
     </Menu>
   );
 
-  const mobileMenuId = 'primary-search-account-menu-mobile';
+  const mobileMenuId = "primary-search-account-menu-mobile";
   const renderMobileMenu = (
     <Menu
       anchorEl={mobileMoreAnchorEl}
       anchorOrigin={{
-        vertical: 'top',
-        horizontal: 'right',
+        vertical: "top",
+        horizontal: "right",
       }}
       id={mobileMenuId}
       keepMounted
       transformOrigin={{
-        vertical: 'top',
-        horizontal: 'right',
+        vertical: "top",
+        horizontal: "right",
       }}
       open={isMobileMenuOpen}
       onClose={handleMobileMenuClose}
@@ -271,7 +136,8 @@ export default function PrimarySearchAppBar() {
           aria-label="show 17 new notifications"
           color="inherit"
         >
-          <Badge badgeContent={17} color="error">
+          {/* gotta add that to here badgeContent={17} */}
+          <Badge color="error">
             <NotificationsIcon />
           </Badge>
         </IconButton>
@@ -309,23 +175,20 @@ export default function PrimarySearchAppBar() {
             variant="h6"
             noWrap
             component="div"
-            sx={{ display: { xs: 'none', sm: 'block' } }}
+            sx={{ display: { xs: "none", sm: "block" } }}
           >
-            MUI
+            Cozy-Mart
           </Typography>
-          <Search>
-            <SearchIconWrapper>
-              <SearchIcon />
-            </SearchIconWrapper>
-            <StyledInputBase
-              placeholder="Search…"
-              inputProps={{ 'aria-label': 'search' }}
-            />
-          </Search>
+          <SearchBar />
           <Box sx={{ flexGrow: 1 }} />
-          <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
-            <IconButton size="large" aria-label="show 4 new mails" color="inherit">
-              <Badge badgeContent={4} color="error">
+          <Box sx={{ display: { xs: "none", md: "flex" } }}>
+            <IconButton
+              size="large"
+              aria-label="show 4 new mails"
+              color="inherit"
+            >
+              {/* gotta add that to here badgeContent={4} */}
+              <Badge color="error">
                 <MailIcon />
               </Badge>
             </IconButton>
@@ -334,7 +197,9 @@ export default function PrimarySearchAppBar() {
               aria-label="show 17 new notifications"
               color="inherit"
             >
-              <Badge badgeContent={17} color="error">
+              {/* gotta add that to here badgeContent={17} */}
+
+              <Badge color="error">
                 <NotificationsIcon />
               </Badge>
             </IconButton>
@@ -350,7 +215,7 @@ export default function PrimarySearchAppBar() {
               <AccountCircle />
             </IconButton>
           </Box>
-          <Box sx={{ display: { xs: 'flex', md: 'none' } }}>
+          <Box sx={{ display: { xs: "flex", md: "none" } }}>
             <IconButton
               size="large"
               aria-label="show more"
