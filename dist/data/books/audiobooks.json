@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 201,
+    "name": "The Great Gatsby",
+    "description": "A classic novel by F. Scott Fitzgerald, narrated by a renowned voice actor.",
+    "price": 14.99,
+    "category": "Audiobooks",
+    "stock": 100,
+    "tags": ["classic", "fiction", "F. Scott Fitzgerald"],
+    "image": "audiobooks/audiobooks_1.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1500,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "BookLover123",
+        "comment": "Fantastic narration of a timeless classic.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "AudioFan",
+        "comment": "A wonderful experience listening to this audiobook.",
+        "rating": 4,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 202,
+    "name": "1984",
+    "description": "George Orwell's dystopian novel, brought to life through powerful narration.",
+    "price": 12.99,
+    "category": "Audiobooks",
+    "stock": 80,
+    "tags": ["dystopian", "fiction", "George Orwell"],
+    "image": "audiobooks/audiobooks_2.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "DystopiaLover",
+        "comment": "A chilling and thought-provoking listen.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "OrwellFan",
+        "comment": "Excellent narration and a gripping story.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 203,
+    "name": "To Kill a Mockingbird",
+    "description": "Harper Lee's masterpiece narrated by a captivating voice actor.",
+    "price": 16.99,
+    "category": "Audiobooks",
+    "stock": 90,
+    "tags": ["classic", "fiction", "Harper Lee"],
+    "image": "audiobooks/audiobooks_3.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 210
+    },
+    "sales": {
+      "totalSold": 1300,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "MockingbirdFan",
+        "comment": "An unforgettable story beautifully narrated.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "ClassicLover",
+        "comment": "A must-listen for everyone.",
+        "rating": 5,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 204,
+    "name": "Pride and Prejudice",
+    "description": "Jane Austen's beloved novel, narrated with elegance and charm.",
+    "price": 13.99,
+    "category": "Audiobooks",
+    "stock": 70,
+    "tags": ["classic", "romance", "Jane Austen"],
+    "image": "audiobooks/audiobooks_4.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "AustenFan",
+        "comment": "A delightful listening experience.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "RomanceLover",
+        "comment": "Wonderful narration of a timeless romance.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 205,
+    "name": "Moby Dick",
+    "description": "Herman Melville's epic tale of the sea, narrated with intensity and drama.",
+    "price": 15.99,
+    "category": "Audiobooks",
+    "stock": 60,
+    "tags": ["classic", "adventure", "Herman Melville"],
+    "image": "audiobooks/audiobooks_5.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "SeaAdventureFan",
+        "comment": "A gripping tale beautifully narrated.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "MelvilleLover",
+        "comment": "Excellent audiobook experience.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 206,
+    "name": "The Catcher in the Rye",
+    "description": "J.D. Salinger's classic novel, narrated with a unique and engaging voice.",
+    "price": 12.99,
+    "category": "Audiobooks",
+    "stock": 100,
+    "tags": ["classic", "fiction", "J.D. Salinger"],
+    "image": "audiobooks/audiobooks_6.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "CatcherFan",
+        "comment": "A compelling story with excellent narration.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "SalingerLover",
+        "comment": "Enjoyed listening to this classic.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 207,
+    "name": "War and Peace",
+    "description": "Leo Tolstoy's epic novel, narrated by a renowned voice actor.",
+    "price": 19.99,
+    "category": "Audiobooks",
+    "stock": 50,
+    "tags": ["classic", "historical", "Leo Tolstoy"],
+    "image": "audiobooks/audiobooks_7.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "TolstoyFan",
+        "comment": "A monumental work beautifully narrated.",
+        "rating": 5,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "HistoryLover",
+        "comment": "A must-listen for fans of historical fiction.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 208,
+    "name": "The Hobbit",
+    "description": "J.R.R. Tolkien's fantasy classic, narrated with excitement and wonder.",
+    "price": 14.99,
+    "category": "Audiobooks",
+    "stock": 90,
+    "tags": ["fantasy", "classic", "J.R.R. Tolkien"],
+    "image": "audiobooks/audiobooks_8.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "TolkienFan",
+        "comment": "A magical journey with excellent narration.",
+        "rating": 5,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "FantasyLover",
+        "comment": "Loved every minute of this audiobook.",
+        "rating": 5,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 209,
+    "name": "Brave New World",
+    "description": "Aldous Huxley's dystopian novel, narrated with a gripping voice.",
+    "price": 13.99,
+    "category": "Audiobooks",
+    "stock": 80,
+    "tags": ["dystopian", "fiction", "Aldous Huxley"],
+    "image": "audiobooks/audiobooks_9.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "HuxleyFan",
+        "comment": "A thought-provoking story with excellent narration.",
+        "rating": 5,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "DystopiaLover",
+        "comment": "An engaging and powerful audiobook.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 210,
+    "name": "Jane Eyre",
+    "description": "Charlotte Brontë's classic novel, narrated with passion and depth.",
+    "price": 12.99,
+    "category": "Audiobooks",
+    "stock": 100,
+    "tags": ["classic", "romance", "Charlotte Brontë"],
+    "image": "audiobooks/audiobooks_10.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "BronteFan",
+        "comment": "A beautiful story with excellent narration.",
+        "rating": 5,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "RomanceLover",
+        "comment": "A wonderful audiobook experience.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 211,
+    "name": "The Odyssey",
+    "description": "Homer's epic tale, narrated with grandeur and excitement.",
+    "price": 14.99,
+    "category": "Audiobooks",
+    "stock": 70,
+    "tags": ["classic", "epic", "Homer"],
+    "image": "audiobooks/audiobooks_11.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 950,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "EpicFan",
+        "comment": "A fantastic retelling of a timeless classic.",
+        "rating": 5,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "HistoryLover",
+        "comment": "Enjoyed listening to this epic tale.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 212,
+    "name": "Great Expectations",
+    "description": "Charles Dickens' classic, narrated with rich and engaging tones.",
+    "price": 13.99,
+    "category": "Audiobooks",
+    "stock": 90,
+    "tags": ["classic", "fiction", "Charles Dickens"],
+    "image": "audiobooks/audiobooks_12.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "DickensFan",
+        "comment": "A captivating story beautifully narrated.",
+        "rating": 5,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "ClassicLover",
+        "comment": "An enjoyable listen from start to finish.",
+        "rating": 4,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 213,
+    "name": "Dracula",
+    "description": "Bram Stoker's horror classic, narrated with a spine-chilling voice.",
+    "price": 11.99,
+    "category": "Audiobooks",
+    "stock": 85,
+    "tags": ["horror", "classic", "Bram Stoker"],
+    "image": "audiobooks/audiobooks_13.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "HorrorFan",
+        "comment": "A thrilling and chilling audiobook.",
+        "rating": 5,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "StokerLover",
+        "comment": "Excellent narration of a horror classic.",
+        "rating": 4,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 214,
+    "name": "The Adventures of Sherlock Holmes",
+    "description": "Arthur Conan Doyle's detective stories, narrated with intrigue and wit.",
+    "price": 12.99,
+    "category": "Audiobooks",
+    "stock": 100,
+    "tags": ["detective", "classic", "Arthur Conan Doyle"],
+    "image": "audiobooks/audiobooks_14.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "HolmesFan",
+        "comment": "A brilliant collection of stories, excellently narrated.",
+        "rating": 5,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "MysteryLover",
+        "comment": "A must-listen for fans of detective fiction.",
+        "rating": 4,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 215,
+    "name": "Wuthering Heights",
+    "description": "Emily Brontë's gothic novel, narrated with passion and depth.",
+    "price": 13.99,
+    "category": "Audiobooks",
+    "stock": 95,
+    "tags": ["classic", "romance", "Emily Brontë"],
+    "image": "audiobooks/audiobooks_15.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 950,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "BronteFan",
+        "comment": "A haunting and beautiful story, wonderfully narrated.",
+        "rating": 5,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "GothicLover",
+        "comment": "A powerful audiobook experience.",
+        "rating": 4,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

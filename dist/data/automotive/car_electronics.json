@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Car Wax",
+    "description": "Give your car a shiny finish with this high-quality wax.",
+    "price": 15.99,
+    "category": "Car Electronics",
+    "stock": 40,
+    "tags": ["car", "care", "wax"],
+    "image": "productimage/car_electronics/car+electronics_1.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 34
+    },
+    "sales": {
+      "totalSold": 120,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "CustomerA",
+        "comment": "Great wax, easy to apply!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerB",
+        "comment": "Good but a bit expensive.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Car Charger",
+    "description": "Charge your devices on the go with this car charger.",
+    "price": 9.99,
+    "category": "Car Electronics",
+    "stock": 25,
+    "tags": ["car", "charger", "electronics"],
+    "image": "productimage/car_electronics/car+electronics_2.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "CustomerC",
+        "comment": "Works great, fast charging!",
+        "rating": 5,
+        "date": "2024-07-04"
+      },
+      {
+        "user": "CustomerD",
+        "comment": "Decent charger for the price.",
+        "rating": 3,
+        "date": "2024-07-03"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Car GPS",
+    "description": "Never get lost again with this advanced car GPS system.",
+    "price": 99.99,
+    "category": "Car Electronics",
+    "stock": 15,
+    "tags": ["car", "gps", "navigation"],
+    "image": "productimage/car_electronics/car+electronics_3.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 50
+    },
+    "sales": {
+      "totalSold": 200,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "CustomerE",
+        "comment": "Accurate and reliable GPS.",
+        "rating": 5,
+        "date": "2024-07-02"
+      },
+      {
+        "user": "CustomerF",
+        "comment": "Great value for the price.",
+        "rating": 4,
+        "date": "2024-07-01"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Car Dash Cam",
+    "description": "Capture every moment on the road with this high-definition dash cam.",
+    "price": 49.99,
+    "category": "Car Electronics",
+    "stock": 30,
+    "tags": ["car", "dash cam", "electronics"],
+    "image": "productimage/car_electronics/car+electronics_4.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CustomerG",
+        "comment": "Clear video quality, easy to install.",
+        "rating": 5,
+        "date": "2024-06-30"
+      },
+      {
+        "user": "CustomerH",
+        "comment": "Good dash cam for the price.",
+        "rating": 4,
+        "date": "2024-06-29"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Car Bluetooth Adapter",
+    "description": "Stream music wirelessly in your car with this Bluetooth adapter.",
+    "price": 19.99,
+    "category": "Car Electronics",
+    "stock": 20,
+    "tags": ["car", "bluetooth", "adapter"],
+    "image": "productimage/car_electronics/car+electronics_5.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 15
+    },
+    "sales": {
+      "totalSold": 60,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "CustomerI",
+        "comment": "Easy to use, good sound quality.",
+        "rating": 4,
+        "date": "2024-06-28"
+      },
+      {
+        "user": "CustomerJ",
+        "comment": "Decent Bluetooth adapter.",
+        "rating": 3,
+        "date": "2024-06-27"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Car Seat Covers",
+    "description": "Protect your car seats with these stylish and durable seat covers.",
+    "price": 29.99,
+    "category": "Car Electronics",
+    "stock": 35,
+    "tags": ["car", "seat covers", "accessories"],
+    "image": "productimage/car_electronics/car+electronics_6.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 150,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "CustomerK",
+        "comment": "Great seat covers, easy to install.",
+        "rating": 5,
+        "date": "2024-06-26"
+      },
+      {
+        "user": "CustomerL",
+        "comment": "Good quality and comfortable.",
+        "rating": 4,
+        "date": "2024-06-25"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Car Air Freshener",
+    "description": "Keep your car smelling fresh with this long-lasting air freshener.",
+    "price": 4.99,
+    "category": "Car Electronics",
+    "stock": 50,
+    "tags": ["car", "air freshener", "accessories"],
+    "image": "productimage/car_electronics/car+electronics_7.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 10
+    },
+    "sales": {
+      "totalSold": 40,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "CustomerM",
+        "comment": "Nice scent, lasts a long time.",
+        "rating": 4,
+        "date": "2024-06-24"
+      },
+      {
+        "user": "CustomerN",
+        "comment": "Decent air freshener for the price.",
+        "rating": 3,
+        "date": "2024-06-23"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Car Phone Holder",
+    "description": "Keep your phone secure and accessible while driving with this phone holder.",
+    "price": 12.99,
+    "category": "Car Electronics",
+    "stock": 15,
+    "tags": ["car", "phone holder", "accessories"],
+    "image": "productimage/car_electronics/car+electronics_8.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 18
+    },
+    "sales": {
+      "totalSold": 70,
+      "soldThisMonth": 4
+    },
+    "reviews": [
+      {
+        "user": "CustomerO",
+        "comment": "Sturdy and holds the phone well.",
+        "rating": 5,
+        "date": "2024-06-22"
+      },
+      {
+        "user": "CustomerP",
+        "comment": "Decent phone holder, could be more adjustable.",
+        "rating": 3,
+        "date": "2024-06-21"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Car Vacuum Cleaner",
+    "description": "Keep your car clean with this powerful and portable vacuum cleaner.",
+    "price": 39.99,
+    "category": "Car Electronics",
+    "stock": 10,
+    "tags": ["car", "vacuum cleaner", "cleaning"],
+    "image": "productimage/car_electronics/car+electronics_9.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "CustomerQ",
+        "comment": "Great suction power, easy to use.",
+        "rating": 5,
+        "date": "2024-06-20"
+      },
+      {
+        "user": "CustomerR",
+        "comment": "Good vacuum cleaner for the car.",
+        "rating": 4,
+        "date": "2024-06-19"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Car Jump Starter",
+    "description": "Never get stranded with a dead battery again with this portable jump starter.",
+    "price": 79.99,
+    "category": "Car Electronics",
+    "stock": 5,
+    "tags": ["car", "jump starter", "emergency"],
+    "image": "productimage/car_electronics/car+electronics_10.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 45
+    },
+    "sales": {
+      "totalSold": 180,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "CustomerS",
+        "comment": "Saved me multiple times, highly recommended!",
+        "rating": 5,
+        "date": "2024-06-18"
+      },
+      {
+        "user": "CustomerT",
+        "comment": "Expensive but worth it.",
+        "rating": 4,
+        "date": "2024-06-17"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Car Tire Pressure Gauge",
+    "description": "Ensure your tires are properly inflated with this accurate tire pressure gauge.",
+    "price": 9.99,
+    "category": "Car Electronics",
+    "stock": 20,
+    "tags": ["car", "tire pressure gauge", "maintenance"],
+    "image": "productimage/car_electronics/car+electronics_11.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 15
+    },
+    "sales": {
+      "totalSold": 60,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "CustomerU",
+        "comment": "Accurate readings, easy to use.",
+        "rating": 5,
+        "date": "2024-06-16"
+      },
+      {
+        "user": "CustomerV",
+        "comment": "Good tire pressure gauge for the price.",
+        "rating": 4,
+        "date": "2024-06-15"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Car Sun Shade",
+    "description": "Protect your car from the sun's heat with this foldable sun shade.",
+    "price": 7.99,
+    "category": "Car Electronics",
+    "stock": 25,
+    "tags": ["car", "sun shade", "accessories"],
+    "image": "productimage/car_electronics/car+electronics_12.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 10
+    },
+    "sales": {
+      "totalSold": 40,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "CustomerW",
+        "comment": "Blocks the sun effectively.",
+        "rating": 4,
+        "date": "2024-06-14"
+      },
+      {
+        "user": "CustomerX",
+        "comment": "Decent sun shade, could be larger.",
+        "rating": 3,
+        "date": "2024-06-13"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Car Steering Wheel Cover",
+    "description": "Enhance your driving experience with this comfortable and stylish steering wheel cover.",
+    "price": 14.99,
+    "category": "Car Electronics",
+    "stock": 30,
+    "tags": ["car", "steering wheel cover", "accessories"],
+    "image": "productimage/car_electronics/car+electronics_13.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CustomerY",
+        "comment": "Great grip and looks good.",
+        "rating": 5,
+        "date": "2024-06-12"
+      },
+      {
+        "user": "CustomerZ",
+        "comment": "Good steering wheel cover for the price.",
+        "rating": 4,
+        "date": "2024-06-11"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Car Headrest Mount",
+    "description": "Enjoy hands-free entertainment in your car with this adjustable headrest mount.",
+    "price": 19.99,
+    "category": "Car Electronics",
+    "stock": 15,
+    "tags": ["car", "headrest mount", "accessories"],
+    "image": "productimage/car_electronics/car+electronics_14.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 18
+    },
+    "sales": {
+      "totalSold": 70,
+      "soldThisMonth": 4
+    },
+    "reviews": [
+      {
+        "user": "CustomerAA",
+        "comment": "Sturdy and holds the tablet well.",
+        "rating": 5,
+        "date": "2024-06-10"
+      },
+      {
+        "user": "CustomerBB",
+        "comment": "Decent headrest mount, could be more adjustable.",
+        "rating": 3,
+        "date": "2024-06-09"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Car Key Finder",
+    "description": "Never lose your car keys again with this handy key finder.",
+    "price": 9.99,
+    "category": "Car Electronics",
+    "stock": 10,
+    "tags": ["car", "key finder", "accessories"],
+    "image": "productimage/car_electronics/car+electronics_15.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "CustomerCC",
+        "comment": "Helps me find my keys quickly.",
+        "rating": 5,
+        "date": "2024-06-08"
+      },
+      {
+        "user": "CustomerDD",
+        "comment": "Good key finder for the price.",
+        "rating": 4,
+        "date": "2024-06-07"
+      }
+    ]
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 101,
+    "name": "Nail Polish",
+    "description": "Classic red nail polish for a bold look.",
+    "price": 12.99,
+    "category": "Nail Care",
+    "stock": 25,
+    "tags": ["beauty", "nail polish", "bold"],
+    "image": "productimage/beauty/nail_care/nail+care_1.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "NailPolishAddict",
+        "comment": "Gorgeous shade, long-lasting.",
+        "rating": 5,
+        "date": "2023-12-15"
+      },
+      {
+        "user": "BeautyFanatic",
+        "comment": "Smooth application, vibrant color.",
+        "rating": 4,
+        "date": "2023-12-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 102,
+    "name": "Nail Strengthener",
+    "description": "Strengthens and protects nails from breakage.",
+    "price": 15.99,
+    "category": "Nail Care",
+    "stock": 20,
+    "tags": ["beauty", "nail care", "nail strengthener"],
+    "image": "productimage/beauty/nail_care/nail+care_2.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "NailCareExpert",
+        "comment": "Noticeable improvement in nail strength.",
+        "rating": 5,
+        "date": "2023-12-13"
+      },
+      {
+        "user": "BeautyLover",
+        "comment": "Helped my nails grow stronger.",
+        "rating": 4,
+        "date": "2023-12-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 103,
+    "name": "Nail Polish Remover",
+    "description": "Gentle nail polish remover with moisturizing properties.",
+    "price": 8.99,
+    "category": "Nail Care",
+    "stock": 30,
+    "tags": ["beauty", "nail care", "nail polish remover"],
+    "image": "productimage/beauty/nail_care/nail+care_3.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "NailCareFan",
+        "comment": "Effective and doesn't dry out nails.",
+        "rating": 5,
+        "date": "2023-12-11"
+      },
+      {
+        "user": "BeautyEnthusiast",
+        "comment": "Gentle on nails, removes polish well.",
+        "rating": 4,
+        "date": "2023-12-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 104,
+    "name": "Nail File Set",
+    "description": "Set of professional nail files for shaping and smoothing nails.",
+    "price": 11.99,
+    "category": "Nail Care",
+    "stock": 25,
+    "tags": ["beauty", "nail care", "nail file"],
+    "image": "productimage/beauty/nail_care/nail+care_4.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "NailArtExpert",
+        "comment": "Excellent quality files, great for shaping.",
+        "rating": 5,
+        "date": "2023-12-09"
+      },
+      {
+        "user": "BeautyLover",
+        "comment": "Smooth finish, easy to use.",
+        "rating": 4,
+        "date": "2023-12-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 105,
+    "name": "Nail Treatment Kit",
+    "description": "Comprehensive kit for nail care and treatment.",
+    "price": 19.99,
+    "category": "Nail Care",
+    "stock": 22,
+    "tags": ["beauty", "nail care", "nail treatment"],
+    "image": "productimage/beauty/nail_care/nail+care_5.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 70,
+      "soldThisMonth": 4
+    },
+    "reviews": [
+      {
+        "user": "NailCareEnthusiast",
+        "comment": "Effective treatments, noticeable improvement.",
+        "rating": 5,
+        "date": "2023-12-07"
+      },
+      {
+        "user": "BeautyFan",
+        "comment": "Helped strengthen my nails, good value.",
+        "rating": 4,
+        "date": "2023-12-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 106,
+    "name": "Nail Buffer",
+    "description": "Buffer block for smoothing and shining nails.",
+    "price": 9.99,
+    "category": "Nail Care",
+    "stock": 20,
+    "tags": ["beauty", "nail care", "nail buffer"],
+    "image": "productimage/beauty/nail_care/nail+care_6.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 24
+    },
+    "sales": {
+      "totalSold": 65,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "NailCareFanatic",
+        "comment": "Leaves nails smooth and shiny.",
+        "rating": 5,
+        "date": "2023-12-05"
+      },
+      {
+        "user": "BeautyLover",
+        "comment": "Good quality, easy to use.",
+        "rating": 4,
+        "date": "2023-12-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 107,
+    "name": "Nail Art Brushes",
+    "description": "Set of fine brushes for detailed nail art designs.",
+    "price": 14.99,
+    "category": "Nail Care",
+    "stock": 18,
+    "tags": ["beauty", "nail care", "nail art"],
+    "image": "productimage/beauty/nail_care/nail+care_7.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 65,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "NailArtExpert",
+        "comment": "Precise brushes, great for intricate designs.",
+        "rating": 5,
+        "date": "2023-12-03"
+      },
+      {
+        "user": "BeautyFan",
+        "comment": "Good variety of brush sizes, quality is good.",
+        "rating": 4,
+        "date": "2023-12-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 108,
+    "name": "Nail Decals",
+    "description": "Assorted nail decals for easy and stylish nail art.",
+    "price": 7.99,
+    "category": "Nail Care",
+    "stock": 15,
+    "tags": ["beauty", "nail care", "nail decals"],
+    "image": "productimage/beauty/nail_care/nail+care_8.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 24
+    },
+    "sales": {
+      "totalSold": 60,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "NailArtEnthusiast",
+        "comment": "Easy to apply, adds a nice touch to nails.",
+        "rating": 5,
+        "date": "2023-12-01"
+      },
+      {
+        "user": "BeautyLover",
+        "comment": "Good variety of designs, stays on well.",
+        "rating": 4,
+        "date": "2023-11-30"
+      }
+    ]
+  },
+  "9": {
+    "id": 109,
+    "name": "Nail Polish Set",
+    "description": "Set of vibrant nail polishes in assorted colors.",
+    "price": 24.99,
+    "category": "Nail Care",
+    "stock": 20,
+    "tags": ["beauty", "nail polish", "nail care"],
+    "image": "productimage/beauty/nail_care/nail+care_9.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "NailPolishFanatic",
+        "comment": "Love the variety of colors!",
+        "rating": 5,
+        "date": "2023-11-29"
+      },
+      {
+        "user": "BeautyLover",
+        "comment": "Great quality, easy to apply.",
+        "rating": 4,
+        "date": "2023-11-28"
+      }
+    ]
+  },
+  "10": {
+    "id": 110,
+    "name": "Cuticle Oil",
+    "description": "Moisturizing cuticle oil for nail care and health.",
+    "price": 14.99,
+    "category": "Nail Care",
+    "stock": 18,
+    "tags": ["beauty", "cuticle oil", "nail care", "moisturizing"],
+    "image": "productimage/beauty/nail_care/nail+care_10.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "NailCareEnthusiast",
+        "comment": "Keeps cuticles soft and hydrated.",
+        "rating": 5,
+        "date": "2023-11-27"
+      },
+      {
+        "user": "BeautyFan",
+        "comment": "Effective and smells nice.",
+        "rating": 4,
+        "date": "2023-11-26"
+      }
+    ]
+  },
+  "11": {
+    "id": 111,
+    "name": "Nail Art Stickers",
+    "description": "Decorative nail art stickers for creative designs.",
+    "price": 9.99,
+    "category": "Nail Care",
+    "stock": 22,
+    "tags": ["beauty", "nail care", "nail art"],
+    "image": "productimage/beauty/nail_care/nail+care_11.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 27
+    },
+    "sales": {
+      "totalSold": 70,
+      "soldThisMonth": 4
+    },
+    "reviews": [
+      {
+        "user": "NailArtLover",
+        "comment": "Fun designs, easy to use.",
+        "rating": 5,
+        "date": "2023-11-25"
+      },
+      {
+        "user": "BeautyEnthusiast",
+        "comment": "Adds flair to nails, good quality.",
+        "rating": 4,
+        "date": "2023-11-24"
+      }
+    ]
+  },
+  "12": {
+    "id": 112,
+    "name": "Nail Care Kit",
+    "description": "Comprehensive kit for nail care and maintenance.",
+    "price": 17.99,
+    "category": "Nail Care",
+    "stock": 19,
+    "tags": ["beauty", "nail care", "nail kit"],
+    "image": "productimage/beauty/nail_care/nail+care_12.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 65,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "NailCareExpert",
+        "comment": "All essentials in one kit, great value.",
+        "rating": 5,
+        "date": "2023-11-23"
+      },
+      {
+        "user": "BeautyFanatic",
+        "comment": "Helped improve my nail health.",
+        "rating": 4,
+        "date": "2023-11-22"
+      }
+    ]
+  },
+  "13": {
+    "id": 113,
+    "name": "Nail Polish Dryer",
+    "description": "Quick-dry nail polish dryer for fast results.",
+    "price": 13.99,
+    "category": "Nail Care",
+    "stock": 17,
+    "tags": ["beauty", "nail care", "nail polish dryer"],
+    "image": "productimage/beauty/nail_care/nail+care_13.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 23
+    },
+    "sales": {
+      "totalSold": 60,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "NailPolishFan",
+        "comment": "Works quickly, saves time.",
+        "rating": 5,
+        "date": "2023-11-21"
+      },
+      {
+        "user": "BeautyLover",
+        "comment": "Handy tool for quick drying.",
+        "rating": 4,
+        "date": "2023-11-20"
+      }
+    ]
+  },
+  "14": {
+    "id": 114,
+    "name": "Nail Strengthener Pen",
+    "description": "Portable nail strengthener pen for on-the-go care.",
+    "price": 10.99,
+    "category": "Nail Care",
+    "stock": 16,
+    "tags": ["beauty", "nail care", "nail strengthener"],
+    "image": "productimage/beauty/nail_care/nail+care_14.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 22
+    },
+    "sales": {
+      "totalSold": 55,
+      "soldThisMonth": 1
+    },
+    "reviews": [
+      {
+        "user": "NailCareEnthusiast",
+        "comment": "Convenient and effective.",
+        "rating": 5,
+        "date": "2023-11-19"
+      },
+      {
+        "user": "BeautyFan",
+        "comment": "Helps strengthen nails, easy to use.",
+        "rating": 4,
+        "date": "2023-11-18"
+      }
+    ]
+  },
+  "15": {
+    "id": 115,
+    "name": "Nail Cuticle Cream",
+    "description": "Rich cuticle cream for nourishing nail care.",
+    "price": 12.99,
+    "category": "Nail Care",
+    "stock": 15,
+    "tags": ["beauty", "nail care", "cuticle cream"],
+    "image": "productimage/beauty/nail_care/nail+care_15.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 50,
+      "soldThisMonth": 1
+    },
+    "reviews": [
+      {
+        "user": "NailCareLover",
+        "comment": "Keeps cuticles moisturized and healthy.",
+        "rating": 5,
+        "date": "2023-11-17"
+      },
+      {
+        "user": "BeautyEnthusiast",
+        "comment": "Softens cuticles, pleasant fragrance.",
+        "rating": 4,
+        "date": "2023-11-16"
+      }
+    ]
+  }
+}

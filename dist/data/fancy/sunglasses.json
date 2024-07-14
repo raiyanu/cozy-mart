@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Ray-Ban Aviator",
+    "description": "Classic aviator sunglasses with metal frame and polarized lenses.",
+    "price": 149.99,
+    "category": "Sunglasses",
+    "stock": 50,
+    "tags": ["Ray-Ban", "Aviator", "Polarized", "Metal"],
+    "image": "sunglasses/sunglasses_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Timeless design and excellent sun protection.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "SunglassesFan456",
+        "comment": "Polarized lenses are great for driving.",
+        "rating": 5,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Oakley Holbrook",
+    "description": "Sporty sunglasses with O Matter frame and Prizm lenses for enhanced clarity.",
+    "price": 129.99,
+    "category": "Sunglasses",
+    "stock": 40,
+    "tags": ["Oakley", "Holbrook", "Prizm", "Sport"],
+    "image": "sunglasses/sunglasses_2.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "SportsEnthusiast123",
+        "comment": "Prizm lenses enhance vision during outdoor activities.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "OutdoorLover456",
+        "comment": "Comfortable fit and durable frame.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Maui Jim Kawika",
+    "description": "Fashionable sunglasses with MauiPure lenses and tortoise frame.",
+    "price": 199.99,
+    "category": "Sunglasses",
+    "stock": 35,
+    "tags": ["Maui Jim", "Kawika", "MauiPure", "Tortoise"],
+    "image": "sunglasses/sunglasses_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Stylish design and excellent lens quality.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "SunglassesFan456",
+        "comment": "MauiPure lenses provide clear vision.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Persol PO0649",
+    "description": "Italian handmade sunglasses with crystal lenses and vintage style.",
+    "price": 259.99,
+    "category": "Sunglasses",
+    "stock": 30,
+    "tags": ["Persol", "PO0649", "Crystal", "Handmade"],
+    "image": "sunglasses/sunglasses_4.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "High-quality craftsmanship and timeless design.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "VintageStyle456",
+        "comment": "Crystal lenses add a touch of elegance.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Prada Linea Rossa",
+    "description": "Modern sunglasses with wraparound design and red stripe logo detail.",
+    "price": 299.99,
+    "category": "Sunglasses",
+    "stock": 25,
+    "tags": ["Prada", "Linea Rossa", "Wraparound", "Fashion"],
+    "image": "sunglasses/sunglasses_5.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Modern look with excellent sun protection.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "DesignerStyle456",
+        "comment": "Red stripe logo adds a stylish touch.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Gucci GG0061S",
+    "description": "Luxury sunglasses with oversized square frame and gold-tone interlocking G detail.",
+    "price": 499.99,
+    "category": "Sunglasses",
+    "stock": 20,
+    "tags": ["Gucci", "GG0061S", "Luxury", "Fashion"],
+    "image": "sunglasses/sunglasses_6.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "LuxuryLover123",
+        "comment": "High-quality materials and iconic design.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "Fashionista456",
+        "comment": "Oversized frame is very fashionable.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Dior Homme Blacktie 252S",
+    "description": "Sophisticated sunglasses with round frame and metal brow bar.",
+    "price": 379.99,
+    "category": "Sunglasses",
+    "stock": 18,
+    "tags": ["Dior", "Homme", "Blacktie", "Fashion"],
+    "image": "sunglasses/sunglasses_7.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Elegant design with comfortable fit.",
+        "rating": 4,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "DesignerStyle456",
+        "comment": "Metal brow bar adds a modern touch.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Tom Ford FT0621",
+    "description": "Stylish sunglasses with square frame and metal T logo detail on temples.",
+    "price": 349.99,
+    "category": "Sunglasses",
+    "stock": 15,
+    "tags": ["Tom Ford", "FT0621", "Square", "Fashion"],
+    "image": "sunglasses/sunglasses_8.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 80
+    },
+    "sales": {
+      "totalSold": 400,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Classic design with a modern twist.",
+        "rating": 4,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "DesignerStyle456",
+        "comment": "Metal T logo detail is very chic.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Oliver Peoples Gregory Peck",
+    "description": "Vintage-inspired sunglasses with round P3 frame and keyhole bridge.",
+    "price": 289.99,
+    "category": "Sunglasses",
+    "stock": 12,
+    "tags": ["Oliver Peoples", "Gregory Peck", "Vintage", "Fashion"],
+    "image": "sunglasses/sunglasses_9.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 70
+    },
+    "sales": {
+      "totalSold": 350,
+      "soldThisMonth": 18
+    },
+    "reviews": [
+      {
+        "user": "VintageStyle123",
+        "comment": "Authentic vintage look with modern quality.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Comfortable fit and stylish design.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Carrera Champion",
+    "description": "Iconic sunglasses with sporty aviator shape and Carrera logo on temples.",
+    "price": 179.99,
+    "category": "Sunglasses",
+    "stock": 10,
+    "tags": ["Carrera", "Champion", "Aviator", "Sport"],
+    "image": "sunglasses/sunglasses_10.jpg",
+    "ratings": {
+      "average": 3.9,
+      "count": 60
+    },
+    "sales": {
+      "totalSold": 300,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "SportyStyle123",
+        "comment": "Great for outdoor activities and stylish too.",
+        "rating": 4,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Comfortable fit and durable construction.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Polaroid PLD 1012/S",
+    "description": "Affordable sunglasses with rectangular frame and polarized lenses.",
+    "price": 49.99,
+    "category": "Sunglasses",
+    "stock": 5,
+    "tags": ["Polaroid", "PLD 1012/S", "Rectangular", "Affordable"],
+    "image": "sunglasses/sunglasses_11.jpg",
+    "ratings": {
+      "average": 3.8,
+      "count": 50
+    },
+    "sales": {
+      "totalSold": 250,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "BudgetFashion123",
+        "comment": "Great value for the price.",
+        "rating": 4,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Polarized lenses are effective.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Versace VE2199",
+    "description": "Luxury sunglasses with cat-eye frame and Medusa logo accents.",
+    "price": 399.99,
+    "category": "Sunglasses",
+    "stock": 3,
+    "tags": ["Versace", "VE2199", "Cat-eye", "Luxury"],
+    "image": "sunglasses/sunglasses_12.jpg",
+    "ratings": {
+      "average": 3.7,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 200,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "LuxuryLover123",
+        "comment": "Gorgeous design and premium materials.",
+        "rating": 4,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Medusa logo adds a touch of elegance.",
+        "rating": 3,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Saint Laurent SL 462",
+    "description": "Fashion-forward sunglasses with oversized square frame and SL logo on temples.",
+    "price": 349.99,
+    "category": "Sunglasses",
+    "stock": 2,
+    "tags": ["Saint Laurent", "SL 462", "Oversized", "Fashion"],
+    "image": "sunglasses/sunglasses_13.jpg",
+    "ratings": {
+      "average": 3.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 150,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Bold style statement with excellent quality.",
+        "rating": 4,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "DesignerStyle456",
+        "comment": "Oversized frame is very trendy.",
+        "rating": 3,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Warby Parker Fletcher",
+    "description": "Affordable sunglasses with square frame and lightweight acetate construction.",
+    "price": 99.99,
+    "category": "Sunglasses",
+    "stock": 1,
+    "tags": ["Warby Parker", "Fletcher", "Square", "Affordable"],
+    "image": "sunglasses/sunglasses_14.jpg",
+    "ratings": {
+      "average": 3.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "BudgetFashion123",
+        "comment": "Good value for stylish sunglasses.",
+        "rating": 4,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Lightweight and comfortable to wear.",
+        "rating": 3,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Burberry BE4291",
+    "description": "Classic sunglasses with rounded square frame and Burberry check pattern on temples.",
+    "price": 279.99,
+    "category": "Sunglasses",
+    "stock": 0,
+    "tags": ["Burberry", "BE4291", "Rounded Square", "Classic"],
+    "image": "sunglasses/sunglasses_15.jpg",
+    "ratings": {
+      "average": 3.4,
+      "count": 10
+    },
+    "sales": {
+      "totalSold": 50,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Timeless design with Burberry elegance.",
+        "rating": 4,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "DesignerStyle456",
+        "comment": "Burberry check pattern is iconic.",
+        "rating": 3,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

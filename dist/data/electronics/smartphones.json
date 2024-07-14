@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Galaxy S22 Ultra",
+    "description": "Samsung's flagship smartphone with a powerful camera system and vibrant display.",
+    "price": 1299.99,
+    "category": "Smartphones",
+    "stock": 50,
+    "tags": ["Samsung", "flagship", "Android", "camera"],
+    "image": "smartphones/smartphones_1.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "TechEnthusiast123",
+        "comment": "Excellent camera quality and performance.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "MobileGuru456",
+        "comment": "Smooth experience with great battery life.",
+        "rating": 4,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "iPhone 14 Pro Max",
+    "description": "Apple's latest iPhone model with advanced features and iOS integration.",
+    "price": 1399.99,
+    "category": "Smartphones",
+    "stock": 40,
+    "tags": ["Apple", "iPhone", "iOS", "camera"],
+    "image": "smartphones/smartphones_2.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 55
+    },
+    "reviews": [
+      {
+        "user": "AppleFan123",
+        "comment": "Great build quality and performance.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "TechSavvy456",
+        "comment": "iOS experience is unmatched.",
+        "rating": 5,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Google Pixel 7 Pro",
+    "description": "Google's flagship phone known for its exceptional camera and pure Android experience.",
+    "price": 1099.99,
+    "category": "Smartphones",
+    "stock": 30,
+    "tags": ["Google", "Pixel", "Android", "camera"],
+    "image": "smartphones/smartphones_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "PixelEnthusiast123",
+        "comment": "Best Android camera experience.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "AndroidFan456",
+        "comment": "Smooth performance and regular software updates.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "OnePlus 10 Pro",
+    "description": "OnePlus's flagship offering with fast performance and OxygenOS features.",
+    "price": 1099.99,
+    "category": "Smartphones",
+    "stock": 35,
+    "tags": ["OnePlus", "flagship", "Android", "performance"],
+    "image": "smartphones/smartphones_4.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "OnePlusFan123",
+        "comment": "Smooth experience with impressive battery life.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "TechGeek456",
+        "comment": "OxygenOS is fantastic for customization.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Xiaomi Mi 12 Ultra",
+    "description": "Xiaomi's flagship smartphone with a focus on photography and performance.",
+    "price": 1199.99,
+    "category": "Smartphones",
+    "stock": 25,
+    "tags": ["Xiaomi", "flagship", "Android", "camera"],
+    "image": "smartphones/smartphones_5.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "XiaomiFan123",
+        "comment": "Impressive camera capabilities and MIUI features.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Great value for money with flagship specs.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Sony Xperia 5 III",
+    "description": "Sony's compact flagship phone with a focus on multimedia and photography.",
+    "price": 999.99,
+    "category": "Smartphones",
+    "stock": 20,
+    "tags": ["Sony", "Xperia", "Android", "camera"],
+    "image": "smartphones/smartphones_6.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "SonyFan123",
+        "comment": "Excellent display and camera performance.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "TechReviewer456",
+        "comment": "Compact size with powerful features.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Huawei P50 Pro",
+    "description": "Huawei's flagship with exceptional photography capabilities and HarmonyOS.",
+    "price": 1199.99,
+    "category": "Smartphones",
+    "stock": 15,
+    "tags": ["Huawei", "flagship", "camera", "HarmonyOS"],
+    "image": "smartphones/smartphones_7.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "HuaweiFan123",
+        "comment": "Amazing camera quality and smooth performance.",
+        "rating": 5,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "TechUser456",
+        "comment": "HarmonyOS offers a unique user experience.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "LG Velvet 2 Pro",
+    "description": "LG's sleek smartphone with a focus on design and multimedia experience.",
+    "price": 899.99,
+    "category": "Smartphones",
+    "stock": 10,
+    "tags": ["LG", "Velvet", "Android", "multimedia"],
+    "image": "smartphones/smartphones_8.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "LGFan123",
+        "comment": "Sleek design with impressive audio quality.",
+        "rating": 4,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Great display and smooth performance.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "ASUS ROG Phone 6",
+    "description": "Gaming-focused smartphone with high refresh rate display and gaming accessories support.",
+    "price": 1099.99,
+    "category": "Smartphones",
+    "stock": 18,
+    "tags": ["ASUS", "ROG", "gaming", "Android"],
+    "image": "smartphones/smartphones_9.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 550,
+      "soldThisMonth": 28
+    },
+    "reviews": [
+      {
+        "user": "Gamer123",
+        "comment": "Perfect for gaming with excellent performance.",
+        "rating": 5,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "TechGamer456",
+        "comment": "ROG accessories enhance the gaming experience.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Galaxy Z Fold 4",
+    "description": "Samsung's foldable smartphone with a large flexible display and multitasking capabilities.",
+    "price": 1799.99,
+    "category": "Smartphones",
+    "stock": 20,
+    "tags": ["Samsung", "foldable", "Android", "multitasking"],
+    "image": "smartphones/smartphones_10.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "FoldableFan123",
+        "comment": "Revolutionary design with versatile features.",
+        "rating": 5,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Great for productivity and entertainment.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "iPhone SE (2023)",
+    "description": "Apple's budget-friendly iPhone with modern features and compact size.",
+    "price": 699.99,
+    "category": "Smartphones",
+    "stock": 15,
+    "tags": ["Apple", "iPhone", "budget", "iOS"],
+    "image": "smartphones/smartphones_11.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "BudgetBuyer123",
+        "comment": "Perfect balance of price and performance.",
+        "rating": 5,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "TechSavvy456",
+        "comment": "iOS experience at an affordable price.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Google Pixel 6a",
+    "description": "Google's mid-range Pixel phone with exceptional camera capabilities and pure Android experience.",
+    "price": 599.99,
+    "category": "Smartphones",
+    "stock": 12,
+    "tags": ["Google", "Pixel", "Android", "camera"],
+    "image": "smartphones/smartphones_12.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "PixelFan123",
+        "comment": "Great camera and smooth performance.",
+        "rating": 4,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "AndroidUser456",
+        "comment": "Affordable with flagship-like features.",
+        "rating": 4,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "OnePlus Nord 3",
+    "description": "OnePlus's mid-range offering with smooth performance and OxygenOS features.",
+    "price": 699.99,
+    "category": "Smartphones",
+    "stock": 10,
+    "tags": ["OnePlus", "Nord", "Android", "performance"],
+    "image": "smartphones/smartphones_13.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 80
+    },
+    "sales": {
+      "totalSold": 400,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "OnePlusFan123",
+        "comment": "Smooth experience with good battery life.",
+        "rating": 4,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "TechReviewer456",
+        "comment": "Great value for money with OnePlus quality.",
+        "rating": 4,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Xiaomi Redmi Note 11 Pro",
+    "description": "Xiaomi's affordable smartphone with a large display and capable performance.",
+    "price": 499.99,
+    "category": "Smartphones",
+    "stock": 8,
+    "tags": ["Xiaomi", "Redmi", "Android", "affordable"],
+    "image": "smartphones/smartphones_14.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 70
+    },
+    "sales": {
+      "totalSold": 350,
+      "soldThisMonth": 18
+    },
+    "reviews": [
+      {
+        "user": "XiaomiFan123",
+        "comment": "Great value for money with Xiaomi features.",
+        "rating": 4,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Smooth performance for everyday use.",
+        "rating": 4,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Sony Xperia 10 IV",
+    "description": "Sony's mid-range phone with a focus on multimedia and compact design.",
+    "price": 799.99,
+    "category": "Smartphones",
+    "stock": 5,
+    "tags": ["Sony", "Xperia", "Android", "multimedia"],
+    "image": "smartphones/smartphones_15.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 60
+    },
+    "sales": {
+      "totalSold": 300,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "SonyFan123",
+        "comment": "Compact size with good camera quality.",
+        "rating": 4,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "TechReviewer456",
+        "comment": "Solid performance and decent battery life.",
+        "rating": 3,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

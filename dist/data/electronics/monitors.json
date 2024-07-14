@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "27-inch Gaming Monitor",
+    "description": "High refresh rate gaming monitor with QHD resolution and HDR support.",
+    "price": 499.99,
+    "category": "Monitors",
+    "stock": 50,
+    "tags": ["gaming", "27-inch", "QHD", "HDR"],
+    "image": "monitors/monitors_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "Gamer123",
+        "comment": "Smooth gameplay and vibrant colors.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "TechEnthusiast456",
+        "comment": "Great for multitasking with its large screen.",
+        "rating": 4,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "32-inch 4K Monitor",
+    "description": "Large 4K monitor with excellent color accuracy for professional use.",
+    "price": 899.99,
+    "category": "Monitors",
+    "stock": 30,
+    "tags": ["4K", "32-inch", "professional", "color accuracy"],
+    "image": "monitors/monitors_2.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "Designer789",
+        "comment": "Perfect for detailed graphic design work.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "Photographer456",
+        "comment": "Displays photos beautifully with accurate colors.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "34-inch Ultrawide Monitor",
+    "description": "Curved ultrawide monitor for immersive gaming and productivity.",
+    "price": 799.99,
+    "category": "Monitors",
+    "stock": 40,
+    "tags": ["ultrawide", "34-inch", "curved", "immersive"],
+    "image": "monitors/monitors_3.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 60
+    },
+    "reviews": [
+      {
+        "user": "GamingEnthusiast789",
+        "comment": "The curved display enhances gaming experience.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "ProductivityPro456",
+        "comment": "Great for multitasking with multiple windows open.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "24-inch Office Monitor",
+    "description": "Basic office monitor with adjustable stand and energy-saving features.",
+    "price": 199.99,
+    "category": "Monitors",
+    "stock": 80,
+    "tags": ["office", "24-inch", "adjustable stand", "energy-saving"],
+    "image": "monitors/monitors_4.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "OfficeWorker123",
+        "comment": "Clear display and easy on the eyes for long work hours.",
+        "rating": 4,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "RemoteWorker456",
+        "comment": "Perfect for setting up a home office workstation.",
+        "rating": 5,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "29-inch Ultrawide Monitor",
+    "description": "Compact ultrawide monitor with split-screen functionality for multitasking.",
+    "price": 349.99,
+    "category": "Monitors",
+    "stock": 60,
+    "tags": ["ultrawide", "29-inch", "split-screen", "compact"],
+    "image": "monitors/monitors_5.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "Multitasker789",
+        "comment": "Great for working on multiple projects simultaneously.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "CreativePro456",
+        "comment": "Enhances productivity with its wide screen.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "27-inch 4K HDR Monitor",
+    "description": "High-resolution monitor with HDR support for vibrant colors and sharp details.",
+    "price": 599.99,
+    "category": "Monitors",
+    "stock": 70,
+    "tags": ["4K", "27-inch", "HDR", "high-resolution"],
+    "image": "monitors/monitors_6.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "TechUser123",
+        "comment": "Perfect for watching movies in 4K HDR.",
+        "rating": 4,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "DigitalArtist456",
+        "comment": "Excellent color accuracy for digital art creation.",
+        "rating": 5,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "23-inch Gaming Monitor",
+    "description": "Entry-level gaming monitor with fast response time and Full HD resolution.",
+    "price": 279.99,
+    "category": "Monitors",
+    "stock": 20,
+    "tags": ["gaming", "23-inch", "Full HD", "fast response"],
+    "image": "monitors/monitors_7.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "Gamer456",
+        "comment": "Smooth gameplay without lag.",
+        "rating": 5,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "TechEnthusiast789",
+        "comment": "Great value for a budget gaming setup.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "25-inch Office Monitor",
+    "description": "Slim and lightweight monitor with adjustable tilt for comfortable viewing.",
+    "price": 149.99,
+    "category": "Monitors",
+    "stock": 85,
+    "tags": ["office", "25-inch", "adjustable tilt", "slim"],
+    "image": "monitors/monitors_8.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "OfficeWorker789",
+        "comment": "Perfect size for my desk at work.",
+        "rating": 5,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "RemoteWorker123",
+        "comment": "Lightweight and easy to set up.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "20-inch Budget Monitor",
+    "description": "Affordable monitor with basic features for everyday computing tasks.",
+    "price": 99.99,
+    "category": "Monitors",
+    "stock": 100,
+    "tags": ["budget", "20-inch", "basic", "affordable"],
+    "image": "monitors/monitors_9.jpg",
+    "ratings": {
+      "average": 3.9,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "BudgetUser123",
+        "comment": "Gets the job done for basic tasks.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "Student456",
+        "comment": "Perfect size and price for my dorm room.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "28-inch 4K Gaming Monitor",
+    "description": "High refresh rate gaming monitor with 4K resolution for immersive gaming.",
+    "price": 699.99,
+    "category": "Monitors",
+    "stock": 60,
+    "tags": ["gaming", "28-inch", "4K", "high refresh rate"],
+    "image": "monitors/monitors_10.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 42
+    },
+    "reviews": [
+      {
+        "user": "Gamer789",
+        "comment": "Smooth gameplay with excellent graphics.",
+        "rating": 5,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "TechEnthusiast123",
+        "comment": "Impressive color accuracy and detail in 4K.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "30-inch 8K Professional Monitor",
+    "description": "High-resolution monitor with 8K display for professional photo and video editing.",
+    "price": 1999.99,
+    "category": "Monitors",
+    "stock": 25,
+    "tags": ["professional", "30-inch", "8K", "photo editing", "video editing"],
+    "image": "monitors/monitors_11.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 220
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 55
+    },
+    "reviews": [
+      {
+        "user": "CreativePro123",
+        "comment": "Unmatched clarity and color accuracy for editing.",
+        "rating": 5,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "Photographer789",
+        "comment": "Ideal for detailed photo editing work.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "22-inch Touchscreen Monitor",
+    "description": "Interactive touchscreen monitor for presentations and interactive displays.",
+    "price": 399.99,
+    "category": "Monitors",
+    "stock": 35,
+    "tags": ["touchscreen", "22-inch", "interactive", "presentations"],
+    "image": "monitors/monitors_12.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "Presenter456",
+        "comment": "Easy to use and enhances audience engagement.",
+        "rating": 5,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "Educator789",
+        "comment": "Great for teaching with interactive lessons.",
+        "rating": 4,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "21-inch Privacy Monitor",
+    "description": "Privacy-focused monitor with built-in privacy filter for secure viewing.",
+    "price": 299.99,
+    "category": "Monitors",
+    "stock": 15,
+    "tags": ["privacy", "21-inch", "privacy filter", "secure viewing"],
+    "image": "monitors/monitors_13.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "PrivacyUser123",
+        "comment": "Great for confidential work and sensitive documents.",
+        "rating": 4,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "BusinessPro456",
+        "comment": "Protects client information during meetings.",
+        "rating": 4,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "25-inch Curved Gaming Monitor",
+    "description": "Curved gaming monitor with fast refresh rate and AMD FreeSync technology.",
+    "price": 449.99,
+    "category": "Monitors",
+    "stock": 85,
+    "tags": ["gaming", "25-inch", "curved", "AMD FreeSync"],
+    "image": "monitors/monitors_14.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "Gamer789",
+        "comment": "Immersive gaming experience with the curved display.",
+        "rating": 5,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "TechEnthusiast123",
+        "comment": "Smooth gameplay without screen tearing.",
+        "rating": 4,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "23-inch Business Monitor",
+    "description": "Business-focused monitor with ergonomic stand and blue light filter.",
+    "price": 249.99,
+    "category": "Monitors",
+    "stock": 75,
+    "tags": ["business", "23-inch", "ergonomic", "blue light filter"],
+    "image": "monitors/monitors_15.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 42
+    },
+    "reviews": [
+      {
+        "user": "BusinessUser123",
+        "comment": "Helps reduce eye strain during long work hours.",
+        "rating": 5,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "OfficeWorker789",
+        "comment": "Clear display and adjustable height for comfortable viewing.",
+        "rating": 4,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

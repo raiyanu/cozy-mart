@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Digital SLR Camera",
+    "description": "High-resolution DSLR camera with advanced features for professional photography.",
+    "price": 899.99,
+    "category": "Cameras",
+    "stock": 50,
+    "tags": ["DSLR", "high-resolution", "professional"],
+    "image": "cameras/cameras_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "PhotoPro",
+        "comment": "Excellent image quality.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "CameraEnthusiast",
+        "comment": "Great performance in low light.",
+        "rating": 4,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Mirrorless Camera",
+    "description": "Compact mirrorless camera with 4K video recording and fast autofocus.",
+    "price": 1299.99,
+    "category": "Cameras",
+    "stock": 30,
+    "tags": ["mirrorless", "4K video", "compact"],
+    "image": "cameras/cameras_2.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "TravelPhotog",
+        "comment": "Perfect for travel photography.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "Vlogger123",
+        "comment": "Great for vlogging with its flip screen.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Action Camera",
+    "description": "Waterproof action camera with 4K video and image stabilization.",
+    "price": 299.99,
+    "category": "Cameras",
+    "stock": 100,
+    "tags": ["action camera", "waterproof", "4K video"],
+    "image": "cameras/cameras_3.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 60
+    },
+    "reviews": [
+      {
+        "user": "OutdoorAdventurer",
+        "comment": "Survived a dive in 30 meters deep water!",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "ExtremeSportsFan",
+        "comment": "Awesome stabilization for my biking videos.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Compact Digital Camera",
+    "description": "Slim and lightweight digital camera with 20MP sensor and HD video recording.",
+    "price": 199.99,
+    "category": "Cameras",
+    "stock": 80,
+    "tags": ["compact camera", "HD video", "lightweight"],
+    "image": "cameras/cameras_4.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "CasualUser123",
+        "comment": "Easy to carry around and takes good photos.",
+        "rating": 4,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "PhotoNewbie",
+        "comment": "My first camera and I love it!",
+        "rating": 5,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Bridge Camera",
+    "description": "Versatile bridge camera with powerful zoom and advanced shooting modes.",
+    "price": 449.99,
+    "category": "Cameras",
+    "stock": 60,
+    "tags": ["bridge camera", "powerful zoom", "versatile"],
+    "image": "cameras/cameras_5.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "Traveler456",
+        "comment": "Zoom capability is amazing for wildlife photography.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "HobbyistPhotog",
+        "comment": "Great camera for learning photography.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Instant Print Camera",
+    "description": "Instant film camera for nostalgic prints with modern features like auto exposure.",
+    "price": 129.99,
+    "category": "Cameras",
+    "stock": 40,
+    "tags": ["instant camera", "film", "nostalgic"],
+    "image": "cameras/cameras_6.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "NostalgiaFan",
+        "comment": "Brings back memories of my childhood.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "PhotogEnthusiast",
+        "comment": "Fun to use at parties for instant photos.",
+        "rating": 3,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "360-Degree Camera",
+    "description": "Capture immersive 360-degree videos and photos with this compact camera.",
+    "price": 599.99,
+    "category": "Cameras",
+    "stock": 20,
+    "tags": ["360-degree camera", "immersive", "compact"],
+    "image": "cameras/cameras_7.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "VRUser567",
+        "comment": "Amazing for creating VR content.",
+        "rating": 5,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "TechGuru",
+        "comment": "Great tool for showcasing real estate properties.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Underwater Camera",
+    "description": "Dive into underwater photography with this waterproof and rugged camera.",
+    "price": 379.99,
+    "category": "Cameras",
+    "stock": 70,
+    "tags": ["underwater camera", "waterproof", "rugged"],
+    "image": "cameras/cameras_8.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 42
+    },
+    "reviews": [
+      {
+        "user": "Diver123",
+        "comment": "Took amazing shots during my last dive!",
+        "rating": 5,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "OutdoorPhotog",
+        "comment": "Handles tough outdoor conditions well.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Film SLR Camera",
+    "description": "Classic film SLR camera with manual controls for photography enthusiasts.",
+    "price": 299.99,
+    "category": "Cameras",
+    "stock": 90,
+    "tags": ["film camera", "SLR", "manual controls"],
+    "image": "cameras/cameras_9.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 650,
+      "soldThisMonth": 32
+    },
+    "reviews": [
+      {
+        "user": "FilmEnthusiast",
+        "comment": "Love the process of shooting on film.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "OldSchoolPhotog",
+        "comment": "Brings back the joy of using manual cameras.",
+        "rating": 3,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Professional Video Camera",
+    "description": "High-performance video camera for filmmakers and content creators.",
+    "price": 1999.99,
+    "category": "Cameras",
+    "stock": 25,
+    "tags": ["video camera", "professional", "filmmaking"],
+    "image": "cameras/cameras_10.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 220
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 55
+    },
+    "reviews": [
+      {
+        "user": "Filmmaker567",
+        "comment": "Top-notch quality for my film projects.",
+        "rating": 5,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "ContentCreator123",
+        "comment": "Captures every detail beautifully.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Drone Camera",
+    "description": "Compact drone camera with 4K video and GPS for aerial photography and videography.",
+    "price": 1499.99,
+    "category": "Cameras",
+    "stock": 35,
+    "tags": ["drone camera", "4K video", "GPS"],
+    "image": "cameras/cameras_11.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 190
+    },
+    "sales": {
+      "totalSold": 950,
+      "soldThisMonth": 47
+    },
+    "reviews": [
+      {
+        "user": "AerialPhotog",
+        "comment": "Stunning aerial views with this drone!",
+        "rating": 5,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "DroneEnthusiast",
+        "comment": "Easy to fly and captures stable videos.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "VR Camera",
+    "description": "Virtual reality camera for capturing 360-degree videos and immersive experiences.",
+    "price": 899.99,
+    "category": "Cameras",
+    "stock": 15,
+    "tags": ["VR camera", "360-degree videos", "immersive"],
+    "image": "cameras/cameras_12.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "VRUser123",
+        "comment": "Makes VR experiences come to life!",
+        "rating": 5,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "TechGuru456",
+        "comment": "Great tool for virtual tours of real estate properties.",
+        "rating": 4,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Webcam",
+    "description": "HD webcam for video conferencing and streaming with built-in microphone.",
+    "price": 79.99,
+    "category": "Cameras",
+    "stock": 120,
+    "tags": ["webcam", "HD", "video conferencing"],
+    "image": "cameras/cameras_13.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "RemoteWorker789",
+        "comment": "Crystal clear video quality for my remote meetings.",
+        "rating": 5,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "Streamer456",
+        "comment": "Perfect for streaming gameplay with friends.",
+        "rating": 4,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Security Camera",
+    "description": "Outdoor security camera with night vision and motion detection.",
+    "price": 149.99,
+    "category": "Cameras",
+    "stock": 85,
+    "tags": ["security camera", "night vision", "motion detection"],
+    "image": "cameras/cameras_14.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "HomeOwner123",
+        "comment": "Keeps my home secure day and night.",
+        "rating": 5,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "SecurityExpert456",
+        "comment": "Easy setup and reliable performance.",
+        "rating": 4,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Trail Camera",
+    "description": "Outdoor trail camera with wildlife detection and infrared night vision.",
+    "price": 199.99,
+    "category": "Cameras",
+    "stock": 75,
+    "tags": ["trail camera", "wildlife detection", "infrared night vision"],
+    "image": "cameras/cameras_15.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 42
+    },
+    "reviews": [
+      {
+        "user": "NatureExplorer789",
+        "comment": "Captures amazing wildlife shots.",
+        "rating": 5,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "OutdoorPhotographer123",
+        "comment": "Excellent for monitoring wildlife activity.",
+        "rating": 4,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

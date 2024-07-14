@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 91,
+    "name": "Makeup Brush Set",
+    "description": "High-quality makeup brush set for professional makeup application.",
+    "price": 29.99,
+    "category": "Beauty Tools",
+    "stock": 25,
+    "tags": ["beauty tools", "makeup brushes", "professional"],
+    "image": "productimage/beauty_tools/beauty+tools_1.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "MakeupArtist",
+        "comment": "Great variety and quality brushes.",
+        "rating": 5,
+        "date": "2024-01-16"
+      },
+      {
+        "user": "BeautyFan",
+        "comment": "Soft bristles, blends makeup flawlessly.",
+        "rating": 4,
+        "date": "2024-01-15"
+      }
+    ]
+  },
+  "2": {
+    "id": 92,
+    "name": "Facial Cleansing Brush",
+    "description": "Electric facial cleansing brush for deep cleansing and exfoliation.",
+    "price": 39.99,
+    "category": "Beauty Tools",
+    "stock": 30,
+    "tags": ["beauty tools", "cleansing brush", "facial care"],
+    "image": "productimage/beauty_tools/beauty+tools_2.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "SkinCareAddict",
+        "comment": "Leaves my skin feeling clean and smooth.",
+        "rating": 5,
+        "date": "2024-01-14"
+      },
+      {
+        "user": "BeautyEnthusiast",
+        "comment": "Gentle yet effective, great for daily use.",
+        "rating": 4,
+        "date": "2024-01-13"
+      }
+    ]
+  },
+  "3": {
+    "id": 93,
+    "name": "Eyelash Curler",
+    "description": "Precision eyelash curler for enhancing lash curl and definition.",
+    "price": 12.99,
+    "category": "Beauty Tools",
+    "stock": 35,
+    "tags": ["beauty tools", "eyelash curler", "lash curl"],
+    "image": "productimage/beauty_tools/beauty+tools_3.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "LashLover",
+        "comment": "Creates a beautiful curl, easy to use.",
+        "rating": 5,
+        "date": "2024-01-12"
+      },
+      {
+        "user": "MakeupFanatic",
+        "comment": "Sturdy design, curls lashes effectively.",
+        "rating": 4,
+        "date": "2024-01-11"
+      }
+    ]
+  },
+  "4": {
+    "id": 94,
+    "name": "Hair Straightener",
+    "description": "Ceramic hair straightener for sleek and smooth hair styling.",
+    "price": 49.99,
+    "category": "Beauty Tools",
+    "stock": 20,
+    "tags": ["beauty tools", "hair straightener", "hair styling"],
+    "image": "productimage/beauty_tools/beauty+tools_4.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 95,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "HairCarePro",
+        "comment": "Heats up quickly, leaves hair silky.",
+        "rating": 5,
+        "date": "2024-01-10"
+      },
+      {
+        "user": "StyleEnthusiast",
+        "comment": "Smooth glide, doesn't damage hair.",
+        "rating": 4,
+        "date": "2024-01-09"
+      }
+    ]
+  },
+  "5": {
+    "id": 95,
+    "name": "Nail Polish Set",
+    "description": "Set of vibrant nail polish colors for trendy nail art and styling.",
+    "price": 19.99,
+    "category": "Beauty Tools",
+    "stock": 25,
+    "tags": ["beauty tools", "nail polish", "nail art"],
+    "image": "productimage/beauty_tools/beauty+tools_5.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "NailArtFanatic",
+        "comment": "Beautiful colors, long-lasting.",
+        "rating": 5,
+        "date": "2024-01-08"
+      },
+      {
+        "user": "BeautyLover",
+        "comment": "Smooth application, great variety.",
+        "rating": 4,
+        "date": "2024-01-07"
+      }
+    ]
+  },
+  "6": {
+    "id": 96,
+    "name": "Makeup Mirror",
+    "description": "LED makeup mirror with adjustable brightness for perfect makeup application.",
+    "price": 34.99,
+    "category": "Beauty Tools",
+    "stock": 30,
+    "tags": ["beauty tools", "makeup mirror", "LED"],
+    "image": "productimage/beauty_tools/beauty+tools_6.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "MakeupAddict",
+        "comment": "Great lighting, helps with detailed makeup.",
+        "rating": 5,
+        "date": "2024-01-06"
+      },
+      {
+        "user": "BeautyEnthusiast",
+        "comment": "Clear reflection, love the adjustable settings.",
+        "rating": 4,
+        "date": "2024-01-05"
+      }
+    ]
+  },
+  "7": {
+    "id": 97,
+    "name": "Makeup Organizer",
+    "description": "Spacious makeup organizer with compartments for easy storage and access.",
+    "price": 19.99,
+    "category": "Beauty Tools",
+    "stock": 28,
+    "tags": ["beauty tools", "makeup organizer", "storage"],
+    "image": "productimage/beauty_tools/beauty+tools_7.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "OrganizationFan",
+        "comment": "Keeps my makeup neatly organized.",
+        "rating": 5,
+        "date": "2024-01-04"
+      },
+      {
+        "user": "MakeupLover",
+        "comment": "Good size, fits all my makeup essentials.",
+        "rating": 4,
+        "date": "2024-01-03"
+      }
+    ]
+  },
+  "8": {
+    "id": 98,
+    "name": "Facial Hair Remover",
+    "description": "Gentle facial hair remover for precise and painless hair removal.",
+    "price": 14.99,
+    "category": "Beauty Tools",
+    "stock": 26,
+    "tags": ["beauty tools", "hair remover", "facial care"],
+    "image": "productimage/beauty_tools/beauty+tools_8.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 27
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "SkinCareFan",
+        "comment": "Very effective and easy to use.",
+        "rating": 5,
+        "date": "2024-01-02"
+      },
+      {
+        "user": "SmoothSkin",
+        "comment": "Gentle on the skin, no irritation.",
+        "rating": 4,
+        "date": "2024-01-01"
+      }
+    ]
+  },
+  "9": {
+    "id": 99,
+    "name": "Eyebrow Tweezers",
+    "description": "Precision eyebrow tweezers for shaping and grooming eyebrows.",
+    "price": 9.99,
+    "category": "Beauty Tools",
+    "stock": 24,
+    "tags": ["beauty tools", "eyebrow tweezers", "grooming"],
+    "image": "productimage/beauty_tools/beauty+tools_9.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "BrowLover",
+        "comment": "Very precise, great for shaping eyebrows.",
+        "rating": 5,
+        "date": "2023-12-31"
+      },
+      {
+        "user": "BeautyEnthusiast",
+        "comment": "Good grip, removes hair easily.",
+        "rating": 4,
+        "date": "2023-12-30"
+      }
+    ]
+  },
+  "10": {
+    "id": 100,
+    "name": "Manicure Set",
+    "description": "Complete manicure set for nail care and grooming.",
+    "price": 17.99,
+    "category": "Beauty Tools",
+    "stock": 22,
+    "tags": ["beauty tools", "manicure set", "nail care"],
+    "image": "productimage/beauty_tools/beauty+tools_10.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "NailCareFan",
+        "comment": "Quality tools, great for at-home manicures.",
+        "rating": 5,
+        "date": "2023-12-29"
+      },
+      {
+        "user": "BeautyLover",
+        "comment": "Compact and handy, love the case.",
+        "rating": 4,
+        "date": "2023-12-28"
+      }
+    ]
+  },
+  "11": {
+    "id": 101,
+    "name": "Compact Mirror",
+    "description": "Stylish and portable compact mirror for on-the-go touch-ups.",
+    "price": 12.99,
+    "category": "Beauty Tools",
+    "stock": 18,
+    "tags": ["beauty tools", "compact mirror", "portable"],
+    "image": "productimage/beauty_tools/beauty+tools_11.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "OnTheGoBeauty",
+        "comment": "Perfect size for my purse, clear reflection.",
+        "rating": 5,
+        "date": "2023-12-27"
+      },
+      {
+        "user": "BeautyEnthusiast",
+        "comment": "Great for quick touch-ups throughout the day.",
+        "rating": 4,
+        "date": "2023-12-26"
+      }
+    ]
+  },
+  "12": {
+    "id": 102,
+    "name": "Cuticle Pusher",
+    "description": "Stainless steel cuticle pusher for nail care and maintenance.",
+    "price": 8.99,
+    "category": "Beauty Tools",
+    "stock": 20,
+    "tags": ["beauty tools", "cuticle pusher", "nail care"],
+    "image": "productimage/beauty_tools/beauty+tools_12.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 70,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "NailCarePro",
+        "comment": "Effective for pushing back cuticles, sturdy.",
+        "rating": 5,
+        "date": "2023-12-25"
+      },
+      {
+        "user": "BeautyLover",
+        "comment": "Helps maintain neat nails, good quality.",
+        "rating": 4,
+        "date": "2023-12-24"
+      }
+    ]
+  },
+  "13": {
+    "id": 103,
+    "name": "Eyelash Extensions Kit",
+    "description": "Complete kit for applying eyelash extensions professionally at home.",
+    "price": 29.99,
+    "category": "Beauty Tools",
+    "stock": 24,
+    "tags": ["beauty tools", "eyelash extensions", "lash kit"],
+    "image": "productimage/beauty_tools/beauty+tools_13.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "LashEnthusiast",
+        "comment": "Easy to use, great results.",
+        "rating": 5,
+        "date": "2023-12-23"
+      },
+      {
+        "user": "BeautyAddict",
+        "comment": "Good variety of tools, clear instructions.",
+        "rating": 4,
+        "date": "2023-12-22"
+      }
+    ]
+  },
+  "14": {
+    "id": 104,
+    "name": "Facial Roller",
+    "description": "Jade facial roller for massaging and relaxing facial muscles.",
+    "price": 19.99,
+    "category": "Beauty Tools",
+    "stock": 22,
+    "tags": ["beauty tools", "facial roller", "facial massage"],
+    "image": "productimage/beauty_tools/beauty+tools_14.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "SkinCareFanatic",
+        "comment": "Feels great on the skin, helps with puffiness.",
+        "rating": 5,
+        "date": "2023-12-21"
+      },
+      {
+        "user": "BeautyLover",
+        "comment": "Cooling effect, relaxing to use.",
+        "rating": 4,
+        "date": "2023-12-20"
+      }
+    ]
+  },
+  "15": {
+    "id": 105,
+    "name": "Lipstick Organizer",
+    "description": "Clear acrylic organizer for organizing and displaying lipstick collection.",
+    "price": 14.99,
+    "category": "Beauty Tools",
+    "stock": 20,
+    "tags": ["beauty tools", "lipstick organizer", "makeup storage"],
+    "image": "productimage/beauty_tools/beauty+tools_15.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 70,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "MakeupCollector",
+        "comment": "Clear and sturdy, perfect for displaying lipsticks.",
+        "rating": 5,
+        "date": "2023-12-19"
+      },
+      {
+        "user": "BeautyEnthusiast",
+        "comment": "Fits various lipstick sizes, keeps them organized.",
+        "rating": 4,
+        "date": "2023-12-18"
+      }
+    ]
+  }
+}

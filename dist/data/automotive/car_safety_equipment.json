@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 16,
+    "name": "Car Emergency Kit",
+    "description": "Be prepared for emergencies with this comprehensive car emergency kit.",
+    "price": 39.99,
+    "category": "Car Safety Equipment",
+    "stock": 20,
+    "tags": ["car", "safety", "emergency kit"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_1.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 35
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CustomerU",
+        "comment": "Very comprehensive emergency kit, has everything you need!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerV",
+        "comment": "Good quality items, but could use more variety in tools.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "2": {
+    "id": 17,
+    "name": "Car Safety Hammer",
+    "description": "Break car windows and cut seat belts in emergencies with this essential safety hammer.",
+    "price": 12.99,
+    "category": "Car Safety Equipment",
+    "stock": 30,
+    "tags": ["car", "safety", "safety hammer"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_2.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "CustomerW",
+        "comment": "Sturdy hammer, works well in emergencies.",
+        "rating": 5,
+        "date": "2024-07-04"
+      },
+      {
+        "user": "CustomerX",
+        "comment": "Essential tool to have, but handle could be more ergonomic.",
+        "rating": 4,
+        "date": "2024-07-03"
+      }
+    ]
+  },
+  "3": {
+    "id": 18,
+    "name": "Car Fire Extinguisher",
+    "description": "Put out small fires quickly with this compact and easy-to-use car fire extinguisher.",
+    "price": 29.99,
+    "category": "Car Safety Equipment",
+    "stock": 25,
+    "tags": ["car", "safety", "fire extinguisher"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_3.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 95,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CustomerY",
+        "comment": "Effective extinguisher, easy to store in the car.",
+        "rating": 5,
+        "date": "2024-07-02"
+      },
+      {
+        "user": "CustomerZ",
+        "comment": "Good product, but instructions could be clearer.",
+        "rating": 4,
+        "date": "2024-07-01"
+      }
+    ]
+  },
+  "4": {
+    "id": 19,
+    "name": "Car Safety Reflective Vest",
+    "description": "Increase visibility during emergencies with this high-visibility reflective vest.",
+    "price": 14.99,
+    "category": "Car Safety Equipment",
+    "stock": 35,
+    "tags": ["car", "safety", "reflective vest"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_4.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CustomerAA",
+        "comment": "Very visible and comfortable to wear.",
+        "rating": 5,
+        "date": "2024-06-30"
+      },
+      {
+        "user": "CustomerBB",
+        "comment": "Good quality vest, but sizing runs slightly small.",
+        "rating": 4,
+        "date": "2024-06-29"
+      }
+    ]
+  },
+  "5": {
+    "id": 20,
+    "name": "Car Safety Triangle",
+    "description": "Warn other drivers of your vehicle's presence during roadside emergencies with this reflective safety triangle.",
+    "price": 9.99,
+    "category": "Car Safety Equipment",
+    "stock": 30,
+    "tags": ["car", "safety", "safety triangle"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_5.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "CustomerCC",
+        "comment": "Easy to set up and very visible at night.",
+        "rating": 5,
+        "date": "2024-06-28"
+      },
+      {
+        "user": "CustomerDD",
+        "comment": "Good triangle, but could have a sturdier base.",
+        "rating": 4,
+        "date": "2024-06-27"
+      }
+    ]
+  },
+  "6": {
+    "id": 21,
+    "name": "Car First Aid Kit",
+    "description": "Handle minor injuries and emergencies on the road with this compact first aid kit designed for cars.",
+    "price": 19.99,
+    "category": "Car Safety Equipment",
+    "stock": 25,
+    "tags": ["car", "safety", "first aid kit"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_6.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "CustomerEE",
+        "comment": "Comprehensive first aid kit, has all the essentials.",
+        "rating": 5,
+        "date": "2024-06-26"
+      },
+      {
+        "user": "CustomerFF",
+        "comment": "Good kit, but could include more variety in bandages.",
+        "rating": 4,
+        "date": "2024-06-25"
+      }
+    ]
+  },
+  "7": {
+    "id": 22,
+    "name": "Car Safety Seat Belt Cutter",
+    "description": "Quickly cut through seat belts in emergencies with this compact and sharp seat belt cutter.",
+    "price": 7.99,
+    "category": "Car Safety Equipment",
+    "stock": 20,
+    "tags": ["car", "safety", "seat belt cutter"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_7.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "CustomerGG",
+        "comment": "Very sharp and effective cutter.",
+        "rating": 5,
+        "date": "2024-06-24"
+      },
+      {
+        "user": "CustomerHH",
+        "comment": "Useful tool, but handle could be more ergonomic.",
+        "rating": 4,
+        "date": "2024-06-23"
+      }
+    ]
+  },
+  "8": {
+    "id": 23,
+    "name": "Car Safety Gloves",
+    "description": "Protect hands during emergency situations with these cut-resistant safety gloves.",
+    "price": 11.99,
+    "category": "Car Safety Equipment",
+    "stock": 15,
+    "tags": ["car", "safety", "safety gloves"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_8.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 24
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "CustomerII",
+        "comment": "Comfortable and protective gloves.",
+        "rating": 5,
+        "date": "2024-06-22"
+      },
+      {
+        "user": "CustomerJJ",
+        "comment": "Good quality, but sizing runs slightly small.",
+        "rating": 4,
+        "date": "2024-06-21"
+      }
+    ]
+  },
+  "9": {
+    "id": 24,
+    "name": "Car Safety Whistle",
+    "description": "Signal for help during emergencies with this loud and durable safety whistle.",
+    "price": 4.99,
+    "category": "Car Safety Equipment",
+    "stock": 25,
+    "tags": ["car", "safety", "safety whistle"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_9.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 22
+    },
+    "sales": {
+      "totalSold": 70,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "CustomerKK",
+        "comment": "Very loud and effective whistle.",
+        "rating": 5,
+        "date": "2024-06-20"
+      },
+      {
+        "user": "CustomerLL",
+        "comment": "Good emergency tool, but could be attached to a lanyard.",
+        "rating": 4,
+        "date": "2024-06-19"
+      }
+    ]
+  },
+  "10": {
+    "id": 25,
+    "name": "Car Safety LED Flare",
+    "description": "Illuminate and alert others during roadside emergencies with this bright LED flare.",
+    "price": 19.99,
+    "category": "Car Safety Equipment",
+    "stock": 20,
+    "tags": ["car", "safety", "LED flare"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_10.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 65,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "CustomerMM",
+        "comment": "Bright and visible flare, great for emergencies.",
+        "rating": 5,
+        "date": "2024-06-18"
+      },
+      {
+        "user": "CustomerNN",
+        "comment": "Good product, but could have more flashing modes.",
+        "rating": 4,
+        "date": "2024-06-17"
+      }
+    ]
+  },
+  "11": {
+    "id": 26,
+    "name": "Car Safety Escape Tool",
+    "description": "Easily break car windows and cut seat belts in emergencies with this multifunctional escape tool.",
+    "price": 16.99,
+    "category": "Car Safety Equipment",
+    "stock": 15,
+    "tags": ["car", "safety", "escape tool"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_11.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 60,
+      "soldThisMonth": 4
+    },
+    "reviews": [
+      {
+        "user": "CustomerOO",
+        "comment": "Very useful tool, compact and easy to use.",
+        "rating": 5,
+        "date": "2024-06-16"
+      },
+      {
+        "user": "CustomerPP",
+        "comment": "Essential for emergencies, but handle could be more ergonomic.",
+        "rating": 4,
+        "date": "2024-06-15"
+      }
+    ]
+  },
+  "12": {
+    "id": 27,
+    "name": "Car Safety Warning Light",
+    "description": "Warn other drivers with this magnetic-mounted safety light for roadside emergencies.",
+    "price": 14.99,
+    "category": "Car Safety Equipment",
+    "stock": 20,
+    "tags": ["car", "safety", "warning light"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_12.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 55,
+      "soldThisMonth": 4
+    },
+    "reviews": [
+      {
+        "user": "CustomerQQ",
+        "comment": "Very bright and visible warning light.",
+        "rating": 5,
+        "date": "2024-06-14"
+      },
+      {
+        "user": "CustomerRR",
+        "comment": "Good light, but could have more mounting options.",
+        "rating": 4,
+        "date": "2024-06-13"
+      }
+    ]
+  },
+  "13": {
+    "id": 28,
+    "name": "Car Safety Seat Belt Adjuster",
+    "description": "Ensure a comfortable fit for seat belts with this adjustable safety seat belt adjuster.",
+    "price": 8.99,
+    "category": "Car Safety Equipment",
+    "stock": 25,
+    "tags": ["car", "safety", "seat belt adjuster"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_13.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 22
+    },
+    "sales": {
+      "totalSold": 50,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "CustomerSS",
+        "comment": "Helps in adjusting seat belts for better comfort.",
+        "rating": 5,
+        "date": "2024-06-12"
+      },
+      {
+        "user": "CustomerTT",
+        "comment": "Useful, but could be easier to install.",
+        "rating": 4,
+        "date": "2024-06-11"
+      }
+    ]
+  },
+  "14": {
+    "id": 29,
+    "name": "Car Safety Seat Belt Extender",
+    "description": "Extend the length of seat belts for a more comfortable fit with this car safety seat belt extender.",
+    "price": 11.99,
+    "category": "Car Safety Equipment",
+    "stock": 20,
+    "tags": ["car", "safety", "seat belt extender"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_14.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 24
+    },
+    "sales": {
+      "totalSold": 45,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "CustomerUU",
+        "comment": "Extends seat belts effectively, good quality.",
+        "rating": 5,
+        "date": "2024-06-10"
+      },
+      {
+        "user": "CustomerVV",
+        "comment": "Useful extender, but could have more length options.",
+        "rating": 4,
+        "date": "2024-06-09"
+      }
+    ]
+  },
+  "15": {
+    "id": 30,
+    "name": "Car Safety Headrest Hook",
+    "description": "Keep bags and belongings secure during travel with this convenient car safety headrest hook.",
+    "price": 6.99,
+    "category": "Car Safety Equipment",
+    "stock": 15,
+    "tags": ["car", "safety", "headrest hook"],
+    "image": "productimage/car_safety_equipment/car+safety+equipment_15.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 40,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "CustomerWW",
+        "comment": "Very handy hooks, keep my bags in place.",
+        "rating": 5,
+        "date": "2024-06-08"
+      },
+      {
+        "user": "CustomerXX",
+        "comment": "Good hooks, but could be sturdier for heavier bags.",
+        "rating": 4,
+        "date": "2024-06-07"
+      }
+    ]
+  }
+}

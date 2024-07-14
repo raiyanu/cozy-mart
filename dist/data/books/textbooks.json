@@ -1,0 +1,486 @@
+{
+  "1": {
+    "id": 901,
+    "name": "Introduction to Psychology",
+    "description": "Comprehensive introduction to the field of psychology covering major theories, concepts, and research methods.",
+    "price": 49.99,
+    "category": "Textbooks",
+    "stock": 150,
+    "tags": ["psychology", "introduction", "research methods"],
+    "image": "textbooks/textbooks_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 3000,
+      "soldThisMonth": 120
+    },
+    "reviews": [
+      {
+        "user": "PsychologyStudent",
+        "comment": "Excellent textbook, very informative!",
+        "rating": 5,
+        "date": "2023-02-28"
+      },
+      {
+        "user": "ResearchMethods",
+        "comment": "Helped me understand research techniques better.",
+        "rating": 4,
+        "date": "2023-02-27"
+      }
+    ]
+  },
+  "2": {
+    "id": 902,
+    "name": "Principles of Economics",
+    "description": "Covers fundamental principles of economics, including microeconomics and macroeconomics.",
+    "price": 59.99,
+    "category": "Textbooks",
+    "stock": 140,
+    "tags": ["economics", "microeconomics", "macroeconomics"],
+    "image": "textbooks/textbooks_2.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 190
+    },
+    "sales": {
+      "totalSold": 2800,
+      "soldThisMonth": 110
+    },
+    "reviews": [
+      {
+        "user": "EconomicsStudent",
+        "comment": "Clear explanations and useful examples.",
+        "rating": 5,
+        "date": "2023-02-26"
+      },
+      {
+        "user": "EconomicTheory",
+        "comment": "Helped me grasp economic concepts better.",
+        "rating": 4,
+        "date": "2023-02-25"
+      }
+    ]
+  },
+  "3": {
+    "id": 903,
+    "name": "Organic Chemistry",
+    "description": "Comprehensive textbook covering organic chemistry principles, reactions, and applications.",
+    "price": 69.99,
+    "category": "Textbooks",
+    "stock": 130,
+    "tags": ["organic chemistry", "chemistry", "reactions"],
+    "image": "textbooks/textbooks_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 2600,
+      "soldThisMonth": 100
+    },
+    "reviews": [
+      {
+        "user": "ChemistryStudent",
+        "comment": "Very detailed and well-explained.",
+        "rating": 5,
+        "date": "2023-02-24"
+      },
+      {
+        "user": "OrganicChemistry",
+        "comment": "Helped me ace my exams!",
+        "rating": 4,
+        "date": "2023-02-23"
+      }
+    ]
+  },
+  "4": {
+    "id": 904,
+    "name": "Calculus: Early Transcendentals",
+    "description": "A rigorous treatment of calculus covering differentiation, integration, and applications.",
+    "price": 79.99,
+    "category": "Textbooks",
+    "stock": 120,
+    "tags": ["calculus", "differentiation", "integration"],
+    "image": "textbooks/textbooks_4.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 2400,
+      "soldThisMonth": 90
+    },
+    "reviews": [
+      {
+        "user": "MathStudent",
+        "comment": "Challenging but very comprehensive.",
+        "rating": 5,
+        "date": "2023-02-22"
+      },
+      {
+        "user": "CalculusPro",
+        "comment": "Excellent for advanced calculus studies.",
+        "rating": 4,
+        "date": "2023-02-21"
+      }
+    ]
+  },
+  "5": {
+    "id": 905,
+    "name": "Introduction to Sociology",
+    "description": "Overview of sociological concepts, theories, and methods with examples from contemporary society.",
+    "price": 54.99,
+    "category": "Textbooks",
+    "stock": 110,
+    "tags": ["sociology", "sociological concepts", "contemporary society"],
+    "image": "textbooks/textbooks_5.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 2200,
+      "soldThisMonth": 80
+    },
+    "reviews": [
+      {
+        "user": "SociologyStudent",
+        "comment": "Informative and thought-provoking.",
+        "rating": 5,
+        "date": "2023-02-20"
+      },
+      {
+        "user": "SocialTheory",
+        "comment": "Great insights into societal dynamics.",
+        "rating": 4,
+        "date": "2023-02-19"
+      }
+    ]
+  },
+  "6": {
+    "id": 906,
+    "name": "Fundamentals of Nursing",
+    "description": "Covers essential nursing principles, techniques, and practices for nursing students.",
+    "price": 64.99,
+    "category": "Textbooks",
+    "stock": 100,
+    "tags": ["nursing", "nursing principles", "healthcare"],
+    "image": "textbooks/textbooks_6.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 2000,
+      "soldThisMonth": 70
+    },
+    "reviews": [
+      {
+        "user": "NursingStudent",
+        "comment": "Very helpful for practical learning.",
+        "rating": 5,
+        "date": "2023-02-18"
+      },
+      {
+        "user": "HealthcareProf",
+        "comment": "Comprehensive and well-organized.",
+        "rating": 4,
+        "date": "2023-02-17"
+      }
+    ]
+  },
+  "7": {
+    "id": 907,
+    "name": "Marketing Management",
+    "description": "Learn key concepts and strategies in marketing management for effective business practices.",
+    "price": 59.99,
+    "category": "Textbooks",
+    "stock": 90,
+    "tags": ["marketing", "management", "business"],
+    "image": "textbooks/textbooks_7.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 1800,
+      "soldThisMonth": 60
+    },
+    "reviews": [
+      {
+        "user": "MarketingStudent",
+        "comment": "Practical insights into marketing strategies.",
+        "rating": 5,
+        "date": "2023-02-16"
+      },
+      {
+        "user": "BusinessManager",
+        "comment": "Helped improve our marketing tactics.",
+        "rating": 4,
+        "date": "2023-02-15"
+      }
+    ]
+  },
+  "8": {
+    "id": 908,
+    "name": "Computer Networks",
+    "description": "Comprehensive guide to computer networking principles, protocols, and technologies.",
+    "price": 69.99,
+    "category": "Textbooks",
+    "stock": 80,
+    "tags": ["computer networks", "networking", "protocols"],
+    "image": "textbooks/textbooks_8.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 1600,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "NetworkingStudent",
+        "comment": "In-depth coverage of networking concepts.",
+        "rating": 5,
+        "date": "2023-02-14"
+      },
+      {
+        "user": "ITProfessional",
+        "comment": "Great reference for network administrators.",
+        "rating": 4,
+        "date": "2023-02-13"
+      }
+    ]
+  },
+  "9": {
+    "id": 909,
+    "name": "Human Anatomy & Physiology",
+    "description": "Comprehensive textbook covering human anatomy and physiology with clinical applications.",
+    "price": 74.99,
+    "category": "Textbooks",
+    "stock": 70,
+    "tags": ["anatomy", "physiology", "clinical applications"],
+    "image": "textbooks/textbooks_9.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 1400,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "MedicalStudent",
+        "comment": "Very detailed and useful for medical studies.",
+        "rating": 5,
+        "date": "2023-02-12"
+      },
+      {
+        "user": "HealthScience",
+        "comment": "Helped me understand human anatomy better.",
+        "rating": 4,
+        "date": "2023-02-11"
+      }
+    ]
+  },
+  "10": {
+    "id": 910,
+    "name": "Business Law",
+    "description": "Covers essential principles of business law, contracts, and legal implications for business operations.",
+    "price": 64.99,
+    "category": "Textbooks",
+    "stock": 60,
+    "tags": ["business law", "contracts", "legal implications"],
+    "image": "textbooks/textbooks_10.jpg",
+    "ratings": {
+      "average": 3.9,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "LawStudent",
+        "comment": "Good overview of business law.",
+        "rating": 4,
+        "date": "2023-02-10"
+      },
+      {
+        "user": "LegalExpert",
+        "comment": "Useful for understanding legal aspects of business.",
+        "rating": 3,
+        "date": "2023-02-09"
+      }
+    ]
+  },
+  "11": {
+    "id": 911,
+    "name": "Environmental Science",
+    "description": "Examines environmental issues, sustainability, and human impact on ecosystems.",
+    "price": 49.99,
+    "category": "Textbooks",
+    "stock": 50,
+    "tags": ["environmental science", "sustainability", "ecosystems"],
+    "image": "textbooks/textbooks_11.jpg",
+    "ratings": {
+      "average": 3.8,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "EnvironmentalStudent",
+        "comment": "Informative but could be more detailed.",
+        "rating": 4,
+        "date": "2023-02-08"
+      },
+      {
+        "user": "SustainabilityExpert",
+        "comment": "Good introduction to environmental issues.",
+        "rating": 3,
+        "date": "2023-02-07"
+      }
+    ]
+  },
+  "12": {
+    "id": 912,
+    "name": "Digital Marketing",
+    "description": "Learn digital marketing strategies, social media tactics, and analytics for effective online marketing campaigns.",
+    "price": 54.99,
+    "category": "Textbooks",
+    "stock": 40,
+    "tags": ["digital marketing", "social media", "online marketing"],
+    "image": "textbooks/textbooks_12.jpg",
+    "ratings": {
+      "average": 3.7,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "MarketingEnthusiast",
+        "comment": "Good insights into digital marketing trends.",
+        "rating": 4,
+        "date": "2023-02-06"
+      },
+      {
+        "user": "SocialMediaExpert",
+        "comment": "Useful for understanding social media strategies.",
+        "rating": 3,
+        "date": "2023-02-05"
+      }
+    ]
+  },
+  "13": {
+    "id": 913,
+    "name": "Operations Management",
+    "description": "Focuses on managing business operations, logistics, and supply chain management.",
+    "price": 59.99,
+    "category": "Textbooks",
+    "stock": 30,
+    "tags": ["operations management", "logistics", "supply chain"],
+    "image": "textbooks/textbooks_13.jpg",
+    "ratings": {
+      "average": 3.6,
+      "count": 80
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "OperationsStudent",
+        "comment": "Insightful but needs more real-world examples.",
+        "rating": 4,
+        "date": "2023-02-04"
+      },
+      {
+        "user": "SupplyChainExpert",
+        "comment": "Good textbook for understanding supply chain.",
+        "rating": 3,
+        "date": "2023-02-03"
+      }
+    ]
+  },
+  "14": {
+    "id": 914,
+    "name": "Human Resource Management",
+    "description": "Covers principles and practices of human resource management, employee relations, and HR strategies.",
+    "price": 49.99,
+    "category": "Textbooks",
+    "stock": 20,
+    "tags": [
+      "human resource management",
+      "employee relations",
+      "HR strategies"
+    ],
+    "image": "textbooks/textbooks_14.jpg",
+    "ratings": {
+      "average": 3.5,
+      "count": 70
+    },
+    "sales": {
+      "totalSold": 400,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "HRStudent",
+        "comment": "Useful overview of HR practices.",
+        "rating": 4,
+        "date": "2023-02-02"
+      },
+      {
+        "user": "HRProfessional",
+        "comment": "Helpful for understanding HR strategies.",
+        "rating": 3,
+        "date": "2023-02-01"
+      }
+    ]
+  },
+  "15": {
+    "id": 915,
+    "name": "Public Speaking",
+    "description": "Learn effective public speaking techniques, speech preparation, and delivery strategies.",
+    "price": 44.99,
+    "category": "Textbooks",
+    "stock": 10,
+    "tags": ["public speaking", "speech preparation", "delivery strategies"],
+    "image": "textbooks/textbooks_15.jpg",
+    "ratings": {
+      "average": 3.4,
+      "count": 60
+    },
+    "sales": {
+      "totalSold": 200,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "PublicSpeakingStudent",
+        "comment": "Helpful for improving speaking skills.",
+        "rating": 4,
+        "date": "2023-01-31"
+      },
+      {
+        "user": "SpeechCoach",
+        "comment": "Good techniques for speech preparation.",
+        "rating": 3,
+        "date": "2023-01-30"
+      }
+    ]
+  }
+}

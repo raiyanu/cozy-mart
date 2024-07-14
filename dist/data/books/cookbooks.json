@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 401,
+    "name": "The Joy of Cooking",
+    "description": "A classic American cookbook with a wide range of recipes and cooking techniques.",
+    "price": 24.99,
+    "category": "Cookbooks",
+    "stock": 100,
+    "tags": ["American cuisine", "classic", "recipes"],
+    "image": "cookbooks/cookbooks_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1500,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "CookingEnthusiast",
+        "comment": "A must-have for any kitchen.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "Foodie123",
+        "comment": "Great variety and clear instructions.",
+        "rating": 4,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 402,
+    "name": "Mastering the Art of French Cooking",
+    "description": "Julia Child's renowned cookbook introducing classic French cuisine to American home cooks.",
+    "price": 29.99,
+    "category": "Cookbooks",
+    "stock": 80,
+    "tags": ["French cuisine", "Julia Child", "classic"],
+    "image": "cookbooks/cookbooks_2.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "FrenchCuisineFan",
+        "comment": "An essential guide to French cooking.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "HomeChef456",
+        "comment": "Detailed and informative.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 403,
+    "name": "How to Cook Everything",
+    "description": "Mark Bittman's comprehensive cookbook covering a wide range of recipes and cooking techniques.",
+    "price": 26.99,
+    "category": "Cookbooks",
+    "stock": 90,
+    "tags": ["comprehensive", "recipes", "techniques"],
+    "image": "cookbooks/cookbooks_3.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 210
+    },
+    "sales": {
+      "totalSold": 1300,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "CookbookReader",
+        "comment": "A go-to resource for any home cook.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "FoodLover789",
+        "comment": "Clear instructions and great tips.",
+        "rating": 5,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 404,
+    "name": "The Pioneer Woman Cooks",
+    "description": "Ree Drummond's collection of recipes inspired by her life on a ranch.",
+    "price": 21.99,
+    "category": "Cookbooks",
+    "stock": 70,
+    "tags": ["ranch cuisine", "family recipes", "Ree Drummond"],
+    "image": "cookbooks/cookbooks_4.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "RanchCookingFan",
+        "comment": "Delicious recipes with a personal touch.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "HomeCook789",
+        "comment": "Perfect for family meals.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 405,
+    "name": "Thug Kitchen: Eat Like You Give a F*ck",
+    "description": "A vegan cookbook with bold flavors and irreverent attitude.",
+    "price": 19.99,
+    "category": "Cookbooks",
+    "stock": 60,
+    "tags": ["vegan", "bold flavors", "Thug Kitchen"],
+    "image": "cookbooks/cookbooks_5.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "VeganFoodie",
+        "comment": "Fun and flavorful recipes.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "HealthNut123",
+        "comment": "Surprisingly delicious vegan dishes.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 406,
+    "name": "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",
+    "description": "Samin Nosrat's guide to mastering the essential elements of cooking for delicious results.",
+    "price": 22.99,
+    "category": "Cookbooks",
+    "stock": 100,
+    "tags": ["cooking techniques", "Samin Nosrat", "essential elements"],
+    "image": "cookbooks/cookbooks_6.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "CookingTechniquesFan",
+        "comment": "Clear and practical advice.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "Foodie456",
+        "comment": "Enhanced my cooking skills.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 407,
+    "name": "Barefoot Contessa at Home",
+    "description": "Ina Garten's cookbook featuring comforting recipes perfect for home cooking.",
+    "price": 25.99,
+    "category": "Cookbooks",
+    "stock": 50,
+    "tags": ["comfort food", "Ina Garten", "home cooking"],
+    "image": "cookbooks/cookbooks_7.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "ContessaFan",
+        "comment": "Delicious and comforting recipes.",
+        "rating": 5,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "HomeChef567",
+        "comment": "Perfect for family gatherings.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 408,
+    "name": "The Smitten Kitchen Cookbook",
+    "description": "Deb Perelman's collection of approachable and inventive recipes from her popular blog.",
+    "price": 23.99,
+    "category": "Cookbooks",
+    "stock": 90,
+    "tags": ["approachable", "inventive", "Deb Perelman"],
+    "image": "cookbooks/cookbooks_8.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "SmittenKitchenFan",
+        "comment": "Love the variety of recipes.",
+        "rating": 5,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "HomeCook123",
+        "comment": "Great for trying new dishes.",
+        "rating": 5,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 409,
+    "name": "Jamie Oliver's Comfort Food",
+    "description": "Jamie Oliver's collection of comforting recipes to warm the soul.",
+    "price": 20.99,
+    "category": "Cookbooks",
+    "stock": 80,
+    "tags": ["comfort food", "Jamie Oliver", "recipes"],
+    "image": "cookbooks/cookbooks_9.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 190
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "ComfortFoodFan",
+        "comment": "Delicious and satisfying recipes.",
+        "rating": 5,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "HomeChef789",
+        "comment": "Perfect for cold evenings.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 410,
+    "name": "The Complete Mediterranean Cookbook",
+    "description": "A comprehensive guide to Mediterranean cuisine with over 500 recipes.",
+    "price": 28.99,
+    "category": "Cookbooks",
+    "stock": 70,
+    "tags": ["Mediterranean cuisine", "comprehensive", "recipes"],
+    "image": "cookbooks/cookbooks_10.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "MediterraneanCuisineFan",
+        "comment": "Authentic recipes and flavors.",
+        "rating": 5,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "FoodLover456",
+        "comment": "Excellent variety of Mediterranean dishes.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 411,
+    "name": "Everyday Italian: 125 Simple and Delicious Recipes",
+    "description": "Giada De Laurentiis' collection of Italian recipes perfect for everyday meals.",
+    "price": 26.99,
+    "category": "Cookbooks",
+    "stock": 60,
+    "tags": ["Italian cuisine", "simple recipes", "Giada De Laurentiis"],
+    "image": "cookbooks/cookbooks_11.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 950,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "ItalianFoodFan",
+        "comment": "Authentic Italian recipes simplified.",
+        "rating": 5,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "HomeCook567",
+        "comment": "Perfect for weeknight dinners.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 412,
+    "name": "The Complete America's Test Kitchen TV Show Cookbook",
+    "description": "A comprehensive collection of recipes from America's Test Kitchen, featuring tried-and-tested favorites.",
+    "price": 29.99,
+    "category": "Cookbooks",
+    "stock": 50,
+    "tags": ["America's Test Kitchen", "comprehensive", "recipes"],
+    "image": "cookbooks/cookbooks_12.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "TestKitchenFan",
+        "comment": "Reliable and delicious recipes.",
+        "rating": 5,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "Foodie789",
+        "comment": "Great for expanding cooking skills.",
+        "rating": 4,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 413,
+    "name": "Plenty: Vibrant Vegetable Recipes from London's Ottolenghi",
+    "description": "Yotam Ottolenghi's collection of vegetarian recipes showcasing vibrant flavors and fresh ingredients.",
+    "price": 27.99,
+    "category": "Cookbooks",
+    "stock": 40,
+    "tags": ["vegetarian", "vibrant flavors", "Yotam Ottolenghi"],
+    "image": "cookbooks/cookbooks_13.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "VegetarianCook",
+        "comment": "Exciting and creative vegetarian dishes.",
+        "rating": 5,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "Foodie567",
+        "comment": "Colorful and delicious recipes.",
+        "rating": 4,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 414,
+    "name": "The Food Lab: Better Home Cooking Through Science",
+    "description": "J. Kenji López-Alt's approach to cooking using scientific principles for better results.",
+    "price": 25.99,
+    "category": "Cookbooks",
+    "stock": 30,
+    "tags": ["cooking science", "J. Kenji López-Alt", "better cooking"],
+    "image": "cookbooks/cookbooks_14.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "CookingScienceFan",
+        "comment": "Interesting and educational.",
+        "rating": 5,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "FoodLover789",
+        "comment": "Great insights into cooking techniques.",
+        "rating": 4,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 415,
+    "name": "The Barefoot Contessa Cookbook",
+    "description": "Ina Garten's first cookbook featuring her favorite recipes and entertaining tips.",
+    "price": 23.99,
+    "category": "Cookbooks",
+    "stock": 25,
+    "tags": ["Ina Garten", "favorite recipes", "entertaining tips"],
+    "image": "cookbooks/cookbooks_15.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 750,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "ContessaFan",
+        "comment": "Classic recipes with a touch of elegance.",
+        "rating": 5,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "HomeChef456",
+        "comment": "Perfect for special occasions.",
+        "rating": 5,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

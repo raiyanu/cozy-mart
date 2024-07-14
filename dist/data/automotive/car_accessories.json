@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Car Accessories Example Product",
+    "description": "This is a sample product description for car accessories.",
+    "price": 29.99,
+    "category": "Car Accessories",
+    "stock": 50,
+    "tags": ["car", "accessories", "sample"],
+    "image": "productimage/car_accessories/car+accessories_1.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 150,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "CustomerA",
+        "comment": "Great quality, fits perfectly!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerB",
+        "comment": "Good product but delivery was slow.",
+        "rating": 3,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Car Seat Covers",
+    "description": "Protect your car seats with these stylish seat covers.",
+    "price": 39.99,
+    "category": "Car Accessories",
+    "stock": 30,
+    "tags": ["car", "accessories", "seat covers"],
+    "image": "productimage/car_accessories/car+accessories_2.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "CustomerC",
+        "comment": "Highly recommend these seat covers!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerD",
+        "comment": "Good quality but a bit expensive.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Car Phone Mount",
+    "description": "Securely mount your phone in your car for easy navigation.",
+    "price": 19.99,
+    "category": "Car Accessories",
+    "stock": 20,
+    "tags": ["car", "accessories", "phone mount"],
+    "image": "productimage/car_accessories/car+accessories_3.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 15
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "CustomerE",
+        "comment": "Works great, very sturdy!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerF",
+        "comment": "Decent product for the price.",
+        "rating": 3,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Car Air Freshener",
+    "description": "Keep your car smelling fresh with these long-lasting air fresheners.",
+    "price": 9.99,
+    "category": "Car Accessories",
+    "stock": 40,
+    "tags": ["car", "accessories", "air freshener"],
+    "image": "productimage/car_accessories/car+accessories_4.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 125,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "CustomerG",
+        "comment": "Love the scent, lasts a long time!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerH",
+        "comment": "Smells good but doesn't last as long as expected.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Car Sun Shade",
+    "description": "Protect your car's interior from the sun with these sun shades.",
+    "price": 14.99,
+    "category": "Car Accessories",
+    "stock": 35,
+    "tags": ["car", "accessories", "sun shade"],
+    "image": "productimage/car_accessories/car+accessories_5.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 18
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CustomerI",
+        "comment": "Great sun shade, easy to install!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerJ",
+        "comment": "Does the job but could be better quality.",
+        "rating": 3,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Car Floor Mats",
+    "description": "Keep your car's floor clean with these durable floor mats.",
+    "price": 24.99,
+    "category": "Car Accessories",
+    "stock": 25,
+    "tags": ["car", "accessories", "floor mats"],
+    "image": "productimage/car_accessories/car+accessories_6.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 22
+    },
+    "sales": {
+      "totalSold": 110,
+      "soldThisMonth": 11
+    },
+    "reviews": [
+      {
+        "user": "CustomerK",
+        "comment": "Excellent quality, fits perfectly!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerL",
+        "comment": "Good mats but a bit pricey.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Car Trash Can",
+    "description": "Keep your car clean with this convenient trash can.",
+    "price": 12.99,
+    "category": "Car Accessories",
+    "stock": 15,
+    "tags": ["car", "accessories", "trash can"],
+    "image": "productimage/car_accessories/car+accessories_7.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 12
+    },
+    "sales": {
+      "totalSold": 60,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "CustomerM",
+        "comment": "Very useful, keeps my car tidy!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerN",
+        "comment": "Decent trash can, could be bigger.",
+        "rating": 3,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Car Wash Kit",
+    "description": "Everything you need to wash your car at home.",
+    "price": 49.99,
+    "category": "Car Accessories",
+    "stock": 10,
+    "tags": ["car", "accessories", "car wash"],
+    "image": "productimage/car_accessories/car+accessories_8.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 140,
+      "soldThisMonth": 14
+    },
+    "reviews": [
+      {
+        "user": "CustomerO",
+        "comment": "Great kit, makes washing my car easy!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerP",
+        "comment": "Expensive but worth it for the quality.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Car Emergency Kit",
+    "description": "Be prepared for emergencies with this comprehensive car kit.",
+    "price": 59.99,
+    "category": "Car Accessories",
+    "stock": 5,
+    "tags": ["car", "accessories", "emergency kit"],
+    "image": "productimage/car_accessories/car+accessories_9.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 17
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "CustomerQ",
+        "comment": "Essential kit for any car owner!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerR",
+        "comment": "Good kit but a bit overpriced.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Car Seat Organizer",
+    "description": "Keep your car organized with this convenient seat organizer.",
+    "price": 29.99,
+    "category": "Car Accessories",
+    "stock": 8,
+    "tags": ["car", "accessories", "seat organizer"],
+    "image": "productimage/car_accessories/car+accessories_10.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 16
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CustomerS",
+        "comment": "Love this organizer, keeps everything in place!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerT",
+        "comment": "Decent organizer but could be more sturdy.",
+        "rating": 3,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Car Jump Starter",
+    "description": "Never get stranded with a dead battery again.",
+    "price": 79.99,
+    "category": "Car Accessories",
+    "stock": 3,
+    "tags": ["car", "accessories", "jump starter"],
+    "image": "productimage/car_accessories/car+accessories_11.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 23
+    },
+    "sales": {
+      "totalSold": 115,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "CustomerU",
+        "comment": "Saved me multiple times, highly recommend!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerV",
+        "comment": "Expensive but worth it for the peace of mind.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Car Seat Cushion",
+    "description": "Make your car seats more comfortable with these cushions.",
+    "price": 34.99,
+    "category": "Car Accessories",
+    "stock": 12,
+    "tags": ["car", "accessories", "seat cushion"],
+    "image": "productimage/car_accessories/car+accessories_12.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 19
+    },
+    "sales": {
+      "totalSold": 95,
+      "soldThisMonth": 9
+    },
+    "reviews": [
+      {
+        "user": "CustomerW",
+        "comment": "Great cushions, very comfortable!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerX",
+        "comment": "Decent cushions but a bit pricey.",
+        "rating": 3,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Car Steering Wheel Cover",
+    "description": "Protect your steering wheel and add a touch of style.",
+    "price": 14.99,
+    "category": "Car Accessories",
+    "stock": 18,
+    "tags": ["car", "accessories", "steering wheel cover"],
+    "image": "productimage/car_accessories/car+accessories_13.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 21
+    },
+    "sales": {
+      "totalSold": 105,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "CustomerY",
+        "comment": "Love the design, fits perfectly!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerZ",
+        "comment": "Good cover but could be more durable.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Car Window Shade",
+    "description": "Keep your car cool and protect your passengers from the sun.",
+    "price": 19.99,
+    "category": "Car Accessories",
+    "stock": 22,
+    "tags": ["car", "accessories", "window shade"],
+    "image": "productimage/car_accessories/car+accessories_14.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 17
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CustomerAA",
+        "comment": "Great shades, easy to install!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerBB",
+        "comment": "Does the job but could be better quality.",
+        "rating": 3,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Car Trunk Organizer",
+    "description": "Keep your trunk neat and organized with this storage solution.",
+    "price": 24.99,
+    "category": "Car Accessories",
+    "stock": 20,
+    "tags": ["car", "accessories", "trunk organizer"],
+    "image": "productimage/car_accessories/car+accessories_15.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 16
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CustomerCC",
+        "comment": "Love this organizer, fits perfectly in my trunk!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerDD",
+        "comment": "Decent organizer but could be more sturdy.",
+        "rating": 3,
+        "date": "2024-07-05"
+      }
+    ]
+  }
+}

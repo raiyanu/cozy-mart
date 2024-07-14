@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 701,
+    "name": "Leather Bound Journal",
+    "description": "Handcrafted leather journal with refillable pages, ideal for writing, sketching, or travel logs.",
+    "price": 29.99,
+    "category": "Journals",
+    "stock": 100,
+    "tags": ["leather", "handcrafted", "refillable"],
+    "image": "journals/journals_1.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 200
+    },
+    "sales": {
+      "totalSold": 1200,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "TravelerWriter",
+        "comment": "Beautiful craftsmanship, perfect for travel journals.",
+        "rating": 5,
+        "date": "2023-04-30"
+      },
+      {
+        "user": "ArtisanReviewer",
+        "comment": "Quality leather and well-made.",
+        "rating": 5,
+        "date": "2023-04-29"
+      }
+    ]
+  },
+  "2": {
+    "id": 702,
+    "name": "Vintage Floral Journal",
+    "description": "Elegant journal with vintage floral patterns, great for daily reflections and personal notes.",
+    "price": 19.99,
+    "category": "Journals",
+    "stock": 90,
+    "tags": ["vintage", "floral", "elegant"],
+    "image": "journals/journals_2.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 190
+    },
+    "sales": {
+      "totalSold": 1100,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "FlowerEnthusiast",
+        "comment": "Lovely design, inspires creativity.",
+        "rating": 5,
+        "date": "2023-04-28"
+      },
+      {
+        "user": "VintageLover",
+        "comment": "Charming and well-crafted.",
+        "rating": 4,
+        "date": "2023-04-27"
+      }
+    ]
+  },
+  "3": {
+    "id": 703,
+    "name": "Bullet Journal Set",
+    "description": "Versatile bullet journal set with dot-grid pages, includes pens and stencils for organized planning.",
+    "price": 24.99,
+    "category": "Journals",
+    "stock": 80,
+    "tags": ["bullet journal", "dot-grid", "planning"],
+    "image": "journals/journals_3.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 180
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "OrganizedPlanner",
+        "comment": "Great for staying organized and creative.",
+        "rating": 5,
+        "date": "2023-04-26"
+      },
+      {
+        "user": "BulletJournalFan",
+        "comment": "Quality materials and practical.",
+        "rating": 4,
+        "date": "2023-04-25"
+      }
+    ]
+  },
+  "4": {
+    "id": 704,
+    "name": "Travel Journal",
+    "description": "Compact travel journal with world map design, perfect for recording travel memories and adventures.",
+    "price": 22.99,
+    "category": "Journals",
+    "stock": 70,
+    "tags": ["travel", "world map", "compact"],
+    "image": "journals/journals_4.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 170
+    },
+    "sales": {
+      "totalSold": 950,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "Traveler123",
+        "comment": "Excellent for documenting trips.",
+        "rating": 5,
+        "date": "2023-04-24"
+      },
+      {
+        "user": "AdventureSeeker",
+        "comment": "Sturdy and stylish.",
+        "rating": 4,
+        "date": "2023-04-23"
+      }
+    ]
+  },
+  "5": {
+    "id": 705,
+    "name": "Art Sketchbook",
+    "description": "Premium sketchbook with heavyweight paper, suitable for various art mediums including pencil, ink, and watercolor.",
+    "price": 26.99,
+    "category": "Journals",
+    "stock": 60,
+    "tags": ["sketchbook", "art", "premium"],
+    "image": "journals/journals_5.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 160
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "ArtLover",
+        "comment": "High-quality paper, perfect for artists.",
+        "rating": 5,
+        "date": "2023-04-22"
+      },
+      {
+        "user": "SketchArtist",
+        "comment": "Smooth texture and durable.",
+        "rating": 4,
+        "date": "2023-04-21"
+      }
+    ]
+  },
+  "6": {
+    "id": 706,
+    "name": "Personalized Journal",
+    "description": "Customizable journal with embossed initials, a thoughtful gift for journaling enthusiasts.",
+    "price": 28.99,
+    "category": "Journals",
+    "stock": 50,
+    "tags": ["personalized", "customizable", "gift"],
+    "image": "journals/journals_6.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 850,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "GiftRecipient",
+        "comment": "Beautifully made and meaningful.",
+        "rating": 5,
+        "date": "2023-04-20"
+      },
+      {
+        "user": "JournalEnthusiast",
+        "comment": "Great quality and elegant design.",
+        "rating": 4,
+        "date": "2023-04-19"
+      }
+    ]
+  },
+  "7": {
+    "id": 707,
+    "name": "Minimalist Journal",
+    "description": "Sleek and minimalist journal with smooth matte finish, perfect for professionals or minimalistic design lovers.",
+    "price": 21.99,
+    "category": "Journals",
+    "stock": 40,
+    "tags": ["minimalist", "matte finish", "professional"],
+    "image": "journals/journals_7.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "MinimalistWriter",
+        "comment": "Clean design and high-quality paper.",
+        "rating": 5,
+        "date": "2023-04-18"
+      },
+      {
+        "user": "DesignEnthusiast",
+        "comment": "Exactly what I was looking for.",
+        "rating": 4,
+        "date": "2023-04-17"
+      }
+    ]
+  },
+  "8": {
+    "id": 708,
+    "name": "Nature Inspired Journal",
+    "description": "Journal featuring nature-inspired designs and eco-friendly materials, ideal for nature lovers and environmentalists.",
+    "price": 23.99,
+    "category": "Journals",
+    "stock": 30,
+    "tags": ["nature", "eco-friendly", "environmental"],
+    "image": "journals/journals_8.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 750,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "NatureLover123",
+        "comment": "Beautiful artwork and sustainable materials.",
+        "rating": 5,
+        "date": "2023-04-16"
+      },
+      {
+        "user": "EnvironmentalWriter",
+        "comment": "Great for eco-conscious writing.",
+        "rating": 4,
+        "date": "2023-04-15"
+      }
+    ]
+  },
+  "9": {
+    "id": 709,
+    "name": "Classic Hardcover Journal",
+    "description": "Timeless hardcover journal with lined pages, suitable for daily journaling or note-taking.",
+    "price": 18.99,
+    "category": "Journals",
+    "stock": 25,
+    "tags": ["hardcover", "classic", "lined pages"],
+    "image": "journals/journals_9.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "JournalUser456",
+        "comment": "Sturdy and practical.",
+        "rating": 5,
+        "date": "2023-04-14"
+      },
+      {
+        "user": "NoteTaker789",
+        "comment": "Great for organized note-taking.",
+        "rating": 4,
+        "date": "2023-04-13"
+      }
+    ]
+  },
+  "10": {
+    "id": 710,
+    "name": "Luxury Silk Journal",
+    "description": "Luxurious silk journal with gold-trimmed edges and satin bookmark, perfect for special occasions and gifting.",
+    "price": 34.99,
+    "category": "Journals",
+    "stock": 20,
+    "tags": ["luxury", "silk", "gold-trimmed"],
+    "image": "journals/journals_10.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 650,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "LuxuryJournalUser",
+        "comment": "Elegant and exquisite craftsmanship.",
+        "rating": 5,
+        "date": "2023-04-12"
+      },
+      {
+        "user": "SilkEnthusiast",
+        "comment": "Beautiful texture and attention to detail.",
+        "rating": 4,
+        "date": "2023-04-11"
+      }
+    ]
+  },
+  "11": {
+    "id": 711,
+    "name": "Gratitude Journal",
+    "description": "Guided journal for daily gratitude practice, fostering mindfulness and positivity.",
+    "price": 16.99,
+    "category": "Journals",
+    "stock": 18,
+    "tags": ["gratitude", "mindfulness", "guided"],
+    "image": "journals/journals_11.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 195
+    },
+    "sales": {
+      "totalSold": 1150,
+      "soldThisMonth": 47
+    },
+    "reviews": [
+      {
+        "user": "GratefulHeart",
+        "comment": "Helps me focus on the positive.",
+        "rating": 5,
+        "date": "2023-04-10"
+      },
+      {
+        "user": "MindfulLiving",
+        "comment": "Great tool for daily reflection.",
+        "rating": 4,
+        "date": "2023-04-09"
+      }
+    ]
+  },
+  "12": {
+    "id": 712,
+    "name": "Fitness Journal",
+    "description": "Journal designed for tracking fitness goals, workouts, and progress, with motivational quotes and fitness tips.",
+    "price": 17.99,
+    "category": "Journals",
+    "stock": 15,
+    "tags": ["fitness", "workout tracking", "motivational"],
+    "image": "journals/journals_12.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 185
+    },
+    "sales": {
+      "totalSold": 1050,
+      "soldThisMonth": 42
+    },
+    "reviews": [
+      {
+        "user": "FitnessEnthusiast",
+        "comment": "Helps me stay committed to my fitness journey.",
+        "rating": 5,
+        "date": "2023-04-08"
+      },
+      {
+        "user": "WorkoutWarrior",
+        "comment": "Great layout and motivational content.",
+        "rating": 4,
+        "date": "2023-04-07"
+      }
+    ]
+  },
+  "13": {
+    "id": 713,
+    "name": "Recipe Journal",
+    "description": "Organized journal for recording favorite recipes, cooking notes, and culinary adventures.",
+    "price": 19.99,
+    "category": "Journals",
+    "stock": 12,
+    "tags": ["recipes", "cooking", "culinary"],
+    "image": "journals/journals_13.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 175
+    },
+    "sales": {
+      "totalSold": 975,
+      "soldThisMonth": 38
+    },
+    "reviews": [
+      {
+        "user": "FoodieChef",
+        "comment": "A great way to organize my recipes.",
+        "rating": 5,
+        "date": "2023-04-06"
+      },
+      {
+        "user": "CookingEnthusiast",
+        "comment": "Highly recommend for food lovers.",
+        "rating": 4,
+        "date": "2023-04-05"
+      }
+    ]
+  },
+  "14": {
+    "id": 714,
+    "name": "Dream Journal",
+    "description": "Journal for recording dreams and exploring the subconscious mind, with space for reflections and interpretations.",
+    "price": 18.99,
+    "category": "Journals",
+    "stock": 10,
+    "tags": ["dreams", "subconscious", "reflection"],
+    "image": "journals/journals_14.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 165
+    },
+    "sales": {
+      "totalSold": 925,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "DreamExplorer",
+        "comment": "Helps me understand my dreams better.",
+        "rating": 5,
+        "date": "2023-04-04"
+      },
+      {
+        "user": "SubconsciousReader",
+        "comment": "Great tool for self-reflection.",
+        "rating": 4,
+        "date": "2023-04-03"
+      }
+    ]
+  },
+  "15": {
+    "id": 715,
+    "name": "Family Journal",
+    "description": "Journal for capturing family memories, milestones, and special moments, a keepsake for generations.",
+    "price": 20.99,
+    "category": "Journals",
+    "stock": 8,
+    "tags": ["family", "memories", "keepsake"],
+    "image": "journals/journals_15.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 155
+    },
+    "sales": {
+      "totalSold": 875,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "FamilyMemories",
+        "comment": "A treasure trove of memories.",
+        "rating": 5,
+        "date": "2023-04-02"
+      },
+      {
+        "user": "GenerationsKeepsake",
+        "comment": "Beautiful journal for family history.",
+        "rating": 4,
+        "date": "2023-04-01"
+      }
+    ]
+  }
+}

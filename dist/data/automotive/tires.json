@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 46,
+    "name": "High-Performance Car Tires",
+    "description": "Enhance your car's handling and performance with these high-quality tires.",
+    "price": 199.99,
+    "category": "Automotive Tires",
+    "stock": 15,
+    "tags": ["automotive", "tires", "high-performance"],
+    "image": "productimage/automotive/tires/tires_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 35
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "DriverA",
+        "comment": "Excellent tires, improved my car's handling noticeably.",
+        "rating": 5,
+        "date": "2024-04-01"
+      },
+      {
+        "user": "DriverB",
+        "comment": "Good grip, even in wet conditions.",
+        "rating": 4,
+        "date": "2024-03-31"
+      }
+    ]
+  },
+  "2": {
+    "id": 47,
+    "name": "All-Season Car Tires",
+    "description": "Versatile tires suitable for all weather conditions, providing comfort and reliability.",
+    "price": 159.99,
+    "category": "Automotive Tires",
+    "stock": 20,
+    "tags": ["automotive", "tires", "all-season"],
+    "image": "productimage/automotive/tires/tires_2.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "DriverC",
+        "comment": "Great all-around tires, good traction in rain and snow.",
+        "rating": 5,
+        "date": "2024-03-30"
+      },
+      {
+        "user": "DriverD",
+        "comment": "Comfortable ride, but wear out faster than expected.",
+        "rating": 4,
+        "date": "2024-03-29"
+      }
+    ]
+  },
+  "3": {
+    "id": 48,
+    "name": "Winter Car Tires",
+    "description": "Optimized for winter conditions, providing superior grip on snow and ice.",
+    "price": 189.99,
+    "category": "Automotive Tires",
+    "stock": 18,
+    "tags": ["automotive", "tires", "winter"],
+    "image": "productimage/automotive/tires/tires_3.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 95,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "DriverE",
+        "comment": "Excellent winter tires, great handling on icy roads.",
+        "rating": 5,
+        "date": "2024-03-28"
+      },
+      {
+        "user": "DriverF",
+        "comment": "Good traction, but a bit noisy on dry roads.",
+        "rating": 4,
+        "date": "2024-03-27"
+      }
+    ]
+  },
+  "4": {
+    "id": 49,
+    "name": "Performance Car Tires",
+    "description": "Designed for sports cars, offering enhanced cornering and responsiveness.",
+    "price": 219.99,
+    "category": "Automotive Tires",
+    "stock": 16,
+    "tags": ["automotive", "tires", "performance"],
+    "image": "productimage/automotive/tires/tires_4.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 35
+    },
+    "sales": {
+      "totalSold": 105,
+      "soldThisMonth": 9
+    },
+    "reviews": [
+      {
+        "user": "DriverG",
+        "comment": "Outstanding performance tires, perfect for spirited driving.",
+        "rating": 5,
+        "date": "2024-03-26"
+      },
+      {
+        "user": "DriverH",
+        "comment": "Expensive but worth every penny.",
+        "rating": 5,
+        "date": "2024-03-25"
+      }
+    ]
+  },
+  "5": {
+    "id": 50,
+    "name": "Off-Road Car Tires",
+    "description": "Durable tires designed for off-road adventures, providing excellent traction on rough terrain.",
+    "price": 179.99,
+    "category": "Automotive Tires",
+    "stock": 22,
+    "tags": ["automotive", "tires", "off-road"],
+    "image": "productimage/automotive/tires/tires_5.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "DriverI",
+        "comment": "Solid off-road tires, haven't let me down yet.",
+        "rating": 5,
+        "date": "2024-03-24"
+      },
+      {
+        "user": "DriverJ",
+        "comment": "Good grip, but a bit noisy on pavement.",
+        "rating": 4,
+        "date": "2024-03-23"
+      }
+    ]
+  },
+  "6": {
+    "id": 51,
+    "name": "Eco-Friendly Car Tires",
+    "description": "Environmentally friendly tires, offering low rolling resistance and improved fuel efficiency.",
+    "price": 169.99,
+    "category": "Automotive Tires",
+    "stock": 25,
+    "tags": ["automotive", "tires", "eco-friendly"],
+    "image": "productimage/automotive/tires/tires_6.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "DriverK",
+        "comment": "Noticeable improvement in fuel economy with these tires.",
+        "rating": 5,
+        "date": "2024-03-22"
+      },
+      {
+        "user": "DriverL",
+        "comment": "Good for the environment, but slightly less grip.",
+        "rating": 4,
+        "date": "2024-03-21"
+      }
+    ]
+  },
+  "7": {
+    "id": 52,
+    "name": "Touring Car Tires",
+    "description": "Comfortable and quiet tires, ideal for long-distance driving.",
+    "price": 179.99,
+    "category": "Automotive Tires",
+    "stock": 20,
+    "tags": ["automotive", "tires", "touring"],
+    "image": "productimage/automotive/tires/tires_7.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "DriverM",
+        "comment": "Smooth ride, great for highway driving.",
+        "rating": 5,
+        "date": "2024-03-20"
+      },
+      {
+        "user": "DriverN",
+        "comment": "Comfortable, but could be more responsive.",
+        "rating": 4,
+        "date": "2024-03-19"
+      }
+    ]
+  },
+  "8": {
+    "id": 53,
+    "name": "SUV Car Tires",
+    "description": "Designed for SUVs, providing stability and traction both on and off-road.",
+    "price": 189.99,
+    "category": "Automotive Tires",
+    "stock": 18,
+    "tags": ["automotive", "tires", "SUV"],
+    "image": "productimage/automotive/tires/tires_8.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "DriverO",
+        "comment": "Great traction on various terrains, perfect for my SUV.",
+        "rating": 5,
+        "date": "2024-03-18"
+      },
+      {
+        "user": "DriverP",
+        "comment": "Good durability, but a bit noisy on highways.",
+        "rating": 4,
+        "date": "2024-03-17"
+      }
+    ]
+  },
+  "9": {
+    "id": 54,
+    "name": "Run-Flat Car Tires",
+    "description": "Tires designed to keep performing even after a puncture, allowing safe driving to a repair shop.",
+    "price": 209.99,
+    "category": "Automotive Tires",
+    "stock": 16,
+    "tags": ["automotive", "tires", "run-flat"],
+    "image": "productimage/automotive/tires/tires_9.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 35
+    },
+    "sales": {
+      "totalSold": 95,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "DriverQ",
+        "comment": "Saved me from being stranded, worth every penny.",
+        "rating": 5,
+        "date": "2024-03-16"
+      },
+      {
+        "user": "DriverR",
+        "comment": "Great concept, but a bit harsher ride.",
+        "rating": 4,
+        "date": "2024-03-15"
+      }
+    ]
+  },
+  "10": {
+    "id": 55,
+    "name": "Budget Car Tires",
+    "description": "Affordable tires without compromising on safety and performance.",
+    "price": 139.99,
+    "category": "Automotive Tires",
+    "stock": 20,
+    "tags": ["automotive", "tires", "budget"],
+    "image": "productimage/automotive/tires/tires_10.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "DriverS",
+        "comment": "Great value for money, good grip.",
+        "rating": 5,
+        "date": "2024-03-14"
+      },
+      {
+        "user": "DriverT",
+        "comment": "Decent tires for the price, but wear out faster.",
+        "rating": 4,
+        "date": "2024-03-13"
+      }
+    ]
+  },
+  "11": {
+    "id": 56,
+    "name": "Summer Car Tires",
+    "description": "Optimized for hot weather conditions, offering excellent performance and handling.",
+    "price": 169.99,
+    "category": "Automotive Tires",
+    "stock": 18,
+    "tags": ["automotive", "tires", "summer"],
+    "image": "productimage/automotive/tires/tires_11.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "DriverU",
+        "comment": "Excellent grip on dry roads, very responsive.",
+        "rating": 5,
+        "date": "2024-03-12"
+      },
+      {
+        "user": "DriverV",
+        "comment": "Good performance, but wear out quicker than expected.",
+        "rating": 4,
+        "date": "2024-03-11"
+      }
+    ]
+  },
+  "12": {
+    "id": 57,
+    "name": "Truck Car Tires",
+    "description": "Heavy-duty tires designed for trucks, providing durability and strength for tough conditions.",
+    "price": 229.99,
+    "category": "Automotive Tires",
+    "stock": 15,
+    "tags": ["automotive", "tires", "truck"],
+    "image": "productimage/automotive/tires/tires_12.jpg",
+    "ratings": {
+      "average": 4.9,
+      "count": 35
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "DriverW",
+        "comment": "Impressive durability and performance on my truck.",
+        "rating": 5,
+        "date": "2024-03-10"
+      },
+      {
+        "user": "DriverX",
+        "comment": "Expensive, but worth it for the reliability.",
+        "rating": 5,
+        "date": "2024-03-09"
+      }
+    ]
+  },
+  "13": {
+    "id": 58,
+    "name": "Vintage Car Tires",
+    "description": "Classic style tires designed for vintage cars, combining looks with modern performance.",
+    "price": 199.99,
+    "category": "Automotive Tires",
+    "stock": 20,
+    "tags": ["automotive", "tires", "vintage"],
+    "image": "productimage/automotive/tires/tires_13.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "DriverY",
+        "comment": "Perfect match for my vintage car, looks fantastic.",
+        "rating": 5,
+        "date": "2024-03-08"
+      },
+      {
+        "user": "DriverZ",
+        "comment": "Good performance, but a bit pricey for vintage tires.",
+        "rating": 4,
+        "date": "2024-03-07"
+      }
+    ]
+  },
+  "14": {
+    "id": 59,
+    "name": "Electric Car Tires",
+    "description": "Specialized tires optimized for electric vehicles, offering low rolling resistance and extended range.",
+    "price": 189.99,
+    "category": "Automotive Tires",
+    "stock": 18,
+    "tags": ["automotive", "tires", "electric"],
+    "image": "productimage/automotive/tires/tires_14.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 95,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "DriverAA",
+        "comment": "Great tires for my electric car, noticeable efficiency gains.",
+        "rating": 5,
+        "date": "2024-03-06"
+      },
+      {
+        "user": "DriverBB",
+        "comment": "Excellent performance, but a bit expensive.",
+        "rating": 4,
+        "date": "2024-03-05"
+      }
+    ]
+  },
+  "15": {
+    "id": 60,
+    "name": "Compact Car Tires",
+    "description": "Compact and efficient tires suitable for smaller cars, offering good handling and mileage.",
+    "price": 159.99,
+    "category": "Automotive Tires",
+    "stock": 16,
+    "tags": ["automotive", "tires", "compact"],
+    "image": "productimage/automotive/tires/tires_15.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "DriverCC",
+        "comment": "Perfect fit for my compact car, great value.",
+        "rating": 5,
+        "date": "2024-03-04"
+      },
+      {
+        "user": "DriverDD",
+        "comment": "Good performance, but could be quieter.",
+        "rating": 4,
+        "date": "2024-03-03"
+      }
+    ]
+  }
+}

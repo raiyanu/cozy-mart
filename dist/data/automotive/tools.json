@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 61,
+    "name": "Tool Set",
+    "description": "Comprehensive tool set for various mechanical and DIY tasks.",
+    "price": 199.99,
+    "category": "Tools",
+    "stock": 25,
+    "tags": ["tools", "DIY", "mechanical"],
+    "image": "productimage/tools/tools_1.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "MechanicX",
+        "comment": "Excellent tool set, very durable and useful.",
+        "rating": 5,
+        "date": "2024-03-02"
+      },
+      {
+        "user": "DIYEnthusiastY",
+        "comment": "Great value for the price, good variety of tools.",
+        "rating": 4,
+        "date": "2024-03-01"
+      }
+    ]
+  },
+  "2": {
+    "id": 62,
+    "name": "Power Drill",
+    "description": "High-performance cordless drill for drilling and screwdriving tasks.",
+    "price": 129.99,
+    "category": "Tools",
+    "stock": 30,
+    "tags": ["tools", "drill", "cordless"],
+    "image": "productimage/tools/tools_2.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "HandymanA",
+        "comment": "Powerful drill, great for home projects.",
+        "rating": 5,
+        "date": "2024-03-14"
+      },
+      {
+        "user": "DIYEnthusiastB",
+        "comment": "Good battery life, sturdy build.",
+        "rating": 4,
+        "date": "2024-03-13"
+      }
+    ]
+  },
+  "3": {
+    "id": 63,
+    "name": "Toolbox Organizer",
+    "description": "Compact organizer for storing and carrying tools.",
+    "price": 39.99,
+    "category": "Tools",
+    "stock": 35,
+    "tags": ["tools", "organizer", "storage"],
+    "image": "productimage/tools/tools_3.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "HandymanC",
+        "comment": "Very handy organizer, keeps everything in place.",
+        "rating": 5,
+        "date": "2024-03-12"
+      },
+      {
+        "user": "DIYEnthusiastD",
+        "comment": "Could be a bit more spacious, but good quality.",
+        "rating": 4,
+        "date": "2024-03-11"
+      }
+    ]
+  },
+  "4": {
+    "id": 64,
+    "name": "Hammer Set",
+    "description": "Set of durable hammers for various construction and demolition tasks.",
+    "price": 49.99,
+    "category": "Tools",
+    "stock": 20,
+    "tags": ["tools", "hammer", "construction"],
+    "image": "productimage/tools/tools_4.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 95,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "ContractorX",
+        "comment": "Excellent hammer set, very sturdy.",
+        "rating": 5,
+        "date": "2024-03-10"
+      },
+      {
+        "user": "DIYEnthusiastY",
+        "comment": "Good variety of hammers, handles well.",
+        "rating": 4,
+        "date": "2024-03-09"
+      }
+    ]
+  },
+  "5": {
+    "id": 65,
+    "name": "Screwdriver Kit",
+    "description": "Comprehensive set of screwdrivers for precision and general use.",
+    "price": 24.99,
+    "category": "Tools",
+    "stock": 25,
+    "tags": ["tools", "screwdriver", "kit"],
+    "image": "productimage/tools/tools_5.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "HandymanE",
+        "comment": "Great set of screwdrivers, comfortable grip.",
+        "rating": 5,
+        "date": "2024-03-08"
+      },
+      {
+        "user": "DIYEnthusiastF",
+        "comment": "High-quality screwdrivers, versatile.",
+        "rating": 4,
+        "date": "2024-03-07"
+      }
+    ]
+  },
+  "6": {
+    "id": 66,
+    "name": "Pliers Set",
+    "description": "Set of ergonomic pliers for gripping, bending, and cutting tasks.",
+    "price": 34.99,
+    "category": "Tools",
+    "stock": 30,
+    "tags": ["tools", "pliers", "set"],
+    "image": "productimage/tools/tools_6.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "HandymanG",
+        "comment": "Solid pliers set, very handy in the workshop.",
+        "rating": 5,
+        "date": "2024-03-06"
+      },
+      {
+        "user": "DIYEnthusiastH",
+        "comment": "Good grip, durable build.",
+        "rating": 4,
+        "date": "2024-03-05"
+      }
+    ]
+  },
+  "7": {
+    "id": 67,
+    "name": "Measuring Tape",
+    "description": "Durable and accurate measuring tape for precise measurements.",
+    "price": 12.99,
+    "category": "Tools",
+    "stock": 28,
+    "tags": ["tools", "measuring tape", "measurement"],
+    "image": "productimage/tools/tools_7.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "ContractorA",
+        "comment": "Very accurate tape measure, essential for my work.",
+        "rating": 5,
+        "date": "2024-03-04"
+      },
+      {
+        "user": "DIYEnthusiastB",
+        "comment": "Good value for money, sturdy construction.",
+        "rating": 4,
+        "date": "2024-03-03"
+      }
+    ]
+  },
+  "8": {
+    "id": 68,
+    "name": "Utility Knife",
+    "description": "Versatile utility knife for cutting various materials with precision.",
+    "price": 15.99,
+    "category": "Tools",
+    "stock": 26,
+    "tags": ["tools", "utility knife", "cutting"],
+    "image": "productimage/tools/tools_8.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 27
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "HandymanC",
+        "comment": "Sharp and reliable knife, useful in many situations.",
+        "rating": 5,
+        "date": "2024-03-02"
+      },
+      {
+        "user": "DIYEnthusiastD",
+        "comment": "Good grip, easy blade replacement.",
+        "rating": 4,
+        "date": "2024-03-01"
+      }
+    ]
+  },
+  "9": {
+    "id": 69,
+    "name": "Cordless Screwdriver",
+    "description": "Compact and powerful cordless screwdriver for quick and easy screwdriving tasks.",
+    "price": 29.99,
+    "category": "Tools",
+    "stock": 24,
+    "tags": ["tools", "screwdriver", "cordless"],
+    "image": "productimage/tools/tools_9.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "HandymanE",
+        "comment": "Handy tool, good battery life.",
+        "rating": 5,
+        "date": "2024-02-29"
+      },
+      {
+        "user": "DIYEnthusiastF",
+        "comment": "Efficient and compact, great for small projects.",
+        "rating": 4,
+        "date": "2024-02-28"
+      }
+    ]
+  },
+  "10": {
+    "id": 70,
+    "name": "Tool Belt",
+    "description": "Durable tool belt for easy access to tools during work.",
+    "price": 19.99,
+    "category": "Tools",
+    "stock": 22,
+    "tags": ["tools", "tool belt", "construction"],
+    "image": "productimage/tools/tools_10.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "ContractorX",
+        "comment": "Very practical tool belt, holds everything securely.",
+        "rating": 5,
+        "date": "2024-02-27"
+      },
+      {
+        "user": "DIYEnthusiastY",
+        "comment": "Comfortable to wear, good quality materials.",
+        "rating": 4,
+        "date": "2024-02-26"
+      }
+    ]
+  },
+  "11": {
+    "id": 71,
+    "name": "Angle Grinder",
+    "description": "Powerful angle grinder for cutting and grinding metal, tile, and concrete.",
+    "price": 79.99,
+    "category": "Tools",
+    "stock": 18,
+    "tags": ["tools", "angle grinder", "cutting"],
+    "image": "productimage/tools/tools_11.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "ContractorA",
+        "comment": "Excellent grinder, powerful and precise.",
+        "rating": 5,
+        "date": "2024-02-25"
+      },
+      {
+        "user": "DIYEnthusiastB",
+        "comment": "Versatile tool, good for home improvement projects.",
+        "rating": 4,
+        "date": "2024-02-24"
+      }
+    ]
+  },
+  "12": {
+    "id": 72,
+    "name": "Electric Drill",
+    "description": "Versatile electric drill for drilling holes and driving screws.",
+    "price": 59.99,
+    "category": "Tools",
+    "stock": 20,
+    "tags": ["tools", "electric drill", "drilling"],
+    "image": "productimage/tools/tools_12.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "HandymanC",
+        "comment": "Reliable electric drill, good power.",
+        "rating": 5,
+        "date": "2024-02-23"
+      },
+      {
+        "user": "DIYEnthusiastD",
+        "comment": "Easy to use, good for both beginners and pros.",
+        "rating": 4,
+        "date": "2024-02-22"
+      }
+    ]
+  },
+  "13": {
+    "id": 73,
+    "name": "Adjustable Wrench Set",
+    "description": "Set of adjustable wrenches for tightening and loosening bolts and nuts.",
+    "price": 29.99,
+    "category": "Tools",
+    "stock": 22,
+    "tags": ["tools", "adjustable wrench", "wrench set"],
+    "image": "productimage/tools/tools_13.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "ContractorX",
+        "comment": "Solid wrench set, good range of sizes.",
+        "rating": 5,
+        "date": "2024-02-21"
+      },
+      {
+        "user": "DIYEnthusiastY",
+        "comment": "Handles well, sturdy build.",
+        "rating": 4,
+        "date": "2024-02-20"
+      }
+    ]
+  },
+  "14": {
+    "id": 74,
+    "name": "Multi-Tool",
+    "description": "Versatile multi-tool for various tasks including cutting, sawing, and sanding.",
+    "price": 49.99,
+    "category": "Tools",
+    "stock": 18,
+    "tags": ["tools", "multi-tool", "versatile"],
+    "image": "productimage/tools/tools_14.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "HandymanE",
+        "comment": "Very handy tool, good variety of attachments.",
+        "rating": 5,
+        "date": "2024-02-19"
+      },
+      {
+        "user": "DIYEnthusiastF",
+        "comment": "Well-built, performs tasks effectively.",
+        "rating": 4,
+        "date": "2024-02-18"
+      }
+    ]
+  },
+  "15": {
+    "id": 75,
+    "name": "Workshop Vacuum Cleaner",
+    "description": "Powerful vacuum cleaner for cleaning workshop floors and work areas.",
+    "price": 149.99,
+    "category": "Tools",
+    "stock": 16,
+    "tags": ["tools", "vacuum cleaner", "workshop"],
+    "image": "productimage/tools/tools_15.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "ContractorA",
+        "comment": "Excellent vacuum cleaner, powerful suction.",
+        "rating": 5,
+        "date": "2024-02-17"
+      },
+      {
+        "user": "DIYEnthusiastB",
+        "comment": "Great for cleaning up after DIY projects.",
+        "rating": 4,
+        "date": "2024-02-16"
+      }
+    ]
+  }
+}

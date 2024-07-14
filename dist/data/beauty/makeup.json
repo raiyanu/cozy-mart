@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 121,
+    "name": "Foundation",
+    "description": "Liquid foundation for a smooth and natural finish.",
+    "price": 24.99,
+    "category": "Makeup",
+    "stock": 25,
+    "tags": ["makeup", "foundation", "liquid"],
+    "image": "productimage/beauty/makeup/makeup_1.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 40,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "SmoothFinish",
+        "comment": "Blends easily, lightweight and natural look.",
+        "rating": 4,
+        "date": "2023-10-18"
+      },
+      {
+        "user": "MakeupLover",
+        "comment": "Great coverage, lasts throughout the day.",
+        "rating": 5,
+        "date": "2023-10-17"
+      }
+    ]
+  },
+  "2": {
+    "id": 122,
+    "name": "Eyeshadow Palette",
+    "description": "Palette with a mix of matte and shimmer eyeshadows.",
+    "price": 19.99,
+    "category": "Makeup",
+    "stock": 28,
+    "tags": ["makeup", "eyeshadow", "palette"],
+    "image": "productimage/beauty/makeup/makeup_2.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 18
+    },
+    "sales": {
+      "totalSold": 35,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "EyeshadowFanatic",
+        "comment": "Beautiful shades, blends well.",
+        "rating": 4,
+        "date": "2023-10-16"
+      },
+      {
+        "user": "MakeupAddict",
+        "comment": "Versatile palette, perfect for day and night looks.",
+        "rating": 4,
+        "date": "2023-10-15"
+      }
+    ]
+  },
+  "3": {
+    "id": 123,
+    "name": "Mascara",
+    "description": "Lengthening mascara for dramatic lashes.",
+    "price": 14.99,
+    "category": "Makeup",
+    "stock": 26,
+    "tags": ["makeup", "mascara", "lengthening"],
+    "image": "productimage/beauty/makeup/makeup_3.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 17
+    },
+    "sales": {
+      "totalSold": 32,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "LashGuru",
+        "comment": "Adds length without clumping, love it!",
+        "rating": 4,
+        "date": "2023-10-14"
+      },
+      {
+        "user": "MascaraLover",
+        "comment": "Defines lashes beautifully, stays put.",
+        "rating": 4,
+        "date": "2023-10-13"
+      }
+    ]
+  },
+  "4": {
+    "id": 124,
+    "name": "Lipstick",
+    "description": "Creamy lipstick in vibrant shades.",
+    "price": 12.99,
+    "category": "Makeup",
+    "stock": 27,
+    "tags": ["makeup", "lipstick", "creamy"],
+    "image": "productimage/beauty/makeup/makeup_4.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 19
+    },
+    "sales": {
+      "totalSold": 36,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "LipstickAddict",
+        "comment": "Smooth application, lovely colors.",
+        "rating": 4,
+        "date": "2023-10-12"
+      },
+      {
+        "user": "ColorfulLips",
+        "comment": "Vibrant shades, long-lasting formula.",
+        "rating": 4,
+        "date": "2023-10-11"
+      }
+    ]
+  },
+  "5": {
+    "id": 125,
+    "name": "Blush",
+    "description": "Powder blush for a natural flush of color.",
+    "price": 15.99,
+    "category": "Makeup",
+    "stock": 24,
+    "tags": ["makeup", "blush", "powder"],
+    "image": "productimage/beauty/makeup/makeup_5.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 16
+    },
+    "sales": {
+      "totalSold": 30,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "RosyCheeks",
+        "comment": "Gives a nice natural color, blends well.",
+        "rating": 4,
+        "date": "2023-10-10"
+      },
+      {
+        "user": "BlushFan",
+        "comment": "Smooth texture, lasts all day.",
+        "rating": 4,
+        "date": "2023-10-09"
+      }
+    ]
+  },
+  "6": {
+    "id": 126,
+    "name": "Highlighter",
+    "description": "Creamy highlighter for a radiant glow.",
+    "price": 17.99,
+    "category": "Makeup",
+    "stock": 23,
+    "tags": ["makeup", "highlighter", "creamy"],
+    "image": "productimage/beauty/makeup/makeup_6.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 18
+    },
+    "sales": {
+      "totalSold": 34,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "GlowGetter",
+        "comment": "Beautiful glow, blends seamlessly.",
+        "rating": 4,
+        "date": "2023-10-08"
+      },
+      {
+        "user": "HighlighterAddict",
+        "comment": "Love the dewy finish, stays luminous.",
+        "rating": 4,
+        "date": "2023-10-07"
+      }
+    ]
+  },
+  "7": {
+    "id": 127,
+    "name": "Eyeliner",
+    "description": "Liquid eyeliner for precise and bold lines.",
+    "price": 13.99,
+    "category": "Makeup",
+    "stock": 25,
+    "tags": ["makeup", "eyeliner", "liquid"],
+    "image": "productimage/beauty/makeup/makeup_7.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 17
+    },
+    "sales": {
+      "totalSold": 32,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "PreciseLines",
+        "comment": "Easy to apply, stays put all day.",
+        "rating": 4,
+        "date": "2023-10-06"
+      },
+      {
+        "user": "EyelinerFanatic",
+        "comment": "Bold and intense color, love the precision.",
+        "rating": 4,
+        "date": "2023-10-05"
+      }
+    ]
+  },
+  "8": {
+    "id": 128,
+    "name": "Setting Spray",
+    "description": "Setting spray for long-lasting makeup.",
+    "price": 16.99,
+    "category": "Makeup",
+    "stock": 24,
+    "tags": ["makeup", "setting spray", "long-lasting"],
+    "image": "productimage/beauty/makeup/makeup_8.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 19
+    },
+    "sales": {
+      "totalSold": 36,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "MakeupSetter",
+        "comment": "Keeps makeup in place all day, lightweight.",
+        "rating": 4,
+        "date": "2023-10-04"
+      },
+      {
+        "user": "LongLastingMakeup",
+        "comment": "Works well in humid weather, love it!",
+        "rating": 4,
+        "date": "2023-10-03"
+      }
+    ]
+  },
+  "9": {
+    "id": 121,
+    "name": "Matte Lipstick",
+    "description": "Long-lasting matte lipstick in vibrant shades.",
+    "price": 14.99,
+    "category": "Makeup",
+    "stock": 25,
+    "tags": ["makeup", "matte lipstick", "long-lasting"],
+    "image": "productimage/beauty/makeup/makeup_9.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "LipstickLover",
+        "comment": "Great color payoff, stays put all day.",
+        "rating": 5,
+        "date": "2023-11-17"
+      },
+      {
+        "user": "MakeupFanatic",
+        "comment": "Smooth application, doesn't dry out lips.",
+        "rating": 4,
+        "date": "2023-11-16"
+      }
+    ]
+  },
+  "10": {
+    "id": 122,
+    "name": "Eyeshadow Palette",
+    "description": "Versatile eyeshadow palette with a range of matte and shimmer shades.",
+    "price": 29.99,
+    "category": "Makeup",
+    "stock": 20,
+    "tags": ["makeup", "eyeshadow palette", "matte", "shimmer"],
+    "image": "productimage/beauty/makeup/makeup_10.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "EyeMakeupFan",
+        "comment": "Beautiful colors, blends well.",
+        "rating": 5,
+        "date": "2023-11-15"
+      },
+      {
+        "user": "MakeupEnthusiast",
+        "comment": "Great for creating both day and night looks.",
+        "rating": 4,
+        "date": "2023-11-14"
+      }
+    ]
+  },
+  "11": {
+    "id": 123,
+    "name": "Highlighter",
+    "description": "Glowing highlighter for adding luminosity to the skin.",
+    "price": 19.99,
+    "category": "Makeup",
+    "stock": 18,
+    "tags": ["makeup", "highlighter", "luminous"],
+    "image": "productimage/beauty/makeup/makeup_11.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "GlowingSkin",
+        "comment": "Gives a beautiful sheen, easy to blend.",
+        "rating": 5,
+        "date": "2023-11-13"
+      },
+      {
+        "user": "MakeupAddict",
+        "comment": "Buildable and gives a natural glow.",
+        "rating": 4,
+        "date": "2023-11-12"
+      }
+    ]
+  },
+  "12": {
+    "id": 124,
+    "name": "Mascara",
+    "description": "Lengthening and volumizing mascara for bold lashes.",
+    "price": 17.99,
+    "category": "Makeup",
+    "stock": 22,
+    "tags": ["makeup", "mascara", "lengthening", "volumizing"],
+    "image": "productimage/beauty/makeup/makeup_12.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "LashObsessed",
+        "comment": "Adds great length and volume, doesn't clump.",
+        "rating": 5,
+        "date": "2023-11-11"
+      },
+      {
+        "user": "MakeupLover",
+        "comment": "Defines lashes beautifully, long-lasting.",
+        "rating": 4,
+        "date": "2023-11-10"
+      }
+    ]
+  },
+  "13": {
+    "id": 125,
+    "name": "Liquid Foundation",
+    "description": "Smooth and buildable liquid foundation for flawless coverage.",
+    "price": 27.99,
+    "category": "Makeup",
+    "stock": 20,
+    "tags": ["makeup", "liquid foundation", "flawless coverage"],
+    "image": "productimage/beauty/makeup/makeup_13.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "FlawlessFinish",
+        "comment": "Blends like a dream, feels lightweight.",
+        "rating": 5,
+        "date": "2023-11-09"
+      },
+      {
+        "user": "MakeupFanatic",
+        "comment": "Buildable coverage, doesn't look cakey.",
+        "rating": 4,
+        "date": "2023-11-08"
+      }
+    ]
+  },
+  "14": {
+    "id": 126,
+    "name": "Blush",
+    "description": "Natural-looking blush for a healthy flush of color.",
+    "price": 16.99,
+    "category": "Makeup",
+    "stock": 18,
+    "tags": ["makeup", "blush", "natural"],
+    "image": "productimage/beauty/makeup/makeup_14.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "RosyCheeks",
+        "comment": "Lovely shade, blends beautifully.",
+        "rating": 5,
+        "date": "2023-11-07"
+      },
+      {
+        "user": "MakeupAddict",
+        "comment": "Pigmented and lasts all day.",
+        "rating": 4,
+        "date": "2023-11-06"
+      }
+    ]
+  },
+  "15": {
+    "id": 127,
+    "name": "Makeup Setting Spray",
+    "description": "Long-lasting makeup setting spray for a fresh look.",
+    "price": 21.99,
+    "category": "Makeup",
+    "stock": 15,
+    "tags": ["makeup", "setting spray", "long-lasting"],
+    "image": "productimage/beauty/makeup/makeup_15.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 24
+    },
+    "sales": {
+      "totalSold": 70,
+      "soldThisMonth": 4
+    },
+    "reviews": [
+      {
+        "user": "FreshFace",
+        "comment": "Keeps makeup in place all day, refreshing.",
+        "rating": 5,
+        "date": "2023-11-05"
+      },
+      {
+        "user": "MakeupLover",
+        "comment": "Helps makeup stay flawless, doesn't feel heavy.",
+        "rating": 4,
+        "date": "2023-11-04"
+      }
+    ]
+  }
+}

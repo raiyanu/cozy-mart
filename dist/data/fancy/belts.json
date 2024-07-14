@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Casual Leather Belt",
+    "description": "Classic leather belt for everyday wear.",
+    "price": 29.99,
+    "category": "Belts",
+    "stock": 50,
+    "tags": ["Belt", "Leather", "Casual"],
+    "image": "belts/belts_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Durable leather and fits well.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "CasualWearer456",
+        "comment": "Perfect for everyday use.",
+        "rating": 5,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Formal Belt",
+    "description": "Elegant leather belt for formal occasions.",
+    "price": 49.99,
+    "category": "Belts",
+    "stock": 40,
+    "tags": ["Belt", "Leather", "Formal"],
+    "image": "belts/belts_2.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "High-quality leather and stylish buckle.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "FormalAttire456",
+        "comment": "Perfect match for formal suits.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Designer Belt",
+    "description": "Luxury designer belt with logo buckle.",
+    "price": 199.99,
+    "category": "Belts",
+    "stock": 35,
+    "tags": ["Belt", "Designer", "Luxury"],
+    "image": "belts/belts_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Impressive craftsmanship and design.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "LuxuryLover456",
+        "comment": "Adds elegance to any outfit.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Canvas Belt",
+    "description": "Durable canvas belt with metal buckle.",
+    "price": 19.99,
+    "category": "Belts",
+    "stock": 30,
+    "tags": ["Belt", "Canvas", "Durable"],
+    "image": "belts/belts_4.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Great for casual wear.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "CasualWearer456",
+        "comment": "Comfortable and sturdy.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Reversible Belt",
+    "description": "Versatile reversible belt with two colors.",
+    "price": 39.99,
+    "category": "Belts",
+    "stock": 25,
+    "tags": ["Belt", "Reversible", "Versatile"],
+    "image": "belts/belts_5.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Great value for money.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "VersatileWearer456",
+        "comment": "Convenient two-in-one design.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Slim Belt",
+    "description": "Slim and minimalist belt for a sleek look.",
+    "price": 24.99,
+    "category": "Belts",
+    "stock": 20,
+    "tags": ["Belt", "Slim", "Minimalist"],
+    "image": "belts/belts_6.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Perfect for dress pants.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "MinimalistStyle456",
+        "comment": "Simple yet stylish.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Studded Belt",
+    "description": "Edgy studded belt with metal accents.",
+    "price": 34.99,
+    "category": "Belts",
+    "stock": 18,
+    "tags": ["Belt", "Studded", "Edgy"],
+    "image": "belts/belts_7.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Adds a cool vibe to outfits.",
+        "rating": 4,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "EdgyFashion456",
+        "comment": "High-quality studs and durable.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Chain Belt",
+    "description": "Unique chain belt with adjustable length.",
+    "price": 44.99,
+    "category": "Belts",
+    "stock": 15,
+    "tags": ["Belt", "Chain", "Unique"],
+    "image": "belts/belts_8.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 80
+    },
+    "sales": {
+      "totalSold": 400,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Looks great with dresses.",
+        "rating": 4,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "UniqueStyle456",
+        "comment": "Adjustable length is convenient.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Braided Belt",
+    "description": "Stylish braided belt with leather accents.",
+    "price": 27.99,
+    "category": "Belts",
+    "stock": 12,
+    "tags": ["Belt", "Braided", "Stylish"],
+    "image": "belts/belts_9.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 70
+    },
+    "sales": {
+      "totalSold": 350,
+      "soldThisMonth": 18
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Love the braided design.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "StylishBeltWearer456",
+        "comment": "Comfortable fit and looks great.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Western Belt",
+    "description": "Classic western-style belt with decorative buckle.",
+    "price": 37.99,
+    "category": "Belts",
+    "stock": 10,
+    "tags": ["Belt", "Western", "Classic"],
+    "image": "belts/belts_10.jpg",
+    "ratings": {
+      "average": 3.9,
+      "count": 60
+    },
+    "sales": {
+      "totalSold": 300,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Adds a cowboy flair to outfits.",
+        "rating": 4,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "WesternStyle456",
+        "comment": "Durable and authentic western look.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Patent Leather Belt",
+    "description": "Shiny patent leather belt for a polished look.",
+    "price": 54.99,
+    "category": "Belts",
+    "stock": 5,
+    "tags": ["Belt", "Patent Leather", "Shiny"],
+    "image": "belts/belts_11.jpg",
+    "ratings": {
+      "average": 3.8,
+      "count": 50
+    },
+    "sales": {
+      "totalSold": 250,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Glossy finish looks sophisticated.",
+        "rating": 4,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "PolishedStyle456",
+        "comment": "Perfect for formal occasions.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Embellished Belt",
+    "description": "Belt with embellished buckle and leather details.",
+    "price": 64.99,
+    "category": "Belts",
+    "stock": 3,
+    "tags": ["Belt", "Embellished", "Detailed"],
+    "image": "belts/belts_12.jpg",
+    "ratings": {
+      "average": 3.7,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 200,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Unique and eye-catching design.",
+        "rating": 4,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "DetailedFashion456",
+        "comment": "Adds personality to any outfit.",
+        "rating": 3,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Wide Belt",
+    "description": "Wide belt with statement buckle.",
+    "price": 49.99,
+    "category": "Belts",
+    "stock": 2,
+    "tags": ["Belt", "Wide", "Statement"],
+    "image": "belts/belts_13.jpg",
+    "ratings": {
+      "average": 3.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 150,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Makes a bold fashion statement.",
+        "rating": 4,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "StatementStyle456",
+        "comment": "Great for defining waistlines.",
+        "rating": 3,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Elastic Belt",
+    "description": "Comfortable elastic belt with leather trim.",
+    "price": 34.99,
+    "category": "Belts",
+    "stock": 1,
+    "tags": ["Belt", "Elastic", "Comfortable"],
+    "image": "belts/belts_14.jpg",
+    "ratings": {
+      "average": 3.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Easy to adjust and fits well.",
+        "rating": 4,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "ComfortStyle456",
+        "comment": "Great for all-day wear.",
+        "rating": 3,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Chain Link Belt",
+    "description": "Belt with chain link design and adjustable length.",
+    "price": 44.99,
+    "category": "Belts",
+    "stock": 0,
+    "tags": ["Belt", "Chain Link", "Adjustable"],
+    "image": "belts/belts_15.jpg",
+    "ratings": {
+      "average": 3.4,
+      "count": 10
+    },
+    "sales": {
+      "totalSold": 50,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Unique chain link design.",
+        "rating": 4,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "ChainLover456",
+        "comment": "Adjustable length is convenient.",
+        "rating": 3,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

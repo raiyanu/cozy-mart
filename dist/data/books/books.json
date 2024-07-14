@@ -1,0 +1,3862 @@
+{
+  "audiobooks": {
+    "1": {
+      "id": 201,
+      "name": "The Great Gatsby",
+      "description": "A classic novel by F. Scott Fitzgerald, narrated by a renowned voice actor.",
+      "price": 14.99,
+      "category": "Audiobooks",
+      "stock": 100,
+      "tags": ["classic", "fiction", "F. Scott Fitzgerald"],
+      "image": "audiobooks/audiobooks_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1500,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "BookLover123",
+          "comment": "Fantastic narration of a timeless classic.",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "AudioFan",
+          "comment": "A wonderful experience listening to this audiobook.",
+          "rating": 4,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 202,
+      "name": "1984",
+      "description": "George Orwell's dystopian novel, brought to life through powerful narration.",
+      "price": 12.99,
+      "category": "Audiobooks",
+      "stock": 80,
+      "tags": ["dystopian", "fiction", "George Orwell"],
+      "image": "audiobooks/audiobooks_2.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "DystopiaLover",
+          "comment": "A chilling and thought-provoking listen.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "OrwellFan",
+          "comment": "Excellent narration and a gripping story.",
+          "rating": 4,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 203,
+      "name": "To Kill a Mockingbird",
+      "description": "Harper Lee's masterpiece narrated by a captivating voice actor.",
+      "price": 16.99,
+      "category": "Audiobooks",
+      "stock": 90,
+      "tags": ["classic", "fiction", "Harper Lee"],
+      "image": "audiobooks/audiobooks_3.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 210
+      },
+      "sales": {
+        "totalSold": 1300,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "MockingbirdFan",
+          "comment": "An unforgettable story beautifully narrated.",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "ClassicLover",
+          "comment": "A must-listen for everyone.",
+          "rating": 5,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 204,
+      "name": "Pride and Prejudice",
+      "description": "Jane Austen's beloved novel, narrated with elegance and charm.",
+      "price": 13.99,
+      "category": "Audiobooks",
+      "stock": 70,
+      "tags": ["classic", "romance", "Jane Austen"],
+      "image": "audiobooks/audiobooks_4.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "AustenFan",
+          "comment": "A delightful listening experience.",
+          "rating": 5,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "RomanceLover",
+          "comment": "Wonderful narration of a timeless romance.",
+          "rating": 4,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 205,
+      "name": "Moby Dick",
+      "description": "Herman Melville's epic tale of the sea, narrated with intensity and drama.",
+      "price": 15.99,
+      "category": "Audiobooks",
+      "stock": 60,
+      "tags": ["classic", "adventure", "Herman Melville"],
+      "image": "audiobooks/audiobooks_5.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "SeaAdventureFan",
+          "comment": "A gripping tale beautifully narrated.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "MelvilleLover",
+          "comment": "Excellent audiobook experience.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 206,
+      "name": "The Catcher in the Rye",
+      "description": "J.D. Salinger's classic novel, narrated with a unique and engaging voice.",
+      "price": 12.99,
+      "category": "Audiobooks",
+      "stock": 100,
+      "tags": ["classic", "fiction", "J.D. Salinger"],
+      "image": "audiobooks/audiobooks_6.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "CatcherFan",
+          "comment": "A compelling story with excellent narration.",
+          "rating": 5,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "SalingerLover",
+          "comment": "Enjoyed listening to this classic.",
+          "rating": 4,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 207,
+      "name": "War and Peace",
+      "description": "Leo Tolstoy's epic novel, narrated by a renowned voice actor.",
+      "price": 19.99,
+      "category": "Audiobooks",
+      "stock": 50,
+      "tags": ["classic", "historical", "Leo Tolstoy"],
+      "image": "audiobooks/audiobooks_7.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "TolstoyFan",
+          "comment": "A monumental work beautifully narrated.",
+          "rating": 5,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "HistoryLover",
+          "comment": "A must-listen for fans of historical fiction.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 208,
+      "name": "The Hobbit",
+      "description": "J.R.R. Tolkien's fantasy classic, narrated with excitement and wonder.",
+      "price": 14.99,
+      "category": "Audiobooks",
+      "stock": 90,
+      "tags": ["fantasy", "classic", "J.R.R. Tolkien"],
+      "image": "audiobooks/audiobooks_8.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "TolkienFan",
+          "comment": "A magical journey with excellent narration.",
+          "rating": 5,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "FantasyLover",
+          "comment": "Loved every minute of this audiobook.",
+          "rating": 5,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 209,
+      "name": "Brave New World",
+      "description": "Aldous Huxley's dystopian novel, narrated with a gripping voice.",
+      "price": 13.99,
+      "category": "Audiobooks",
+      "stock": 80,
+      "tags": ["dystopian", "fiction", "Aldous Huxley"],
+      "image": "audiobooks/audiobooks_9.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "HuxleyFan",
+          "comment": "A thought-provoking story with excellent narration.",
+          "rating": 5,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "DystopiaLover",
+          "comment": "An engaging and powerful audiobook.",
+          "rating": 4,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 210,
+      "name": "Jane Eyre",
+      "description": "Charlotte Brontë's classic novel, narrated with passion and depth.",
+      "price": 12.99,
+      "category": "Audiobooks",
+      "stock": 100,
+      "tags": ["classic", "romance", "Charlotte Brontë"],
+      "image": "audiobooks/audiobooks_10.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "BronteFan",
+          "comment": "A beautiful story with excellent narration.",
+          "rating": 5,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "RomanceLover",
+          "comment": "A wonderful audiobook experience.",
+          "rating": 4,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 211,
+      "name": "The Odyssey",
+      "description": "Homer's epic tale, narrated with grandeur and excitement.",
+      "price": 14.99,
+      "category": "Audiobooks",
+      "stock": 70,
+      "tags": ["classic", "epic", "Homer"],
+      "image": "audiobooks/audiobooks_11.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 950,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "EpicFan",
+          "comment": "A fantastic retelling of a timeless classic.",
+          "rating": 5,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "HistoryLover",
+          "comment": "Enjoyed listening to this epic tale.",
+          "rating": 4,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 212,
+      "name": "Great Expectations",
+      "description": "Charles Dickens' classic, narrated with rich and engaging tones.",
+      "price": 13.99,
+      "category": "Audiobooks",
+      "stock": 90,
+      "tags": ["classic", "fiction", "Charles Dickens"],
+      "image": "audiobooks/audiobooks_12.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "DickensFan",
+          "comment": "A captivating story beautifully narrated.",
+          "rating": 5,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "ClassicLover",
+          "comment": "An enjoyable listen from start to finish.",
+          "rating": 4,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 213,
+      "name": "Dracula",
+      "description": "Bram Stoker's horror classic, narrated with a spine-chilling voice.",
+      "price": 11.99,
+      "category": "Audiobooks",
+      "stock": 85,
+      "tags": ["horror", "classic", "Bram Stoker"],
+      "image": "audiobooks/audiobooks_13.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "HorrorFan",
+          "comment": "A thrilling and chilling audiobook.",
+          "rating": 5,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "StokerLover",
+          "comment": "Excellent narration of a horror classic.",
+          "rating": 4,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 214,
+      "name": "The Adventures of Sherlock Holmes",
+      "description": "Arthur Conan Doyle's detective stories, narrated with intrigue and wit.",
+      "price": 12.99,
+      "category": "Audiobooks",
+      "stock": 100,
+      "tags": ["detective", "classic", "Arthur Conan Doyle"],
+      "image": "audiobooks/audiobooks_14.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "HolmesFan",
+          "comment": "A brilliant collection of stories, excellently narrated.",
+          "rating": 5,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "MysteryLover",
+          "comment": "A must-listen for fans of detective fiction.",
+          "rating": 4,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 215,
+      "name": "Wuthering Heights",
+      "description": "Emily Brontë's gothic novel, narrated with passion and depth.",
+      "price": 13.99,
+      "category": "Audiobooks",
+      "stock": 95,
+      "tags": ["classic", "romance", "Emily Brontë"],
+      "image": "audiobooks/audiobooks_15.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 950,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "BronteFan",
+          "comment": "A haunting and beautiful story, wonderfully narrated.",
+          "rating": 5,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "GothicLover",
+          "comment": "A powerful audiobook experience.",
+          "rating": 4,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  },
+  "comics": {
+    "1": {
+      "id": 301,
+      "name": "Batman: The Dark Knight Returns",
+      "description": "Frank Miller's iconic Batman story, showcasing the Dark Knight's return to crime-fighting.",
+      "price": 14.99,
+      "category": "Comics",
+      "stock": 100,
+      "tags": ["Batman", "superhero", "Frank Miller"],
+      "image": "comics/comics_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1500,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "BatFan123",
+          "comment": "An absolute classic of the genre.",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "ComicBookEnthusiast",
+          "comment": "One of the best Batman comics ever written.",
+          "rating": 4,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 302,
+      "name": "Watchmen",
+      "description": "Alan Moore's groundbreaking graphic novel exploring the dark and complex world of masked vigilantes.",
+      "price": 12.99,
+      "category": "Comics",
+      "stock": 80,
+      "tags": ["superhero", "graphic novel", "Alan Moore"],
+      "image": "comics/comics_2.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "WatchmenFan",
+          "comment": "A masterpiece that redefined the genre.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "GraphicNovelReader",
+          "comment": "Complex and thought-provoking storytelling.",
+          "rating": 4,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 303,
+      "name": "Spider-Man: Kraven's Last Hunt",
+      "description": "A gripping Spider-Man story where he faces one of his deadliest foes, Kraven the Hunter.",
+      "price": 16.99,
+      "category": "Comics",
+      "stock": 90,
+      "tags": ["Spider-Man", "superhero", "Kraven"],
+      "image": "comics/comics_3.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 210
+      },
+      "sales": {
+        "totalSold": 1300,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "SpideyFan",
+          "comment": "A dark and intense storyline.",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "MarvelReader",
+          "comment": "One of the best Spider-Man arcs.",
+          "rating": 5,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 304,
+      "name": "The Sandman",
+      "description": "Neil Gaiman's epic saga of Dream, the Lord of Dreams, and his interactions with mortals and other mythical beings.",
+      "price": 13.99,
+      "category": "Comics",
+      "stock": 70,
+      "tags": ["fantasy", "graphic novel", "Neil Gaiman"],
+      "image": "comics/comics_4.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "SandmanFan",
+          "comment": "A rich and imaginative series.",
+          "rating": 5,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "GraphicNovelEnthusiast",
+          "comment": "Neil Gaiman at his best.",
+          "rating": 4,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 305,
+      "name": "Saga",
+      "description": "Brian K. Vaughan and Fiona Staples' space opera about love, family, and conflict across galaxies.",
+      "price": 15.99,
+      "category": "Comics",
+      "stock": 60,
+      "tags": ["science fiction", "graphic novel", "Brian K. Vaughan"],
+      "image": "comics/comics_5.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "SpaceOperaFan",
+          "comment": "An epic and emotionally resonant story.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "ComicBookReader",
+          "comment": "Unique and compelling artwork.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 306,
+      "name": "Y: The Last Man",
+      "description": "Brian K. Vaughan and Pia Guerra's series about the last surviving man on Earth and the challenges he faces.",
+      "price": 12.99,
+      "category": "Comics",
+      "stock": 100,
+      "tags": ["science fiction", "graphic novel", "Brian K. Vaughan"],
+      "image": "comics/comics_6.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "YFan",
+          "comment": "A fascinating exploration of gender and survival.",
+          "rating": 5,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "GraphicNovelLover",
+          "comment": "Compelling storytelling with strong character development.",
+          "rating": 4,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 307,
+      "name": "Hellboy",
+      "description": "Mike Mignola's supernatural hero Hellboy battles paranormal threats in a series of occult adventures.",
+      "price": 19.99,
+      "category": "Comics",
+      "stock": 50,
+      "tags": ["supernatural", "horror", "Mike Mignola"],
+      "image": "comics/comics_7.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "HellboyFan",
+          "comment": "Fantastic artwork and storytelling.",
+          "rating": 5,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "ComicEnthusiast",
+          "comment": "A must-read for fans of supernatural comics.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 308,
+      "name": "Bone",
+      "description": "Jeff Smith's epic fantasy tale following the adventures of three cousins as they navigate a world filled with mystery and danger.",
+      "price": 14.99,
+      "category": "Comics",
+      "stock": 90,
+      "tags": ["fantasy", "graphic novel", "Jeff Smith"],
+      "image": "comics/comics_8.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "BoneFan",
+          "comment": "Wonderful characters and storytelling.",
+          "rating": 5,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "FantasyComicReader",
+          "comment": "A delightful journey through a richly imagined world.",
+          "rating": 5,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 309,
+      "name": "Preacher",
+      "description": "Garth Ennis and Steve Dillon's series about a preacher imbued with supernatural powers on a quest to find God.",
+      "price": 16.99,
+      "category": "Comics",
+      "stock": 80,
+      "tags": ["supernatural", "graphic novel", "Garth Ennis"],
+      "image": "comics/comics_9.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "PreacherFan",
+          "comment": "Darkly humorous and thought-provoking.",
+          "rating": 5,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "GraphicNovelFan",
+          "comment": "An intense and gripping read.",
+          "rating": 4,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 310,
+      "name": "Saga of the Swamp Thing",
+      "description": "Alan Moore's revitalization of the Swamp Thing character into a sophisticated and philosophical series.",
+      "price": 18.99,
+      "category": "Comics",
+      "stock": 70,
+      "tags": ["horror", "graphic novel", "Alan Moore"],
+      "image": "comics/comics_10.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "SwampThingFan",
+          "comment": "A masterpiece of horror and atmosphere.",
+          "rating": 5,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "HorrorComicReader",
+          "comment": "A deep and haunting narrative.",
+          "rating": 4,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 311,
+      "name": "Fables",
+      "description": "Bill Willingham's series depicting fairy tale characters living in exile in modern-day New York City.",
+      "price": 15.99,
+      "category": "Comics",
+      "stock": 60,
+      "tags": ["fantasy", "graphic novel", "Bill Willingham"],
+      "image": "comics/comics_11.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 950,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "FablesFan",
+          "comment": "An imaginative and clever series.",
+          "rating": 5,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "FantasyComicEnthusiast",
+          "comment": "Unique take on classic fairy tales.",
+          "rating": 4,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 312,
+      "name": "Locke & Key",
+      "description": "Joe Hill and Gabriel Rodríguez's horror-fantasy series revolving around a family and a set of supernatural keys.",
+      "price": 17.99,
+      "category": "Comics",
+      "stock": 50,
+      "tags": ["horror", "fantasy", "Joe Hill"],
+      "image": "comics/comics_12.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "LockeKeyFan",
+          "comment": "Intriguing and suspenseful storytelling.",
+          "rating": 5,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "HorrorComicLover",
+          "comment": "Unique premise with excellent execution.",
+          "rating": 4,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 313,
+      "name": "Transmetropolitan",
+      "description": "Warren Ellis and Darick Robertson's satirical series set in a dystopian future where a gonzo journalist fights corruption.",
+      "price": 16.99,
+      "category": "Comics",
+      "stock": 40,
+      "tags": ["science fiction", "satire", "Warren Ellis"],
+      "image": "comics/comics_13.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "TransmetropolitanFan",
+          "comment": "Darkly humorous and scarily prescient.",
+          "rating": 5,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "SciFiComicReader",
+          "comment": "A wild and thought-provoking ride.",
+          "rating": 4,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 314,
+      "name": "Bone: Coda",
+      "description": "Jeff Smith's epilogue to the Bone series, exploring further adventures and resolutions.",
+      "price": 14.99,
+      "category": "Comics",
+      "stock": 30,
+      "tags": ["fantasy", "graphic novel", "Jeff Smith"],
+      "image": "comics/comics_14.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 130
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 15
+      },
+      "reviews": [
+        {
+          "user": "BoneFan",
+          "comment": "A satisfying conclusion to the Bone saga.",
+          "rating": 5,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "GraphicNovelReader",
+          "comment": "Great closure for fans of the series.",
+          "rating": 4,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 315,
+      "name": "Sandman: Overture",
+      "description": "Neil Gaiman's prequel to The Sandman, exploring the events leading up to the original series.",
+      "price": 15.99,
+      "category": "Comics",
+      "stock": 25,
+      "tags": ["fantasy", "graphic novel", "Neil Gaiman"],
+      "image": "comics/comics_15.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 120
+      },
+      "sales": {
+        "totalSold": 750,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "SandmanFan",
+          "comment": "Beautiful artwork and a compelling story.",
+          "rating": 5,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "GraphicNovelEnthusiast",
+          "comment": "A must-read for Sandman fans.",
+          "rating": 5,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  },
+  "cookbooks": {
+    "1": {
+      "id": 401,
+      "name": "The Joy of Cooking",
+      "description": "A classic American cookbook with a wide range of recipes and cooking techniques.",
+      "price": 24.99,
+      "category": "Cookbooks",
+      "stock": 100,
+      "tags": ["American cuisine", "classic", "recipes"],
+      "image": "cookbooks/cookbooks_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1500,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "CookingEnthusiast",
+          "comment": "A must-have for any kitchen.",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "Foodie123",
+          "comment": "Great variety and clear instructions.",
+          "rating": 4,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 402,
+      "name": "Mastering the Art of French Cooking",
+      "description": "Julia Child's renowned cookbook introducing classic French cuisine to American home cooks.",
+      "price": 29.99,
+      "category": "Cookbooks",
+      "stock": 80,
+      "tags": ["French cuisine", "Julia Child", "classic"],
+      "image": "cookbooks/cookbooks_2.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "FrenchCuisineFan",
+          "comment": "An essential guide to French cooking.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "HomeChef456",
+          "comment": "Detailed and informative.",
+          "rating": 4,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 403,
+      "name": "How to Cook Everything",
+      "description": "Mark Bittman's comprehensive cookbook covering a wide range of recipes and cooking techniques.",
+      "price": 26.99,
+      "category": "Cookbooks",
+      "stock": 90,
+      "tags": ["comprehensive", "recipes", "techniques"],
+      "image": "cookbooks/cookbooks_3.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 210
+      },
+      "sales": {
+        "totalSold": 1300,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "CookbookReader",
+          "comment": "A go-to resource for any home cook.",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "FoodLover789",
+          "comment": "Clear instructions and great tips.",
+          "rating": 5,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 404,
+      "name": "The Pioneer Woman Cooks",
+      "description": "Ree Drummond's collection of recipes inspired by her life on a ranch.",
+      "price": 21.99,
+      "category": "Cookbooks",
+      "stock": 70,
+      "tags": ["ranch cuisine", "family recipes", "Ree Drummond"],
+      "image": "cookbooks/cookbooks_4.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "RanchCookingFan",
+          "comment": "Delicious recipes with a personal touch.",
+          "rating": 5,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "HomeCook789",
+          "comment": "Perfect for family meals.",
+          "rating": 4,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 405,
+      "name": "Thug Kitchen: Eat Like You Give a F*ck",
+      "description": "A vegan cookbook with bold flavors and irreverent attitude.",
+      "price": 19.99,
+      "category": "Cookbooks",
+      "stock": 60,
+      "tags": ["vegan", "bold flavors", "Thug Kitchen"],
+      "image": "cookbooks/cookbooks_5.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "VeganFoodie",
+          "comment": "Fun and flavorful recipes.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "HealthNut123",
+          "comment": "Surprisingly delicious vegan dishes.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 406,
+      "name": "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",
+      "description": "Samin Nosrat's guide to mastering the essential elements of cooking for delicious results.",
+      "price": 22.99,
+      "category": "Cookbooks",
+      "stock": 100,
+      "tags": ["cooking techniques", "Samin Nosrat", "essential elements"],
+      "image": "cookbooks/cookbooks_6.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "CookingTechniquesFan",
+          "comment": "Clear and practical advice.",
+          "rating": 5,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "Foodie456",
+          "comment": "Enhanced my cooking skills.",
+          "rating": 4,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 407,
+      "name": "Barefoot Contessa at Home",
+      "description": "Ina Garten's cookbook featuring comforting recipes perfect for home cooking.",
+      "price": 25.99,
+      "category": "Cookbooks",
+      "stock": 50,
+      "tags": ["comfort food", "Ina Garten", "home cooking"],
+      "image": "cookbooks/cookbooks_7.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "ContessaFan",
+          "comment": "Delicious and comforting recipes.",
+          "rating": 5,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "HomeChef567",
+          "comment": "Perfect for family gatherings.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 408,
+      "name": "The Smitten Kitchen Cookbook",
+      "description": "Deb Perelman's collection of approachable and inventive recipes from her popular blog.",
+      "price": 23.99,
+      "category": "Cookbooks",
+      "stock": 90,
+      "tags": ["approachable", "inventive", "Deb Perelman"],
+      "image": "cookbooks/cookbooks_8.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "SmittenKitchenFan",
+          "comment": "Love the variety of recipes.",
+          "rating": 5,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "HomeCook123",
+          "comment": "Great for trying new dishes.",
+          "rating": 5,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 409,
+      "name": "Jamie Oliver's Comfort Food",
+      "description": "Jamie Oliver's collection of comforting recipes to warm the soul.",
+      "price": 20.99,
+      "category": "Cookbooks",
+      "stock": 80,
+      "tags": ["comfort food", "Jamie Oliver", "recipes"],
+      "image": "cookbooks/cookbooks_9.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 190
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "ComfortFoodFan",
+          "comment": "Delicious and satisfying recipes.",
+          "rating": 5,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "HomeChef789",
+          "comment": "Perfect for cold evenings.",
+          "rating": 4,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 410,
+      "name": "The Complete Mediterranean Cookbook",
+      "description": "A comprehensive guide to Mediterranean cuisine with over 500 recipes.",
+      "price": 28.99,
+      "category": "Cookbooks",
+      "stock": 70,
+      "tags": ["Mediterranean cuisine", "comprehensive", "recipes"],
+      "image": "cookbooks/cookbooks_10.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "MediterraneanCuisineFan",
+          "comment": "Authentic recipes and flavors.",
+          "rating": 5,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "FoodLover456",
+          "comment": "Excellent variety of Mediterranean dishes.",
+          "rating": 4,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 411,
+      "name": "Everyday Italian: 125 Simple and Delicious Recipes",
+      "description": "Giada De Laurentiis' collection of Italian recipes perfect for everyday meals.",
+      "price": 26.99,
+      "category": "Cookbooks",
+      "stock": 60,
+      "tags": ["Italian cuisine", "simple recipes", "Giada De Laurentiis"],
+      "image": "cookbooks/cookbooks_11.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 950,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "ItalianFoodFan",
+          "comment": "Authentic Italian recipes simplified.",
+          "rating": 5,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "HomeCook567",
+          "comment": "Perfect for weeknight dinners.",
+          "rating": 4,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 412,
+      "name": "The Complete America's Test Kitchen TV Show Cookbook",
+      "description": "A comprehensive collection of recipes from America's Test Kitchen, featuring tried-and-tested favorites.",
+      "price": 29.99,
+      "category": "Cookbooks",
+      "stock": 50,
+      "tags": ["America's Test Kitchen", "comprehensive", "recipes"],
+      "image": "cookbooks/cookbooks_12.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "TestKitchenFan",
+          "comment": "Reliable and delicious recipes.",
+          "rating": 5,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "Foodie789",
+          "comment": "Great for expanding cooking skills.",
+          "rating": 4,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 413,
+      "name": "Plenty: Vibrant Vegetable Recipes from London's Ottolenghi",
+      "description": "Yotam Ottolenghi's collection of vegetarian recipes showcasing vibrant flavors and fresh ingredients.",
+      "price": 27.99,
+      "category": "Cookbooks",
+      "stock": 40,
+      "tags": ["vegetarian", "vibrant flavors", "Yotam Ottolenghi"],
+      "image": "cookbooks/cookbooks_13.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "VegetarianCook",
+          "comment": "Exciting and creative vegetarian dishes.",
+          "rating": 5,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "Foodie567",
+          "comment": "Colorful and delicious recipes.",
+          "rating": 4,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 414,
+      "name": "The Food Lab: Better Home Cooking Through Science",
+      "description": "J. Kenji López-Alt's approach to cooking using scientific principles for better results.",
+      "price": 25.99,
+      "category": "Cookbooks",
+      "stock": 30,
+      "tags": ["cooking science", "J. Kenji López-Alt", "better cooking"],
+      "image": "cookbooks/cookbooks_14.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 15
+      },
+      "reviews": [
+        {
+          "user": "CookingScienceFan",
+          "comment": "Interesting and educational.",
+          "rating": 5,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "FoodLover789",
+          "comment": "Great insights into cooking techniques.",
+          "rating": 4,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 415,
+      "name": "The Barefoot Contessa Cookbook",
+      "description": "Ina Garten's first cookbook featuring her favorite recipes and entertaining tips.",
+      "price": 23.99,
+      "category": "Cookbooks",
+      "stock": 25,
+      "tags": ["Ina Garten", "favorite recipes", "entertaining tips"],
+      "image": "cookbooks/cookbooks_15.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 130
+      },
+      "sales": {
+        "totalSold": 750,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "ContessaFan",
+          "comment": "Classic recipes with a touch of elegance.",
+          "rating": 5,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "HomeChef456",
+          "comment": "Perfect for special occasions.",
+          "rating": 5,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  },
+  "ebooks": {
+    "1": {
+      "id": 501,
+      "name": "Introduction to Python Programming",
+      "description": "A beginner's guide to learning Python programming language.",
+      "price": 19.99,
+      "category": "Programming",
+      "stock": 100,
+      "tags": ["Python", "beginner", "programming"],
+      "image": "ebooks/ebooks_1.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "PythonEnthusiast",
+          "comment": "Great introduction to Python.",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "ProgrammingNovice",
+          "comment": "Clear and concise explanations.",
+          "rating": 4,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 502,
+      "name": "Machine Learning Basics",
+      "description": "An introductory book on machine learning concepts and algorithms.",
+      "price": 24.99,
+      "category": "Machine Learning",
+      "stock": 80,
+      "tags": ["machine learning", "beginner", "algorithms"],
+      "image": "ebooks/ebooks_2.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 130
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "MLStudent",
+          "comment": "Excellent introduction to ML.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "TechEnthusiast",
+          "comment": "Well-written and informative.",
+          "rating": 4,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 503,
+      "name": "Data Structures and Algorithms",
+      "description": "A comprehensive guide to data structures and algorithms for programmers.",
+      "price": 29.99,
+      "category": "Programming",
+      "stock": 90,
+      "tags": ["data structures", "algorithms", "programming"],
+      "image": "ebooks/ebooks_3.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "AlgorithmEnthusiast",
+          "comment": "Essential for any programmer.",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "CodeMaster",
+          "comment": "Clear explanations and examples.",
+          "rating": 4,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 504,
+      "name": "Web Development Fundamentals",
+      "description": "A beginner's guide to web development technologies and techniques.",
+      "price": 22.99,
+      "category": "Web Development",
+      "stock": 70,
+      "tags": ["web development", "beginner", "HTML", "CSS", "JavaScript"],
+      "image": "ebooks/ebooks_4.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 120
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "WebDevStudent",
+          "comment": "Great starting point for web development.",
+          "rating": 5,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "CodeNewbie",
+          "comment": "Easy to follow and practical.",
+          "rating": 4,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 505,
+      "name": "Cybersecurity Basics",
+      "description": "An introductory book on cybersecurity principles and practices.",
+      "price": 19.99,
+      "category": "Cybersecurity",
+      "stock": 60,
+      "tags": ["cybersecurity", "beginner", "security"],
+      "image": "ebooks/ebooks_5.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 110
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "SecurityEnthusiast",
+          "comment": "Informative and practical cybersecurity guide.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "TechSecurity",
+          "comment": "Useful insights into cybersecurity.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 506,
+      "name": "Artificial Intelligence Essentials",
+      "description": "A beginner's guide to understanding artificial intelligence concepts and applications.",
+      "price": 24.99,
+      "category": "Artificial Intelligence",
+      "stock": 100,
+      "tags": ["artificial intelligence", "beginner", "AI"],
+      "image": "ebooks/ebooks_6.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 15
+      },
+      "reviews": [
+        {
+          "user": "AIFan",
+          "comment": "Clear and informative introduction to AI.",
+          "rating": 5,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "TechAI",
+          "comment": "Great foundation for understanding AI.",
+          "rating": 4,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 507,
+      "name": "Java Programming Basics",
+      "description": "An introductory book on Java programming language for beginners.",
+      "price": 21.99,
+      "category": "Programming",
+      "stock": 80,
+      "tags": ["Java", "beginner", "programming"],
+      "image": "ebooks/ebooks_7.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 90
+      },
+      "sales": {
+        "totalSold": 600,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "JavaEnthusiast",
+          "comment": "Comprehensive introduction to Java.",
+          "rating": 5,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "CodeJava",
+          "comment": "Well-structured and easy to follow.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 508,
+      "name": "Introduction to Data Science",
+      "description": "A beginner's guide to data science principles and techniques.",
+      "price": 23.99,
+      "category": "Data Science",
+      "stock": 70,
+      "tags": ["data science", "beginner", "analytics"],
+      "image": "ebooks/ebooks_8.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 80
+      },
+      "sales": {
+        "totalSold": 500,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "DataScienceStudent",
+          "comment": "Excellent introduction to data science.",
+          "rating": 5,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "TechData",
+          "comment": "Informative and practical data science guide.",
+          "rating": 4,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 509,
+      "name": "Blockchain Basics",
+      "description": "An introductory book on blockchain technology and its applications.",
+      "price": 20.99,
+      "category": "Blockchain",
+      "stock": 60,
+      "tags": ["blockchain", "beginner", "technology"],
+      "image": "ebooks/ebooks_9.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 70
+      },
+      "sales": {
+        "totalSold": 400,
+        "soldThisMonth": 6
+      },
+      "reviews": [
+        {
+          "user": "BlockchainEnthusiast",
+          "comment": "Clear and concise introduction to blockchain.",
+          "rating": 5,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "TechBlockchain",
+          "comment": "Useful insights into blockchain technology.",
+          "rating": 4,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 510,
+      "name": "iOS App Development",
+      "description": "A beginner's guide to developing iOS applications using Swift.",
+      "price": 25.99,
+      "category": "App Development",
+      "stock": 50,
+      "tags": ["iOS", "Swift", "beginner", "app development"],
+      "image": "ebooks/ebooks_10.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 60
+      },
+      "sales": {
+        "totalSold": 300,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "iOSDeveloper",
+          "comment": "Great introduction to iOS app development.",
+          "rating": 5,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "AppDevStudent",
+          "comment": "Helpful and practical guide.",
+          "rating": 4,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 511,
+      "name": "Android App Development",
+      "description": "An introductory book on developing Android applications.",
+      "price": 22.99,
+      "category": "App Development",
+      "stock": 40,
+      "tags": ["Android", "app development", "beginner"],
+      "image": "ebooks/ebooks_11.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 50
+      },
+      "sales": {
+        "totalSold": 200,
+        "soldThisMonth": 4
+      },
+      "reviews": [
+        {
+          "user": "AndroidDeveloper",
+          "comment": "Comprehensive guide to Android development.",
+          "rating": 5,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "AppDevEnthusiast",
+          "comment": "Well-structured and informative.",
+          "rating": 4,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 512,
+      "name": "Cloud Computing Fundamentals",
+      "description": "A beginner's guide to understanding cloud computing concepts and services.",
+      "price": 26.99,
+      "category": "Cloud Computing",
+      "stock": 30,
+      "tags": ["cloud computing", "beginner", "AWS", "Azure", "Google Cloud"],
+      "image": "ebooks/ebooks_12.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 40
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "CloudStudent",
+          "comment": "Informative introduction to cloud computing.",
+          "rating": 5,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "TechCloud",
+          "comment": "Useful insights into cloud services.",
+          "rating": 4,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 513,
+      "name": "Big Data Analytics",
+      "description": "An introductory book on big data analytics techniques and tools.",
+      "price": 24.99,
+      "category": "Big Data",
+      "stock": 20,
+      "tags": ["big data", "analytics", "data science"],
+      "image": "ebooks/ebooks_13.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 50,
+        "soldThisMonth": 1
+      },
+      "reviews": [
+        {
+          "user": "BigDataEnthusiast",
+          "comment": "Comprehensive guide to big data analytics.",
+          "rating": 5,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "DataAnalyticsStudent",
+          "comment": "Well-explained concepts and examples.",
+          "rating": 4,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 514,
+      "name": "Digital Marketing Essentials",
+      "description": "A beginner's guide to digital marketing strategies and techniques.",
+      "price": 21.99,
+      "category": "Digital Marketing",
+      "stock": 10,
+      "tags": ["digital marketing", "beginner", "SEO", "social media"],
+      "image": "ebooks/ebooks_14.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 20,
+        "soldThisMonth": 0
+      },
+      "reviews": [
+        {
+          "user": "MarketingStudent",
+          "comment": "Useful introduction to digital marketing.",
+          "rating": 5,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "TechMarketing",
+          "comment": "Helpful insights into digital strategies.",
+          "rating": 4,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 515,
+      "name": "UX Design Fundamentals",
+      "description": "An introductory book on user experience (UX) design principles and practices.",
+      "price": 23.99,
+      "category": "UX Design",
+      "stock": 5,
+      "tags": ["UX design", "design principles", "user experience"],
+      "image": "ebooks/ebooks_15.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 10
+      },
+      "sales": {
+        "totalSold": 10,
+        "soldThisMonth": 0
+      },
+      "reviews": [
+        {
+          "user": "UXDesigner",
+          "comment": "Informative introduction to UX design.",
+          "rating": 5,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "DesignStudent",
+          "comment": "Well-structured and practical.",
+          "rating": 4,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  },
+  "graphic_novels": {
+    "1": {
+      "id": 601,
+      "name": "Watchmen",
+      "description": "Alan Moore's groundbreaking graphic novel exploring complex themes through superheroes in an alternate history.",
+      "price": 14.99,
+      "category": "Graphic Novels",
+      "stock": 100,
+      "tags": ["superheroes", "alternate history", "complex themes"],
+      "image": "graphic_novels/graphic+novels_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1500,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "ComicEnthusiast",
+          "comment": "A masterpiece in storytelling.",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "GraphicFan123",
+          "comment": "Deep and thought-provoking.",
+          "rating": 4,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 602,
+      "name": "Maus",
+      "description": "Art Spiegelman's Pulitzer Prize-winning graphic novel recounting his father's experiences during the Holocaust.",
+      "price": 16.99,
+      "category": "Graphic Novels",
+      "stock": 80,
+      "tags": ["Holocaust", "Pulitzer Prize", "historical"],
+      "image": "graphic_novels/graphic+novels_2.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "HistoryReader",
+          "comment": "Powerful and emotionally resonant.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "GraphicNovelFan",
+          "comment": "Captivating storytelling.",
+          "rating": 4,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 603,
+      "name": "Sandman",
+      "description": "Neil Gaiman's iconic series blending mythology, fantasy, and horror in a rich narrative.",
+      "price": 19.99,
+      "category": "Graphic Novels",
+      "stock": 90,
+      "tags": ["Neil Gaiman", "mythology", "fantasy", "horror"],
+      "image": "graphic_novels/graphic+novels_3.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 210
+      },
+      "sales": {
+        "totalSold": 1300,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "FantasyReader",
+          "comment": "Immersive and imaginative.",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "SandmanFan456",
+          "comment": "Legendary storytelling.",
+          "rating": 5,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 604,
+      "name": "Saga",
+      "description": "Brian K. Vaughan and Fiona Staples' epic space opera with a blend of fantasy and science fiction.",
+      "price": 17.99,
+      "category": "Graphic Novels",
+      "stock": 70,
+      "tags": ["space opera", "fantasy", "science fiction"],
+      "image": "graphic_novels/graphic+novels_4.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "SpaceOperaFan",
+          "comment": "A modern masterpiece.",
+          "rating": 5,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "SagaReader",
+          "comment": "Compelling characters and world-building.",
+          "rating": 4,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 605,
+      "name": "Batman: The Killing Joke",
+      "description": "Alan Moore and Brian Bolland's graphic novel exploring the Joker's origin and relationship with Batman.",
+      "price": 15.99,
+      "category": "Graphic Novels",
+      "stock": 60,
+      "tags": ["Batman", "Joker", "origin story"],
+      "image": "graphic_novels/graphic+novels_5.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "BatmanFan",
+          "comment": "Dark and psychological.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "ComicBookReader",
+          "comment": "Iconic storytelling.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 606,
+      "name": "Persepolis",
+      "description": "Marjane Satrapi's autobiographical graphic novel depicting her childhood and early adult years in Iran.",
+      "price": 18.99,
+      "category": "Graphic Novels",
+      "stock": 100,
+      "tags": ["autobiography", "Iran", "cultural revolution"],
+      "image": "graphic_novels/graphic+novels_6.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "AutobiographyFan",
+          "comment": "Eye-opening and poignant.",
+          "rating": 5,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "PersepolisReader",
+          "comment": "Powerful storytelling.",
+          "rating": 4,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 607,
+      "name": "Y: The Last Man",
+      "description": "Brian K. Vaughan and Pia Guerra's post-apocalyptic science fiction series exploring a world without men.",
+      "price": 20.99,
+      "category": "Graphic Novels",
+      "stock": 50,
+      "tags": ["post-apocalyptic", "science fiction", "gender"],
+      "image": "graphic_novels/graphic+novels_7.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "SciFiFan",
+          "comment": "Thought-provoking and intense.",
+          "rating": 5,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "LastManReader",
+          "comment": "Compelling storyline and characters.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 608,
+      "name": "Blankets",
+      "description": "Craig Thompson's autobiographical graphic novel exploring family, faith, and coming-of-age experiences.",
+      "price": 19.99,
+      "category": "Graphic Novels",
+      "stock": 90,
+      "tags": ["autobiography", "family", "coming-of-age"],
+      "image": "graphic_novels/graphic+novels_8.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "AutobiographyFan",
+          "comment": "Emotionally resonant and beautifully illustrated.",
+          "rating": 5,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "GraphicNovelReader",
+          "comment": "Touching portrayal of personal growth.",
+          "rating": 5,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 609,
+      "name": "Saga of the Swamp Thing",
+      "description": "Alan Moore's influential series redefining the character of Swamp Thing with philosophical and horror elements.",
+      "price": 21.99,
+      "category": "Graphic Novels",
+      "stock": 80,
+      "tags": ["Swamp Thing", "Alan Moore", "horror", "philosophical"],
+      "image": "graphic_novels/graphic+novels_9.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 190
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "HorrorFan",
+          "comment": "A dark and introspective journey.",
+          "rating": 5,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "SwampThingFan",
+          "comment": "Moore's brilliance shines through.",
+          "rating": 4,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 610,
+      "name": "Fables",
+      "description": "Bill Willingham's series where fairy tale characters live in exile in New York City, blending fantasy and modern-day life.",
+      "price": 20.99,
+      "category": "Graphic Novels",
+      "stock": 70,
+      "tags": ["fairy tales", "fantasy", "modern-day"],
+      "image": "graphic_novels/graphic+novels_10.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "FairyTaleFan",
+          "comment": "Imaginative and addictive storytelling.",
+          "rating": 5,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "FablesReader",
+          "comment": "Creative concept with rich characters.",
+          "rating": 4,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 611,
+      "name": "Preacher",
+      "description": "Garth Ennis and Steve Dillon's series following Jesse Custer, a preacher with supernatural abilities, on a quest to find God.",
+      "price": 22.99,
+      "category": "Graphic Novels",
+      "stock": 60,
+      "tags": ["supernatural", "religion", "dark humor"],
+      "image": "graphic_novels/graphic+novels_11.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 950,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "SupernaturalFan",
+          "comment": "Bold and thought-provoking.",
+          "rating": 5,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "PreacherFan",
+          "comment": "Darkly humorous and addictive.",
+          "rating": 4,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 612,
+      "name": "The Walking Dead",
+      "description": "Robert Kirkman's series depicting life in a post-apocalyptic world overrun by zombies, focusing on human survival and moral dilemmas.",
+      "price": 19.99,
+      "category": "Graphic Novels",
+      "stock": 50,
+      "tags": ["zombies", "post-apocalyptic", "survival"],
+      "image": "graphic_novels/graphic+novels_12.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "ZombieFanatic",
+          "comment": "Gripping and intense.",
+          "rating": 5,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "WalkingDeadReader",
+          "comment": "Compelling characters and emotional depth.",
+          "rating": 4,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 613,
+      "name": "V for Vendetta",
+      "description": "Alan Moore and David Lloyd's dystopian graphic novel following a masked vigilante fighting against a totalitarian regime.",
+      "price": 18.99,
+      "category": "Graphic Novels",
+      "stock": 40,
+      "tags": ["dystopian", "vigilante", "totalitarianism"],
+      "image": "graphic_novels/graphic+novels_13.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "DystopiaFan",
+          "comment": "Thought-provoking and relevant.",
+          "rating": 5,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "VForVendettaReader",
+          "comment": "Iconic and powerful.",
+          "rating": 4,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 614,
+      "name": "Hellboy",
+      "description": "Mike Mignola's supernatural series featuring Hellboy, a demon summoned to Earth during World War II, now fighting occult threats.",
+      "price": 17.99,
+      "category": "Graphic Novels",
+      "stock": 30,
+      "tags": ["supernatural", "occult", "demon"],
+      "image": "graphic_novels/graphic+novels_14.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 15
+      },
+      "reviews": [
+        {
+          "user": "SupernaturalEnthusiast",
+          "comment": "Fantastic blend of mythology and action.",
+          "rating": 5,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "HellboyFan123",
+          "comment": "Unique and thrilling.",
+          "rating": 4,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 615,
+      "name": "Locke & Key",
+      "description": "Joe Hill and Gabriel Rodríguez's supernatural horror series about a family unlocking magical keys in their ancestral home.",
+      "price": 16.99,
+      "category": "Graphic Novels",
+      "stock": 20,
+      "tags": ["supernatural", "horror", "magic"],
+      "image": "graphic_novels/graphic+novels_15.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 130
+      },
+      "sales": {
+        "totalSold": 750,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "HorrorFanatic",
+          "comment": "Intriguing and chilling.",
+          "rating": 5,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "LockeAndKeyReader",
+          "comment": "Captivating story with creative twists.",
+          "rating": 4,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  },
+  "journal": {
+    "1": {
+      "id": 701,
+      "name": "Leather Bound Journal",
+      "description": "Handcrafted leather journal with refillable pages, ideal for writing, sketching, or travel logs.",
+      "price": 29.99,
+      "category": "Journals",
+      "stock": 100,
+      "tags": ["leather", "handcrafted", "refillable"],
+      "image": "journals/journals_1.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "TravelerWriter",
+          "comment": "Beautiful craftsmanship, perfect for travel journals.",
+          "rating": 5,
+          "date": "2023-04-30"
+        },
+        {
+          "user": "ArtisanReviewer",
+          "comment": "Quality leather and well-made.",
+          "rating": 5,
+          "date": "2023-04-29"
+        }
+      ]
+    },
+    "2": {
+      "id": 702,
+      "name": "Vintage Floral Journal",
+      "description": "Elegant journal with vintage floral patterns, great for daily reflections and personal notes.",
+      "price": 19.99,
+      "category": "Journals",
+      "stock": 90,
+      "tags": ["vintage", "floral", "elegant"],
+      "image": "journals/journals_2.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 190
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "FlowerEnthusiast",
+          "comment": "Lovely design, inspires creativity.",
+          "rating": 5,
+          "date": "2023-04-28"
+        },
+        {
+          "user": "VintageLover",
+          "comment": "Charming and well-crafted.",
+          "rating": 4,
+          "date": "2023-04-27"
+        }
+      ]
+    },
+    "3": {
+      "id": 703,
+      "name": "Bullet Journal Set",
+      "description": "Versatile bullet journal set with dot-grid pages, includes pens and stencils for organized planning.",
+      "price": 24.99,
+      "category": "Journals",
+      "stock": 80,
+      "tags": ["bullet journal", "dot-grid", "planning"],
+      "image": "journals/journals_3.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "OrganizedPlanner",
+          "comment": "Great for staying organized and creative.",
+          "rating": 5,
+          "date": "2023-04-26"
+        },
+        {
+          "user": "BulletJournalFan",
+          "comment": "Quality materials and practical.",
+          "rating": 4,
+          "date": "2023-04-25"
+        }
+      ]
+    },
+    "4": {
+      "id": 704,
+      "name": "Travel Journal",
+      "description": "Compact travel journal with world map design, perfect for recording travel memories and adventures.",
+      "price": 22.99,
+      "category": "Journals",
+      "stock": 70,
+      "tags": ["travel", "world map", "compact"],
+      "image": "journals/journals_4.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 950,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "Traveler123",
+          "comment": "Excellent for documenting trips.",
+          "rating": 5,
+          "date": "2023-04-24"
+        },
+        {
+          "user": "AdventureSeeker",
+          "comment": "Sturdy and stylish.",
+          "rating": 4,
+          "date": "2023-04-23"
+        }
+      ]
+    },
+    "5": {
+      "id": 705,
+      "name": "Art Sketchbook",
+      "description": "Premium sketchbook with heavyweight paper, suitable for various art mediums including pencil, ink, and watercolor.",
+      "price": 26.99,
+      "category": "Journals",
+      "stock": 60,
+      "tags": ["sketchbook", "art", "premium"],
+      "image": "journals/journals_5.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "ArtLover",
+          "comment": "High-quality paper, perfect for artists.",
+          "rating": 5,
+          "date": "2023-04-22"
+        },
+        {
+          "user": "SketchArtist",
+          "comment": "Smooth texture and durable.",
+          "rating": 4,
+          "date": "2023-04-21"
+        }
+      ]
+    },
+    "6": {
+      "id": 706,
+      "name": "Personalized Journal",
+      "description": "Customizable journal with embossed initials, a thoughtful gift for journaling enthusiasts.",
+      "price": 28.99,
+      "category": "Journals",
+      "stock": 50,
+      "tags": ["personalized", "customizable", "gift"],
+      "image": "journals/journals_6.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "GiftRecipient",
+          "comment": "Beautifully made and meaningful.",
+          "rating": 5,
+          "date": "2023-04-20"
+        },
+        {
+          "user": "JournalEnthusiast",
+          "comment": "Great quality and elegant design.",
+          "rating": 4,
+          "date": "2023-04-19"
+        }
+      ]
+    },
+    "7": {
+      "id": 707,
+      "name": "Minimalist Journal",
+      "description": "Sleek and minimalist journal with smooth matte finish, perfect for professionals or minimalistic design lovers.",
+      "price": 21.99,
+      "category": "Journals",
+      "stock": 40,
+      "tags": ["minimalist", "matte finish", "professional"],
+      "image": "journals/journals_7.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 15
+      },
+      "reviews": [
+        {
+          "user": "MinimalistWriter",
+          "comment": "Clean design and high-quality paper.",
+          "rating": 5,
+          "date": "2023-04-18"
+        },
+        {
+          "user": "DesignEnthusiast",
+          "comment": "Exactly what I was looking for.",
+          "rating": 4,
+          "date": "2023-04-17"
+        }
+      ]
+    },
+    "8": {
+      "id": 708,
+      "name": "Nature Inspired Journal",
+      "description": "Journal featuring nature-inspired designs and eco-friendly materials, ideal for nature lovers and environmentalists.",
+      "price": 23.99,
+      "category": "Journals",
+      "stock": 30,
+      "tags": ["nature", "eco-friendly", "environmental"],
+      "image": "journals/journals_8.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 130
+      },
+      "sales": {
+        "totalSold": 750,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "NatureLover123",
+          "comment": "Beautiful artwork and sustainable materials.",
+          "rating": 5,
+          "date": "2023-04-16"
+        },
+        {
+          "user": "EnvironmentalWriter",
+          "comment": "Great for eco-conscious writing.",
+          "rating": 4,
+          "date": "2023-04-15"
+        }
+      ]
+    },
+    "9": {
+      "id": 709,
+      "name": "Classic Hardcover Journal",
+      "description": "Timeless hardcover journal with lined pages, suitable for daily journaling or note-taking.",
+      "price": 18.99,
+      "category": "Journals",
+      "stock": 25,
+      "tags": ["hardcover", "classic", "lined pages"],
+      "image": "journals/journals_9.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 120
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "JournalUser456",
+          "comment": "Sturdy and practical.",
+          "rating": 5,
+          "date": "2023-04-14"
+        },
+        {
+          "user": "NoteTaker789",
+          "comment": "Great for organized note-taking.",
+          "rating": 4,
+          "date": "2023-04-13"
+        }
+      ]
+    },
+    "10": {
+      "id": 710,
+      "name": "Luxury Silk Journal",
+      "description": "Luxurious silk journal with gold-trimmed edges and satin bookmark, perfect for special occasions and gifting.",
+      "price": 34.99,
+      "category": "Journals",
+      "stock": 20,
+      "tags": ["luxury", "silk", "gold-trimmed"],
+      "image": "journals/journals_10.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 110
+      },
+      "sales": {
+        "totalSold": 650,
+        "soldThisMonth": 3
+      },
+      "reviews": [
+        {
+          "user": "LuxuryJournalUser",
+          "comment": "Elegant and exquisite craftsmanship.",
+          "rating": 5,
+          "date": "2023-04-12"
+        },
+        {
+          "user": "SilkEnthusiast",
+          "comment": "Beautiful texture and attention to detail.",
+          "rating": 4,
+          "date": "2023-04-11"
+        }
+      ]
+    },
+    "11": {
+      "id": 711,
+      "name": "Gratitude Journal",
+      "description": "Guided journal for daily gratitude practice, fostering mindfulness and positivity.",
+      "price": 16.99,
+      "category": "Journals",
+      "stock": 18,
+      "tags": ["gratitude", "mindfulness", "guided"],
+      "image": "journals/journals_11.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 195
+      },
+      "sales": {
+        "totalSold": 1150,
+        "soldThisMonth": 47
+      },
+      "reviews": [
+        {
+          "user": "GratefulHeart",
+          "comment": "Helps me focus on the positive.",
+          "rating": 5,
+          "date": "2023-04-10"
+        },
+        {
+          "user": "MindfulLiving",
+          "comment": "Great tool for daily reflection.",
+          "rating": 4,
+          "date": "2023-04-09"
+        }
+      ]
+    },
+    "12": {
+      "id": 712,
+      "name": "Fitness Journal",
+      "description": "Journal designed for tracking fitness goals, workouts, and progress, with motivational quotes and fitness tips.",
+      "price": 17.99,
+      "category": "Journals",
+      "stock": 15,
+      "tags": ["fitness", "workout tracking", "motivational"],
+      "image": "journals/journals_12.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 185
+      },
+      "sales": {
+        "totalSold": 1050,
+        "soldThisMonth": 42
+      },
+      "reviews": [
+        {
+          "user": "FitnessEnthusiast",
+          "comment": "Helps me stay committed to my fitness journey.",
+          "rating": 5,
+          "date": "2023-04-08"
+        },
+        {
+          "user": "WorkoutWarrior",
+          "comment": "Great layout and motivational content.",
+          "rating": 4,
+          "date": "2023-04-07"
+        }
+      ]
+    },
+    "13": {
+      "id": 713,
+      "name": "Recipe Journal",
+      "description": "Organized journal for recording favorite recipes, cooking notes, and culinary adventures.",
+      "price": 19.99,
+      "category": "Journals",
+      "stock": 12,
+      "tags": ["recipes", "cooking", "culinary"],
+      "image": "journals/journals_13.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 175
+      },
+      "sales": {
+        "totalSold": 975,
+        "soldThisMonth": 38
+      },
+      "reviews": [
+        {
+          "user": "FoodieChef",
+          "comment": "A great way to organize my recipes.",
+          "rating": 5,
+          "date": "2023-04-06"
+        },
+        {
+          "user": "CookingEnthusiast",
+          "comment": "Highly recommend for food lovers.",
+          "rating": 4,
+          "date": "2023-04-05"
+        }
+      ]
+    },
+    "14": {
+      "id": 714,
+      "name": "Dream Journal",
+      "description": "Journal for recording dreams and exploring the subconscious mind, with space for reflections and interpretations.",
+      "price": 18.99,
+      "category": "Journals",
+      "stock": 10,
+      "tags": ["dreams", "subconscious", "reflection"],
+      "image": "journals/journals_14.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 165
+      },
+      "sales": {
+        "totalSold": 925,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "DreamExplorer",
+          "comment": "Helps me understand my dreams better.",
+          "rating": 5,
+          "date": "2023-04-04"
+        },
+        {
+          "user": "SubconsciousReader",
+          "comment": "Great tool for self-reflection.",
+          "rating": 4,
+          "date": "2023-04-03"
+        }
+      ]
+    },
+    "15": {
+      "id": 715,
+      "name": "Family Journal",
+      "description": "Journal for capturing family memories, milestones, and special moments, a keepsake for generations.",
+      "price": 20.99,
+      "category": "Journals",
+      "stock": 8,
+      "tags": ["family", "memories", "keepsake"],
+      "image": "journals/journals_15.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 155
+      },
+      "sales": {
+        "totalSold": 875,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "FamilyMemories",
+          "comment": "A treasure trove of memories.",
+          "rating": 5,
+          "date": "2023-04-02"
+        },
+        {
+          "user": "GenerationsKeepsake",
+          "comment": "Beautiful journal for family history.",
+          "rating": 4,
+          "date": "2023-04-01"
+        }
+      ]
+    }
+  },
+  "magazine": {
+    "1": {
+      "id": 801,
+      "name": "National Geographic",
+      "description": "Explore the world with stunning photography, in-depth articles, and stories of adventure and discovery.",
+      "price": 5.99,
+      "category": "Magazines",
+      "stock": 200,
+      "tags": ["nature", "science", "adventure"],
+      "image": "magazines/magazines_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 2500,
+        "soldThisMonth": 100
+      },
+      "reviews": [
+        {
+          "user": "AdventureSeeker",
+          "comment": "Always a fascinating read!",
+          "rating": 5,
+          "date": "2023-03-30"
+        },
+        {
+          "user": "NatureEnthusiast",
+          "comment": "Informative and visually stunning.",
+          "rating": 5,
+          "date": "2023-03-29"
+        }
+      ]
+    },
+    "2": {
+      "id": 802,
+      "name": "Time",
+      "description": "Stay informed with news, analysis, and perspective on current events and issues shaping our world.",
+      "price": 4.99,
+      "category": "Magazines",
+      "stock": 180,
+      "tags": ["news", "current events", "analysis"],
+      "image": "magazines/magazines_2.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 2300,
+        "soldThisMonth": 95
+      },
+      "reviews": [
+        {
+          "user": "CurrentAffairsReader",
+          "comment": "Excellent coverage and analysis.",
+          "rating": 5,
+          "date": "2023-03-28"
+        },
+        {
+          "user": "NewsBuff",
+          "comment": "A reliable source for staying updated.",
+          "rating": 4,
+          "date": "2023-03-27"
+        }
+      ]
+    },
+    "3": {
+      "id": 803,
+      "name": "Sports Illustrated",
+      "description": "Get in-depth coverage of sports events, athlete profiles, and sports analysis from around the world.",
+      "price": 3.99,
+      "category": "Magazines",
+      "stock": 160,
+      "tags": ["sports", "athlete profiles", "analysis"],
+      "image": "magazines/magazines_3.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 130
+      },
+      "sales": {
+        "totalSold": 2100,
+        "soldThisMonth": 85
+      },
+      "reviews": [
+        {
+          "user": "SportsFanatic",
+          "comment": "Comprehensive sports coverage.",
+          "rating": 5,
+          "date": "2023-03-26"
+        },
+        {
+          "user": "AthleteProfiles",
+          "comment": "Love the insights into athletes' lives.",
+          "rating": 4,
+          "date": "2023-03-25"
+        }
+      ]
+    },
+    "4": {
+      "id": 804,
+      "name": "Vogue",
+      "description": "Discover the latest in fashion trends, beauty tips, celebrity style, and cultural insights.",
+      "price": 6.99,
+      "category": "Magazines",
+      "stock": 140,
+      "tags": ["fashion", "beauty", "celebrity style"],
+      "image": "magazines/magazines_4.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 120
+      },
+      "sales": {
+        "totalSold": 1900,
+        "soldThisMonth": 80
+      },
+      "reviews": [
+        {
+          "user": "Fashionista",
+          "comment": "Always on point with fashion trends.",
+          "rating": 5,
+          "date": "2023-03-24"
+        },
+        {
+          "user": "BeautyEnthusiast",
+          "comment": "Great beauty tips and insights.",
+          "rating": 4,
+          "date": "2023-03-23"
+        }
+      ]
+    },
+    "5": {
+      "id": 805,
+      "name": "Wired",
+      "description": "Explore the intersection of technology, culture, and innovation with in-depth articles and cutting-edge insights.",
+      "price": 5.49,
+      "category": "Magazines",
+      "stock": 120,
+      "tags": ["technology", "innovation", "culture"],
+      "image": "magazines/magazines_5.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 110
+      },
+      "sales": {
+        "totalSold": 1700,
+        "soldThisMonth": 75
+      },
+      "reviews": [
+        {
+          "user": "TechEnthusiast",
+          "comment": "A must-read for tech enthusiasts.",
+          "rating": 5,
+          "date": "2023-03-22"
+        },
+        {
+          "user": "InnovationReader",
+          "comment": "Insightful articles on cutting-edge technology.",
+          "rating": 4,
+          "date": "2023-03-21"
+        }
+      ]
+    },
+    "6": {
+      "id": 806,
+      "name": "Entertainment Weekly",
+      "description": "Get the latest entertainment news, celebrity interviews, and reviews of movies, TV shows, and music.",
+      "price": 4.49,
+      "category": "Magazines",
+      "stock": 100,
+      "tags": ["entertainment", "celebrity interviews", "reviews"],
+      "image": "magazines/magazines_6.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 1500,
+        "soldThisMonth": 70
+      },
+      "reviews": [
+        {
+          "user": "EntertainmentFan",
+          "comment": "Keeps me updated on entertainment news.",
+          "rating": 5,
+          "date": "2023-03-20"
+        },
+        {
+          "user": "MovieBuff",
+          "comment": "Love the movie reviews.",
+          "rating": 4,
+          "date": "2023-03-19"
+        }
+      ]
+    },
+    "7": {
+      "id": 807,
+      "name": "The Economist",
+      "description": "Stay informed with authoritative insights and opinions on international news, politics, business, finance, science, and technology.",
+      "price": 7.49,
+      "category": "Magazines",
+      "stock": 90,
+      "tags": ["economics", "international news", "politics"],
+      "image": "magazines/magazines_7.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 90
+      },
+      "sales": {
+        "totalSold": 1300,
+        "soldThisMonth": 65
+      },
+      "reviews": [
+        {
+          "user": "GlobalCitizen",
+          "comment": "Insightful analysis on global issues.",
+          "rating": 5,
+          "date": "2023-03-18"
+        },
+        {
+          "user": "BusinessReader",
+          "comment": "Great for understanding global markets.",
+          "rating": 4,
+          "date": "2023-03-17"
+        }
+      ]
+    },
+    "8": {
+      "id": 808,
+      "name": "Architectural Digest",
+      "description": "Explore stunning homes, beautiful architecture, and interior design trends from around the world.",
+      "price": 6.49,
+      "category": "Magazines",
+      "stock": 80,
+      "tags": ["architecture", "interior design", "homes"],
+      "image": "magazines/magazines_8.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 80
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 60
+      },
+      "reviews": [
+        {
+          "user": "HomeDesignEnthusiast",
+          "comment": "Inspiring homes and design ideas.",
+          "rating": 5,
+          "date": "2023-03-16"
+        },
+        {
+          "user": "ArchitectureLover",
+          "comment": "Beautiful photography and insightful articles.",
+          "rating": 4,
+          "date": "2023-03-15"
+        }
+      ]
+    },
+    "9": {
+      "id": 809,
+      "name": "Cosmopolitan",
+      "description": "Discover the latest in fashion, beauty, relationships, and lifestyle advice for young women.",
+      "price": 4.99,
+      "category": "Magazines",
+      "stock": 70,
+      "tags": ["fashion", "beauty", "relationships"],
+      "image": "magazines/magazines_9.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 70
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 55
+      },
+      "reviews": [
+        {
+          "user": "Fashionista",
+          "comment": "Love the fashion tips!",
+          "rating": 5,
+          "date": "2023-03-14"
+        },
+        {
+          "user": "RelationshipAdvice",
+          "comment": "Helpful advice for navigating relationships.",
+          "rating": 4,
+          "date": "2023-03-13"
+        }
+      ]
+    },
+    "10": {
+      "id": 810,
+      "name": "GQ",
+      "description": "The ultimate guide to men's fashion, style, grooming, and lifestyle, with interviews and insights into successful men.",
+      "price": 5.49,
+      "category": "Magazines",
+      "stock": 60,
+      "tags": ["men's fashion", "grooming", "lifestyle"],
+      "image": "magazines/magazines_10.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 60
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "FashionForward",
+          "comment": "Great style tips and interviews.",
+          "rating": 5,
+          "date": "2023-03-12"
+        },
+        {
+          "user": "GroomingExpert",
+          "comment": "Helpful grooming advice.",
+          "rating": 4,
+          "date": "2023-03-11"
+        }
+      ]
+    },
+    "11": {
+      "id": 811,
+      "name": "Fortune",
+      "description": "Stay updated on business news, financial markets, and investment strategies with insightful analysis and expert opinions.",
+      "price": 6.99,
+      "category": "Magazines",
+      "stock": 50,
+      "tags": ["business news", "financial markets", "investment"],
+      "image": "magazines/magazines_11.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 50
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "BusinessInsider",
+          "comment": "Essential reading for business professionals.",
+          "rating": 5,
+          "date": "2023-03-10"
+        },
+        {
+          "user": "InvestmentStrategist",
+          "comment": "Great insights into investment strategies.",
+          "rating": 4,
+          "date": "2023-03-09"
+        }
+      ]
+    },
+    "12": {
+      "id": 812,
+      "name": "Reader's Digest",
+      "description": "Enjoy inspiring stories, jokes, health tips, and helpful advice on life's challenges.",
+      "price": 3.99,
+      "category": "Magazines",
+      "stock": 40,
+      "tags": ["inspiring stories", "health tips", "advice"],
+      "image": "magazines/magazines_12.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 40
+      },
+      "sales": {
+        "totalSold": 600,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "InspirationSeeker",
+          "comment": "Always uplifting and informative.",
+          "rating": 5,
+          "date": "2023-03-08"
+        },
+        {
+          "user": "HealthTipReader",
+          "comment": "Helpful health tips!",
+          "rating": 4,
+          "date": "2023-03-07"
+        }
+      ]
+    },
+    "13": {
+      "id": 813,
+      "name": "Scientific American",
+      "description": "Explore cutting-edge research in science, technology, and medicine, with insights and analysis from experts.",
+      "price": 5.99,
+      "category": "Magazines",
+      "stock": 30,
+      "tags": ["science", "technology", "medicine"],
+      "image": "magazines/magazines_13.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 500,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "ScienceEnthusiast",
+          "comment": "Fascinating articles on scientific advancements.",
+          "rating": 5,
+          "date": "2023-03-06"
+        },
+        {
+          "user": "TechInnovator",
+          "comment": "Insightful analysis in technology.",
+          "rating": 4,
+          "date": "2023-03-05"
+        }
+      ]
+    },
+    "14": {
+      "id": 814,
+      "name": "Food & Wine",
+      "description": "Discover the world of food, wine, and culinary adventures with recipes, restaurant reviews, and wine recommendations.",
+      "price": 4.49,
+      "category": "Magazines",
+      "stock": 20,
+      "tags": ["food", "wine", "culinary"],
+      "image": "magazines/magazines_14.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 400,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "Foodie",
+          "comment": "Great recipes and wine picks!",
+          "rating": 5,
+          "date": "2023-03-04"
+        },
+        {
+          "user": "WineLover",
+          "comment": "Fantastic wine recommendations.",
+          "rating": 4,
+          "date": "2023-03-03"
+        }
+      ]
+    },
+    "15": {
+      "id": 815,
+      "name": "Popular Mechanics",
+      "description": "Explore the latest in science, technology, automotive, DIY projects, and gadgets.",
+      "price": 4.99,
+      "category": "Magazines",
+      "stock": 10,
+      "tags": ["science", "technology", "automotive"],
+      "image": "magazines/magazines_15.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 10
+      },
+      "sales": {
+        "totalSold": 300,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "TechGadgetFan",
+          "comment": "Love the DIY project ideas!",
+          "rating": 5,
+          "date": "2023-03-02"
+        },
+        {
+          "user": "AutomotiveEnthusiast",
+          "comment": "Great coverage on automotive technology.",
+          "rating": 4,
+          "date": "2023-03-01"
+        }
+      ]
+    }
+  },
+  "textbooks": {
+    "1": {
+      "id": 901,
+      "name": "Introduction to Psychology",
+      "description": "Comprehensive introduction to the field of psychology covering major theories, concepts, and research methods.",
+      "price": 49.99,
+      "category": "Textbooks",
+      "stock": 150,
+      "tags": ["psychology", "introduction", "research methods"],
+      "image": "textbooks/textbooks_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 3000,
+        "soldThisMonth": 120
+      },
+      "reviews": [
+        {
+          "user": "PsychologyStudent",
+          "comment": "Excellent textbook, very informative!",
+          "rating": 5,
+          "date": "2023-02-28"
+        },
+        {
+          "user": "ResearchMethods",
+          "comment": "Helped me understand research techniques better.",
+          "rating": 4,
+          "date": "2023-02-27"
+        }
+      ]
+    },
+    "2": {
+      "id": 902,
+      "name": "Principles of Economics",
+      "description": "Covers fundamental principles of economics, including microeconomics and macroeconomics.",
+      "price": 59.99,
+      "category": "Textbooks",
+      "stock": 140,
+      "tags": ["economics", "microeconomics", "macroeconomics"],
+      "image": "textbooks/textbooks_2.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 190
+      },
+      "sales": {
+        "totalSold": 2800,
+        "soldThisMonth": 110
+      },
+      "reviews": [
+        {
+          "user": "EconomicsStudent",
+          "comment": "Clear explanations and useful examples.",
+          "rating": 5,
+          "date": "2023-02-26"
+        },
+        {
+          "user": "EconomicTheory",
+          "comment": "Helped me grasp economic concepts better.",
+          "rating": 4,
+          "date": "2023-02-25"
+        }
+      ]
+    },
+    "3": {
+      "id": 903,
+      "name": "Organic Chemistry",
+      "description": "Comprehensive textbook covering organic chemistry principles, reactions, and applications.",
+      "price": 69.99,
+      "category": "Textbooks",
+      "stock": 130,
+      "tags": ["organic chemistry", "chemistry", "reactions"],
+      "image": "textbooks/textbooks_3.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 2600,
+        "soldThisMonth": 100
+      },
+      "reviews": [
+        {
+          "user": "ChemistryStudent",
+          "comment": "Very detailed and well-explained.",
+          "rating": 5,
+          "date": "2023-02-24"
+        },
+        {
+          "user": "OrganicChemistry",
+          "comment": "Helped me ace my exams!",
+          "rating": 4,
+          "date": "2023-02-23"
+        }
+      ]
+    },
+    "4": {
+      "id": 904,
+      "name": "Calculus: Early Transcendentals",
+      "description": "A rigorous treatment of calculus covering differentiation, integration, and applications.",
+      "price": 79.99,
+      "category": "Textbooks",
+      "stock": 120,
+      "tags": ["calculus", "differentiation", "integration"],
+      "image": "textbooks/textbooks_4.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 2400,
+        "soldThisMonth": 90
+      },
+      "reviews": [
+        {
+          "user": "MathStudent",
+          "comment": "Challenging but very comprehensive.",
+          "rating": 5,
+          "date": "2023-02-22"
+        },
+        {
+          "user": "CalculusPro",
+          "comment": "Excellent for advanced calculus studies.",
+          "rating": 4,
+          "date": "2023-02-21"
+        }
+      ]
+    },
+    "5": {
+      "id": 905,
+      "name": "Introduction to Sociology",
+      "description": "Overview of sociological concepts, theories, and methods with examples from contemporary society.",
+      "price": 54.99,
+      "category": "Textbooks",
+      "stock": 110,
+      "tags": ["sociology", "sociological concepts", "contemporary society"],
+      "image": "textbooks/textbooks_5.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 2200,
+        "soldThisMonth": 80
+      },
+      "reviews": [
+        {
+          "user": "SociologyStudent",
+          "comment": "Informative and thought-provoking.",
+          "rating": 5,
+          "date": "2023-02-20"
+        },
+        {
+          "user": "SocialTheory",
+          "comment": "Great insights into societal dynamics.",
+          "rating": 4,
+          "date": "2023-02-19"
+        }
+      ]
+    },
+    "6": {
+      "id": 906,
+      "name": "Fundamentals of Nursing",
+      "description": "Covers essential nursing principles, techniques, and practices for nursing students.",
+      "price": 64.99,
+      "category": "Textbooks",
+      "stock": 100,
+      "tags": ["nursing", "nursing principles", "healthcare"],
+      "image": "textbooks/textbooks_6.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 2000,
+        "soldThisMonth": 70
+      },
+      "reviews": [
+        {
+          "user": "NursingStudent",
+          "comment": "Very helpful for practical learning.",
+          "rating": 5,
+          "date": "2023-02-18"
+        },
+        {
+          "user": "HealthcareProf",
+          "comment": "Comprehensive and well-organized.",
+          "rating": 4,
+          "date": "2023-02-17"
+        }
+      ]
+    },
+    "7": {
+      "id": 907,
+      "name": "Marketing Management",
+      "description": "Learn key concepts and strategies in marketing management for effective business practices.",
+      "price": 59.99,
+      "category": "Textbooks",
+      "stock": 90,
+      "tags": ["marketing", "management", "business"],
+      "image": "textbooks/textbooks_7.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 1800,
+        "soldThisMonth": 60
+      },
+      "reviews": [
+        {
+          "user": "MarketingStudent",
+          "comment": "Practical insights into marketing strategies.",
+          "rating": 5,
+          "date": "2023-02-16"
+        },
+        {
+          "user": "BusinessManager",
+          "comment": "Helped improve our marketing tactics.",
+          "rating": 4,
+          "date": "2023-02-15"
+        }
+      ]
+    },
+    "8": {
+      "id": 908,
+      "name": "Computer Networks",
+      "description": "Comprehensive guide to computer networking principles, protocols, and technologies.",
+      "price": 69.99,
+      "category": "Textbooks",
+      "stock": 80,
+      "tags": ["computer networks", "networking", "protocols"],
+      "image": "textbooks/textbooks_8.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 130
+      },
+      "sales": {
+        "totalSold": 1600,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "NetworkingStudent",
+          "comment": "In-depth coverage of networking concepts.",
+          "rating": 5,
+          "date": "2023-02-14"
+        },
+        {
+          "user": "ITProfessional",
+          "comment": "Great reference for network administrators.",
+          "rating": 4,
+          "date": "2023-02-13"
+        }
+      ]
+    },
+    "9": {
+      "id": 909,
+      "name": "Human Anatomy & Physiology",
+      "description": "Comprehensive textbook covering human anatomy and physiology with clinical applications.",
+      "price": 74.99,
+      "category": "Textbooks",
+      "stock": 70,
+      "tags": ["anatomy", "physiology", "clinical applications"],
+      "image": "textbooks/textbooks_9.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 120
+      },
+      "sales": {
+        "totalSold": 1400,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "MedicalStudent",
+          "comment": "Very detailed and useful for medical studies.",
+          "rating": 5,
+          "date": "2023-02-12"
+        },
+        {
+          "user": "HealthScience",
+          "comment": "Helped me understand human anatomy better.",
+          "rating": 4,
+          "date": "2023-02-11"
+        }
+      ]
+    },
+    "10": {
+      "id": 910,
+      "name": "Business Law",
+      "description": "Covers essential principles of business law, contracts, and legal implications for business operations.",
+      "price": 64.99,
+      "category": "Textbooks",
+      "stock": 60,
+      "tags": ["business law", "contracts", "legal implications"],
+      "image": "textbooks/textbooks_10.jpg",
+      "ratings": {
+        "average": 3.9,
+        "count": 110
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "LawStudent",
+          "comment": "Good overview of business law.",
+          "rating": 4,
+          "date": "2023-02-10"
+        },
+        {
+          "user": "LegalExpert",
+          "comment": "Useful for understanding legal aspects of business.",
+          "rating": 3,
+          "date": "2023-02-09"
+        }
+      ]
+    },
+    "11": {
+      "id": 911,
+      "name": "Environmental Science",
+      "description": "Examines environmental issues, sustainability, and human impact on ecosystems.",
+      "price": 49.99,
+      "category": "Textbooks",
+      "stock": 50,
+      "tags": ["environmental science", "sustainability", "ecosystems"],
+      "image": "textbooks/textbooks_11.jpg",
+      "ratings": {
+        "average": 3.8,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "EnvironmentalStudent",
+          "comment": "Informative but could be more detailed.",
+          "rating": 4,
+          "date": "2023-02-08"
+        },
+        {
+          "user": "SustainabilityExpert",
+          "comment": "Good introduction to environmental issues.",
+          "rating": 3,
+          "date": "2023-02-07"
+        }
+      ]
+    },
+    "12": {
+      "id": 912,
+      "name": "Digital Marketing",
+      "description": "Learn digital marketing strategies, social media tactics, and analytics for effective online marketing campaigns.",
+      "price": 54.99,
+      "category": "Textbooks",
+      "stock": 40,
+      "tags": ["digital marketing", "social media", "online marketing"],
+      "image": "textbooks/textbooks_12.jpg",
+      "ratings": {
+        "average": 3.7,
+        "count": 90
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 15
+      },
+      "reviews": [
+        {
+          "user": "MarketingEnthusiast",
+          "comment": "Good insights into digital marketing trends.",
+          "rating": 4,
+          "date": "2023-02-06"
+        },
+        {
+          "user": "SocialMediaExpert",
+          "comment": "Useful for understanding social media strategies.",
+          "rating": 3,
+          "date": "2023-02-05"
+        }
+      ]
+    },
+    "13": {
+      "id": 913,
+      "name": "Operations Management",
+      "description": "Focuses on managing business operations, logistics, and supply chain management.",
+      "price": 59.99,
+      "category": "Textbooks",
+      "stock": 30,
+      "tags": ["operations management", "logistics", "supply chain"],
+      "image": "textbooks/textbooks_13.jpg",
+      "ratings": {
+        "average": 3.6,
+        "count": 80
+      },
+      "sales": {
+        "totalSold": 600,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "OperationsStudent",
+          "comment": "Insightful but needs more real-world examples.",
+          "rating": 4,
+          "date": "2023-02-04"
+        },
+        {
+          "user": "SupplyChainExpert",
+          "comment": "Good textbook for understanding supply chain.",
+          "rating": 3,
+          "date": "2023-02-03"
+        }
+      ]
+    },
+    "14": {
+      "id": 914,
+      "name": "Human Resource Management",
+      "description": "Covers principles and practices of human resource management, employee relations, and HR strategies.",
+      "price": 49.99,
+      "category": "Textbooks",
+      "stock": 20,
+      "tags": [
+        "human resource management",
+        "employee relations",
+        "HR strategies"
+      ],
+      "image": "textbooks/textbooks_14.jpg",
+      "ratings": {
+        "average": 3.5,
+        "count": 70
+      },
+      "sales": {
+        "totalSold": 400,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "HRStudent",
+          "comment": "Useful overview of HR practices.",
+          "rating": 4,
+          "date": "2023-02-02"
+        },
+        {
+          "user": "HRProfessional",
+          "comment": "Helpful for understanding HR strategies.",
+          "rating": 3,
+          "date": "2023-02-01"
+        }
+      ]
+    },
+    "15": {
+      "id": 915,
+      "name": "Public Speaking",
+      "description": "Learn effective public speaking techniques, speech preparation, and delivery strategies.",
+      "price": 44.99,
+      "category": "Textbooks",
+      "stock": 10,
+      "tags": ["public speaking", "speech preparation", "delivery strategies"],
+      "image": "textbooks/textbooks_15.jpg",
+      "ratings": {
+        "average": 3.4,
+        "count": 60
+      },
+      "sales": {
+        "totalSold": 200,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "PublicSpeakingStudent",
+          "comment": "Helpful for improving speaking skills.",
+          "rating": 4,
+          "date": "2023-01-31"
+        },
+        {
+          "user": "SpeechCoach",
+          "comment": "Good techniques for speech preparation.",
+          "rating": 3,
+          "date": "2023-01-30"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Leather Belt",
+    "description": "Classic leather belt with silver buckle.",
+    "price": 29.99,
+    "category": "Accessories",
+    "stock": 50,
+    "tags": ["Belt", "Leather", "Classic"],
+    "image": "accessories/accessories_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "High-quality leather and stylish buckle.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "AccessoriesFan456",
+        "comment": "Durable and fits well.",
+        "rating": 5,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Silk Scarf",
+    "description": "Luxurious silk scarf with floral print.",
+    "price": 49.99,
+    "category": "Accessories",
+    "stock": 40,
+    "tags": ["Scarf", "Silk", "Luxury"],
+    "image": "accessories/accessories_2.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Beautiful print and soft silk.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "LuxuryLover456",
+        "comment": "Perfect for special occasions.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Crossbody Bag",
+    "description": "Stylish crossbody bag with adjustable strap.",
+    "price": 79.99,
+    "category": "Accessories",
+    "stock": 35,
+    "tags": ["Bag", "Crossbody", "Fashion"],
+    "image": "accessories/accessories_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Versatile and well-made.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "BagEnthusiast456",
+        "comment": "Great for everyday use.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Gold Watch",
+    "description": "Elegant gold watch with minimalist design.",
+    "price": 199.99,
+    "category": "Accessories",
+    "stock": 30,
+    "tags": ["Watch", "Gold", "Elegant"],
+    "image": "accessories/accessories_4.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Beautiful craftsmanship and classy look.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "WatchLover456",
+        "comment": "Works well and looks expensive.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Pearl Necklace",
+    "description": "Timeless pearl necklace with sterling silver clasp.",
+    "price": 149.99,
+    "category": "Accessories",
+    "stock": 25,
+    "tags": ["Necklace", "Pearl", "Classic"],
+    "image": "accessories/accessories_5.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Beautiful pearls and elegant clasp.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "JewelryLover456",
+        "comment": "Great gift for special occasions.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Leather Wallet",
+    "description": "Slim leather wallet with RFID blocking technology.",
+    "price": 69.99,
+    "category": "Accessories",
+    "stock": 20,
+    "tags": ["Wallet", "Leather", "RFID"],
+    "image": "accessories/accessories_6.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "High-quality leather and effective RFID protection.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "WalletEnthusiast456",
+        "comment": "Slim design fits well in pocket.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Silver Earrings",
+    "description": "Chic silver earrings with geometric design.",
+    "price": 39.99,
+    "category": "Accessories",
+    "stock": 18,
+    "tags": ["Earrings", "Silver", "Chic"],
+    "image": "accessories/accessories_7.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Modern design and lightweight.",
+        "rating": 4,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "JewelryLover456",
+        "comment": "Versatile earrings for any occasion.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Canvas Tote Bag",
+    "description": "Durable canvas tote bag with leather handles.",
+    "price": 59.99,
+    "category": "Accessories",
+    "stock": 15,
+    "tags": ["Bag", "Canvas", "Tote"],
+    "image": "accessories/accessories_8.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 80
+    },
+    "sales": {
+      "totalSold": 400,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Spacious and well-made.",
+        "rating": 4,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "BagEnthusiast456",
+        "comment": "Leather handles add a touch of elegance.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Cotton Scarf",
+    "description": "Soft cotton scarf with fringe detail.",
+    "price": 19.99,
+    "category": "Accessories",
+    "stock": 12,
+    "tags": ["Scarf", "Cotton", "Soft"],
+    "image": "accessories/accessories_9.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 70
+    },
+    "sales": {
+      "totalSold": 350,
+      "soldThisMonth": 18
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Comfortable and lightweight.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Versatile scarf for any season.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Leather Gloves",
+    "description": "Classic leather gloves with cashmere lining.",
+    "price": 79.99,
+    "category": "Accessories",
+    "stock": 10,
+    "tags": ["Gloves", "Leather", "Classic"],
+    "image": "accessories/accessories_10.jpg",
+    "ratings": {
+      "average": 3.9,
+      "count": 60
+    },
+    "sales": {
+      "totalSold": 300,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Warm and stylish.",
+        "rating": 4,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Soft cashmere lining feels luxurious.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Silk Tie",
+    "description": "Silk tie with modern pattern.",
+    "price": 49.99,
+    "category": "Accessories",
+    "stock": 5,
+    "tags": ["Tie", "Silk", "Modern"],
+    "image": "accessories/accessories_11.jpg",
+    "ratings": {
+      "average": 3.8,
+      "count": 50
+    },
+    "sales": {
+      "totalSold": 250,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Excellent quality silk.",
+        "rating": 4,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Modern design stands out.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Leather Backpack",
+    "description": "Stylish leather backpack with multiple compartments.",
+    "price": 149.99,
+    "category": "Accessories",
+    "stock": 3,
+    "tags": ["Backpack", "Leather", "Stylish"],
+    "image": "accessories/accessories_12.jpg",
+    "ratings": {
+      "average": 3.7,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 200,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Comfortable to wear and holds a lot.",
+        "rating": 4,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Quality leather and well-designed.",
+        "rating": 3,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Wool Scarf",
+    "description": "Warm wool scarf with striped pattern.",
+    "price": 79.99,
+    "category": "Accessories",
+    "stock": 2,
+    "tags": ["Scarf", "Wool", "Warm"],
+    "image": "accessories/accessories_13.jpg",
+    "ratings": {
+      "average": 3.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 150,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Keeps me warm in cold weather.",
+        "rating": 4,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Classic striped design.",
+        "rating": 3,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Silver Bracelet",
+    "description": "Simple silver bracelet with polished finish.",
+    "price": 99.99,
+    "category": "Accessories",
+    "stock": 1,
+    "tags": ["Bracelet", "Silver", "Simple"],
+    "image": "accessories/accessories_14.jpg",
+    "ratings": {
+      "average": 3.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Matches any outfit.",
+        "rating": 4,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Subtle and elegant.",
+        "rating": 3,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Designer Belt",
+    "description": "Luxury designer belt with logo buckle.",
+    "price": 279.99,
+    "category": "Accessories",
+    "stock": 0,
+    "tags": ["Belt", "Designer", "Luxury"],
+    "image": "accessories/accessories_15.jpg",
+    "ratings": {
+      "average": 3.4,
+      "count": 10
+    },
+    "sales": {
+      "totalSold": 50,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "High-quality leather and impressive design.",
+        "rating": 4,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "FashionEnthusiast456",
+        "comment": "Logo buckle adds a touch of luxury.",
+        "rating": 3,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

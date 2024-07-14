@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 121,
+    "name": "Moisturizing Shampoo",
+    "description": "Hydrating shampoo for smooth and nourished hair.",
+    "price": 12.99,
+    "category": "Hair Care",
+    "stock": 30,
+    "tags": ["hair care", "shampoo", "moisturizing"],
+    "image": "productimage/beauty/hair_care/hair_care_1.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 50,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "HairCareFanatic",
+        "comment": "Keeps my hair soft and shiny, love it!",
+        "rating": 5,
+        "date": "2023-11-17"
+      },
+      {
+        "user": "SmoothHairLover",
+        "comment": "Great for dry hair, noticeable improvement.",
+        "rating": 4,
+        "date": "2023-11-16"
+      }
+    ]
+  },
+  "2": {
+    "id": 122,
+    "name": "Repairing Conditioner",
+    "description": "Restorative conditioner for damaged hair.",
+    "price": 14.99,
+    "category": "Hair Care",
+    "stock": 25,
+    "tags": ["hair care", "conditioner", "repairing"],
+    "image": "productimage/beauty/hair_care/hair_care_2.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 18
+    },
+    "sales": {
+      "totalSold": 45,
+      "soldThisMonth": 4
+    },
+    "reviews": [
+      {
+        "user": "HairRepairEnthusiast",
+        "comment": "Helped repair my damaged ends, great product.",
+        "rating": 5,
+        "date": "2023-11-15"
+      },
+      {
+        "user": "ConditionerLover",
+        "comment": "Leaves my hair silky smooth, smells amazing.",
+        "rating": 4,
+        "date": "2023-11-14"
+      }
+    ]
+  },
+  "3": {
+    "id": 123,
+    "name": "Curl Defining Gel",
+    "description": "Gel for defining and holding curls without stiffness.",
+    "price": 9.99,
+    "category": "Hair Care",
+    "stock": 20,
+    "tags": ["hair care", "curl defining", "gel"],
+    "image": "productimage/beauty/hair_care/hair_care_3.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 15
+    },
+    "sales": {
+      "totalSold": 40,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "CurlDefiner",
+        "comment": "Defines curls nicely without crunchiness.",
+        "rating": 4,
+        "date": "2023-11-13"
+      },
+      {
+        "user": "CurlyHairFan",
+        "comment": "Great for enhancing natural curls, good hold.",
+        "rating": 4,
+        "date": "2023-11-12"
+      }
+    ]
+  },
+  "4": {
+    "id": 124,
+    "name": "Argan Oil Hair Serum",
+    "description": "Nourishing hair serum for adding shine and reducing frizz.",
+    "price": 19.99,
+    "category": "Hair Care",
+    "stock": 18,
+    "tags": ["hair care", "hair serum", "argan oil"],
+    "image": "productimage/beauty/hair_care/hair_care_4.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 17
+    },
+    "sales": {
+      "totalSold": 35,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "ShinyHairLover",
+        "comment": "Adds a beautiful shine to my hair, love it!",
+        "rating": 4,
+        "date": "2023-11-11"
+      },
+      {
+        "user": "FrizzControl",
+        "comment": "Helped tame my frizz, smells nice too.",
+        "rating": 4,
+        "date": "2023-11-10"
+      }
+    ]
+  },
+  "5": {
+    "id": 125,
+    "name": "Heat Protectant Spray",
+    "description": "Protective spray for shielding hair from heat damage.",
+    "price": 16.99,
+    "category": "Hair Care",
+    "stock": 15,
+    "tags": ["hair care", "heat protectant", "spray"],
+    "image": "productimage/beauty/hair_care/hair_care_5.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 16
+    },
+    "sales": {
+      "totalSold": 30,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "HeatStyler",
+        "comment": "Protects my hair from heat tools, lightweight.",
+        "rating": 4,
+        "date": "2023-11-09"
+      },
+      {
+        "user": "HairCareFanatic",
+        "comment": "Essential for styling without damage, recommend.",
+        "rating": 4,
+        "date": "2023-11-08"
+      }
+    ]
+  },
+  "6": {
+    "id": 126,
+    "name": "Coconut Oil Hair Mask",
+    "description": "Deep conditioning mask with coconut oil for soft, nourished hair.",
+    "price": 17.99,
+    "category": "Hair Care",
+    "stock": 25,
+    "tags": ["hair care", "hair mask", "coconut oil"],
+    "image": "productimage/beauty/hair_care/hair_care_6.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 19
+    },
+    "sales": {
+      "totalSold": 38,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "CoconutOilLover",
+        "comment": "Makes my hair incredibly soft and smells amazing.",
+        "rating": 5,
+        "date": "2023-11-07"
+      },
+      {
+        "user": "HairMaskEnthusiast",
+        "comment": "Great for restoring moisture to dry hair.",
+        "rating": 4,
+        "date": "2023-11-06"
+      }
+    ]
+  },
+  "7": {
+    "id": 127,
+    "name": "Volumizing Mousse",
+    "description": "Mousse for adding volume and lift to fine hair.",
+    "price": 11.99,
+    "category": "Hair Care",
+    "stock": 22,
+    "tags": ["hair care", "volumizing", "mousse"],
+    "image": "productimage/beauty/hair_care/hair_care_7.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 18
+    },
+    "sales": {
+      "totalSold": 36,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "VolumeAddict",
+        "comment": "Gives my hair great volume without weighing it down.",
+        "rating": 4,
+        "date": "2023-11-05"
+      },
+      {
+        "user": "FineHairSolutions",
+        "comment": "Perfect for adding volume to my fine hair.",
+        "rating": 4,
+        "date": "2023-11-04"
+      }
+    ]
+  },
+  "8": {
+    "id": 128,
+    "name": "Anti-Frizz Serum",
+    "description": "Serum for controlling frizz and smoothing hair.",
+    "price": 15.99,
+    "category": "Hair Care",
+    "stock": 20,
+    "tags": ["hair care", "anti-frizz", "serum"],
+    "image": "productimage/beauty/hair_care/hair_care_8.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 16
+    },
+    "sales": {
+      "totalSold": 32,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "FrizzControl",
+        "comment": "Effective at taming my frizzy hair, smells nice too.",
+        "rating": 4,
+        "date": "2023-11-03"
+      },
+      {
+        "user": "SmoothHairLover",
+        "comment": "Leaves my hair silky smooth, love it!",
+        "rating": 4,
+        "date": "2023-11-02"
+      }
+    ]
+  },
+  "9": {
+    "id": 129,
+    "name": "Dry Shampoo",
+    "description": "Revitalizing dry shampoo for quick hair refresh.",
+    "price": 9.99,
+    "category": "Hair Care",
+    "stock": 28,
+    "tags": ["hair care", "dry shampoo", "refreshing"],
+    "image": "productimage/beauty/hair_care/hair_care_9.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 15
+    },
+    "sales": {
+      "totalSold": 30,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "QuickFix",
+        "comment": "Perfect for refreshing my hair between washes.",
+        "rating": 4,
+        "date": "2023-11-01"
+      },
+      {
+        "user": "HairCareFanatic",
+        "comment": "Convenient and effective, a must-have for busy days.",
+        "rating": 4,
+        "date": "2023-10-31"
+      }
+    ]
+  },
+  "10": {
+    "id": 130,
+    "name": "Strengthening Hair Mask",
+    "description": "Mask for strengthening hair and preventing breakage.",
+    "price": 18.99,
+    "category": "Hair Care",
+    "stock": 24,
+    "tags": ["hair care", "hair mask", "strengthening"],
+    "image": "productimage/beauty/hair_care/hair_care_10.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 17
+    },
+    "sales": {
+      "totalSold": 34,
+      "soldThisMonth": 3
+    },
+    "reviews": [
+      {
+        "user": "StrengthSeeker",
+        "comment": "Helped strengthen my hair, noticeable improvement.",
+        "rating": 4,
+        "date": "2023-10-30"
+      },
+      {
+        "user": "HairMaskEnthusiast",
+        "comment": "Great for restoring strength to weak hair.",
+        "rating": 4,
+        "date": "2023-10-29"
+      }
+    ]
+  },
+  "11": {
+    "id": 131,
+    "name": "Leave-In Conditioner",
+    "description": "Conditioner for hydrating and detangling hair.",
+    "price": 13.99,
+    "category": "Hair Care",
+    "stock": 26,
+    "tags": ["hair care", "conditioner", "leave-in"],
+    "image": "productimage/beauty/hair_care/hair_care_11.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 16
+    },
+    "sales": {
+      "totalSold": 32,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "DetanglePro",
+        "comment": "Makes detangling easy, leaves hair soft.",
+        "rating": 4,
+        "date": "2023-10-28"
+      },
+      {
+        "user": "ConditionerLover",
+        "comment": "Hydrates my hair without weighing it down.",
+        "rating": 4,
+        "date": "2023-10-27"
+      }
+    ]
+  },
+  "12": {
+    "id": 132,
+    "name": "Shine Enhancing Spray",
+    "description": "Spray for adding shine and luminosity to hair.",
+    "price": 14.99,
+    "category": "Hair Care",
+    "stock": 23,
+    "tags": ["hair care", "shine enhancing", "spray"],
+    "image": "productimage/beauty/hair_care/hair_care_12.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 15
+    },
+    "sales": {
+      "totalSold": 28,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "ShineSeeker",
+        "comment": "Adds a beautiful shine to my hair, love the results.",
+        "rating": 4,
+        "date": "2023-10-26"
+      },
+      {
+        "user": "HairCareFanatic",
+        "comment": "Great for enhancing shine without greasiness.",
+        "rating": 4,
+        "date": "2023-10-25"
+      }
+    ]
+  },
+  "13": {
+    "id": 133,
+    "name": "Texturizing Spray",
+    "description": "Spray for adding texture and definition to hair.",
+    "price": 11.99,
+    "category": "Hair Care",
+    "stock": 21,
+    "tags": ["hair care", "texturizing", "spray"],
+    "image": "productimage/beauty/hair_care/hair_care_13.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 14
+    },
+    "sales": {
+      "totalSold": 26,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "TextureAddict",
+        "comment": "Gives my hair great texture and volume, love it!",
+        "rating": 4,
+        "date": "2023-10-24"
+      },
+      {
+        "user": "HairStyler",
+        "comment": "Perfect for adding definition to my hairstyles.",
+        "rating": 4,
+        "date": "2023-10-23"
+      }
+    ]
+  },
+  "14": {
+    "id": 134,
+    "name": "Color Protecting Shampoo",
+    "description": "Shampoo for maintaining vibrant color and protecting hair.",
+    "price": 12.99,
+    "category": "Hair Care",
+    "stock": 27,
+    "tags": ["hair care", "shampoo", "color protecting"],
+    "image": "productimage/beauty/hair_care/hair_care_14.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 17
+    },
+    "sales": {
+      "totalSold": 30,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "ColorCarePro",
+        "comment": "Helps maintain my hair color, gentle on my hair.",
+        "rating": 4,
+        "date": "2023-10-22"
+      },
+      {
+        "user": "ShinyHairLover",
+        "comment": "Leaves my hair shiny and keeps my color vibrant.",
+        "rating": 4,
+        "date": "2023-10-21"
+      }
+    ]
+  },
+  "15": {
+    "id": 135,
+    "name": "Dry Conditioner Spray",
+    "description": "Conditioning spray for softening and detangling dry hair.",
+    "price": 10.99,
+    "category": "Hair Care",
+    "stock": 29,
+    "tags": ["hair care", "conditioner", "dry conditioner"],
+    "image": "productimage/beauty/hair_care/hair_care_15.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 16
+    },
+    "sales": {
+      "totalSold": 28,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "DetanglePro",
+        "comment": "Works well for detangling dry hair, lightweight.",
+        "rating": 4,
+        "date": "2023-10-20"
+      },
+      {
+        "user": "HairCareFanatic",
+        "comment": "Convenient and effective, great for on-the-go.",
+        "rating": 4,
+        "date": "2023-10-19"
+      }
+    ]
+  }
+}

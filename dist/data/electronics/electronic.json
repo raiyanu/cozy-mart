@@ -1,0 +1,4828 @@
+{
+  "headphones": {
+    "1": {
+      "id": 1,
+      "name": "Noise-Cancelling Headphones",
+      "description": "High-quality noise-cancelling headphones with comfortable ear cushions.",
+      "price": 199.99,
+      "category": "Headphones",
+      "stock": 100,
+      "tags": ["noise-cancelling", "comfortable", "high-quality"],
+      "image": "headphones/headphones_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 750,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "MusicLover",
+          "comment": "Amazing sound quality and noise cancellation.",
+          "rating": 5,
+          "date": "2023-07-01"
+        },
+        {
+          "user": "Traveler",
+          "comment": "Perfect for flights.",
+          "rating": 4,
+          "date": "2023-06-28"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "Wireless Earbuds",
+      "description": "Compact wireless earbuds with excellent sound and battery life.",
+      "price": 129.99,
+      "category": "Headphones",
+      "stock": 150,
+      "tags": ["wireless", "compact", "excellent sound"],
+      "image": "headphones/headphones_2.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "GymGoer",
+          "comment": "Great for workouts.",
+          "rating": 5,
+          "date": "2023-07-02"
+        },
+        {
+          "user": "TechFan",
+          "comment": "Good sound and battery life.",
+          "rating": 4,
+          "date": "2023-06-29"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "Over-Ear Headphones",
+      "description": "Comfortable over-ear headphones with superior sound quality.",
+      "price": 149.99,
+      "category": "Headphones",
+      "stock": 90,
+      "tags": ["over-ear", "comfortable", "superior sound"],
+      "image": "headphones/headphones_3.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "Audiophile",
+          "comment": "Incredible sound and very comfortable.",
+          "rating": 5,
+          "date": "2023-07-03"
+        },
+        {
+          "user": "Student",
+          "comment": "Great for studying.",
+          "rating": 4,
+          "date": "2023-06-30"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "Gaming Headset",
+      "description": "High-quality gaming headset with surround sound and a built-in microphone.",
+      "price": 89.99,
+      "category": "Headphones",
+      "stock": 70,
+      "tags": ["gaming", "surround sound", "built-in microphone"],
+      "image": "headphones/headphones_4.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "Gamer123",
+          "comment": "Excellent for gaming.",
+          "rating": 5,
+          "date": "2023-07-04"
+        },
+        {
+          "user": "Streamer",
+          "comment": "Great sound and mic quality.",
+          "rating": 5,
+          "date": "2023-07-01"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Sports Earbuds",
+      "description": "Sweat-resistant sports earbuds with secure fit and clear sound.",
+      "price": 79.99,
+      "category": "Headphones",
+      "stock": 120,
+      "tags": ["sports", "sweat-resistant", "secure fit"],
+      "image": "headphones/headphones_5.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 130
+      },
+      "sales": {
+        "totalSold": 650,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "Runner",
+          "comment": "Stays in place during runs.",
+          "rating": 4,
+          "date": "2023-07-05"
+        },
+        {
+          "user": "FitnessFan",
+          "comment": "Good sound and fit.",
+          "rating": 4,
+          "date": "2023-07-02"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "Studio Headphones",
+      "description": "Professional studio headphones with accurate sound reproduction.",
+      "price": 199.99,
+      "category": "Headphones",
+      "stock": 50,
+      "tags": ["studio", "professional", "accurate sound"],
+      "image": "headphones/headphones_6.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 220
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 55
+      },
+      "reviews": [
+        {
+          "user": "SoundEngineer",
+          "comment": "Perfect for mixing and mastering.",
+          "rating": 5,
+          "date": "2023-07-06"
+        },
+        {
+          "user": "MusicProducer",
+          "comment": "Highly accurate sound.",
+          "rating": 5,
+          "date": "2023-07-03"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "Wireless Over-Ear Headphones",
+      "description": "Comfortable wireless over-ear headphones with long battery life.",
+      "price": 149.99,
+      "category": "Headphones",
+      "stock": 100,
+      "tags": ["wireless", "over-ear", "long battery life"],
+      "image": "headphones/headphones_7.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "WirelessFan",
+          "comment": "Great sound and comfort.",
+          "rating": 5,
+          "date": "2023-07-07"
+        },
+        {
+          "user": "TechLover",
+          "comment": "Long battery life.",
+          "rating": 4,
+          "date": "2023-07-04"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "Bone Conduction Headphones",
+      "description": "Innovative bone conduction headphones for safe outdoor use.",
+      "price": 99.99,
+      "category": "Headphones",
+      "stock": 80,
+      "tags": ["bone conduction", "safe", "outdoor"],
+      "image": "headphones/headphones_8.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "Hiker",
+          "comment": "Great for outdoor activities.",
+          "rating": 5,
+          "date": "2023-07-08"
+        },
+        {
+          "user": "Biker",
+          "comment": "Safe and comfortable.",
+          "rating": 4,
+          "date": "2023-07-05"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "Kids Headphones",
+      "description": "Durable and volume-limited headphones designed for kids.",
+      "price": 49.99,
+      "category": "Headphones",
+      "stock": 200,
+      "tags": ["kids", "durable", "volume-limited"],
+      "image": "headphones/headphones_9.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 500,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "Parent",
+          "comment": "Safe for kids to use.",
+          "rating": 4,
+          "date": "2023-07-09"
+        },
+        {
+          "user": "Teacher",
+          "comment": "Great for classroom use.",
+          "rating": 4,
+          "date": "2023-07-06"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "Bluetooth Headphones",
+      "description": "Versatile Bluetooth headphones with great connectivity and sound.",
+      "price": 89.99,
+      "category": "Headphones",
+      "stock": 150,
+      "tags": ["Bluetooth", "versatile", "great connectivity"],
+      "image": "headphones/headphones_10.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 190
+      },
+      "sales": {
+        "totalSold": 950,
+        "soldThisMonth": 47
+      },
+      "reviews": [
+        {
+          "user": "TechSavvy",
+          "comment": "Easy to connect and use.",
+          "rating": 5,
+          "date": "2023-07-10"
+        },
+        {
+          "user": "Commuter",
+          "comment": "Great for daily commute.",
+          "rating": 4,
+          "date": "2023-07-07"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "Luxury Headphones",
+      "description": "Premium headphones with superior sound and build quality.",
+      "price": 299.99,
+      "category": "Headphones",
+      "stock": 30,
+      "tags": ["luxury", "premium", "superior sound"],
+      "image": "headphones/headphones_11.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 500,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "LuxuryLover",
+          "comment": "Worth every penny.",
+          "rating": 5,
+          "date": "2023-07-11"
+        },
+        {
+          "user": "Audiophile",
+          "comment": "Incredible build and sound.",
+          "rating": 5,
+          "date": "2023-07-08"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "Travel Headphones",
+      "description": "Compact and foldable headphones ideal for travel.",
+      "price": 69.99,
+      "category": "Headphones",
+      "stock": 80,
+      "tags": ["travel", "compact", "foldable"],
+      "image": "headphones/headphones_12.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "FrequentFlyer",
+          "comment": "Easy to pack and use.",
+          "rating": 4,
+          "date": "2023-07-12"
+        },
+        {
+          "user": "Backpacker",
+          "comment": "Great for travel.",
+          "rating": 4,
+          "date": "2023-07-09"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "Bass Boost Headphones",
+      "description": "Headphones with enhanced bass and dynamic sound.",
+      "price": 79.99,
+      "category": "Headphones",
+      "stock": 100,
+      "tags": ["bass boost", "dynamic sound", "enhanced bass"],
+      "image": "headphones/headphones_13.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 750,
+        "soldThisMonth": 37
+      },
+      "reviews": [
+        {
+          "user": "BassLover",
+          "comment": "Amazing bass quality.",
+          "rating": 5,
+          "date": "2023-07-13"
+        },
+        {
+          "user": "MusicFanatic",
+          "comment": "Great for bass-heavy music.",
+          "rating": 4,
+          "date": "2023-07-10"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "Wired Earbuds",
+      "description": "Classic wired earbuds with clear sound and durable design.",
+      "price": 29.99,
+      "category": "Headphones",
+      "stock": 200,
+      "tags": ["wired", "classic", "durable"],
+      "image": "headphones/headphones_14.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 500,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "OldSchool",
+          "comment": "Reliable and clear sound.",
+          "rating": 4,
+          "date": "2023-07-14"
+        },
+        {
+          "user": "Student",
+          "comment": "Perfect for daily use.",
+          "rating": 4,
+          "date": "2023-07-11"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "High-Fidelity Headphones",
+      "description": "Premium high-fidelity headphones for audiophiles.",
+      "price": 399.99,
+      "category": "Headphones",
+      "stock": 20,
+      "tags": ["high-fidelity", "premium", "audiophiles"],
+      "image": "headphones/headphones_15.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 80
+      },
+      "sales": {
+        "totalSold": 400,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "SoundExpert",
+          "comment": "Unmatched sound quality.",
+          "rating": 5,
+          "date": "2023-07-15"
+        },
+        {
+          "user": "AudioGuru",
+          "comment": "Perfect for critical listening.",
+          "rating": 5,
+          "date": "2023-07-12"
+        }
+      ]
+    }
+  },
+  "laptops": {
+    "1": {
+      "id": 1,
+      "name": "Gaming Laptop",
+      "description": "High-performance gaming laptop with powerful graphics and fast processor.",
+      "price": 1199.99,
+      "category": "Laptops",
+      "stock": 50,
+      "tags": ["gaming", "high-performance", "powerful graphics"],
+      "image": "laptops/laptops_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "GamerPro",
+          "comment": "Handles all games flawlessly.",
+          "rating": 5,
+          "date": "2023-07-01"
+        },
+        {
+          "user": "TechGeek",
+          "comment": "Amazing performance.",
+          "rating": 5,
+          "date": "2023-06-28"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "Ultrabook",
+      "description": "Lightweight ultrabook with long battery life and sleek design.",
+      "price": 999.99,
+      "category": "Laptops",
+      "stock": 75,
+      "tags": ["ultrabook", "lightweight", "long battery life"],
+      "image": "laptops/laptops_2.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "Student",
+          "comment": "Perfect for school.",
+          "rating": 4,
+          "date": "2023-07-02"
+        },
+        {
+          "user": "BusinessPro",
+          "comment": "Great for work on the go.",
+          "rating": 4,
+          "date": "2023-06-29"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "2-in-1 Laptop",
+      "description": "Versatile 2-in-1 laptop with touch screen and detachable keyboard.",
+      "price": 749.99,
+      "category": "Laptops",
+      "stock": 60,
+      "tags": ["2-in-1", "touch screen", "detachable keyboard"],
+      "image": "laptops/laptops_3.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "CreativePro",
+          "comment": "Great for drawing and notes.",
+          "rating": 5,
+          "date": "2023-07-03"
+        },
+        {
+          "user": "Traveler",
+          "comment": "Very versatile.",
+          "rating": 4,
+          "date": "2023-06-30"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "Business Laptop",
+      "description": "Reliable business laptop with powerful performance and security features.",
+      "price": 849.99,
+      "category": "Laptops",
+      "stock": 40,
+      "tags": ["business", "reliable", "security features"],
+      "image": "laptops/laptops_4.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "BusinessMan",
+          "comment": "Perfect for office work.",
+          "rating": 5,
+          "date": "2023-07-04"
+        },
+        {
+          "user": "Executive",
+          "comment": "Highly secure.",
+          "rating": 5,
+          "date": "2023-07-01"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Student Laptop",
+      "description": "Affordable laptop with all the essential features for students.",
+      "price": 499.99,
+      "category": "Laptops",
+      "stock": 100,
+      "tags": ["student", "affordable", "essential features"],
+      "image": "laptops/laptops_5.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 130
+      },
+      "sales": {
+        "totalSold": 650,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "CollegeStudent",
+          "comment": "Great value for money.",
+          "rating": 4,
+          "date": "2023-07-05"
+        },
+        {
+          "user": "HighSchooler",
+          "comment": "Perfect for school projects.",
+          "rating": 4,
+          "date": "2023-07-02"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "Workstation Laptop",
+      "description": "High-performance workstation laptop with advanced graphics and processing power.",
+      "price": 1499.99,
+      "category": "Laptops",
+      "stock": 30,
+      "tags": ["workstation", "high-performance", "advanced graphics"],
+      "image": "laptops/laptops_6.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 220
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 55
+      },
+      "reviews": [
+        {
+          "user": "Engineer",
+          "comment": "Handles heavy tasks easily.",
+          "rating": 5,
+          "date": "2023-07-06"
+        },
+        {
+          "user": "Designer",
+          "comment": "Great for 3D rendering.",
+          "rating": 5,
+          "date": "2023-07-03"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "Chromebook",
+      "description": "Lightweight and easy-to-use Chromebook with long battery life.",
+      "price": 299.99,
+      "category": "Laptops",
+      "stock": 90,
+      "tags": ["Chromebook", "lightweight", "easy-to-use"],
+      "image": "laptops/laptops_7.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "GoogleFan",
+          "comment": "Simple and effective.",
+          "rating": 5,
+          "date": "2023-07-07"
+        },
+        {
+          "user": "Parent",
+          "comment": "Great for kids.",
+          "rating": 4,
+          "date": "2023-07-04"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "MacBook Pro",
+      "description": "Powerful MacBook Pro with advanced features and sleek design.",
+      "price": 1299.99,
+      "category": "Laptops",
+      "stock": 50,
+      "tags": ["MacBook", "powerful", "sleek design"],
+      "image": "laptops/laptops_8.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "AppleFan",
+          "comment": "Top-notch performance.",
+          "rating": 5,
+          "date": "2023-07-08"
+        },
+        {
+          "user": "CreativePro",
+          "comment": "Perfect for video editing.",
+          "rating": 5,
+          "date": "2023-07-05"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "Budget Laptop",
+      "description": "Affordable laptop with decent performance and essential features.",
+      "price": 399.99,
+      "category": "Laptops",
+      "stock": 120,
+      "tags": ["budget", "affordable", "essential features"],
+      "image": "laptops/laptops_9.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 500,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "BudgetBuyer",
+          "comment": "Great for basic tasks.",
+          "rating": 4,
+          "date": "2023-07-09"
+        },
+        {
+          "user": "FrugalShopper",
+          "comment": "Good value.",
+          "rating": 4,
+          "date": "2023-07-06"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "High-End Laptop",
+      "description": "Premium high-end laptop with superior performance and build quality.",
+      "price": 1999.99,
+      "category": "Laptops",
+      "stock": 25,
+      "tags": ["high-end", "premium", "superior performance"],
+      "image": "laptops/laptops_10.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 80
+      },
+      "sales": {
+        "totalSold": 400,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "LuxuryBuyer",
+          "comment": "Top quality and performance.",
+          "rating": 5,
+          "date": "2023-07-10"
+        },
+        {
+          "user": "PowerUser",
+          "comment": "Handles everything with ease.",
+          "rating": 5,
+          "date": "2023-07-07"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "Convertible Laptop",
+      "description": "Flexible convertible laptop with touch screen and 360-degree hinge.",
+      "price": 799.99,
+      "category": "Laptops",
+      "stock": 60,
+      "tags": ["convertible", "flexible", "touch screen"],
+      "image": "laptops/laptops_11.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 750,
+        "soldThisMonth": 37
+      },
+      "reviews": [
+        {
+          "user": "VersatileUser",
+          "comment": "Very versatile and easy to use.",
+          "rating": 5,
+          "date": "2023-07-11"
+        },
+        {
+          "user": "TechFan",
+          "comment": "Great for different use cases.",
+          "rating": 4,
+          "date": "2023-07-08"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "Rugged Laptop",
+      "description": "Durable and rugged laptop designed for tough environments.",
+      "price": 1099.99,
+      "category": "Laptops",
+      "stock": 40,
+      "tags": ["rugged", "durable", "tough environments"],
+      "image": "laptops/laptops_12.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "FieldWorker",
+          "comment": "Perfect for outdoor use.",
+          "rating": 5,
+          "date": "2023-07-12"
+        },
+        {
+          "user": "Engineer",
+          "comment": "Very durable.",
+          "rating": 4,
+          "date": "2023-07-09"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "Designer Laptop",
+      "description": "Powerful laptop with high-resolution display, perfect for designers.",
+      "price": 1299.99,
+      "category": "Laptops",
+      "stock": 50,
+      "tags": ["designer", "high-resolution display", "powerful"],
+      "image": "laptops/laptops_13.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "GraphicDesigner",
+          "comment": "Amazing display and performance.",
+          "rating": 5,
+          "date": "2023-07-13"
+        },
+        {
+          "user": "Artist",
+          "comment": "Great for creative work.",
+          "rating": 5,
+          "date": "2023-07-10"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "Basic Laptop",
+      "description": "Simple and affordable laptop for everyday tasks.",
+      "price": 349.99,
+      "category": "Laptops",
+      "stock": 110,
+      "tags": ["basic", "affordable", "everyday tasks"],
+      "image": "laptops/laptops_14.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 90
+      },
+      "sales": {
+        "totalSold": 450,
+        "soldThisMonth": 22
+      },
+      "reviews": [
+        {
+          "user": "EverydayUser",
+          "comment": "Good for basic use.",
+          "rating": 4,
+          "date": "2023-07-14"
+        },
+        {
+          "user": "HomeUser",
+          "comment": "Affordable and reliable.",
+          "rating": 4,
+          "date": "2023-07-11"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "High-Performance Laptop",
+      "description": "Top-tier laptop with exceptional performance for demanding tasks.",
+      "price": 1799.99,
+      "category": "Laptops",
+      "stock": 20,
+      "tags": ["high-performance", "top-tier", "demanding tasks"],
+      "image": "laptops/laptops_15.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 80
+      },
+      "sales": {
+        "totalSold": 400,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "PowerUser",
+          "comment": "Handles everything with ease.",
+          "rating": 5,
+          "date": "2023-07-15"
+        },
+        {
+          "user": "TechExpert",
+          "comment": "Top performance and features.",
+          "rating": 5,
+          "date": "2023-07-12"
+        }
+      ]
+    }
+  },
+  "monitor": {
+    "1": {
+      "id": 1,
+      "name": "27-inch Gaming Monitor",
+      "description": "High refresh rate gaming monitor with QHD resolution and HDR support.",
+      "price": 499.99,
+      "category": "Monitors",
+      "stock": 50,
+      "tags": ["gaming", "27-inch", "QHD", "HDR"],
+      "image": "monitors/monitors_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "Gamer123",
+          "comment": "Smooth gameplay and vibrant colors.",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Great for multitasking with its large screen.",
+          "rating": 4,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "32-inch 4K Monitor",
+      "description": "Large 4K monitor with excellent color accuracy for professional use.",
+      "price": 899.99,
+      "category": "Monitors",
+      "stock": 30,
+      "tags": ["4K", "32-inch", "professional", "color accuracy"],
+      "image": "monitors/monitors_2.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "Designer789",
+          "comment": "Perfect for detailed graphic design work.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "Photographer456",
+          "comment": "Displays photos beautifully with accurate colors.",
+          "rating": 4,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "34-inch Ultrawide Monitor",
+      "description": "Curved ultrawide monitor for immersive gaming and productivity.",
+      "price": 799.99,
+      "category": "Monitors",
+      "stock": 40,
+      "tags": ["ultrawide", "34-inch", "curved", "immersive"],
+      "image": "monitors/monitors_3.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 60
+      },
+      "reviews": [
+        {
+          "user": "GamingEnthusiast789",
+          "comment": "The curved display enhances gaming experience.",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "ProductivityPro456",
+          "comment": "Great for multitasking with multiple windows open.",
+          "rating": 4,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "24-inch Office Monitor",
+      "description": "Basic office monitor with adjustable stand and energy-saving features.",
+      "price": 199.99,
+      "category": "Monitors",
+      "stock": 80,
+      "tags": ["office", "24-inch", "adjustable stand", "energy-saving"],
+      "image": "monitors/monitors_4.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 120
+      },
+      "sales": {
+        "totalSold": 600,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "OfficeWorker123",
+          "comment": "Clear display and easy on the eyes for long work hours.",
+          "rating": 4,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "RemoteWorker456",
+          "comment": "Perfect for setting up a home office workstation.",
+          "rating": 5,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "29-inch Ultrawide Monitor",
+      "description": "Compact ultrawide monitor with split-screen functionality for multitasking.",
+      "price": 349.99,
+      "category": "Monitors",
+      "stock": 60,
+      "tags": ["ultrawide", "29-inch", "split-screen", "compact"],
+      "image": "monitors/monitors_5.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "Multitasker789",
+          "comment": "Great for working on multiple projects simultaneously.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "CreativePro456",
+          "comment": "Enhances productivity with its wide screen.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "27-inch 4K HDR Monitor",
+      "description": "High-resolution monitor with HDR support for vibrant colors and sharp details.",
+      "price": 599.99,
+      "category": "Monitors",
+      "stock": 70,
+      "tags": ["4K", "27-inch", "HDR", "high-resolution"],
+      "image": "monitors/monitors_6.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 500,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "TechUser123",
+          "comment": "Perfect for watching movies in 4K HDR.",
+          "rating": 4,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "DigitalArtist456",
+          "comment": "Excellent color accuracy for digital art creation.",
+          "rating": 5,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "23-inch Gaming Monitor",
+      "description": "Entry-level gaming monitor with fast response time and Full HD resolution.",
+      "price": 279.99,
+      "category": "Monitors",
+      "stock": 20,
+      "tags": ["gaming", "23-inch", "Full HD", "fast response"],
+      "image": "monitors/monitors_7.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "Gamer456",
+          "comment": "Smooth gameplay without lag.",
+          "rating": 5,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "TechEnthusiast789",
+          "comment": "Great value for a budget gaming setup.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "25-inch Office Monitor",
+      "description": "Slim and lightweight monitor with adjustable tilt for comfortable viewing.",
+      "price": 149.99,
+      "category": "Monitors",
+      "stock": 85,
+      "tags": ["office", "25-inch", "adjustable tilt", "slim"],
+      "image": "monitors/monitors_8.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "OfficeWorker789",
+          "comment": "Perfect size for my desk at work.",
+          "rating": 5,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "RemoteWorker123",
+          "comment": "Lightweight and easy to set up.",
+          "rating": 4,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "20-inch Budget Monitor",
+      "description": "Affordable monitor with basic features for everyday computing tasks.",
+      "price": 99.99,
+      "category": "Monitors",
+      "stock": 100,
+      "tags": ["budget", "20-inch", "basic", "affordable"],
+      "image": "monitors/monitors_9.jpg",
+      "ratings": {
+        "average": 3.9,
+        "count": 90
+      },
+      "sales": {
+        "totalSold": 450,
+        "soldThisMonth": 22
+      },
+      "reviews": [
+        {
+          "user": "BudgetUser123",
+          "comment": "Gets the job done for basic tasks.",
+          "rating": 4,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "Student456",
+          "comment": "Perfect size and price for my dorm room.",
+          "rating": 4,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "28-inch 4K Gaming Monitor",
+      "description": "High refresh rate gaming monitor with 4K resolution for immersive gaming.",
+      "price": 699.99,
+      "category": "Monitors",
+      "stock": 60,
+      "tags": ["gaming", "28-inch", "4K", "high refresh rate"],
+      "image": "monitors/monitors_10.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 42
+      },
+      "reviews": [
+        {
+          "user": "Gamer789",
+          "comment": "Smooth gameplay with excellent graphics.",
+          "rating": 5,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "TechEnthusiast123",
+          "comment": "Impressive color accuracy and detail in 4K.",
+          "rating": 4,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "30-inch 8K Professional Monitor",
+      "description": "High-resolution monitor with 8K display for professional photo and video editing.",
+      "price": 1999.99,
+      "category": "Monitors",
+      "stock": 25,
+      "tags": [
+        "professional",
+        "30-inch",
+        "8K",
+        "photo editing",
+        "video editing"
+      ],
+      "image": "monitors/monitors_11.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 220
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 55
+      },
+      "reviews": [
+        {
+          "user": "CreativePro123",
+          "comment": "Unmatched clarity and color accuracy for editing.",
+          "rating": 5,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "Photographer789",
+          "comment": "Ideal for detailed photo editing work.",
+          "rating": 4,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "22-inch Touchscreen Monitor",
+      "description": "Interactive touchscreen monitor for presentations and interactive displays.",
+      "price": 399.99,
+      "category": "Monitors",
+      "stock": 35,
+      "tags": ["touchscreen", "22-inch", "interactive", "presentations"],
+      "image": "monitors/monitors_12.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "Presenter456",
+          "comment": "Easy to use and enhances audience engagement.",
+          "rating": 5,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "Educator789",
+          "comment": "Great for teaching with interactive lessons.",
+          "rating": 4,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "21-inch Privacy Monitor",
+      "description": "Privacy-focused monitor with built-in privacy filter for secure viewing.",
+      "price": 299.99,
+      "category": "Monitors",
+      "stock": 15,
+      "tags": ["privacy", "21-inch", "privacy filter", "secure viewing"],
+      "image": "monitors/monitors_13.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "PrivacyUser123",
+          "comment": "Great for confidential work and sensitive documents.",
+          "rating": 4,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "BusinessPro456",
+          "comment": "Protects client information during meetings.",
+          "rating": 4,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "25-inch Curved Gaming Monitor",
+      "description": "Curved gaming monitor with fast refresh rate and AMD FreeSync technology.",
+      "price": 449.99,
+      "category": "Monitors",
+      "stock": 85,
+      "tags": ["gaming", "25-inch", "curved", "AMD FreeSync"],
+      "image": "monitors/monitors_14.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "Gamer789",
+          "comment": "Immersive gaming experience with the curved display.",
+          "rating": 5,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "TechEnthusiast123",
+          "comment": "Smooth gameplay without screen tearing.",
+          "rating": 4,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "23-inch Business Monitor",
+      "description": "Business-focused monitor with ergonomic stand and blue light filter.",
+      "price": 249.99,
+      "category": "Monitors",
+      "stock": 75,
+      "tags": ["business", "23-inch", "ergonomic", "blue light filter"],
+      "image": "monitors/monitors_15.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 42
+      },
+      "reviews": [
+        {
+          "user": "BusinessUser123",
+          "comment": "Helps reduce eye strain during long work hours.",
+          "rating": 5,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "OfficeWorker789",
+          "comment": "Clear display and adjustable height for comfortable viewing.",
+          "rating": 4,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  },
+  "cameras": {
+    "1": {
+      "id": 1,
+      "name": "Digital SLR Camera",
+      "description": "High-resolution DSLR camera with advanced features for professional photography.",
+      "price": 899.99,
+      "category": "Cameras",
+      "stock": 50,
+      "tags": ["DSLR", "high-resolution", "professional"],
+      "image": "cameras/cameras_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "PhotoPro",
+          "comment": "Excellent image quality.",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "CameraEnthusiast",
+          "comment": "Great performance in low light.",
+          "rating": 4,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "Mirrorless Camera",
+      "description": "Compact mirrorless camera with 4K video recording and fast autofocus.",
+      "price": 1299.99,
+      "category": "Cameras",
+      "stock": 30,
+      "tags": ["mirrorless", "4K video", "compact"],
+      "image": "cameras/cameras_2.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "TravelPhotog",
+          "comment": "Perfect for travel photography.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "Vlogger123",
+          "comment": "Great for vlogging with its flip screen.",
+          "rating": 4,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "Action Camera",
+      "description": "Waterproof action camera with 4K video and image stabilization.",
+      "price": 299.99,
+      "category": "Cameras",
+      "stock": 100,
+      "tags": ["action camera", "waterproof", "4K video"],
+      "image": "cameras/cameras_3.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 60
+      },
+      "reviews": [
+        {
+          "user": "OutdoorAdventurer",
+          "comment": "Survived a dive in 30 meters deep water!",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "ExtremeSportsFan",
+          "comment": "Awesome stabilization for my biking videos.",
+          "rating": 4,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "Compact Digital Camera",
+      "description": "Slim and lightweight digital camera with 20MP sensor and HD video recording.",
+      "price": 199.99,
+      "category": "Cameras",
+      "stock": 80,
+      "tags": ["compact camera", "HD video", "lightweight"],
+      "image": "cameras/cameras_4.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 120
+      },
+      "sales": {
+        "totalSold": 600,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "CasualUser123",
+          "comment": "Easy to carry around and takes good photos.",
+          "rating": 4,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "PhotoNewbie",
+          "comment": "My first camera and I love it!",
+          "rating": 5,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Bridge Camera",
+      "description": "Versatile bridge camera with powerful zoom and advanced shooting modes.",
+      "price": 449.99,
+      "category": "Cameras",
+      "stock": 60,
+      "tags": ["bridge camera", "powerful zoom", "versatile"],
+      "image": "cameras/cameras_5.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "Traveler456",
+          "comment": "Zoom capability is amazing for wildlife photography.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "HobbyistPhotog",
+          "comment": "Great camera for learning photography.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "Instant Print Camera",
+      "description": "Instant film camera for nostalgic prints with modern features like auto exposure.",
+      "price": 129.99,
+      "category": "Cameras",
+      "stock": 40,
+      "tags": ["instant camera", "film", "nostalgic"],
+      "image": "cameras/cameras_6.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 500,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "NostalgiaFan",
+          "comment": "Brings back memories of my childhood.",
+          "rating": 5,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "PhotogEnthusiast",
+          "comment": "Fun to use at parties for instant photos.",
+          "rating": 3,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "360-Degree Camera",
+      "description": "Capture immersive 360-degree videos and photos with this compact camera.",
+      "price": 599.99,
+      "category": "Cameras",
+      "stock": 20,
+      "tags": ["360-degree camera", "immersive", "compact"],
+      "image": "cameras/cameras_7.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "VRUser567",
+          "comment": "Amazing for creating VR content.",
+          "rating": 5,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "TechGuru",
+          "comment": "Great tool for showcasing real estate properties.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "Underwater Camera",
+      "description": "Dive into underwater photography with this waterproof and rugged camera.",
+      "price": 379.99,
+      "category": "Cameras",
+      "stock": 70,
+      "tags": ["underwater camera", "waterproof", "rugged"],
+      "image": "cameras/cameras_8.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 42
+      },
+      "reviews": [
+        {
+          "user": "Diver123",
+          "comment": "Took amazing shots during my last dive!",
+          "rating": 5,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "OutdoorPhotog",
+          "comment": "Handles tough outdoor conditions well.",
+          "rating": 4,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "Film SLR Camera",
+      "description": "Classic film SLR camera with manual controls for photography enthusiasts.",
+      "price": 299.99,
+      "category": "Cameras",
+      "stock": 90,
+      "tags": ["film camera", "SLR", "manual controls"],
+      "image": "cameras/cameras_9.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 130
+      },
+      "sales": {
+        "totalSold": 650,
+        "soldThisMonth": 32
+      },
+      "reviews": [
+        {
+          "user": "FilmEnthusiast",
+          "comment": "Love the process of shooting on film.",
+          "rating": 4,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "OldSchoolPhotog",
+          "comment": "Brings back the joy of using manual cameras.",
+          "rating": 3,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "Professional Video Camera",
+      "description": "High-performance video camera for filmmakers and content creators.",
+      "price": 1999.99,
+      "category": "Cameras",
+      "stock": 25,
+      "tags": ["video camera", "professional", "filmmaking"],
+      "image": "cameras/cameras_10.jpg",
+      "ratings": {
+        "average": 4.9,
+        "count": 220
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 55
+      },
+      "reviews": [
+        {
+          "user": "Filmmaker567",
+          "comment": "Top-notch quality for my film projects.",
+          "rating": 5,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "ContentCreator123",
+          "comment": "Captures every detail beautifully.",
+          "rating": 4,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "Drone Camera",
+      "description": "Compact drone camera with 4K video and GPS for aerial photography and videography.",
+      "price": 1499.99,
+      "category": "Cameras",
+      "stock": 35,
+      "tags": ["drone camera", "4K video", "GPS"],
+      "image": "cameras/cameras_11.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 190
+      },
+      "sales": {
+        "totalSold": 950,
+        "soldThisMonth": 47
+      },
+      "reviews": [
+        {
+          "user": "AerialPhotog",
+          "comment": "Stunning aerial views with this drone!",
+          "rating": 5,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "DroneEnthusiast",
+          "comment": "Easy to fly and captures stable videos.",
+          "rating": 4,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "VR Camera",
+      "description": "Virtual reality camera for capturing 360-degree videos and immersive experiences.",
+      "price": 899.99,
+      "category": "Cameras",
+      "stock": 15,
+      "tags": ["VR camera", "360-degree videos", "immersive"],
+      "image": "cameras/cameras_12.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "VRUser123",
+          "comment": "Makes VR experiences come to life!",
+          "rating": 5,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "TechGuru456",
+          "comment": "Great tool for virtual tours of real estate properties.",
+          "rating": 4,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "Webcam",
+      "description": "HD webcam for video conferencing and streaming with built-in microphone.",
+      "price": 79.99,
+      "category": "Cameras",
+      "stock": 120,
+      "tags": ["webcam", "HD", "video conferencing"],
+      "image": "cameras/cameras_13.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "RemoteWorker789",
+          "comment": "Crystal clear video quality for my remote meetings.",
+          "rating": 5,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "Streamer456",
+          "comment": "Perfect for streaming gameplay with friends.",
+          "rating": 4,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "Security Camera",
+      "description": "Outdoor security camera with night vision and motion detection.",
+      "price": 149.99,
+      "category": "Cameras",
+      "stock": 85,
+      "tags": ["security camera", "night vision", "motion detection"],
+      "image": "cameras/cameras_14.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "HomeOwner123",
+          "comment": "Keeps my home secure day and night.",
+          "rating": 5,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "SecurityExpert456",
+          "comment": "Easy setup and reliable performance.",
+          "rating": 4,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "Trail Camera",
+      "description": "Outdoor trail camera with wildlife detection and infrared night vision.",
+      "price": 199.99,
+      "category": "Cameras",
+      "stock": 75,
+      "tags": ["trail camera", "wildlife detection", "infrared night vision"],
+      "image": "cameras/cameras_15.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 42
+      },
+      "reviews": [
+        {
+          "user": "NatureExplorer789",
+          "comment": "Captures amazing wildlife shots.",
+          "rating": 5,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "OutdoorPhotographer123",
+          "comment": "Excellent for monitoring wildlife activity.",
+          "rating": 4,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  },
+  "printers": {
+    "1": {
+      "id": 1,
+      "name": "Wireless All-in-One Printer",
+      "description": "Compact printer with wireless connectivity for home and small office use.",
+      "price": 129.99,
+      "category": "Printers",
+      "stock": 50,
+      "tags": ["wireless", "all-in-one", "compact"],
+      "image": "printers/printers_1.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "HomeUser123",
+          "comment": "Easy to set up and great for printing from multiple devices.",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "SmallBusiness456",
+          "comment": "Reliable for everyday printing tasks in our office.",
+          "rating": 4,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "Color Laser Printer",
+      "description": "High-speed color laser printer for sharp and vibrant prints.",
+      "price": 399.99,
+      "category": "Printers",
+      "stock": 30,
+      "tags": ["color laser", "high-speed", "office"],
+      "image": "printers/printers_2.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "Designer789",
+          "comment": "Produces professional-quality prints for our design projects.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "OfficeManager456",
+          "comment": "Fast printing speed and clear text output.",
+          "rating": 4,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "Photo Printer",
+      "description": "Specialized printer for high-quality photo printing at home.",
+      "price": 299.99,
+      "category": "Printers",
+      "stock": 40,
+      "tags": ["photo", "home", "specialized"],
+      "image": "printers/printers_3.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 60
+      },
+      "reviews": [
+        {
+          "user": "PhotoEnthusiast789",
+          "comment": "Produces lifelike photos with vibrant colors.",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "HomeUser456",
+          "comment": "Great for printing family photos and memories.",
+          "rating": 4,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "Inkjet Printer",
+      "description": "Affordable inkjet printer for everyday printing needs.",
+      "price": 79.99,
+      "category": "Printers",
+      "stock": 80,
+      "tags": ["inkjet", "affordable", "everyday"],
+      "image": "printers/printers_4.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 120
+      },
+      "sales": {
+        "totalSold": 600,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "BudgetUser123",
+          "comment": "Good value for money and easy to use.",
+          "rating": 4,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "Student456",
+          "comment": "Perfect for printing school assignments.",
+          "rating": 4,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Label Printer",
+      "description": "Compact label printer for organizing home and office supplies.",
+      "price": 149.99,
+      "category": "Printers",
+      "stock": 60,
+      "tags": ["label", "compact", "organization"],
+      "image": "printers/printers_5.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "Organizer789",
+          "comment": "Helps keep our office supplies neatly labeled.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "HomeOfficeUser456",
+          "comment": "Easy to use for printing address labels and stickers.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "Wireless Laser Printer",
+      "description": "Fast and reliable laser printer with wireless connectivity.",
+      "price": 249.99,
+      "category": "Printers",
+      "stock": 70,
+      "tags": ["wireless", "laser", "fast", "reliable"],
+      "image": "printers/printers_6.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 500,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "TechUser123",
+          "comment": "Highly efficient for our small business printing needs.",
+          "rating": 4,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "OfficeManager789",
+          "comment": "Clear and crisp prints with every use.",
+          "rating": 5,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "Office Inkjet Printer",
+      "description": "Durable inkjet printer for high-volume printing in office environments.",
+      "price": 199.99,
+      "category": "Printers",
+      "stock": 20,
+      "tags": ["office", "inkjet", "high-volume", "durable"],
+      "image": "printers/printers_7.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "OfficeManager456",
+          "comment": "Handles large print jobs efficiently.",
+          "rating": 5,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "BusinessUser789",
+          "comment": "Reliable printer for our busy office.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "Portable Photo Printer",
+      "description": "Compact printer for printing photos on the go.",
+      "price": 199.99,
+      "category": "Printers",
+      "stock": 85,
+      "tags": ["portable", "photo", "compact"],
+      "image": "printers/printers_8.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "Photographer123",
+          "comment": "Produces high-quality photos anywhere I travel.",
+          "rating": 5,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "Traveler456",
+          "comment": "Perfect for printing vacation photos on the spot.",
+          "rating": 4,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "Large Format Printer",
+      "description": "Wide-format printer for printing posters, banners, and large graphics.",
+      "price": 1499.99,
+      "category": "Printers",
+      "stock": 100,
+      "tags": ["large format", "wide-format", "posters", "banners"],
+      "image": "printers/printers_9.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "Designer789",
+          "comment": "Excellent for producing high-resolution posters.",
+          "rating": 5,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "Artist123",
+          "comment": "Great for printing large-scale artworks.",
+          "rating": 4,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "Duplex Office Printer",
+      "description": "Duplex printer for automatic double-sided printing in office environments.",
+      "price": 299.99,
+      "category": "Printers",
+      "stock": 60,
+      "tags": ["duplex", "office", "automatic", "double-sided"],
+      "image": "printers/printers_10.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "OfficeManager123",
+          "comment": "Saves paper and time with duplex printing.",
+          "rating": 5,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "BusinessUser456",
+          "comment": "Efficient for our office document printing needs.",
+          "rating": 4,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "Color Office Printer",
+      "description": "High-capacity color printer for demanding office printing tasks.",
+      "price": 499.99,
+      "category": "Printers",
+      "stock": 25,
+      "tags": ["color", "office", "high-capacity"],
+      "image": "printers/printers_11.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 42
+      },
+      "reviews": [
+        {
+          "user": "OfficeManager789",
+          "comment": "Handles large print jobs with vibrant color output.",
+          "rating": 5,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "BusinessPro123",
+          "comment": "Reliable printer for our design studio's color printing needs.",
+          "rating": 4,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "Multifunction Inkjet Printer",
+      "description": "Versatile inkjet printer with scanning and copying capabilities.",
+      "price": 149.99,
+      "category": "Printers",
+      "stock": 35,
+      "tags": ["multifunction", "inkjet", "versatile"],
+      "image": "printers/printers_12.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "HomeOfficeUser123",
+          "comment": "Great for home office use with scanning and copying features.",
+          "rating": 4,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "SmallBusiness456",
+          "comment": "Compact and efficient printer for our small business needs.",
+          "rating": 4,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "Portable Label Printer",
+      "description": "Handheld label printer for on-the-go labeling tasks.",
+      "price": 99.99,
+      "category": "Printers",
+      "stock": 15,
+      "tags": ["portable", "label", "handheld"],
+      "image": "printers/printers_13.jpg",
+      "ratings": {
+        "average": 3.9,
+        "count": 90
+      },
+      "sales": {
+        "totalSold": 450,
+        "soldThisMonth": 22
+      },
+      "reviews": [
+        {
+          "user": "LabelUser123",
+          "comment": "Convenient for labeling items quickly and accurately.",
+          "rating": 4,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "Organization456",
+          "comment": "Helps keep our warehouse inventory organized.",
+          "rating": 4,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "Professional Photo Printer",
+      "description": "High-end printer for professional photographers with precise color control.",
+      "price": 799.99,
+      "category": "Printers",
+      "stock": 85,
+      "tags": ["professional", "photo", "high-end"],
+      "image": "printers/printers_14.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "Photographer789",
+          "comment": "Produces gallery-quality prints with accurate colors.",
+          "rating": 5,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "Studio123",
+          "comment": "Essential for our photography studio's printing needs.",
+          "rating": 4,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "Compact Document Scanner",
+      "description": "Portable scanner for digitizing documents and receipts.",
+      "price": 149.99,
+      "category": "Printers",
+      "stock": 75,
+      "tags": ["compact", "document scanner", "portable"],
+      "image": "printers/printers_15.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 42
+      },
+      "reviews": [
+        {
+          "user": "DocumentUser123",
+          "comment": "Efficient for scanning business documents on the go.",
+          "rating": 5,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "BusinessTraveler789",
+          "comment": "Helps keep my travel documents organized.",
+          "rating": 4,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  },
+  "routers": {
+    "1": {
+      "id": 1,
+      "name": "Dual-Band Wi-Fi Router",
+      "description": "High-performance router for seamless internet connectivity.",
+      "price": 99.99,
+      "category": "Routers",
+      "stock": 50,
+      "tags": ["dual-band", "Wi-Fi", "high-performance"],
+      "image": "routers/routers_1.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "HomeUser123",
+          "comment": "Excellent coverage and stable connection throughout our home.",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Easy setup and reliable performance.",
+          "rating": 4,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "Mesh Wi-Fi System",
+      "description": "Whole home mesh Wi-Fi system for eliminating dead zones.",
+      "price": 199.99,
+      "category": "Routers",
+      "stock": 30,
+      "tags": ["mesh", "whole home", "eliminate dead zones"],
+      "image": "routers/routers_2.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "Homeowner789",
+          "comment": "Great coverage and easy to expand with additional nodes.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "LargeFamily456",
+          "comment": "Improved internet speed and connectivity across multiple devices.",
+          "rating": 4,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "Gigabit Ethernet Router",
+      "description": "Router with gigabit Ethernet ports for fast wired connections.",
+      "price": 149.99,
+      "category": "Routers",
+      "stock": 40,
+      "tags": ["gigabit", "Ethernet", "fast wired connections"],
+      "image": "routers/routers_3.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 1200,
+        "soldThisMonth": 60
+      },
+      "reviews": [
+        {
+          "user": "TechUser789",
+          "comment": "Reliable performance with multiple wired devices connected.",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "OfficeUser456",
+          "comment": "Handles our office network needs efficiently.",
+          "rating": 4,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "Tri-Band Gaming Router",
+      "description": "Router optimized for low latency and high-speed gaming.",
+      "price": 299.99,
+      "category": "Routers",
+      "stock": 80,
+      "tags": ["tri-band", "gaming", "low latency"],
+      "image": "routers/routers_4.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 120
+      },
+      "sales": {
+        "totalSold": 600,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "Gamer123",
+          "comment": "Great router for reducing lag in online games.",
+          "rating": 4,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "TechGuru456",
+          "comment": "Advanced features for optimizing gaming performance.",
+          "rating": 4,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Dual-WAN Router",
+      "description": "Router with dual WAN ports for reliable internet failover.",
+      "price": 199.99,
+      "category": "Routers",
+      "stock": 60,
+      "tags": ["dual-WAN", "internet failover", "reliable"],
+      "image": "routers/routers_5.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "ITProfessional123",
+          "comment": "Ensures our network stays up even if one ISP connection fails.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "SmallBusiness456",
+          "comment": "Reliable router for our small business internet needs.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "Parental Control Router",
+      "description": "Router with built-in parental controls for managing internet access.",
+      "price": 129.99,
+      "category": "Routers",
+      "stock": 70,
+      "tags": ["parental controls", "family", "internet management"],
+      "image": "routers/routers_6.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 500,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "Parent123",
+          "comment": "Helps keep my children safe online with easy-to-use controls.",
+          "rating": 4,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "TechSavvy456",
+          "comment": "Effective filtering and scheduling features.",
+          "rating": 4,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "Outdoor Wireless Router",
+      "description": "Weatherproof wireless router for outdoor installations.",
+      "price": 149.99,
+      "category": "Routers",
+      "stock": 20,
+      "tags": ["outdoor", "wireless", "weatherproof"],
+      "image": "routers/routers_7.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "OutdoorEnthusiast123",
+          "comment": "Provides strong Wi-Fi signal in our outdoor area.",
+          "rating": 5,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "Gardener456",
+          "comment": "Reliable connection for outdoor smart devices.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "Business VPN Router",
+      "description": "Router with built-in VPN for secure remote access and office connectivity.",
+      "price": 299.99,
+      "category": "Routers",
+      "stock": 85,
+      "tags": ["business", "VPN", "secure", "remote access"],
+      "image": "routers/routers_8.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "BusinessOwner123",
+          "comment": "Essential for secure remote access to our office network.",
+          "rating": 5,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "ITManager456",
+          "comment": "Reliable and easy to set up VPN connectivity.",
+          "rating": 4,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "4G LTE Router",
+      "description": "Router with 4G LTE support for mobile broadband internet.",
+      "price": 199.99,
+      "category": "Routers",
+      "stock": 100,
+      "tags": ["4G LTE", "mobile broadband", "internet"],
+      "image": "routers/routers_9.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "MobileUser123",
+          "comment": "Fast and reliable internet access wherever I go.",
+          "rating": 4,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "Traveler456",
+          "comment": "Great for staying connected on the road.",
+          "rating": 4,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "High-Speed Home Router",
+      "description": "Router optimized for high-speed home internet connections.",
+      "price": 129.99,
+      "category": "Routers",
+      "stock": 75,
+      "tags": ["high-speed", "home", "internet"],
+      "image": "routers/routers_10.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 42
+      },
+      "reviews": [
+        {
+          "user": "Homeowner123",
+          "comment": "Improves streaming and gaming performance at home.",
+          "rating": 5,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "TechUser456",
+          "comment": "Reliable router for our home network.",
+          "rating": 4,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "Enterprise Router",
+      "description": "Scalable router solution for large-scale enterprise networks.",
+      "price": 499.99,
+      "category": "Routers",
+      "stock": 25,
+      "tags": ["enterprise", "scalable", "large-scale"],
+      "image": "routers/routers_11.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 190
+      },
+      "sales": {
+        "totalSold": 950,
+        "soldThisMonth": 47
+      },
+      "reviews": [
+        {
+          "user": "ITDirector123",
+          "comment": "Handles our complex network infrastructure with ease.",
+          "rating": 5,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "NetworkAdmin456",
+          "comment": "Reliable and scalable router solution for our enterprise needs.",
+          "rating": 4,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "Outdoor Mesh Router",
+      "description": "Mesh router designed for outdoor Wi-Fi coverage.",
+      "price": 199.99,
+      "category": "Routers",
+      "stock": 50,
+      "tags": ["outdoor", "mesh", "Wi-Fi coverage"],
+      "image": "routers/routers_12.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 750,
+        "soldThisMonth": 38
+      },
+      "reviews": [
+        {
+          "user": "OutdoorEnthusiast123",
+          "comment": "Strong and reliable outdoor Wi-Fi signal.",
+          "rating": 5,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "TechReviewer456",
+          "comment": "Excellent coverage for our outdoor area.",
+          "rating": 4,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "Compact Travel Router",
+      "description": "Portable router for secure internet access while traveling.",
+      "price": 79.99,
+      "category": "Routers",
+      "stock": 40,
+      "tags": ["compact", "travel", "secure internet access"],
+      "image": "routers/routers_13.jpg",
+      "ratings": {
+        "average": 3.9,
+        "count": 90
+      },
+      "sales": {
+        "totalSold": 450,
+        "soldThisMonth": 22
+      },
+      "reviews": [
+        {
+          "user": "Traveler123",
+          "comment": "Great for ensuring secure connections in hotels and airports.",
+          "rating": 4,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "RemoteWorker456",
+          "comment": "Reliable performance for remote work on the go.",
+          "rating": 4,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "Smart Home Router",
+      "description": "Router integrated with smart home features for automation.",
+      "price": 149.99,
+      "category": "Routers",
+      "stock": 60,
+      "tags": ["smart home", "automation", "integration"],
+      "image": "routers/routers_14.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "SmartHomeUser123",
+          "comment": "Easy integration with our smart home devices.",
+          "rating": 5,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Improves our home automation system with reliable Wi-Fi.",
+          "rating": 4,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "Wireless AC Router",
+      "description": "Router with Wireless AC technology for fast Wi-Fi speeds.",
+      "price": 129.99,
+      "category": "Routers",
+      "stock": 70,
+      "tags": ["Wireless AC", "fast Wi-Fi speeds"],
+      "image": "routers/routers_15.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 42
+      },
+      "reviews": [
+        {
+          "user": "TechUser123",
+          "comment": "Provides excellent coverage and speed for our home network.",
+          "rating": 5,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "Homeowner456",
+          "comment": "Reliable Wi-Fi router with good range and performance.",
+          "rating": 4,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  },
+  "smart_home_devices": {
+    "1": {
+      "id": 1,
+      "name": "Smart Thermostat",
+      "description": "Programmable thermostat that learns your schedule and adjusts temperatures automatically.",
+      "price": 199.99,
+      "category": "Smart Home Devices",
+      "stock": 50,
+      "tags": ["thermostat", "smart", "energy saving"],
+      "image": "smart_home_devices/smart+home+devices_1.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 200
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "HomeOwner123",
+          "comment": "Easy to use and saves on our energy bills.",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Great for controlling home temperature remotely.",
+          "rating": 4,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "Smart Lighting System",
+      "description": "Adjustable lighting system that can be controlled via smartphone or voice assistant.",
+      "price": 149.99,
+      "category": "Smart Home Devices",
+      "stock": 40,
+      "tags": ["lighting", "smart", "voice control"],
+      "image": "smart_home_devices/smart+home+devices_2.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 180
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "HomeOwner789",
+          "comment": "Love the ambiance control and energy efficiency.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "TechSavvy456",
+          "comment": "Easy setup and integrates well with our smart home ecosystem.",
+          "rating": 4,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "Smart Security Camera",
+      "description": "High-definition security camera with motion detection and night vision.",
+      "price": 249.99,
+      "category": "Smart Home Devices",
+      "stock": 30,
+      "tags": ["security", "camera", "motion detection"],
+      "image": "smart_home_devices/smart+home+devices_3.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 220
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 55
+      },
+      "reviews": [
+        {
+          "user": "SecurityEnthusiast123",
+          "comment": "Clear video quality and reliable motion detection.",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "HomeOwner456",
+          "comment": "Provides peace of mind with its surveillance capabilities.",
+          "rating": 4,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "Smart Speaker",
+      "description": "Voice-controlled speaker with virtual assistant integration for music, news, and more.",
+      "price": 129.99,
+      "category": "Smart Home Devices",
+      "stock": 60,
+      "tags": ["speaker", "voice control", "virtual assistant"],
+      "image": "smart_home_devices/smart+home+devices_4.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "MusicLover123",
+          "comment": "Great sound quality and useful for home automation.",
+          "rating": 4,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "TechFan456",
+          "comment": "Integrates well with other smart devices in our home.",
+          "rating": 4,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Smart Doorbell",
+      "description": "Video doorbell with two-way audio and motion detection for home security.",
+      "price": 179.99,
+      "category": "Smart Home Devices",
+      "stock": 45,
+      "tags": ["doorbell", "video", "security"],
+      "image": "smart_home_devices/smart+home+devices_5.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 42
+      },
+      "reviews": [
+        {
+          "user": "HomeOwner123",
+          "comment": "Convenient and adds an extra layer of security to our home.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "SecurityConscious456",
+          "comment": "Clear video and reliable motion alerts.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "Smart Lock",
+      "description": "Keyless entry system with remote access and activity logs.",
+      "price": 199.99,
+      "category": "Smart Home Devices",
+      "stock": 35,
+      "tags": ["lock", "keyless entry", "remote access"],
+      "image": "smart_home_devices/smart+home+devices_6.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "HomeOwner789",
+          "comment": "Convenient and secure way to manage access to our home.",
+          "rating": 4,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "SecurityExpert456",
+          "comment": "Reliable performance and easy to install.",
+          "rating": 4,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "Smart Plug",
+      "description": "Remote-controlled plug for scheduling and monitoring connected devices.",
+      "price": 39.99,
+      "category": "Smart Home Devices",
+      "stock": 80,
+      "tags": ["plug", "remote control", "scheduling"],
+      "image": "smart_home_devices/smart+home+devices_7.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 130
+      },
+      "sales": {
+        "totalSold": 650,
+        "soldThisMonth": 32
+      },
+      "reviews": [
+        {
+          "user": "TechEnthusiast123",
+          "comment": "Useful for controlling devices remotely and saving energy.",
+          "rating": 4,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "HomeAutomation456",
+          "comment": "Easy setup and integrates well with our smart home system.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "Smart Camera System",
+      "description": "Comprehensive camera system with multiple cameras for indoor and outdoor surveillance.",
+      "price": 299.99,
+      "category": "Smart Home Devices",
+      "stock": 25,
+      "tags": ["camera system", "surveillance", "indoor", "outdoor"],
+      "image": "smart_home_devices/smart+home+devices_8.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 190
+      },
+      "sales": {
+        "totalSold": 950,
+        "soldThisMonth": 47
+      },
+      "reviews": [
+        {
+          "user": "SecurityExpert123",
+          "comment": "Excellent video quality and coverage for our property.",
+          "rating": 5,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "HomeOwner456",
+          "comment": "Easy to monitor our home with these cameras.",
+          "rating": 4,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "Smart Smoke Detector",
+      "description": "Connected smoke detector with smartphone alerts and battery monitoring.",
+      "price": 79.99,
+      "category": "Smart Home Devices",
+      "stock": 60,
+      "tags": ["smoke detector", "connected", "safety"],
+      "image": "smart_home_devices/smart+home+devices_9.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "HomeSafety123",
+          "comment": "Provides peace of mind knowing we'll be alerted to smoke.",
+          "rating": 4,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "SafetyConscious456",
+          "comment": "Easy to install and works well with our smart home setup.",
+          "rating": 4,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "Smart Kitchen Appliance",
+      "description": "WiFi-enabled kitchen appliance for remote control and monitoring.",
+      "price": 199.99,
+      "category": "Smart Home Devices",
+      "stock": 75,
+      "tags": ["kitchen", "appliance", "WiFi-enabled"],
+      "image": "smart_home_devices/smart+home+devices_10.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 42
+      },
+      "reviews": [
+        {
+          "user": "HomeChef123",
+          "comment": "Convenient for controlling cooking remotely.",
+          "rating": 5,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Great addition to our smart kitchen setup.",
+          "rating": 4,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "Smart Mirror",
+      "description": "Interactive mirror with built-in display for weather, news, and personal notifications.",
+      "price": 299.99,
+      "category": "Smart Home Devices",
+      "stock": 25,
+      "tags": ["mirror", "interactive", "display"],
+      "image": "smart_home_devices/smart+home+devices_11.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 190
+      },
+      "sales": {
+        "totalSold": 950,
+        "soldThisMonth": 47
+      },
+      "reviews": [
+        {
+          "user": "TechEnthusiast123",
+          "comment": "Useful for daily updates and checking my schedule.",
+          "rating": 5,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "HomeOwner456",
+          "comment": "Innovative product with practical uses.",
+          "rating": 4,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "Smart Pet Feeder",
+      "description": "Automated pet feeder with portion control and scheduling via smartphone.",
+      "price": 129.99,
+      "category": "Smart Home Devices",
+      "stock": 50,
+      "tags": ["pet feeder", "automated", "portion control"],
+      "image": "smart_home_devices/smart+home+devices_12.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 750,
+        "soldThisMonth": 38
+      },
+      "reviews": [
+        {
+          "user": "PetOwner123",
+          "comment": "Convenient for feeding our pet on schedule.",
+          "rating": 5,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "TechSavvy456",
+          "comment": "Easy to use and keeps our pet fed when we're not home.",
+          "rating": 4,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "Smart Vacuum Cleaner",
+      "description": "Robotic vacuum cleaner with mapping technology for efficient cleaning.",
+      "price": 299.99,
+      "category": "Smart Home Devices",
+      "stock": 30,
+      "tags": ["vacuum cleaner", "robotic", "mapping technology"],
+      "image": "smart_home_devices/smart+home+devices_13.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 220
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 55
+      },
+      "reviews": [
+        {
+          "user": "CleanFreak123",
+          "comment": "Cleans efficiently and saves time on house chores.",
+          "rating": 5,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "HomeOwner456",
+          "comment": "Great for keeping our floors clean with minimal effort.",
+          "rating": 4,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "Smart Garden System",
+      "description": "Automated garden watering system with weather forecasting and soil monitoring.",
+      "price": 199.99,
+      "category": "Smart Home Devices",
+      "stock": 35,
+      "tags": ["garden", "automated", "watering system"],
+      "image": "smart_home_devices/smart+home+devices_14.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "GardeningEnthusiast123",
+          "comment": "Helps maintain our garden with precise watering.",
+          "rating": 4,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "TechGardener456",
+          "comment": "Integrates well with our smart home setup and keeps our plants healthy.",
+          "rating": 4,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "Smart Air Purifier",
+      "description": "Air purifier with smart sensors for monitoring air quality and automatic adjustments.",
+      "price": 179.99,
+      "category": "Smart Home Devices",
+      "stock": 40,
+      "tags": ["air purifier", "smart sensors", "air quality"],
+      "image": "smart_home_devices/smart+home+devices_15.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 170
+      },
+      "sales": {
+        "totalSold": 850,
+        "soldThisMonth": 42
+      },
+      "reviews": [
+        {
+          "user": "CleanAir123",
+          "comment": "Improves air quality noticeably and runs quietly.",
+          "rating": 5,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "HealthConscious456",
+          "comment": "Helps reduce allergens and keeps our indoor air clean.",
+          "rating": 4,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  },
+  "smartphones": {
+    "1": {
+      "id": 1,
+      "name": "Galaxy S22 Ultra",
+      "description": "Samsung's flagship smartphone with a powerful camera system and vibrant display.",
+      "price": 1299.99,
+      "category": "Smartphones",
+      "stock": 50,
+      "tags": ["Samsung", "flagship", "Android", "camera"],
+      "image": "smartphones/smartphones_1.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "TechEnthusiast123",
+          "comment": "Excellent camera quality and performance.",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "MobileGuru456",
+          "comment": "Smooth experience with great battery life.",
+          "rating": 4,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "iPhone 14 Pro Max",
+      "description": "Apple's latest iPhone model with advanced features and iOS integration.",
+      "price": 1399.99,
+      "category": "Smartphones",
+      "stock": 40,
+      "tags": ["Apple", "iPhone", "iOS", "camera"],
+      "image": "smartphones/smartphones_2.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 160
+      },
+      "sales": {
+        "totalSold": 1100,
+        "soldThisMonth": 55
+      },
+      "reviews": [
+        {
+          "user": "AppleFan123",
+          "comment": "Great build quality and performance.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "TechSavvy456",
+          "comment": "iOS experience is unmatched.",
+          "rating": 5,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "Google Pixel 7 Pro",
+      "description": "Google's flagship phone known for its exceptional camera and pure Android experience.",
+      "price": 1099.99,
+      "category": "Smartphones",
+      "stock": 30,
+      "tags": ["Google", "Pixel", "Android", "camera"],
+      "image": "smartphones/smartphones_3.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "PixelEnthusiast123",
+          "comment": "Best Android camera experience.",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "AndroidFan456",
+          "comment": "Smooth performance and regular software updates.",
+          "rating": 4,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "OnePlus 10 Pro",
+      "description": "OnePlus's flagship offering with fast performance and OxygenOS features.",
+      "price": 1099.99,
+      "category": "Smartphones",
+      "stock": 35,
+      "tags": ["OnePlus", "flagship", "Android", "performance"],
+      "image": "smartphones/smartphones_4.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 130
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "OnePlusFan123",
+          "comment": "Smooth experience with impressive battery life.",
+          "rating": 5,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "TechGeek456",
+          "comment": "OxygenOS is fantastic for customization.",
+          "rating": 4,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Xiaomi Mi 12 Ultra",
+      "description": "Xiaomi's flagship smartphone with a focus on photography and performance.",
+      "price": 1199.99,
+      "category": "Smartphones",
+      "stock": 25,
+      "tags": ["Xiaomi", "flagship", "Android", "camera"],
+      "image": "smartphones/smartphones_5.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 120
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "XiaomiFan123",
+          "comment": "Impressive camera capabilities and MIUI features.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Great value for money with flagship specs.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "Sony Xperia 5 III",
+      "description": "Sony's compact flagship phone with a focus on multimedia and photography.",
+      "price": 999.99,
+      "category": "Smartphones",
+      "stock": 20,
+      "tags": ["Sony", "Xperia", "Android", "camera"],
+      "image": "smartphones/smartphones_6.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 110
+      },
+      "sales": {
+        "totalSold": 600,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "SonyFan123",
+          "comment": "Excellent display and camera performance.",
+          "rating": 5,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "TechReviewer456",
+          "comment": "Compact size with powerful features.",
+          "rating": 4,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "Huawei P50 Pro",
+      "description": "Huawei's flagship with exceptional photography capabilities and HarmonyOS.",
+      "price": 1199.99,
+      "category": "Smartphones",
+      "stock": 15,
+      "tags": ["Huawei", "flagship", "camera", "HarmonyOS"],
+      "image": "smartphones/smartphones_7.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 500,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "HuaweiFan123",
+          "comment": "Amazing camera quality and smooth performance.",
+          "rating": 5,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "TechUser456",
+          "comment": "HarmonyOS offers a unique user experience.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "LG Velvet 2 Pro",
+      "description": "LG's sleek smartphone with a focus on design and multimedia experience.",
+      "price": 899.99,
+      "category": "Smartphones",
+      "stock": 10,
+      "tags": ["LG", "Velvet", "Android", "multimedia"],
+      "image": "smartphones/smartphones_8.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 90
+      },
+      "sales": {
+        "totalSold": 450,
+        "soldThisMonth": 22
+      },
+      "reviews": [
+        {
+          "user": "LGFan123",
+          "comment": "Sleek design with impressive audio quality.",
+          "rating": 4,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Great display and smooth performance.",
+          "rating": 4,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "ASUS ROG Phone 6",
+      "description": "Gaming-focused smartphone with high refresh rate display and gaming accessories support.",
+      "price": 1099.99,
+      "category": "Smartphones",
+      "stock": 18,
+      "tags": ["ASUS", "ROG", "gaming", "Android"],
+      "image": "smartphones/smartphones_9.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 110
+      },
+      "sales": {
+        "totalSold": 550,
+        "soldThisMonth": 28
+      },
+      "reviews": [
+        {
+          "user": "Gamer123",
+          "comment": "Perfect for gaming with excellent performance.",
+          "rating": 5,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "TechGamer456",
+          "comment": "ROG accessories enhance the gaming experience.",
+          "rating": 4,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "Galaxy Z Fold 4",
+      "description": "Samsung's foldable smartphone with a large flexible display and multitasking capabilities.",
+      "price": 1799.99,
+      "category": "Smartphones",
+      "stock": 20,
+      "tags": ["Samsung", "foldable", "Android", "multitasking"],
+      "image": "smartphones/smartphones_10.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 120
+      },
+      "sales": {
+        "totalSold": 600,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "FoldableFan123",
+          "comment": "Revolutionary design with versatile features.",
+          "rating": 5,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Great for productivity and entertainment.",
+          "rating": 4,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "iPhone SE (2023)",
+      "description": "Apple's budget-friendly iPhone with modern features and compact size.",
+      "price": 699.99,
+      "category": "Smartphones",
+      "stock": 15,
+      "tags": ["Apple", "iPhone", "budget", "iOS"],
+      "image": "smartphones/smartphones_11.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 500,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "BudgetBuyer123",
+          "comment": "Perfect balance of price and performance.",
+          "rating": 5,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "TechSavvy456",
+          "comment": "iOS experience at an affordable price.",
+          "rating": 4,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "Google Pixel 6a",
+      "description": "Google's mid-range Pixel phone with exceptional camera capabilities and pure Android experience.",
+      "price": 599.99,
+      "category": "Smartphones",
+      "stock": 12,
+      "tags": ["Google", "Pixel", "Android", "camera"],
+      "image": "smartphones/smartphones_12.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 90
+      },
+      "sales": {
+        "totalSold": 450,
+        "soldThisMonth": 22
+      },
+      "reviews": [
+        {
+          "user": "PixelFan123",
+          "comment": "Great camera and smooth performance.",
+          "rating": 4,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "AndroidUser456",
+          "comment": "Affordable with flagship-like features.",
+          "rating": 4,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "OnePlus Nord 3",
+      "description": "OnePlus's mid-range offering with smooth performance and OxygenOS features.",
+      "price": 699.99,
+      "category": "Smartphones",
+      "stock": 10,
+      "tags": ["OnePlus", "Nord", "Android", "performance"],
+      "image": "smartphones/smartphones_13.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 80
+      },
+      "sales": {
+        "totalSold": 400,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "OnePlusFan123",
+          "comment": "Smooth experience with good battery life.",
+          "rating": 4,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "TechReviewer456",
+          "comment": "Great value for money with OnePlus quality.",
+          "rating": 4,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "Xiaomi Redmi Note 11 Pro",
+      "description": "Xiaomi's affordable smartphone with a large display and capable performance.",
+      "price": 499.99,
+      "category": "Smartphones",
+      "stock": 8,
+      "tags": ["Xiaomi", "Redmi", "Android", "affordable"],
+      "image": "smartphones/smartphones_14.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 70
+      },
+      "sales": {
+        "totalSold": 350,
+        "soldThisMonth": 18
+      },
+      "reviews": [
+        {
+          "user": "XiaomiFan123",
+          "comment": "Great value for money with Xiaomi features.",
+          "rating": 4,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Smooth performance for everyday use.",
+          "rating": 4,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "Sony Xperia 10 IV",
+      "description": "Sony's mid-range phone with a focus on multimedia and compact design.",
+      "price": 799.99,
+      "category": "Smartphones",
+      "stock": 5,
+      "tags": ["Sony", "Xperia", "Android", "multimedia"],
+      "image": "smartphones/smartphones_15.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 60
+      },
+      "sales": {
+        "totalSold": 300,
+        "soldThisMonth": 15
+      },
+      "reviews": [
+        {
+          "user": "SonyFan123",
+          "comment": "Compact size with good camera quality.",
+          "rating": 4,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "TechReviewer456",
+          "comment": "Solid performance and decent battery life.",
+          "rating": 3,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  },
+  "tablets": {
+    "1": {
+      "id": 1,
+      "name": "iPad Pro (2023)",
+      "description": "Apple's latest iPad Pro with M2 chip and Liquid Retina XDR display.",
+      "price": 1099.99,
+      "category": "Tablets",
+      "stock": 50,
+      "tags": ["Apple", "iPad", "iOS", "tablet"],
+      "image": "tablets/tablets_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "AppleFan123",
+          "comment": "Amazing display and performance.",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "TechSavvy456",
+          "comment": "iOS experience is top-notch.",
+          "rating": 5,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "Samsung Galaxy Tab S8 Ultra",
+      "description": "Samsung's flagship tablet with a large Super AMOLED display and S Pen support.",
+      "price": 1299.99,
+      "category": "Tablets",
+      "stock": 40,
+      "tags": ["Samsung", "Galaxy", "Android", "tablet"],
+      "image": "tablets/tablets_2.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "SamsungFan123",
+          "comment": "Excellent display and versatile S Pen functionality.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Smooth multitasking and powerful performance.",
+          "rating": 4,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "Microsoft Surface Pro 8",
+      "description": "Microsoft's versatile tablet with Windows 11 and Surface Pen support.",
+      "price": 1199.99,
+      "category": "Tablets",
+      "stock": 35,
+      "tags": ["Microsoft", "Surface", "Windows", "tablet"],
+      "image": "tablets/tablets_3.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 130
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "SurfaceFan123",
+          "comment": "Great for productivity with Windows 11.",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "TechUser456",
+          "comment": "Solid build quality and performance.",
+          "rating": 4,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "Lenovo Tab P12 Pro",
+      "description": "Lenovo's premium Android tablet with OLED display and Snapdragon 8 Gen 1.",
+      "price": 999.99,
+      "category": "Tablets",
+      "stock": 30,
+      "tags": ["Lenovo", "Tab", "Android", "tablet"],
+      "image": "tablets/tablets_4.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 120
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "LenovoFan123",
+          "comment": "Excellent display and powerful performance.",
+          "rating": 5,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Smooth experience for multimedia and productivity.",
+          "rating": 4,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Huawei MatePad Pro 12.6",
+      "description": "Huawei's flagship tablet with HarmonyOS and M-Pencil support.",
+      "price": 1099.99,
+      "category": "Tablets",
+      "stock": 25,
+      "tags": ["Huawei", "MatePad", "HarmonyOS", "tablet"],
+      "image": "tablets/tablets_5.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 110
+      },
+      "sales": {
+        "totalSold": 600,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "HuaweiFan123",
+          "comment": "Great display and smooth performance with HarmonyOS.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "TechReviewer456",
+          "comment": "M-Pencil enhances the productivity experience.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "Amazon Fire HD 10",
+      "description": "Amazon's affordable tablet with a 10.1\" Full HD display and Alexa integration.",
+      "price": 199.99,
+      "category": "Tablets",
+      "stock": 20,
+      "tags": ["Amazon", "Fire", "Android", "tablet"],
+      "image": "tablets/tablets_6.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 500,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "AmazonFan123",
+          "comment": "Great value for money with Amazon services.",
+          "rating": 5,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Perfect for media consumption and basic tasks.",
+          "rating": 4,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "Sony Xperia Z6 Tablet",
+      "description": "Sony's slim and lightweight tablet with 2K display and Snapdragon 8 Gen 1.",
+      "price": 899.99,
+      "category": "Tablets",
+      "stock": 18,
+      "tags": ["Sony", "Xperia", "Android", "tablet"],
+      "image": "tablets/tablets_7.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 90
+      },
+      "sales": {
+        "totalSold": 450,
+        "soldThisMonth": 22
+      },
+      "reviews": [
+        {
+          "user": "SonyFan123",
+          "comment": "Slim design with impressive display quality.",
+          "rating": 4,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "TechUser456",
+          "comment": "Smooth performance for multimedia and gaming.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "Google Pixel Slate 2",
+      "description": "Google's premium Chrome OS tablet with 4K Molecular Display and Pixel Pen support.",
+      "price": 999.99,
+      "category": "Tablets",
+      "stock": 15,
+      "tags": ["Google", "Pixel", "Chrome OS", "tablet"],
+      "image": "tablets/tablets_8.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 80
+      },
+      "sales": {
+        "totalSold": 400,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "PixelFan123",
+          "comment": "Excellent for productivity with Chrome OS.",
+          "rating": 4,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "TechSavvy456",
+          "comment": "Pixel Pen enhances the user experience.",
+          "rating": 4,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "ASUS ZenPad 8S",
+      "description": "ASUS's compact and stylish Android tablet with high-resolution display and premium build.",
+      "price": 499.99,
+      "category": "Tablets",
+      "stock": 10,
+      "tags": ["ASUS", "ZenPad", "Android", "tablet"],
+      "image": "tablets/tablets_9.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 70
+      },
+      "sales": {
+        "totalSold": 350,
+        "soldThisMonth": 18
+      },
+      "reviews": [
+        {
+          "user": "ASUSFan123",
+          "comment": "Great design and display quality.",
+          "rating": 4,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Good performance for its size.",
+          "rating": 3,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "iPad Air (2023)",
+      "description": "Apple's mid-range iPad with A15 Bionic chip and True Tone display.",
+      "price": 699.99,
+      "category": "Tablets",
+      "stock": 8,
+      "tags": ["Apple", "iPad", "iOS", "tablet"],
+      "image": "tablets/tablets_10.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 60
+      },
+      "sales": {
+        "totalSold": 300,
+        "soldThisMonth": 15
+      },
+      "reviews": [
+        {
+          "user": "AppleFan123",
+          "comment": "Good performance and versatile for daily use.",
+          "rating": 4,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "TechReviewer456",
+          "comment": "iOS experience is reliable.",
+          "rating": 3,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "Samsung Galaxy Tab A8",
+      "description": "Samsung's budget-friendly Android tablet with a compact design and good battery life.",
+      "price": 299.99,
+      "category": "Tablets",
+      "stock": 5,
+      "tags": ["Samsung", "Galaxy", "Android", "tablet"],
+      "image": "tablets/tablets_11.jpg",
+      "ratings": {
+        "average": 3.9,
+        "count": 50
+      },
+      "sales": {
+        "totalSold": 250,
+        "soldThisMonth": 12
+      },
+      "reviews": [
+        {
+          "user": "BudgetBuyer123",
+          "comment": "Affordable and does the job well.",
+          "rating": 4,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "TechSavvy456",
+          "comment": "Good for basic tasks and media consumption.",
+          "rating": 3,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "Lenovo Yoga Tab 13",
+      "description": "Lenovo's versatile Android tablet with a built-in kickstand and Dolby Atmos sound.",
+      "price": 599.99,
+      "category": "Tablets",
+      "stock": 3,
+      "tags": ["Lenovo", "Yoga", "Android", "tablet"],
+      "image": "tablets/tablets_12.jpg",
+      "ratings": {
+        "average": 3.8,
+        "count": 45
+      },
+      "sales": {
+        "totalSold": 225,
+        "soldThisMonth": 11
+      },
+      "reviews": [
+        {
+          "user": "LenovoFan123",
+          "comment": "Unique design and good multimedia features.",
+          "rating": 4,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Kickstand adds versatility for different uses.",
+          "rating": 3,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "Huawei MatePad 11",
+      "description": "Huawei's mid-range tablet with HarmonyOS and quad-speaker setup.",
+      "price": 499.99,
+      "category": "Tablets",
+      "stock": 2,
+      "tags": ["Huawei", "MatePad", "HarmonyOS", "tablet"],
+      "image": "tablets/tablets_13.jpg",
+      "ratings": {
+        "average": 3.7,
+        "count": 40
+      },
+      "sales": {
+        "totalSold": 200,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "HuaweiFan123",
+          "comment": "HarmonyOS is smooth and responsive.",
+          "rating": 4,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "TechReviewer456",
+          "comment": "Decent performance for daily tasks.",
+          "rating": 3,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "Amazon Fire HD 8 Plus",
+      "description": "Amazon's affordable 8\" tablet with wireless charging dock and Alexa hands-free.",
+      "price": 149.99,
+      "category": "Tablets",
+      "stock": 1,
+      "tags": ["Amazon", "Fire", "Android", "tablet"],
+      "image": "tablets/tablets_14.jpg",
+      "ratings": {
+        "average": 3.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 150,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "AmazonFan123",
+          "comment": "Great value with wireless charging capability.",
+          "rating": 4,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Good for basic tasks and reading.",
+          "rating": 3,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "Sony Xperia Z5 Tablet Compact",
+      "description": "Sony's compact Android tablet with water-resistant design and Snapdragon 8 Gen 1.",
+      "price": 799.99,
+      "category": "Tablets",
+      "stock": 0,
+      "tags": ["Sony", "Xperia", "Android", "tablet"],
+      "image": "tablets/tablets_15.jpg",
+      "ratings": {
+        "average": 3.5,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "SonyFan123",
+          "comment": "Compact size with good build quality.",
+          "rating": 4,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "TechReviewer456",
+          "comment": "Water-resistant feature is a plus.",
+          "rating": 3,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  },
+  "wearables": {
+    "1": {
+      "id": 1,
+      "name": "Apple Watch Series 7",
+      "description": "Apple's latest smartwatch with larger Always-On Retina display and advanced health monitoring.",
+      "price": 399.99,
+      "category": "Wearables",
+      "stock": 50,
+      "tags": ["Apple", "Watch", "iOS", "wearable"],
+      "image": "wearables/wearables_1.jpg",
+      "ratings": {
+        "average": 4.8,
+        "count": 150
+      },
+      "sales": {
+        "totalSold": 1000,
+        "soldThisMonth": 50
+      },
+      "reviews": [
+        {
+          "user": "AppleFan123",
+          "comment": "Excellent health tracking and stylish design.",
+          "rating": 5,
+          "date": "2023-06-15"
+        },
+        {
+          "user": "TechSavvy456",
+          "comment": "Integration with iOS is seamless.",
+          "rating": 5,
+          "date": "2023-06-14"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "name": "Samsung Galaxy Watch 4",
+      "description": "Samsung's smartwatch with Wear OS powered by Samsung and advanced fitness tracking features.",
+      "price": 349.99,
+      "category": "Wearables",
+      "stock": 40,
+      "tags": ["Samsung", "Galaxy", "Android", "wearable"],
+      "image": "wearables/wearables_2.jpg",
+      "ratings": {
+        "average": 4.7,
+        "count": 140
+      },
+      "sales": {
+        "totalSold": 900,
+        "soldThisMonth": 45
+      },
+      "reviews": [
+        {
+          "user": "SamsungFan123",
+          "comment": "Great fitness tracking and smooth interface.",
+          "rating": 5,
+          "date": "2023-06-13"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Wear OS experience is improved.",
+          "rating": 4,
+          "date": "2023-06-12"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "name": "Fitbit Versa 4",
+      "description": "Fitbit's versatile smartwatch with built-in GPS and health insights.",
+      "price": 299.99,
+      "category": "Wearables",
+      "stock": 35,
+      "tags": ["Fitbit", "Versa", "Fitness", "wearable"],
+      "image": "wearables/wearables_3.jpg",
+      "ratings": {
+        "average": 4.6,
+        "count": 130
+      },
+      "sales": {
+        "totalSold": 800,
+        "soldThisMonth": 40
+      },
+      "reviews": [
+        {
+          "user": "FitbitFan123",
+          "comment": "Accurate health tracking and long battery life.",
+          "rating": 5,
+          "date": "2023-06-11"
+        },
+        {
+          "user": "FitnessEnthusiast456",
+          "comment": "GPS feature is great for outdoor workouts.",
+          "rating": 4,
+          "date": "2023-06-10"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "name": "Garmin Venu 2",
+      "description": "Garmin's premium smartwatch with AMOLED display and extensive sports tracking features.",
+      "price": 399.99,
+      "category": "Wearables",
+      "stock": 30,
+      "tags": ["Garmin", "Venu", "Fitness", "wearable"],
+      "image": "wearables/wearables_4.jpg",
+      "ratings": {
+        "average": 4.5,
+        "count": 120
+      },
+      "sales": {
+        "totalSold": 700,
+        "soldThisMonth": 35
+      },
+      "reviews": [
+        {
+          "user": "GarminFan123",
+          "comment": "Comprehensive sports tracking and durable design.",
+          "rating": 5,
+          "date": "2023-06-09"
+        },
+        {
+          "user": "FitnessEnthusiast456",
+          "comment": "AMOLED display is vibrant and easy to read.",
+          "rating": 4,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Xiaomi Mi Watch",
+      "description": "Xiaomi's affordable smartwatch with SpO2 monitoring and long battery life.",
+      "price": 199.99,
+      "category": "Wearables",
+      "stock": 25,
+      "tags": ["Xiaomi", "Mi Watch", "Android", "wearable"],
+      "image": "wearables/wearables_5.jpg",
+      "ratings": {
+        "average": 4.4,
+        "count": 110
+      },
+      "sales": {
+        "totalSold": 600,
+        "soldThisMonth": 30
+      },
+      "reviews": [
+        {
+          "user": "XiaomiFan123",
+          "comment": "Value for money with good health features.",
+          "rating": 5,
+          "date": "2023-06-07"
+        },
+        {
+          "user": "TechReviewer456",
+          "comment": "Battery life exceeds expectations.",
+          "rating": 4,
+          "date": "2023-06-06"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "name": "Huawei Watch GT 3",
+      "description": "Huawei's smartwatch with HarmonyOS and advanced health tracking capabilities.",
+      "price": 299.99,
+      "category": "Wearables",
+      "stock": 20,
+      "tags": ["Huawei", "Watch GT", "HarmonyOS", "wearable"],
+      "image": "wearables/wearables_6.jpg",
+      "ratings": {
+        "average": 4.3,
+        "count": 100
+      },
+      "sales": {
+        "totalSold": 500,
+        "soldThisMonth": 25
+      },
+      "reviews": [
+        {
+          "user": "HuaweiFan123",
+          "comment": "HarmonyOS makes the user experience smooth.",
+          "rating": 5,
+          "date": "2023-06-05"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "Health tracking is accurate and detailed.",
+          "rating": 4,
+          "date": "2023-06-04"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "name": "Amazfit GTR 3",
+      "description": "Amazfit's sleek smartwatch with AMOLED display and long battery life.",
+      "price": 249.99,
+      "category": "Wearables",
+      "stock": 18,
+      "tags": ["Amazfit", "GTR", "Fitness", "wearable"],
+      "image": "wearables/wearables_7.jpg",
+      "ratings": {
+        "average": 4.2,
+        "count": 90
+      },
+      "sales": {
+        "totalSold": 450,
+        "soldThisMonth": 22
+      },
+      "reviews": [
+        {
+          "user": "AmazfitFan123",
+          "comment": "Beautiful AMOLED display and solid build.",
+          "rating": 4,
+          "date": "2023-06-03"
+        },
+        {
+          "user": "TechUser456",
+          "comment": "Battery life is impressive.",
+          "rating": 4,
+          "date": "2023-06-02"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "name": "Fossil Gen 6",
+      "description": "Fossil's stylish smartwatch with Wear OS and customizable dials.",
+      "price": 279.99,
+      "category": "Wearables",
+      "stock": 15,
+      "tags": ["Fossil", "Gen 6", "Fashion", "wearable"],
+      "image": "wearables/wearables_8.jpg",
+      "ratings": {
+        "average": 4.1,
+        "count": 80
+      },
+      "sales": {
+        "totalSold": 400,
+        "soldThisMonth": 20
+      },
+      "reviews": [
+        {
+          "user": "FossilFan123",
+          "comment": "Great design and smooth performance.",
+          "rating": 4,
+          "date": "2023-06-01"
+        },
+        {
+          "user": "TechSavvy456",
+          "comment": "Wear OS works well with Android phones.",
+          "rating": 4,
+          "date": "2023-05-31"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "name": "Garmin Instinct 2",
+      "description": "Garmin's rugged outdoor smartwatch with GPS and heart rate monitoring.",
+      "price": 299.99,
+      "category": "Wearables",
+      "stock": 12,
+      "tags": ["Garmin", "Instinct", "Outdoor", "wearable"],
+      "image": "wearables/wearables_9.jpg",
+      "ratings": {
+        "average": 4.0,
+        "count": 70
+      },
+      "sales": {
+        "totalSold": 350,
+        "soldThisMonth": 18
+      },
+      "reviews": [
+        {
+          "user": "GarminFan123",
+          "comment": "Durable build for outdoor adventures.",
+          "rating": 4,
+          "date": "2023-05-30"
+        },
+        {
+          "user": "OutdoorEnthusiast456",
+          "comment": "Accurate GPS tracking and useful features.",
+          "rating": 4,
+          "date": "2023-05-29"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "Samsung Galaxy Fit 3",
+      "description": "Samsung's lightweight fitness band with AMOLED display and 24/7 activity tracking.",
+      "price": 149.99,
+      "category": "Wearables",
+      "stock": 10,
+      "tags": ["Samsung", "Galaxy Fit", "Fitness", "wearable"],
+      "image": "wearables/wearables_10.jpg",
+      "ratings": {
+        "average": 3.9,
+        "count": 60
+      },
+      "sales": {
+        "totalSold": 300,
+        "soldThisMonth": 15
+      },
+      "reviews": [
+        {
+          "user": "SamsungFan123",
+          "comment": "Comfortable to wear all day.",
+          "rating": 4,
+          "date": "2023-05-28"
+        },
+        {
+          "user": "FitnessEnthusiast456",
+          "comment": "AMOLED display is sharp and vibrant.",
+          "rating": 4,
+          "date": "2023-05-27"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "name": "Amazfit Bip U Pro",
+      "description": "Amazfit's affordable smartwatch with built-in GPS and SpO2 measurement.",
+      "price": 79.99,
+      "category": "Wearables",
+      "stock": 5,
+      "tags": ["Amazfit", "Bip U Pro", "Fitness", "wearable"],
+      "image": "wearables/wearables_11.jpg",
+      "ratings": {
+        "average": 3.8,
+        "count": 50
+      },
+      "sales": {
+        "totalSold": 250,
+        "soldThisMonth": 12
+      },
+      "reviews": [
+        {
+          "user": "AmazfitFan123",
+          "comment": "Great value for the price.",
+          "rating": 4,
+          "date": "2023-05-26"
+        },
+        {
+          "user": "FitnessEnthusiast456",
+          "comment": "Accurate fitness tracking features.",
+          "rating": 4,
+          "date": "2023-05-25"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "name": "Fossil Hybrid HR Collider",
+      "description": "Fossil's hybrid smartwatch with E Ink display and long battery life.",
+      "price": 199.99,
+      "category": "Wearables",
+      "stock": 3,
+      "tags": ["Fossil", "Hybrid HR", "Fashion", "wearable"],
+      "image": "wearables/wearables_12.jpg",
+      "ratings": {
+        "average": 3.7,
+        "count": 40
+      },
+      "sales": {
+        "totalSold": 200,
+        "soldThisMonth": 10
+      },
+      "reviews": [
+        {
+          "user": "FossilFan123",
+          "comment": "Classic watch design with smart features.",
+          "rating": 4,
+          "date": "2023-05-24"
+        },
+        {
+          "user": "TechEnthusiast456",
+          "comment": "E Ink display is clear and easy to read.",
+          "rating": 3,
+          "date": "2023-05-23"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "name": "Xiaomi Mi Band 7",
+      "description": "Xiaomi's budget fitness tracker with improved heart rate monitoring and sleep tracking.",
+      "price": 49.99,
+      "category": "Wearables",
+      "stock": 2,
+      "tags": ["Xiaomi", "Mi Band", "Fitness", "wearable"],
+      "image": "wearables/wearables_13.jpg",
+      "ratings": {
+        "average": 3.6,
+        "count": 30
+      },
+      "sales": {
+        "totalSold": 150,
+        "soldThisMonth": 8
+      },
+      "reviews": [
+        {
+          "user": "XiaomiFan123",
+          "comment": "Good fitness tracking capabilities.",
+          "rating": 4,
+          "date": "2023-05-22"
+        },
+        {
+          "user": "FitnessEnthusiast456",
+          "comment": "Lightweight and comfortable to wear.",
+          "rating": 3,
+          "date": "2023-05-21"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "name": "Huawei Band 6",
+      "description": "Huawei's fitness band with SpO2 monitoring and 2-week battery life.",
+      "price": 79.99,
+      "category": "Wearables",
+      "stock": 1,
+      "tags": ["Huawei", "Band", "Fitness", "wearable"],
+      "image": "wearables/wearables_14.jpg",
+      "ratings": {
+        "average": 3.5,
+        "count": 20
+      },
+      "sales": {
+        "totalSold": 100,
+        "soldThisMonth": 5
+      },
+      "reviews": [
+        {
+          "user": "HuaweiFan123",
+          "comment": "Long battery life is impressive.",
+          "rating": 4,
+          "date": "2023-05-20"
+        },
+        {
+          "user": "FitnessEnthusiast456",
+          "comment": "Accurate health monitoring features.",
+          "rating": 3,
+          "date": "2023-05-19"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "Amazfit Neo 3",
+      "description": "Amazfit's retro-style smartwatch with always-on display and up to 14 days battery life.",
+      "price": 69.99,
+      "category": "Wearables",
+      "stock": 0,
+      "tags": ["Amazfit", "Neo", "Fitness", "wearable"],
+      "image": "wearables/wearables_15.jpg",
+      "ratings": {
+        "average": 3.4,
+        "count": 10
+      },
+      "sales": {
+        "totalSold": 50,
+        "soldThisMonth": 2
+      },
+      "reviews": [
+        {
+          "user": "AmazfitFan123",
+          "comment": "Classic design with modern features.",
+          "rating": 4,
+          "date": "2023-05-18"
+        },
+        {
+          "user": "TechReviewer456",
+          "comment": "Battery life is as advertised.",
+          "rating": 3,
+          "date": "2023-05-17"
+        }
+      ]
+    }
+  }
+}

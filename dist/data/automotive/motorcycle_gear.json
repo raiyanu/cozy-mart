@@ -1,0 +1,483 @@
+{
+  "1": {
+    "id": 31,
+    "name": "Motorcycle Helmet",
+    "description": "Stay safe on the road with this DOT-certified motorcycle helmet.",
+    "price": 99.99,
+    "category": "Motorcycle Gear",
+    "stock": 20,
+    "tags": ["motorcycle", "gear", "helmet"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_1.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 35
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "RiderA",
+        "comment": "Excellent helmet, comfortable and stylish!",
+        "rating": 5,
+        "date": "2024-06-06"
+      },
+      {
+        "user": "RiderB",
+        "comment": "Good protection, fits well.",
+        "rating": 4,
+        "date": "2024-06-05"
+      }
+    ]
+  },
+  "2": {
+    "id": 32,
+    "name": "Motorcycle Jacket",
+    "description": "Protective and stylish jacket designed for motorcycle riders.",
+    "price": 149.99,
+    "category": "Motorcycle Gear",
+    "stock": 15,
+    "tags": ["motorcycle", "gear", "jacket"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_2.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "RiderC",
+        "comment": "Great jacket, provides good protection and looks cool.",
+        "rating": 5,
+        "date": "2024-06-04"
+      },
+      {
+        "user": "RiderD",
+        "comment": "Nice fit, but could use more ventilation.",
+        "rating": 4,
+        "date": "2024-06-03"
+      }
+    ]
+  },
+  "3": {
+    "id": 33,
+    "name": "Motorcycle Gloves",
+    "description": "Comfortable and durable gloves for better grip and protection while riding.",
+    "price": 29.99,
+    "category": "Motorcycle Gear",
+    "stock": 25,
+    "tags": ["motorcycle", "gear", "gloves"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 95,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "RiderE",
+        "comment": "Excellent gloves, very comfortable and protective.",
+        "rating": 5,
+        "date": "2024-06-02"
+      },
+      {
+        "user": "RiderF",
+        "comment": "Good quality, but a bit tight initially.",
+        "rating": 4,
+        "date": "2024-06-01"
+      }
+    ]
+  },
+  "4": {
+    "id": 34,
+    "name": "Motorcycle Boots",
+    "description": "Sturdy and protective boots designed for motorcycle riding.",
+    "price": 129.99,
+    "category": "Motorcycle Gear",
+    "stock": 20,
+    "tags": ["motorcycle", "gear", "boots"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_4.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "RiderG",
+        "comment": "Great boots, very protective and comfortable for long rides.",
+        "rating": 5,
+        "date": "2024-05-31"
+      },
+      {
+        "user": "RiderH",
+        "comment": "Good grip, but a bit heavy.",
+        "rating": 4,
+        "date": "2024-05-30"
+      }
+    ]
+  },
+  "5": {
+    "id": 35,
+    "name": "Motorcycle Rain Suit",
+    "description": "Stay dry and comfortable with this waterproof rain suit for motorcycle riders.",
+    "price": 59.99,
+    "category": "Motorcycle Gear",
+    "stock": 15,
+    "tags": ["motorcycle", "gear", "rain suit"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_5.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "RiderI",
+        "comment": "Keeps me dry in heavy rain, very effective.",
+        "rating": 5,
+        "date": "2024-05-29"
+      },
+      {
+        "user": "RiderJ",
+        "comment": "Good rain suit, but a bit bulky.",
+        "rating": 4,
+        "date": "2024-05-28"
+      }
+    ]
+  },
+  "6": {
+    "id": 36,
+    "name": "Motorcycle Backpack",
+    "description": "Convenient and durable backpack designed for motorcycle riders.",
+    "price": 39.99,
+    "category": "Motorcycle Gear",
+    "stock": 30,
+    "tags": ["motorcycle", "gear", "backpack"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_6.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "RiderK",
+        "comment": "Very practical backpack, holds all my essentials.",
+        "rating": 5,
+        "date": "2024-05-27"
+      },
+      {
+        "user": "RiderL",
+        "comment": "Good size, but could use more compartments.",
+        "rating": 4,
+        "date": "2024-05-26"
+      }
+    ]
+  },
+  "7": {
+    "id": 37,
+    "name": "Motorcycle Cover",
+    "description": "Protect your motorcycle from the elements with this durable and waterproof motorcycle cover.",
+    "price": 49.99,
+    "category": "Motorcycle Gear",
+    "stock": 25,
+    "tags": ["motorcycle", "gear", "cover"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_7.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 70,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "RiderM",
+        "comment": "Keeps my bike dry and protected from dust.",
+        "rating": 5,
+        "date": "2024-05-25"
+      },
+      {
+        "user": "RiderN",
+        "comment": "Good cover, but a bit tricky to put on.",
+        "rating": 4,
+        "date": "2024-05-24"
+      }
+    ]
+  },
+  "8": {
+    "id": 38,
+    "name": "Motorcycle Tool Kit",
+    "description": "Compact and essential toolkit for basic motorcycle maintenance and repairs.",
+    "price": 29.99,
+    "category": "Motorcycle Gear",
+    "stock": 20,
+    "tags": ["motorcycle", "gear", "tool kit"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_8.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 65,
+      "soldThisMonth": 4
+    },
+    "reviews": [
+      {
+        "user": "RiderO",
+        "comment": "Very handy toolkit for quick fixes on the road.",
+        "rating": 5,
+        "date": "2024-05-23"
+      },
+      {
+        "user": "RiderP",
+        "comment": "Good quality tools, but could use more variety.",
+        "rating": 4,
+        "date": "2024-05-22"
+      }
+    ]
+  },
+
+  "9": {
+    "id": 39,
+    "name": "Motorcycle Phone Mount",
+    "description": "Securely mount your phone on your motorcycle for easy navigation and hands-free calling.",
+    "price": 19.99,
+    "category": "Motorcycle Gear",
+    "stock": 25,
+    "tags": ["motorcycle", "gear", "phone mount"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_9.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "RiderQ",
+        "comment": "Sturdy mount, holds my phone securely even on bumpy roads.",
+        "rating": 5,
+        "date": "2024-05-21"
+      },
+      {
+        "user": "RiderR",
+        "comment": "Good product, but could use more adjustment options.",
+        "rating": 4,
+        "date": "2024-05-20"
+      }
+    ]
+  },
+  "10": {
+    "id": 40,
+    "name": "Motorcycle LED Lights",
+    "description": "Enhance visibility and style with these bright LED lights for motorcycles.",
+    "price": 49.99,
+    "category": "Motorcycle Gear",
+    "stock": 20,
+    "tags": ["motorcycle", "gear", "LED lights"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_10.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "RiderS",
+        "comment": "Awesome lights, really bright and easy to install.",
+        "rating": 5,
+        "date": "2024-05-19"
+      },
+      {
+        "user": "RiderT",
+        "comment": "Good visibility, but a bit pricey.",
+        "rating": 4,
+        "date": "2024-05-18"
+      }
+    ]
+  },
+  "11": {
+    "id": 41,
+    "name": "Motorcycle Exhaust System",
+    "description": "Upgrade your motorcycle's performance with this high-quality exhaust system.",
+    "price": 299.99,
+    "category": "Motorcycle Gear",
+    "stock": 15,
+    "tags": ["motorcycle", "gear", "exhaust system"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_11.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 35
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "RiderU",
+        "comment": "Significant improvement in sound and performance!",
+        "rating": 5,
+        "date": "2024-05-17"
+      },
+      {
+        "user": "RiderV",
+        "comment": "Expensive, but worth the upgrade.",
+        "rating": 4,
+        "date": "2024-05-16"
+      }
+    ]
+  },
+  "12": {
+    "id": 42,
+    "name": "Motorcycle Windshield",
+    "description": "Reduce wind buffeting and enhance comfort with this motorcycle windshield.",
+    "price": 79.99,
+    "category": "Motorcycle Gear",
+    "stock": 18,
+    "tags": ["motorcycle", "gear", "windshield"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_12.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "RiderW",
+        "comment": "Great windshield, reduces fatigue on long rides.",
+        "rating": 5,
+        "date": "2024-05-15"
+      },
+      {
+        "user": "RiderX",
+        "comment": "Good fit, but could be a bit taller.",
+        "rating": 4,
+        "date": "2024-05-14"
+      }
+    ]
+  },
+  "13": {
+    "id": 43,
+    "name": "Motorcycle Tank Bag",
+    "description": "Convenient storage solution for essentials on your motorcycle trips.",
+    "price": 59.99,
+    "category": "Motorcycle Gear",
+    "stock": 22,
+    "tags": ["motorcycle", "gear", "tank bag"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_13.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "RiderY",
+        "comment": "Very practical bag, holds all my essentials securely.",
+        "rating": 5,
+        "date": "2024-05-13"
+      },
+      {
+        "user": "RiderZ",
+        "comment": "Good quality, but could use more compartments.",
+        "rating": 4,
+        "date": "2024-05-12"
+      }
+    ]
+  },
+  "14": {
+    "id": 44,
+    "name": "Motorcycle Chain Lubricant",
+    "description": "Keep your motorcycle chain in top condition with this high-performance lubricant.",
+    "price": 14.99,
+    "category": "Motorcycle Gear",
+    "stock": 25,
+    "tags": ["motorcycle", "gear", "chain lubricant"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_14.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "RiderAA",
+        "comment": "Excellent lubricant, keeps my chain running smoothly.",
+        "rating": 5,
+        "date": "2024-05-11"
+      },
+      {
+        "user": "RiderBB",
+        "comment": "Good product, but a bit messy to apply.",
+        "rating": 4,
+        "date": "2024-05-10"
+      }
+    ]
+  },
+  "15": {
+    "id": 45,
+    "name": "Motorcycle Rearview Mirror",
+    "description": "Enhance visibility and safety with this adjustable motorcycle rearview mirror.",
+    "price": 29.99,
+    "category": "Motorcycle Gear",
+    "stock": 28,
+    "tags": ["motorcycle", "gear", "rearview mirror"],
+    "image": "productimage/motorcycle_gear/motorcycle+gear_15.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 70,
+      "soldThisMonth": 4
+    },
+    "reviews": [
+      {
+        "user": "RiderCC",
+        "comment": "Clear visibility, easy to adjust.",
+        "rating": 5,
+        "date": "2024-05-09"
+      },
+      {
+        "user": "RiderDD",
+        "comment": "Good mirror, but could be a bit larger.",
+        "rating": 4,
+        "date": "2024-05-08"
+      }
+    ]
+  }
+}

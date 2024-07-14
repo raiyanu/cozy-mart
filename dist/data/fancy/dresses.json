@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Floral Summer Dress",
+    "description": "Light and airy dress with floral patterns, perfect for summer.",
+    "price": 59.99,
+    "category": "Dresses",
+    "stock": 50,
+    "tags": ["Dress", "Summer", "Floral"],
+    "image": "dresses/dresses_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 150
+    },
+    "sales": {
+      "totalSold": 1000,
+      "soldThisMonth": 50
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Beautiful dress, fits perfectly.",
+        "rating": 5,
+        "date": "2023-06-15"
+      },
+      {
+        "user": "SummerLover456",
+        "comment": "Lightweight and comfortable.",
+        "rating": 5,
+        "date": "2023-06-14"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Evening Cocktail Dress",
+    "description": "Chic cocktail dress with sequin detailing, ideal for evening events.",
+    "price": 79.99,
+    "category": "Dresses",
+    "stock": 40,
+    "tags": ["Dress", "Cocktail", "Evening"],
+    "image": "dresses/dresses_2.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 140
+    },
+    "sales": {
+      "totalSold": 900,
+      "soldThisMonth": 45
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Stunning dress, received many compliments.",
+        "rating": 5,
+        "date": "2023-06-13"
+      },
+      {
+        "user": "EveningEvent456",
+        "comment": "Perfect for special occasions.",
+        "rating": 4,
+        "date": "2023-06-12"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Bohemian Maxi Dress",
+    "description": "Flowy bohemian-style maxi dress, great for casual outings.",
+    "price": 69.99,
+    "category": "Dresses",
+    "stock": 35,
+    "tags": ["Dress", "Maxi", "Bohemian"],
+    "image": "dresses/dresses_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 130
+    },
+    "sales": {
+      "totalSold": 800,
+      "soldThisMonth": 40
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Love the bohemian vibe.",
+        "rating": 5,
+        "date": "2023-06-11"
+      },
+      {
+        "user": "BohoChic456",
+        "comment": "Comfortable and stylish.",
+        "rating": 4,
+        "date": "2023-06-10"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Little Black Dress",
+    "description": "Timeless little black dress, essential for every wardrobe.",
+    "price": 89.99,
+    "category": "Dresses",
+    "stock": 30,
+    "tags": ["Dress", "Black", "Classic"],
+    "image": "dresses/dresses_4.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 120
+    },
+    "sales": {
+      "totalSold": 700,
+      "soldThisMonth": 35
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Perfect fit, elegant and classy.",
+        "rating": 5,
+        "date": "2023-06-09"
+      },
+      {
+        "user": "ClassicStyle456",
+        "comment": "Versatile and flattering.",
+        "rating": 4,
+        "date": "2023-06-08"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Wrap Dress",
+    "description": "Figure-flattering wrap dress with tie waist.",
+    "price": 49.99,
+    "category": "Dresses",
+    "stock": 25,
+    "tags": ["Dress", "Wrap", "Figure-flattering"],
+    "image": "dresses/dresses_5.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 110
+    },
+    "sales": {
+      "totalSold": 600,
+      "soldThisMonth": 30
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Love how it accentuates curves.",
+        "rating": 5,
+        "date": "2023-06-07"
+      },
+      {
+        "user": "WrapDressLover456",
+        "comment": "Comfortable and stylish.",
+        "rating": 4,
+        "date": "2023-06-06"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Lace Midi Dress",
+    "description": "Elegant lace midi dress with scalloped hem.",
+    "price": 99.99,
+    "category": "Dresses",
+    "stock": 20,
+    "tags": ["Dress", "Midi", "Lace"],
+    "image": "dresses/dresses_6.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 100
+    },
+    "sales": {
+      "totalSold": 500,
+      "soldThisMonth": 25
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Beautiful lace details, fits perfectly.",
+        "rating": 5,
+        "date": "2023-06-05"
+      },
+      {
+        "user": "ElegantStyle456",
+        "comment": "Perfect for formal events.",
+        "rating": 4,
+        "date": "2023-06-04"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Satin Slip Dress",
+    "description": "Luxurious satin slip dress with adjustable straps.",
+    "price": 79.99,
+    "category": "Dresses",
+    "stock": 18,
+    "tags": ["Dress", "Satin", "Luxurious"],
+    "image": "dresses/dresses_7.jpg",
+    "ratings": {
+      "average": 4.2,
+      "count": 90
+    },
+    "sales": {
+      "totalSold": 450,
+      "soldThisMonth": 22
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Feels amazing against the skin.",
+        "rating": 4,
+        "date": "2023-06-03"
+      },
+      {
+        "user": "LuxuryDressLover456",
+        "comment": "Great for special occasions.",
+        "rating": 4,
+        "date": "2023-06-02"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Boho Chic Dress",
+    "description": "Chic bohemian-style dress with embroidery.",
+    "price": 69.99,
+    "category": "Dresses",
+    "stock": 15,
+    "tags": ["Dress", "Boho", "Chic"],
+    "image": "dresses/dresses_8.jpg",
+    "ratings": {
+      "average": 4.1,
+      "count": 80
+    },
+    "sales": {
+      "totalSold": 400,
+      "soldThisMonth": 20
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Lovely embroidery and flowy fit.",
+        "rating": 4,
+        "date": "2023-06-01"
+      },
+      {
+        "user": "BohoStyle456",
+        "comment": "Perfect for festivals.",
+        "rating": 4,
+        "date": "2023-05-31"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Striped Shirt Dress",
+    "description": "Casual shirt dress with classic striped pattern.",
+    "price": 39.99,
+    "category": "Dresses",
+    "stock": 12,
+    "tags": ["Dress", "Shirt", "Striped"],
+    "image": "dresses/dresses_9.jpg",
+    "ratings": {
+      "average": 4.0,
+      "count": 70
+    },
+    "sales": {
+      "totalSold": 350,
+      "soldThisMonth": 18
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Comfortable and easy to wear.",
+        "rating": 4,
+        "date": "2023-05-30"
+      },
+      {
+        "user": "StripedDressLover456",
+        "comment": "Versatile and stylish.",
+        "rating": 4,
+        "date": "2023-05-29"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Off-shoulder Maxi Dress",
+    "description": "Flowy off-shoulder maxi dress, perfect for beach vacations.",
+    "price": 79.99,
+    "category": "Dresses",
+    "stock": 10,
+    "tags": ["Dress", "Maxi", "Off-shoulder"],
+    "image": "dresses/dresses_10.jpg",
+    "ratings": {
+      "average": 3.9,
+      "count": 60
+    },
+    "sales": {
+      "totalSold": 300,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Looks stunning on and off the beach.",
+        "rating": 4,
+        "date": "2023-05-28"
+      },
+      {
+        "user": "BeachStyle456",
+        "comment": "Perfect vacation dress.",
+        "rating": 4,
+        "date": "2023-05-27"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Wrap Midi Dress",
+    "description": "Versatile wrap midi dress with tie belt.",
+    "price": 54.99,
+    "category": "Dresses",
+    "stock": 5,
+    "tags": ["Dress", "Wrap", "Midi"],
+    "image": "dresses/dresses_11.jpg",
+    "ratings": {
+      "average": 3.8,
+      "count": 50
+    },
+    "sales": {
+      "totalSold": 250,
+      "soldThisMonth": 12
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Flattering fit and stylish.",
+        "rating": 4,
+        "date": "2023-05-26"
+      },
+      {
+        "user": "VersatileDress456",
+        "comment": "Can be dressed up or down.",
+        "rating": 4,
+        "date": "2023-05-25"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Linen Shift Dress",
+    "description": "Cool and breathable linen shift dress.",
+    "price": 64.99,
+    "category": "Dresses",
+    "stock": 3,
+    "tags": ["Dress", "Linen", "Shift"],
+    "image": "dresses/dresses_12.jpg",
+    "ratings": {
+      "average": 3.7,
+      "count": 40
+    },
+    "sales": {
+      "totalSold": 200,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Great for warm weather.",
+        "rating": 4,
+        "date": "2023-05-24"
+      },
+      {
+        "user": "CoolStyle456",
+        "comment": "Comfortable and stylish.",
+        "rating": 3,
+        "date": "2023-05-23"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Silk Slip Dress",
+    "description": "Luxurious silk slip dress with delicate lace trim.",
+    "price": 49.99,
+    "category": "Dresses",
+    "stock": 2,
+    "tags": ["Dress", "Silk", "Slip"],
+    "image": "dresses/dresses_13.jpg",
+    "ratings": {
+      "average": 3.6,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 150,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Feels luxurious and elegant.",
+        "rating": 4,
+        "date": "2023-05-22"
+      },
+      {
+        "user": "SilkDressLover456",
+        "comment": "Perfect for special occasions.",
+        "rating": 3,
+        "date": "2023-05-21"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Printed Mini Dress",
+    "description": "Vibrant printed mini dress with short sleeves.",
+    "price": 34.99,
+    "category": "Dresses",
+    "stock": 1,
+    "tags": ["Dress", "Printed", "Mini"],
+    "image": "dresses/dresses_14.jpg",
+    "ratings": {
+      "average": 3.5,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Fun and youthful style.",
+        "rating": 4,
+        "date": "2023-05-20"
+      },
+      {
+        "user": "PrintedDressLover456",
+        "comment": "Great for casual outings.",
+        "rating": 3,
+        "date": "2023-05-19"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Denim Shirt Dress",
+    "description": "Casual denim shirt dress with belt.",
+    "price": 44.99,
+    "category": "Dresses",
+    "stock": 0,
+    "tags": ["Dress", "Denim", "Casual"],
+    "image": "dresses/dresses_15.jpg",
+    "ratings": {
+      "average": 3.4,
+      "count": 10
+    },
+    "sales": {
+      "totalSold": 50,
+      "soldThisMonth": 2
+    },
+    "reviews": [
+      {
+        "user": "Fashionista123",
+        "comment": "Comfortable and versatile.",
+        "rating": 4,
+        "date": "2023-05-18"
+      },
+      {
+        "user": "DenimDressLover456",
+        "comment": "Great for everyday wear.",
+        "rating": 3,
+        "date": "2023-05-17"
+      }
+    ]
+  }
+}

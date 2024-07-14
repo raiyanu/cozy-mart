@@ -1,0 +1,482 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Car Wax",
+    "description": "Give your car a shiny finish with this high-quality wax.",
+    "price": 15.99,
+    "category": "Car Care Products",
+    "stock": 40,
+    "tags": ["car", "care", "wax"],
+    "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_1.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 34
+    },
+    "sales": {
+      "totalSold": 120,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "CustomerA",
+        "comment": "Great wax, easy to apply!",
+        "rating": 5,
+        "date": "2024-07-06"
+      },
+      {
+        "user": "CustomerB",
+        "comment": "Good but a bit expensive.",
+        "rating": 4,
+        "date": "2024-07-05"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Car Shampoo",
+    "description": "Keep your car clean and shiny with this effective car shampoo.",
+    "price": 9.99,
+    "category": "Car Cleaning Supplies",
+    "stock": 25,
+    "tags": ["car", "cleaning", "shampoo"],
+    "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_2.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "CustomerC",
+        "comment": "Great shampoo, leaves no residue!",
+        "rating": 5,
+        "date": "2024-07-04"
+      },
+      {
+        "user": "CustomerD",
+        "comment": "Cleans well but has a strong scent.",
+        "rating": 4,
+        "date": "2024-07-03"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Car Polish",
+    "description": "Restore the shine of your car with this high-quality car polish.",
+    "price": 12.99,
+    "category": "Car Care Products",
+    "stock": 30,
+    "tags": ["car", "care", "polish"],
+    "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CustomerE",
+        "comment": "Excellent polish, easy to apply!",
+        "rating": 5,
+        "date": "2024-07-02"
+      },
+      {
+        "user": "CustomerF",
+        "comment": "Good results but takes time to buff.",
+        "rating": 4,
+        "date": "2024-07-01"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Car Interior Cleaner",
+    "description": "Keep the interior of your car clean and fresh with this effective cleaner.",
+    "price": 11.99,
+    "category": "Car Cleaning Supplies",
+    "stock": 20,
+    "tags": ["car", "cleaning", "interior"],
+    "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_4.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "CustomerG",
+        "comment": "Great cleaner, removes stains easily!",
+        "rating": 5,
+        "date": "2024-07-01"
+      },
+      {
+        "user": "CustomerH",
+        "comment": "Cleans well but has a strong scent.",
+        "rating": 4,
+        "date": "2024-06-30"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Car Wheel Cleaner",
+    "description": "Easily clean your car wheels with this powerful wheel cleaner.",
+    "price": 14.99,
+    "category": "Car Cleaning Supplies",
+    "stock": 35,
+    "tags": ["car", "cleaning", "wheels"],
+    "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_5.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 110,
+      "soldThisMonth": 9
+    },
+    "reviews": [
+      {
+        "user": "CustomerI",
+        "comment": "Excellent cleaner, removes brake dust easily!",
+        "rating": 5,
+        "date": "2024-06-30"
+      },
+      {
+        "user": "CustomerJ",
+        "comment": "Good results but requires scrubbing.",
+        "rating": 4,
+        "date": "2024-06-29"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Car Tire Shine",
+    "description": "Give your car tires a glossy finish with this tire shine spray.",
+    "price": 8.99,
+    "category": "Car Care Products",
+    "stock": 15,
+    "tags": ["car", "care", "tire", "shine"],
+    "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_6.jpg",
+    "ratings": {
+      "average": 4.3,
+      "count": 20
+    },
+    "sales": {
+      "totalSold": 70,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "CustomerK",
+        "comment": "Great tire shine, long-lasting!",
+        "rating": 5,
+        "date": "2024-06-28"
+      },
+      {
+        "user": "CustomerL",
+        "comment": "Good product but requires frequent reapplication.",
+        "rating": 4,
+        "date": "2024-06-27"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Car Glass Cleaner",
+    "description": "Clean and shine your car windows with this effective glass cleaner.",
+    "price": 7.99,
+    "category": "Car Cleaning Supplies",
+    "stock": 30,
+    "tags": ["car", "cleaning", "glass"],
+    "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_7.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 25
+    },
+    "sales": {
+      "totalSold": 85,
+      "soldThisMonth": 7
+    },
+    "reviews": [
+      {
+        "user": "CustomerO",
+        "comment": "Great glass cleaner, streak-free!",
+        "rating": 5,
+        "date": "2024-06-26"
+      },
+      {
+        "user": "CustomerP",
+        "comment": "Cleans well but leaves a slight residue.",
+        "rating": 4,
+        "date": "2024-06-25"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Car Leather Cleaner",
+    "description": "Clean and condition your car's leather seats with this effective cleaner.",
+    "price": 10.99,
+    "category": "Car Cleaning Supplies",
+    "stock": 20,
+    "tags": ["car", "cleaning", "leather"],
+    "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_8.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 22
+    },
+    "sales": {
+      "totalSold": 75,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "CustomerQ",
+        "comment": "Great leather cleaner, restores shine!",
+        "rating": 5,
+        "date": "2024-06-24"
+      },
+      {
+        "user": "CustomerR",
+        "comment": "Cleans well but requires frequent reapplication.",
+        "rating": 4,
+        "date": "2024-06-23"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Car Upholstery Cleaner",
+    "description": "Clean and refresh your car's upholstery with this effective cleaner.",
+    "price": 9.99,
+    "category": "Car Cleaning Supplies",
+    "stock": 25,
+    "tags": ["car", "cleaning", "upholstery"],
+    "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_9.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 18
+    },
+    "sales": {
+      "totalSold": 65,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "CustomerS",
+        "comment": "Great upholstery cleaner, removes stains easily!",
+        "rating": 5,
+        "date": "2024-06-22"
+      },
+      {
+        "user": "CustomerT",
+        "comment": "Cleans well but has a strong scent.",
+        "rating": 4,
+        "date": "2024-06-21"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Car Dashboard Cleaner",
+    "description": "Clean and protect your car's dashboard with this effective cleaner.",
+    "price": 7.99,
+    "category": "Car Cleaning Supplies",
+    "stock": 35,
+    "tags": ["car", "cleaning", "dashboard"],
+    "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_10.jpg",
+    "ratings": {
+      "average": 4.7,
+      "count": 30
+    },
+    "sales": {
+      "totalSold": 95,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CustomerU",
+        "comment": "Excellent dashboard cleaner, leaves a nice shine!",
+        "rating": 5,
+        "date": "2024-06-20"
+      },
+      {
+        "user": "CustomerV",
+        "comment": "Cleans well but requires frequent reapplication.",
+        "rating": 4,
+        "date": "2024-06-19"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Car Air Freshener",
+    "description": "Keep your car smelling fresh with this long-lasting air freshener.",
+    "price": 5.99,
+    "category": "Car Accessories",
+    "stock": 40,
+    "tags": ["car", "accessories", "air freshener"],
+    "image": "productimage/car_accessories/car+accessories_1.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 35
+    },
+    "sales": {
+      "totalSold": 130,
+      "soldThisMonth": 10
+    },
+    "reviews": [
+      {
+        "user": "CustomerW",
+        "comment": "This air freshener smells amazing!",
+        "rating": 5,
+        "date": "2024-06-18"
+      },
+      {
+        "user": "CustomerX",
+        "comment": "Good scent but doesn't last very long.",
+        "rating": 4,
+        "date": "2024-06-17"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Car Seat Covers",
+    "description": "Protect and enhance the look of your car seats with these stylish seat covers.",
+    "price": 29.99,
+    "category": "Car Accessories",
+    "stock": 15,
+    "tags": ["car", "accessories", "seat covers"],
+    "image": "productimage/car_accessories/car+accessories_2.jpg",
+    "ratings": {
+      "average": 4.5,
+      "count": 28
+    },
+    "sales": {
+      "totalSold": 90,
+      "soldThisMonth": 5
+    },
+    "reviews": [
+      {
+        "user": "CustomerY",
+        "comment": "These seat covers fit perfectly and look great!",
+        "rating": 5,
+        "date": "2024-06-16"
+      },
+      {
+        "user": "CustomerZ",
+        "comment": "Good quality but a bit expensive.",
+        "rating": 4,
+        "date": "2024-06-15"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Car Phone Mount",
+    "description": "Securely mount your phone in your car for easy navigation and hands-free calling.",
+    "price": 14.99,
+    "category": "Car Accessories",
+    "stock": 30,
+    "tags": ["car", "accessories", "phone mount"],
+    "image": "productimage/car_accessories/car+accessories_3.jpg",
+    "ratings": {
+      "average": 4.6,
+      "count": 32
+    },
+    "sales": {
+      "totalSold": 100,
+      "soldThisMonth": 8
+    },
+    "reviews": [
+      {
+        "user": "CustomerAA",
+        "comment": "This phone mount is sturdy and holds my phone securely!",
+        "rating": 5,
+        "date": "2024-06-14"
+      },
+      {
+        "user": "CustomerBB",
+        "comment": "Good product but a bit difficult to adjust.",
+        "rating": 4,
+        "date": "2024-06-13"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Car Floor Mats",
+    "description": "Protect your car's floor from dirt and spills with these durable floor mats.",
+    "price": 19.99,
+    "category": "Car Accessories",
+    "stock": 20,
+    "tags": ["car", "accessories", "floor mats"],
+    "image": "productimage/car_accessories/car+accessories_4.jpg",
+    "ratings": {
+      "average": 4.4,
+      "count": 26
+    },
+    "sales": {
+      "totalSold": 80,
+      "soldThisMonth": 6
+    },
+    "reviews": [
+      {
+        "user": "CustomerCC",
+        "comment": "These floor mats are great, they fit perfectly in my car!",
+        "rating": 5,
+        "date": "2024-06-12"
+      },
+      {
+        "user": "CustomerDD",
+        "comment": "Good quality but a bit expensive.",
+        "rating": 4,
+        "date": "2024-06-11"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Microfiber Towels",
+    "description": "Soft and absorbent towels for drying and cleaning your car.",
+    "price": 12.99,
+    "category": "Car Cleaning Supplies",
+    "stock": 50,
+    "tags": ["car", "cleaning", "towels"],
+    "image": "productimage/car_cleaning_supplies/car+cleaning+supplies_15.jpg",
+    "ratings": {
+      "average": 4.8,
+      "count": 42
+    },
+    "sales": {
+      "totalSold": 150,
+      "soldThisMonth": 15
+    },
+    "reviews": [
+      {
+        "user": "CustomerM",
+        "comment": "These towels are amazing!",
+        "rating": 5,
+        "date": "2024-06-30"
+      },
+      {
+        "user": "CustomerN",
+        "comment": "Good quality but a bit expensive.",
+        "rating": 4,
+        "date": "2024-06-29"
+      }
+    ]
+  }
+}
