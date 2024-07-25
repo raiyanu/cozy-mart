@@ -2,6 +2,7 @@ import { useState } from "react";
 import { styled, alpha } from "@mui/material/styles";
 import AppBar from "@mui/material/AppBar";
 import Box from "@mui/material/Box";
+import Drawer from "@mui/material/Drawer";
 import Toolbar from "@mui/material/Toolbar";
 import IconButton from "@mui/material/IconButton";
 import Typography from "@mui/material/Typography";
@@ -10,6 +11,7 @@ import Badge from "@mui/material/Badge";
 import MenuItem from "@mui/material/MenuItem";
 import Menu from "@mui/material/Menu";
 import MenuIcon from "@mui/icons-material/Menu";
+import Close from "@mui/icons-material/Close";
 import SearchIcon from "@mui/icons-material/Search";
 import AccountCircle from "@mui/icons-material/AccountCircle";
 import MailIcon from "@mui/icons-material/Mail";
@@ -17,6 +19,13 @@ import NotificationsIcon from "@mui/icons-material/Notifications";
 import MoreIcon from "@mui/icons-material/MoreVert";
 import Autocomplete from "@mui/material/Autocomplete";
 import SearchBar from "./SearchBar";
+import List from "@mui/material/List";
+import Divider from "@mui/material/Divider";
+import ListItem from "@mui/material/ListItem";
+import ListItemButton from "@mui/material/ListItemButton";
+import ListItemIcon from "@mui/material/ListItemIcon";
+import ListItemText from "@mui/material/ListItemText";
+import InboxIcon from "@mui/icons-material/MoveToInbox";
 
 const Search = styled("div")(({ theme }) => ({
   position: "relative",
@@ -124,7 +133,7 @@ export default function Header() {
     >
       <MenuItem>
         <IconButton size="large" aria-label="show 4 new mails" color="inherit">
-          <Badge badgeContent={4} color="error">
+          <Badge badgeContent={3} color="error">
             <MailIcon />
           </Badge>
         </IconButton>
@@ -160,6 +169,15 @@ export default function Header() {
 
   return (
     <Box sx={{ flexGrow: 1 }}>
+      <Typography
+        variant="h3"
+        noWrap
+        component="div"
+        style={{ textAlign: "center", paddingBottom: "10px" }}
+        sx={{ display: { xs: "block", sm: "none" } }}
+      >
+        Cozy-Mart
+      </Typography>
       <AppBar position="static">
         <Toolbar>
           <IconButton

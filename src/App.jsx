@@ -28,7 +28,7 @@ function App() {
               <>
                 {/* <Button variant="contained">Hello world</Button> */}
                 {/* <PopUp isOpen={isLoginOpen} onClose={handLoginToggle} /> */}
-                hey there
+                <Home />
                 {/* <Cards /> */}
               </>
             }
